@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="na_ra-deva" format="1">
+  <advance width="1089"/>
+  <outline>
+    <contour>
+      <point x="864" y="436" type="line"/>
+      <point x="783" y="533" type="line"/>
+      <point x="180" y="88" type="line"/>
+      <point x="275" y="-26" type="line"/>
+    </contour>
+    <component base="na-deva"/>
+    <contour>
+      <point x="813" y="1168" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="812" y="28" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="541" y="1168" type="move" name="topcandrabindu"/>
+    </contour>
+  </outline>
+</glyph>

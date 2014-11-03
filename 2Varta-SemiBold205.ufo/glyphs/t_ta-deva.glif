@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_ta-deva" format="1">
+  <advance width="1293"/>
+  <outline>
+    <contour>
+      <point x="73" y="849" type="line"/>
+      <point x="73" y="677" type="line"/>
+      <point x="630" y="677" type="line"/>
+      <point x="630" y="849" type="line"/>
+    </contour>
+    <contour>
+      <point x="-18" y="1277" type="line"/>
+      <point x="-18" y="1114" type="line"/>
+      <point x="368" y="1114" type="line"/>
+      <point x="368" y="1277" type="line"/>
+    </contour>
+    <component base="ta-deva" xOffset="185"/>
+    <contour>
+      <point x="1021" y="1167" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1019" y="27" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="683" y="1167" type="move" name="topcandrabindu"/>
+    </contour>
+  </outline>
+</glyph>

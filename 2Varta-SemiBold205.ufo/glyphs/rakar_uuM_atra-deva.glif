@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rakar_uuMatra-deva" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="rakar-deva" xOffset="2" yOffset="-6"/>
+    <component base="uuMatra-deva" xOffset="10" yOffset="18"/>
+    <contour>
+      <point x="68" y="82" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

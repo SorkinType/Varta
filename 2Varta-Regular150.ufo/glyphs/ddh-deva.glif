@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddh-deva" format="1">
+  <advance width="1074"/>
+  <outline>
+    <component base="ddha-deva"/>
+    <component base="halant-deva" xOffset="456" yOffset="47"/>
+    <contour>
+      <point x="266" y="584" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="266" y="14" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

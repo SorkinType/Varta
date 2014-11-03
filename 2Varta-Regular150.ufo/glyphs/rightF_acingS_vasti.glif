@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightFacingSvasti" format="1">
+  <advance width="1622"/>
+  <unicode hex="0FD5"/>
+  <outline>
+    <contour>
+      <point x="733" y="1215" type="line"/>
+      <point x="733" y="1" type="line"/>
+      <point x="889" y="1" type="line"/>
+      <point x="889" y="1215" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="133" type="line"/>
+      <point x="183" y="1" type="line"/>
+      <point x="889" y="1" type="line"/>
+      <point x="889" y="133" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="1262" type="line"/>
+      <point x="183" y="592" type="line"/>
+      <point x="339" y="592" type="line"/>
+      <point x="339" y="1262" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="708" type="line"/>
+      <point x="183" y="576" type="line"/>
+      <point x="1439" y="576" type="line"/>
+      <point x="1439" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="1283" y="708" type="line"/>
+      <point x="1283" y="1" type="line"/>
+      <point x="1439" y="1" type="line"/>
+      <point x="1439" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="733" y="1262" type="line"/>
+      <point x="733" y="1129" type="line"/>
+      <point x="1439" y="1129" type="line"/>
+      <point x="1439" y="1262" type="line"/>
+    </contour>
+  </outline>
+</glyph>

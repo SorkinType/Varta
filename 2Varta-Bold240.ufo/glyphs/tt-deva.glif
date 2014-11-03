@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tt-deva" format="1">
+  <advance width="1014"/>
+  <outline>
+    <component base="tta-deva"/>
+    <component base="halant-deva" xOffset="478" yOffset="12"/>
+    <contour>
+      <point x="46" y="106" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="46" y="3" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

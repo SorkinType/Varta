@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiMatra_reph-deva" format="1">
+  <advance width="540"/>
+  <outline>
+    <component base="aiMatra-deva"/>
+    <component base="reph-deva" xOffset="70" yOffset="-11"/>
+    <contour>
+      <point x="251" y="1167" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

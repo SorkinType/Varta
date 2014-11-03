@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f-deva" format="1">
+  <advance width="1233"/>
+  <outline>
+    <component base="ph-deva"/>
+    <component base="nukta-deva" xOffset="222" yOffset="65"/>
+    <contour>
+      <point x="457" y="849" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="457" y="20" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

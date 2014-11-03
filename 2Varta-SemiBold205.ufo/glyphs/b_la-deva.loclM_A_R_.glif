@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b_la-deva.loclMAR" format="1">
+  <advance width="1187"/>
+  <outline>
+    <contour>
+      <point x="244" y="964"/>
+      <point x="114" y="848"/>
+      <point x="114" y="625" type="curve" smooth="yes"/>
+      <point x="114" y="433"/>
+      <point x="200" y="271"/>
+      <point x="492" y="271" type="curve" smooth="yes"/>
+      <point x="658" y="271"/>
+      <point x="789" y="333"/>
+      <point x="868" y="448" type="curve"/>
+      <point x="832" y="585" type="line"/>
+      <point x="751" y="484"/>
+      <point x="653" y="426"/>
+      <point x="517" y="426" type="curve" smooth="yes"/>
+      <point x="362" y="426"/>
+      <point x="299" y="465"/>
+      <point x="299" y="614" type="curve" smooth="yes"/>
+      <point x="299" y="750"/>
+      <point x="365" y="801"/>
+      <point x="537" y="803" type="curve" smooth="yes"/>
+      <point x="648" y="805"/>
+      <point x="761" y="788"/>
+      <point x="870" y="759" type="curve"/>
+      <point x="866" y="847" type="line"/>
+      <point x="787" y="926"/>
+      <point x="669" y="964"/>
+      <point x="505" y="964" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-18" y="1277" type="line"/>
+      <point x="-18" y="1114" type="line"/>
+      <point x="1204" y="1114" type="line"/>
+      <point x="1204" y="1277" type="line"/>
+    </contour>
+    <contour>
+      <point x="794" y="1196" type="line"/>
+      <point x="794" y="43" type="line"/>
+      <point x="983" y="43" type="line"/>
+      <point x="983" y="1196" type="line"/>
+    </contour>
+    <contour>
+      <point x="340" y="776" type="line"/>
+      <point x="730" y="382" type="line"/>
+      <point x="814" y="472" type="line"/>
+      <point x="424" y="867" type="line"/>
+    </contour>
+    <component base="add" xOffset="52"/>
+    <contour>
+      <point x="891" y="1167" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="840" y="-482" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="561" y="1167" type="move" name="topcandrabindu"/>
+    </contour>
+  </outline>
+</glyph>

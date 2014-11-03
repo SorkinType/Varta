@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sha-deva.loclMAR" format="1">
+  <advance width="1380"/>
+  <outline>
+    <contour>
+      <point x="1006" y="1204" type="line"/>
+      <point x="1006" y="0" type="line"/>
+      <point x="1195" y="0" type="line"/>
+      <point x="1195" y="1204" type="line"/>
+    </contour>
+    <contour>
+      <point x="803" y="1277" type="line"/>
+      <point x="803" y="1114" type="line"/>
+      <point x="1397" y="1114" type="line"/>
+      <point x="1397" y="1277" type="line"/>
+    </contour>
+    <component base="sh-deva.loclMAR"/>
+    <contour>
+      <point x="256" y="-278" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="1101" y="1167" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="727" y="1167" type="move" name="topcandrabindu"/>
+    </contour>
+    <contour>
+      <point x="1101" y="27" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

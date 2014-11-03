@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nna_ra-deva" format="1">
+  <advance width="1508"/>
+  <outline>
+    <contour>
+      <point x="1258" y="450" type="line"/>
+      <point x="1180" y="549" type="line"/>
+      <point x="532" y="89" type="line"/>
+      <point x="626" y="-26" type="line"/>
+    </contour>
+    <component base="nna-deva" xOffset="-10"/>
+    <contour>
+      <point x="1234" y="1168" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1235" y="28" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ga_ra-deva" format="1">
+  <advance width="1146"/>
+  <outline>
+    <contour>
+      <point x="907" y="443" type="line"/>
+      <point x="794" y="552" type="line"/>
+      <point x="202" y="127" type="line"/>
+      <point x="328" y="-24" type="line"/>
+    </contour>
+    <component base="ga-deva"/>
+    <contour>
+      <point x="873" y="1167" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="873" y="27" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="611" y="1167" type="move" name="topcandrabindu"/>
+    </contour>
+  </outline>
+</glyph>

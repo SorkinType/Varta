@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sh-deva.loclMAR" format="1">
+  <advance width="763"/>
+  <outline>
+    <contour>
+      <point x="-20" y="1247" type="line"/>
+      <point x="-20" y="1143" type="line"/>
+      <point x="783" y="1143" type="line"/>
+      <point x="783" y="1247" type="line"/>
+    </contour>
+    <contour>
+      <point x="337" y="1191" type="line"/>
+      <point x="337" y="869" type="line"/>
+      <point x="463" y="869" type="line"/>
+      <point x="463" y="1191" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="916"/>
+      <point x="75" y="808"/>
+      <point x="79" y="684" type="curve" smooth="yes"/>
+      <point x="82" y="597"/>
+      <point x="129" y="516"/>
+      <point x="252" y="450" type="curve"/>
+      <point x="308" y="526" type="line"/>
+      <point x="223" y="582"/>
+      <point x="196" y="623"/>
+      <point x="196" y="677" type="curve" smooth="yes"/>
+      <point x="196" y="762"/>
+      <point x="261" y="811"/>
+      <point x="375" y="811" type="curve" smooth="yes"/>
+      <point x="530" y="811"/>
+      <point x="576" y="710"/>
+      <point x="576" y="606" type="curve" smooth="yes"/>
+      <point x="576" y="404"/>
+      <point x="425" y="282"/>
+      <point x="171" y="177" type="curve"/>
+      <point x="261" y="107" type="line"/>
+      <point x="522" y="211"/>
+      <point x="702" y="366"/>
+      <point x="702" y="611" type="curve" smooth="yes"/>
+      <point x="702" y="763"/>
+      <point x="611" y="916"/>
+      <point x="372" y="916" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="101" y="330" type="line"/>
+      <point x="68" y="272"/>
+      <point x="59" y="222"/>
+      <point x="58" y="192" type="curve" smooth="yes"/>
+      <point x="57" y="122"/>
+      <point x="110" y="86"/>
+      <point x="166" y="86" type="curve" smooth="yes"/>
+      <point x="206" y="86"/>
+      <point x="253" y="97"/>
+      <point x="333" y="136" type="curve"/>
+      <point x="323" y="162" type="line"/>
+      <point x="184" y="330" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="169" type="line"/>
+      <point x="626" y="-356" type="line"/>
+      <point x="722" y="-276" type="line"/>
+      <point x="280" y="207" type="line"/>
+    </contour>
+    <contour>
+      <point x="265" y="849" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="265" y="20" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

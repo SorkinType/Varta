@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anusvara_eMatra-deva" format="1">
+  <advance width="540"/>
+  <outline>
+    <contour>
+      <point x="262" y="1660"/>
+      <point x="238" y="1637"/>
+      <point x="238" y="1582" type="curve" smooth="yes"/>
+      <point x="238" y="1528"/>
+      <point x="262" y="1505"/>
+      <point x="317" y="1505" type="curve" smooth="yes"/>
+      <point x="372" y="1505"/>
+      <point x="396" y="1528"/>
+      <point x="396" y="1582" type="curve" smooth="yes"/>
+      <point x="396" y="1637"/>
+      <point x="372" y="1660"/>
+      <point x="317" y="1660" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

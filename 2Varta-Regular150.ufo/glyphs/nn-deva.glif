@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nn-deva" format="1">
+  <advance width="1014"/>
+  <outline>
+    <contour>
+      <point x="708" y="1174" type="line"/>
+      <point x="708" y="691" type="line" smooth="yes"/>
+      <point x="708" y="543"/>
+      <point x="655" y="457"/>
+      <point x="494" y="457" type="curve" smooth="yes"/>
+      <point x="343" y="457"/>
+      <point x="291" y="538"/>
+      <point x="291" y="690" type="curve" smooth="yes"/>
+      <point x="291" y="1174" type="line"/>
+      <point x="135" y="1174" type="line"/>
+      <point x="135" y="701" type="line" smooth="yes"/>
+      <point x="135" y="452"/>
+      <point x="256" y="317"/>
+      <point x="496" y="317" type="curve" smooth="yes"/>
+      <point x="737" y="317"/>
+      <point x="864" y="452"/>
+      <point x="864" y="698" type="curve" smooth="yes"/>
+      <point x="864" y="1174" type="line"/>
+    </contour>
+    <contour>
+      <point x="-15" y="1262" type="line"/>
+      <point x="-15" y="1129" type="line"/>
+      <point x="1029" y="1129" type="line"/>
+      <point x="1029" y="1262" type="line"/>
+    </contour>
+    <contour>
+      <point x="246" y="584" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="246" y="14" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

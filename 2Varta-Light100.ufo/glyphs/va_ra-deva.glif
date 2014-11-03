@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="va_ra-deva" format="1">
+  <advance width="1088"/>
+  <outline>
+    <contour>
+      <point x="750" y="334" type="line"/>
+      <point x="717" y="403" type="line"/>
+      <point x="169" y="62" type="line"/>
+      <point x="242" y="-35" type="line"/>
+    </contour>
+    <component base="va-deva"/>
+    <contour>
+      <point x="814" y="1168" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="814" y="28" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

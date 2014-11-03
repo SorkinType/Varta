@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_ga-deva" format="1">
+  <advance width="1031"/>
+  <outline>
+    <contour>
+      <point x="412" y="-160" type="line"/>
+      <point x="233" y="-181" type="line"/>
+      <point x="233" y="-290" type="line"/>
+      <point x="409" y="-485" type="line"/>
+      <point x="511" y="-483"/>
+      <point x="534" y="-429"/>
+      <point x="534" y="-362" type="curve" smooth="yes"/>
+      <point x="534" y="-160" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="175" type="line"/>
+      <point x="382" y="-360" type="line"/>
+      <point x="534" y="-228" type="line"/>
+      <point x="536" y="175" type="line"/>
+    </contour>
+    <component base="da-deva"/>
+    <contour>
+      <point x="723" y="1168" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="868" y="-24" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

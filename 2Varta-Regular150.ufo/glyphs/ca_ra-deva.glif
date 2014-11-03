@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ca_ra-deva" format="1">
+  <advance width="1235"/>
+  <outline>
+    <contour>
+      <point x="230" y="37" type="line"/>
+      <point x="316" y="-80" type="line"/>
+      <point x="936" y="349" type="line"/>
+      <point x="888" y="432" type="line"/>
+    </contour>
+    <component base="ca-deva"/>
+    <contour>
+      <point x="959" y="1168" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="957" y="28" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

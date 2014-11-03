@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave-deva" format="1">
+  <advance width="600"/>
+  <unicode hex="0953"/>
+  <outline>
+    <contour>
+      <point x="-333" y="1320" type="line"/>
+      <point x="-257" y="1401" type="line"/>
+      <point x="-644" y="1785" type="line"/>
+      <point x="-742" y="1700" type="line"/>
+    </contour>
+  </outline>
+</glyph>
