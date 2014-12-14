@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.onum" format="1">
+  <advance width="1026"/>
+  <outline>
+	<contour>
+	  <point x="97" y="0" type="line"/>
+	  <point x="918" y="0" type="line"/>
+	  <point x="918" y="165" type="line"/>
+	  <point x="609" y="165" type="line"/>
+	  <point x="542" y="165"/>
+	  <point x="459" y="159"/>
+	  <point x="388" y="152" type="curve"/>
+	  <point x="670" y="416"/>
+	  <point x="862" y="612"/>
+	  <point x="862" y="828" type="curve" smooth="yes"/>
+	  <point x="862" y="1065"/>
+	  <point x="723" y="1201"/>
+	  <point x="473" y="1201" type="curve" smooth="yes"/>
+	  <point x="302" y="1201"/>
+	  <point x="173" y="1125"/>
+	  <point x="81" y="1011" type="curve"/>
+	  <point x="189" y="905" type="line"/>
+	  <point x="253" y="980"/>
+	  <point x="343" y="1047"/>
+	  <point x="452" y="1047" type="curve" smooth="yes"/>
+	  <point x="613" y="1047"/>
+	  <point x="677" y="964"/>
+	  <point x="677" y="818" type="curve" smooth="yes"/>
+	  <point x="677" y="632"/>
+	  <point x="475" y="425"/>
+	  <point x="97" y="113" type="curve"/>
+	</contour>
+  </outline>
+  <lib>
+	<dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+	</dict>
+  </lib>
+</glyph>

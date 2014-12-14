@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sa_ra-deva" format="1">
+  <advance width="1322"/>
+  <outline>
+	<contour>
+	  <point x="1120" y="450" type="line"/>
+	  <point x="1046" y="568" type="line"/>
+	  <point x="606" y="284" type="line"/>
+	  <point x="713" y="149" type="line"/>
+	</contour>
+	<component base="sa-deva"/>
+	<contour>
+	  <point x="1055" y="1167" type="move" name="top"/>
+	</contour>
+	<contour>
+	  <point x="1055" y="27" type="move" name="bottom"/>
+	</contour>
+	<contour>
+	  <point x="740" y="1167" type="move" name="topcandra"/>
+	</contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eMatra_anusvara-deva" format="1">
+  <advance width="540"/>
+  <outline>
+	<component base="anusvara-deva" xOffset="121" yOffset="95"/>
+	<component base="eMatra-deva" xOffset="-1"/>
+	<contour>
+	  <point x="270" y="1167" type="move" name="_top"/>
+	</contour>
+  </outline>
+</glyph>

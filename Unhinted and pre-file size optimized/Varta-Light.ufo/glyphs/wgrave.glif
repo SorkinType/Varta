@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wgrave" format="1">
+  <advance width="1443"/>
+  <unicode hex="1E81"/>
+  <outline>
+	<contour>
+	  <point x="332" y="0" type="line"/>
+	  <point x="492" y="0" type="line"/>
+	  <point x="644" y="562" type="line"/>
+	  <point x="672" y="657"/>
+	  <point x="695" y="751"/>
+	  <point x="717" y="850" type="curve"/>
+	  <point x="725" y="850" type="line"/>
+	  <point x="751" y="751"/>
+	  <point x="770" y="660"/>
+	  <point x="796" y="566" type="curve" smooth="yes"/>
+	  <point x="951" y="0" type="line"/>
+	  <point x="1121" y="0" type="line"/>
+	  <point x="1394" y="990" type="line"/>
+	  <point x="1262" y="990" type="line"/>
+	  <point x="1104" y="390" type="line"/>
+	  <point x="1083" y="297"/>
+	  <point x="1062" y="210"/>
+	  <point x="1040" y="119" type="curve"/>
+	  <point x="1032" y="119" type="line"/>
+	  <point x="1008" y="210"/>
+	  <point x="985" y="297"/>
+	  <point x="960" y="390" type="curve" smooth="yes"/>
+	  <point x="795" y="990" type="line"/>
+	  <point x="654" y="990" type="line"/>
+	  <point x="490" y="390" type="line"/>
+	  <point x="465" y="298"/>
+	  <point x="444" y="210"/>
+	  <point x="421" y="119" type="curve"/>
+	  <point x="413" y="119" type="line"/>
+	  <point x="394" y="210"/>
+	  <point x="373" y="297"/>
+	  <point x="351" y="390" type="curve"/>
+	  <point x="191" y="990" type="line"/>
+	  <point x="49" y="990" type="line"/>
+	</contour>
+	<contour>
+	  <point x="740" y="1173" type="line"/>
+	  <point x="848" y="1173" type="line"/>
+	  <point x="663" y="1457" type="line"/>
+	  <point x="515" y="1457" type="line"/>
+	</contour>
+  </outline>
+</glyph>

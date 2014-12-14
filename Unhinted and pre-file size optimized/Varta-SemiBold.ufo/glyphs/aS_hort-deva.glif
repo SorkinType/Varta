@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aShort-deva" format="1">
+  <advance width="1393"/>
+  <unicode hex="0904"/>
+  <outline>
+	<component base="a-deva"/>
+	<component base="eShortMatra-deva" xOffset="843"/>
+	<contour>
+	  <point x="171" y="292" type="move" name="top"/>
+	</contour>
+	<contour>
+	  <point x="171" y="7" type="move" name="bottom"/>
+	</contour>
+  </outline>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka_ra-deva.alt" format="1">
+  <advance width="1517"/>
+  <outline>
+	<contour>
+	  <point x="1023" y="887"/>
+	  <point x="920" y="831"/>
+	  <point x="817" y="708" type="curve"/>
+	  <point x="817" y="404" type="line"/>
+	  <point x="981" y="634"/>
+	  <point x="1084" y="701"/>
+	  <point x="1152" y="701" type="curve" smooth="yes"/>
+	  <point x="1229" y="701"/>
+	  <point x="1274" y="658"/>
+	  <point x="1273" y="568" type="curve" smooth="yes"/>
+	  <point x="1272" y="462"/>
+	  <point x="1217" y="360"/>
+	  <point x="1133" y="242" type="curve"/>
+	  <point x="1286" y="125" type="line"/>
+	  <point x="1397" y="244"/>
+	  <point x="1463" y="390"/>
+	  <point x="1463" y="547" type="curve" smooth="yes"/>
+	  <point x="1464" y="751"/>
+	  <point x="1354" y="887"/>
+	  <point x="1161" y="887" type="curve" smooth="yes"/>
+	</contour>
+	<contour>
+	  <point x="150" y="225" type="line"/>
+	  <point x="276" y="74" type="line"/>
+	  <point x="772" y="470" type="line"/>
+	  <point x="715" y="635" type="line"/>
+	</contour>
+	<contour>
+	  <point x="211" y="949"/>
+	  <point x="124" y="899"/>
+	  <point x="53" y="844" type="curve"/>
+	  <point x="155" y="673" type="line"/>
+	  <point x="241" y="729"/>
+	  <point x="291" y="752"/>
+	  <point x="340" y="752" type="curve" smooth="yes"/>
+	  <point x="425" y="752"/>
+	  <point x="500" y="684"/>
+	  <point x="672" y="505" type="curve"/>
+	  <point x="773" y="599" type="line"/>
+	  <point x="527" y="919"/>
+	  <point x="422" y="949"/>
+	  <point x="311" y="949" type="curve" smooth="yes"/>
+	</contour>
+	<contour>
+	  <point x="669" y="1148" type="line"/>
+	  <point x="669" y="3" type="line"/>
+	  <point x="879" y="3" type="line"/>
+	  <point x="879" y="1148" type="line"/>
+	</contour>
+	<contour>
+	  <point x="-19" y="1287" type="line"/>
+	  <point x="-19" y="1104" type="line"/>
+	  <point x="1536" y="1104" type="line"/>
+	  <point x="1536" y="1287" type="line"/>
+	</contour>
+	<contour>
+	  <point x="772" y="1167" type="move" name="top"/>
+	</contour>
+	<contour>
+	  <point x="774" y="27" type="move" name="bottom"/>
+	</contour>
+	<contour>
+	  <point x="775" y="1167" type="move" name="topcandra"/>
+	</contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bha_ra-deva" format="1">
+  <advance width="1225"/>
+  <outline>
+	<contour>
+	  <point x="1010" y="438" type="line"/>
+	  <point x="929" y="535" type="line"/>
+	  <point x="284" y="68" type="line"/>
+	  <point x="379" y="-46" type="line"/>
+	</contour>
+	<component base="bha-deva"/>
+	<contour>
+	  <point x="951" y="1168" type="move" name="top"/>
+	</contour>
+	<contour>
+	  <point x="952" y="28" type="move" name="bottom"/>
+	</contour>
+	<contour>
+	  <point x="673" y="1168" type="move" name="topcandra"/>
+	</contour>
+  </outline>
+</glyph>
