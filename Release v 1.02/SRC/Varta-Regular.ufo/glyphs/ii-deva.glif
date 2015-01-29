@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ii-deva" format="1">
+  <advance width="1009"/>
+  <unicode hex="0908"/>
+  <outline>
+    <component base="i-deva"/>
+    <component base="reph-deva" xOffset="491"/>
+  </outline>
+</glyph>

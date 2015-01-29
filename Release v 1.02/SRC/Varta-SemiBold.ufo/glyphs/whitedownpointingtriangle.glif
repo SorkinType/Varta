@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whitedownpointingtriangle" format="1">
+  <advance width="1177"/>
+  <unicode hex="25BD"/>
+  <outline>
+    <contour>
+      <point x="282" y="948" type="line"/>
+      <point x="899" y="948" type="line"/>
+      <point x="590" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="1082" type="line"/>
+      <point x="46" y="1078" type="line"/>
+      <point x="586" y="55" type="line"/>
+      <point x="594" y="55" type="line"/>
+      <point x="1131" y="1078" type="line"/>
+      <point x="1131" y="1082" type="line"/>
+    </contour>
+  </outline>
+</glyph>

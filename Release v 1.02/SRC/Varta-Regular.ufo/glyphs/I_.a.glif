@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I.a" format="1">
+  <advance width="703"/>
+  <outline>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="605" y="0" type="line"/>
+      <point x="605" y="143" type="line"/>
+      <point x="434" y="143" type="line"/>
+      <point x="434" y="1202" type="line"/>
+      <point x="605" y="1202" type="line"/>
+      <point x="605" y="1343" type="line"/>
+      <point x="94" y="1343" type="line"/>
+      <point x="94" y="1202" type="line"/>
+      <point x="266" y="1202" type="line"/>
+      <point x="266" y="143" type="line"/>
+      <point x="94" y="143" type="line"/>
+    </contour>
+    <contour>
+      <point x="302" y="0" type="move" name="mark0"/>
+    </contour>
+  </outline>
+</glyph>

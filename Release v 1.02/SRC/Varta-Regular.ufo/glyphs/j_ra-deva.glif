@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j_ra-deva" format="1">
+  <advance width="1640"/>
+  <outline>
+    <contour>
+      <point x="1305" y="1186" type="line"/>
+      <point x="1305" y="813" type="line" smooth="yes"/>
+      <point x="1305" y="724"/>
+      <point x="1282" y="677"/>
+      <point x="1198" y="677" type="curve" smooth="yes"/>
+      <point x="1156" y="677"/>
+      <point x="1100" y="702"/>
+      <point x="1011" y="836" type="curve"/>
+      <point x="917" y="746" type="line"/>
+      <point x="1432" y="-30" type="line"/>
+      <point x="1557" y="61" type="line"/>
+      <point x="1167" y="600" type="line"/>
+      <point x="1148" y="593" type="line"/>
+      <point x="1168" y="571"/>
+      <point x="1216" y="557"/>
+      <point x="1258" y="557" type="curve" smooth="yes"/>
+      <point x="1379" y="557"/>
+      <point x="1461" y="636"/>
+      <point x="1461" y="815" type="curve" smooth="yes"/>
+      <point x="1461" y="1187" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="870" type="line"/>
+      <point x="84" y="485"/>
+      <point x="208" y="178"/>
+      <point x="529" y="178" type="curve" smooth="yes"/>
+      <point x="733" y="178"/>
+      <point x="862" y="296"/>
+      <point x="862" y="465" type="curve" smooth="yes"/>
+      <point x="862" y="599"/>
+      <point x="789" y="686"/>
+      <point x="649" y="749" type="curve"/>
+      <point x="566" y="836" type="line"/>
+      <point x="517" y="728" type="line"/>
+      <point x="640" y="678"/>
+      <point x="708" y="597"/>
+      <point x="708" y="503" type="curve" smooth="yes"/>
+      <point x="708" y="391"/>
+      <point x="645" y="325"/>
+      <point x="522" y="324" type="curve" smooth="yes"/>
+      <point x="266" y="322"/>
+      <point x="211" y="671"/>
+      <point x="186" y="887" type="curve"/>
+    </contour>
+    <contour>
+      <point x="566" y="836" type="line"/>
+      <point x="628" y="703" type="line"/>
+      <point x="1006" y="703" type="line"/>
+      <point x="1012" y="836" type="line"/>
+    </contour>
+    <contour>
+      <point x="-15" y="1262" type="line"/>
+      <point x="-15" y="1129" type="line"/>
+      <point x="978" y="1129" type="line"/>
+      <point x="978" y="1262" type="line"/>
+    </contour>
+    <contour>
+      <point x="939" y="1262" type="line"/>
+      <point x="939" y="1129" type="line"/>
+      <point x="1655" y="1129" type="line"/>
+      <point x="1655" y="1262" type="line"/>
+    </contour>
+    <contour>
+      <point x="1081" y="140" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="1382" y="1168" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1381" y="1168" type="move" name="topcandra"/>
+    </contour>
+    <contour>
+      <point x="1444" y="30" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

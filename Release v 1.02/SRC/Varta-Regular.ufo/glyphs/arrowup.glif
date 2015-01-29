@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowup" format="1">
+  <advance width="1268"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="629" y="1079" type="line" name="hr00"/>
+      <point x="86" y="522" type="line"/>
+      <point x="179" y="437" type="line"/>
+      <point x="564" y="851" type="line"/>
+      <point x="564" y="-51" type="line"/>
+      <point x="701" y="-51" type="line"/>
+      <point x="701" y="851" type="line"/>
+      <point x="1086" y="437" type="line"/>
+      <point x="1182" y="522" type="line"/>
+      <point x="637" y="1079" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

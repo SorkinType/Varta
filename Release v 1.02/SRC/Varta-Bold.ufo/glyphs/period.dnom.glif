@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.dnom" format="1">
+  <advance width="386"/>
+  <outline>
+    <contour>
+      <point x="194" y="205" type="curve" name="hr01" smooth="yes"/>
+      <point x="132" y="205"/>
+      <point x="86" y="158"/>
+      <point x="86" y="93" type="curve" smooth="yes"/>
+      <point x="86" y="29"/>
+      <point x="132" y="-16"/>
+      <point x="194" y="-16" type="curve" smooth="yes"/>
+      <point x="255" y="-16"/>
+      <point x="300" y="29"/>
+      <point x="300" y="93" type="curve" smooth="yes"/>
+      <point x="300" y="158"/>
+      <point x="255" y="205"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

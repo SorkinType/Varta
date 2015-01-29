@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.numr" format="1">
+  <advance width="759"/>
+  <outline>
+    <contour>
+      <point x="102" y="1201" type="line" name="hr00"/>
+      <point x="493" y="1201" type="line"/>
+      <point x="338" y="983"/>
+      <point x="273" y="807"/>
+      <point x="257" y="542" type="curve"/>
+      <point x="432" y="542" type="line"/>
+      <point x="447" y="818"/>
+      <point x="488" y="1008"/>
+      <point x="678" y="1251" type="curve"/>
+      <point x="678" y="1340" type="line"/>
+      <point x="102" y="1340" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

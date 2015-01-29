@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1672"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="462" y="528" type="line" name="hr01"/>
+      <point x="587" y="771" type="line"/>
+      <point x="659" y="916"/>
+      <point x="737" y="1064"/>
+      <point x="809" y="1210" type="curve" name="hr02"/>
+      <point x="817" y="1210" type="line"/>
+      <point x="817" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="985" y="143" type="line"/>
+      <point x="985" y="634" type="line"/>
+      <point x="1463" y="634" type="line"/>
+      <point x="1463" y="777" type="line"/>
+      <point x="985" y="777" type="line"/>
+      <point x="985" y="1202" type="line" name="hr03"/>
+      <point x="1558" y="1202" type="line"/>
+      <point x="1558" y="1343" type="line"/>
+      <point x="719" y="1343" type="line"/>
+      <point x="13" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="391" y="392" type="line"/>
+      <point x="817" y="392" type="line"/>
+      <point x="817" y="0" type="line"/>
+      <point x="1578" y="0" type="line"/>
+      <point x="1578" y="143" type="line"/>
+    </contour>
+    <contour>
+      <point x="795" y="1050" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

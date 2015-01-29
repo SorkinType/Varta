@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tt_na-deva" format="1">
+  <advance width="1046"/>
+  <outline>
+    <contour>
+      <point x="694" y="271"/>
+      <point x="832" y="297"/>
+      <point x="932" y="350" type="curve"/>
+      <point x="885" y="494" type="line"/>
+      <point x="778" y="451"/>
+      <point x="676" y="428"/>
+      <point x="571" y="428" type="curve" smooth="yes"/>
+      <point x="362" y="428"/>
+      <point x="300" y="503"/>
+      <point x="300" y="638" type="curve" smooth="yes"/>
+      <point x="300" y="828"/>
+      <point x="503" y="832"/>
+      <point x="608" y="832" type="curve" smooth="yes"/>
+      <point x="673" y="832"/>
+      <point x="738" y="828"/>
+      <point x="797" y="825" type="curve"/>
+      <point x="797" y="1211" type="line"/>
+      <point x="618" y="1211" type="line"/>
+      <point x="618" y="923" type="line"/>
+      <point x="654" y="958" type="line"/>
+      <point x="626" y="976"/>
+      <point x="594" y="976"/>
+      <point x="527" y="976" type="curve" smooth="yes"/>
+      <point x="310" y="976"/>
+      <point x="116" y="887"/>
+      <point x="116" y="643" type="curve" smooth="yes"/>
+      <point x="116" y="367"/>
+      <point x="358" y="271"/>
+      <point x="572" y="271" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="405" y="-316"/>
+      <point x="425" y="-240"/>
+      <point x="425" y="-146" type="curve" smooth="yes"/>
+      <point x="425" y="53" type="line"/>
+      <point x="145" y="53" type="line"/>
+      <point x="145" y="-98" type="line"/>
+      <point x="295" y="-316" type="line"/>
+    </contour>
+    <contour>
+      <point x="822" y="-107" type="line"/>
+      <point x="822" y="54" type="line"/>
+      <point x="257" y="53" type="line"/>
+      <point x="257" y="-107" type="line"/>
+    </contour>
+    <contour>
+      <point x="858" y="-543" type="line"/>
+      <point x="858" y="336" type="line"/>
+      <point x="679" y="336" type="line"/>
+      <point x="679" y="-543" type="line"/>
+    </contour>
+    <contour>
+      <point x="1060" y="1114" type="line"/>
+      <point x="1060" y="1277" type="line"/>
+      <point x="-18" y="1277" type="line"/>
+      <point x="-18" y="1114" type="line"/>
+    </contour>
+    <contour>
+      <point x="201" y="181" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="698" y="1167" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="561" y="1167" type="move" name="topcandra"/>
+    </contour>
+    <contour>
+      <point x="775" y="-542" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

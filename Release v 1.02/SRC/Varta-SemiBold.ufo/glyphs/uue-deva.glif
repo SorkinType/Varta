@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uue-deva" format="1">
+  <advance width="1396"/>
+  <unicode hex="0977"/>
+  <outline>
+    <contour>
+      <point x="227" y="-18" type="line"/>
+      <point x="277" y="-134"/>
+      <point x="394" y="-249"/>
+      <point x="578" y="-249" type="curve" smooth="yes"/>
+      <point x="741" y="-249"/>
+      <point x="854" y="-165"/>
+      <point x="925" y="-11" type="curve"/>
+      <point x="804" y="57" type="line"/>
+      <point x="762" y="-11"/>
+      <point x="692" y="-84"/>
+      <point x="566" y="-84" type="curve" smooth="yes"/>
+      <point x="438" y="-84"/>
+      <point x="372" y="-22"/>
+      <point x="327" y="52" type="curve"/>
+    </contour>
+    <contour>
+      <point x="241" y="-327" type="line"/>
+      <point x="291" y="-444"/>
+      <point x="408" y="-558"/>
+      <point x="592" y="-558" type="curve" smooth="yes"/>
+      <point x="755" y="-558"/>
+      <point x="868" y="-474"/>
+      <point x="939" y="-321" type="curve"/>
+      <point x="818" y="-253" type="line"/>
+      <point x="776" y="-320"/>
+      <point x="706" y="-394"/>
+      <point x="580" y="-394" type="curve" smooth="yes"/>
+      <point x="452" y="-394"/>
+      <point x="386" y="-332"/>
+      <point x="341" y="-257" type="curve"/>
+    </contour>
+    <component base="a-deva"/>
+  </outline>
+</glyph>

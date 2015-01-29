@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.sups" format="1">
+  <advance width="361"/>
+  <outline>
+    <contour>
+      <point x="88" y="981" type="curve" name="hr00" smooth="yes"/>
+      <point x="88" y="924"/>
+      <point x="127" y="885"/>
+      <point x="181" y="885" type="curve" smooth="yes"/>
+      <point x="235" y="885"/>
+      <point x="273" y="924"/>
+      <point x="273" y="981" type="curve" smooth="yes"/>
+      <point x="273" y="1039"/>
+      <point x="235" y="1078"/>
+      <point x="181" y="1078" type="curve" smooth="yes"/>
+      <point x="127" y="1078"/>
+      <point x="88" y="1039"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

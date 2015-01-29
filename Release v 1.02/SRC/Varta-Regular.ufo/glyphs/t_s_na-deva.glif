@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_s_na-deva" format="1">
+  <advance width="2417"/>
+  <outline>
+    <contour>
+      <point x="-15" y="1262" type="line"/>
+      <point x="-15" y="1129" type="line"/>
+      <point x="662" y="1129" type="line"/>
+      <point x="662" y="1262" type="line"/>
+    </contour>
+    <contour>
+      <point x="656" y="801"/>
+      <point x="573" y="839"/>
+      <point x="426" y="839" type="curve" smooth="yes"/>
+      <point x="188" y="839"/>
+      <point x="73" y="744"/>
+      <point x="73" y="569" type="curve" smooth="yes"/>
+      <point x="73" y="366"/>
+      <point x="210" y="130"/>
+      <point x="336" y="-33" type="curve"/>
+      <point x="460" y="51" type="line"/>
+      <point x="307" y="269"/>
+      <point x="233" y="422"/>
+      <point x="233" y="546" type="curve" smooth="yes"/>
+      <point x="233" y="647"/>
+      <point x="281" y="693"/>
+      <point x="434" y="693" type="curve" smooth="yes"/>
+      <point x="561" y="693"/>
+      <point x="627" y="660"/>
+      <point x="777" y="531" type="curve"/>
+      <point x="768" y="704" type="line"/>
+    </contour>
+    <component base="s-deva" xOffset="619"/>
+    <component base="na-deva" xOffset="1369"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

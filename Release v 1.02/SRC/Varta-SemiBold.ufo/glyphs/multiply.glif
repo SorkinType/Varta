@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="1">
+  <advance width="1030"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="203" y="253" type="line" name="hr00"/>
+      <point x="516" y="575" type="line"/>
+      <point x="827" y="253" type="line"/>
+      <point x="927" y="356" type="line"/>
+      <point x="615" y="676" type="line"/>
+      <point x="927" y="994" type="line"/>
+      <point x="827" y="1097" type="line"/>
+      <point x="516" y="777" type="line"/>
+      <point x="203" y="1097" type="line"/>
+      <point x="101" y="994" type="line"/>
+      <point x="414" y="676" type="line"/>
+      <point x="101" y="356" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

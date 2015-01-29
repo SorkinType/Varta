@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="1017"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="184" y="0" type="line" name="hr00"/>
+      <point x="294" y="0" type="line"/>
+      <point x="345" y="419" type="line"/>
+      <point x="616" y="419" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="675" y="0" type="line"/>
+      <point x="726" y="419" type="line"/>
+      <point x="914" y="419" type="line"/>
+      <point x="914" y="534" type="line"/>
+      <point x="740" y="534" type="line"/>
+      <point x="777" y="839" type="line"/>
+      <point x="955" y="839" type="line"/>
+      <point x="955" y="955" type="line"/>
+      <point x="790" y="955" type="line"/>
+      <point x="839" y="1331" type="line"/>
+      <point x="731" y="1331" type="line"/>
+      <point x="682" y="955" type="line"/>
+      <point x="409" y="955" type="line"/>
+      <point x="456" y="1331" type="line"/>
+      <point x="348" y="1331" type="line"/>
+      <point x="301" y="955" type="line"/>
+      <point x="113" y="955" type="line"/>
+      <point x="113" y="839" type="line"/>
+      <point x="287" y="839" type="line"/>
+      <point x="250" y="534" type="line"/>
+      <point x="72" y="534" type="line"/>
+      <point x="72" y="419" type="line"/>
+      <point x="236" y="419" type="line"/>
+    </contour>
+    <contour>
+      <point x="359" y="534" type="line"/>
+      <point x="396" y="839" type="line"/>
+      <point x="668" y="839" type="line"/>
+      <point x="631" y="534" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

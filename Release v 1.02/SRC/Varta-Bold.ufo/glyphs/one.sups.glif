@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.sups" format="1">
+  <advance width="759"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="170" y="1511" type="line" name="hr00"/>
+      <point x="347" y="1511" type="line"/>
+      <point x="347" y="901" type="line"/>
+      <point x="513" y="901" type="line"/>
+      <point x="513" y="1700" type="line"/>
+      <point x="380" y="1700" type="line"/>
+      <point x="320" y="1657"/>
+      <point x="267" y="1632"/>
+      <point x="170" y="1616" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

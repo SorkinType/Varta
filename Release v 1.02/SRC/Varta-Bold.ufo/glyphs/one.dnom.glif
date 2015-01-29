@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.dnom" format="1">
+  <advance width="729"/>
+  <outline>
+    <contour>
+      <point x="155" y="610" type="line" name="hr00"/>
+      <point x="332" y="610" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="498" y="799" type="line"/>
+      <point x="365" y="799" type="line"/>
+      <point x="305" y="756"/>
+      <point x="252" y="731"/>
+      <point x="155" y="715" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

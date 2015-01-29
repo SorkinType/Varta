@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="1">
+  <advance width="751"/>
+  <unicode hex="0072"/>
+  <outline>
+    <contour>
+      <point x="334" y="1003" type="line" name="hr01"/>
+      <point x="155" y="1003" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="373" y="620" type="line"/>
+      <point x="435" y="776"/>
+      <point x="534" y="833"/>
+      <point x="614" y="833" type="curve" name="hr02" smooth="yes"/>
+      <point x="656" y="833"/>
+      <point x="682" y="827"/>
+      <point x="716" y="817" type="curve"/>
+      <point x="755" y="1007" type="line" name="hr03"/>
+      <point x="724" y="1021"/>
+      <point x="692" y="1028"/>
+      <point x="643" y="1028" type="curve" name="hr04" smooth="yes"/>
+      <point x="534" y="1028"/>
+      <point x="428" y="953"/>
+      <point x="359" y="824" type="curve"/>
+      <point x="351" y="824" type="line"/>
+    </contour>
+    <contour>
+      <point x="264" y="-45" type="move" name="mark0"/>
+    </contour>
+    <contour>
+      <point x="455" y="800" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

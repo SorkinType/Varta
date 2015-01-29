@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_kha-deva" format="1">
+  <advance width="2224"/>
+  <outline>
+    <contour>
+      <point x="205" y="858"/>
+      <point x="59" y="753"/>
+      <point x="59" y="566" type="curve" smooth="yes"/>
+      <point x="59" y="365"/>
+      <point x="177" y="131"/>
+      <point x="308" y="-38" type="curve"/>
+      <point x="472" y="71" type="line"/>
+      <point x="319" y="302"/>
+      <point x="273" y="439"/>
+      <point x="273" y="534" type="curve" smooth="yes"/>
+      <point x="273" y="617"/>
+      <point x="317" y="661"/>
+      <point x="453" y="661" type="curve" smooth="yes"/>
+      <point x="566" y="661"/>
+      <point x="648" y="626"/>
+      <point x="814" y="492" type="curve"/>
+      <point x="789" y="727" type="line"/>
+      <point x="676" y="823"/>
+      <point x="563" y="858"/>
+      <point x="453" y="858" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1287" type="line"/>
+      <point x="-19" y="1104" type="line"/>
+      <point x="652" y="1104" type="line"/>
+      <point x="652" y="1287" type="line"/>
+    </contour>
+    <component base="kha-deva" xOffset="602"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

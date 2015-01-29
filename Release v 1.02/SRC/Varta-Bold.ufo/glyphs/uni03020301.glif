@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03020301" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-84" y="1552" type="line" name="hr01"/>
+      <point x="-258" y="1552" type="line"/>
+      <point x="-404" y="1316" type="line" name="hr02"/>
+      <point x="-275" y="1316" type="line"/>
+    </contour>
+    <contour>
+      <point x="-511" y="1425" type="line"/>
+      <point x="-689" y="1425" type="line"/>
+      <point x="-856" y="1175" type="line"/>
+      <point x="-714" y="1175" type="line"/>
+      <point x="-604" y="1318" type="line"/>
+      <point x="-596" y="1318" type="line"/>
+      <point x="-486" y="1175" type="line"/>
+      <point x="-344" y="1175" type="line"/>
+    </contour>
+    <contour>
+      <point x="-600" y="1048" type="move" name="_mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

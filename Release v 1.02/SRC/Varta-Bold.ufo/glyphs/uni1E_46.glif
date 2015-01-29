@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E46" format="1">
+  <advance width="1332"/>
+  <unicode hex="1E46"/>
+  <outline>
+    <component base="N"/>
+    <component base="dotaccent.cap" xOffset="678" yOffset="-1893"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.66600000000000004</real>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

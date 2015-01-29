@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.onum" format="1">
+  <advance width="1060"/>
+  <outline>
+    <contour>
+      <point x="227" y="327" type="line" name="hr01"/>
+      <point x="535" y="789" type="line"/>
+      <point x="571" y="855"/>
+      <point x="608" y="925"/>
+      <point x="641" y="990" type="curve" name="hr02"/>
+      <point x="649" y="990" type="line"/>
+      <point x="645" y="921"/>
+      <point x="639" y="814"/>
+      <point x="639" y="745" type="curve" smooth="yes"/>
+      <point x="639" y="327" type="line"/>
+    </contour>
+    <contour>
+      <point x="976" y="327" type="line"/>
+      <point x="797" y="327" type="line"/>
+      <point x="797" y="1176" type="line"/>
+      <point x="611" y="1176" type="line"/>
+      <point x="51" y="304" type="line"/>
+      <point x="51" y="193" type="line"/>
+      <point x="639" y="193" type="line"/>
+      <point x="639" y="-152" type="line"/>
+      <point x="797" y="-152" type="line"/>
+      <point x="797" y="193" type="line"/>
+      <point x="976" y="193" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

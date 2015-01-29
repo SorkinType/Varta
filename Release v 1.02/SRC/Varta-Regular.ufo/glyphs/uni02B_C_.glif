@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02BC" format="1">
+  <advance width="508"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="175" y="885" type="line" name="hr01"/>
+      <point x="316" y="967"/>
+      <point x="393" y="1083"/>
+      <point x="393" y="1246" type="curve" smooth="yes"/>
+      <point x="393" y="1365"/>
+      <point x="345" y="1432"/>
+      <point x="265" y="1432" type="curve" name="hr02" smooth="yes"/>
+      <point x="203" y="1432"/>
+      <point x="158" y="1389"/>
+      <point x="158" y="1318" type="curve" smooth="yes"/>
+      <point x="158" y="1252"/>
+      <point x="209" y="1216"/>
+      <point x="265" y="1216" type="curve" smooth="yes"/>
+      <point x="271" y="1216"/>
+      <point x="275" y="1216"/>
+      <point x="282" y="1219" type="curve"/>
+      <point x="282" y="1100"/>
+      <point x="230" y="1030"/>
+      <point x="129" y="963" type="curve"/>
+    </contour>
+    <contour>
+      <point x="261" y="1050" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

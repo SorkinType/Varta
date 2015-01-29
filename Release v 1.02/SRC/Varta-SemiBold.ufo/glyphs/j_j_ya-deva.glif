@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j_j_ya-deva" format="1">
+  <advance width="3018"/>
+  <outline>
+    <contour>
+      <point x="508" y="774" type="line"/>
+      <point x="627" y="718"/>
+      <point x="680" y="641"/>
+      <point x="680" y="540" type="curve" smooth="yes"/>
+      <point x="680" y="441"/>
+      <point x="624" y="379"/>
+      <point x="515" y="377" type="curve" smooth="yes"/>
+      <point x="266" y="374"/>
+      <point x="224" y="708"/>
+      <point x="201" y="898" type="curve"/>
+      <point x="50" y="878" type="line"/>
+      <point x="72" y="488"/>
+      <point x="193" y="200"/>
+      <point x="527" y="200" type="curve" smooth="yes"/>
+      <point x="730" y="200"/>
+      <point x="865" y="317"/>
+      <point x="865" y="499" type="curve" smooth="yes"/>
+      <point x="865" y="644"/>
+      <point x="796" y="721"/>
+      <point x="655" y="795" type="curve"/>
+      <point x="569" y="905" type="line"/>
+    </contour>
+    <contour>
+      <point x="-18" y="1277" type="line"/>
+      <point x="-18" y="1114" type="line"/>
+      <point x="953" y="1114" type="line"/>
+      <point x="953" y="1277" type="line"/>
+    </contour>
+    <contour>
+      <point x="569" y="905" type="line"/>
+      <point x="632" y="745" type="line"/>
+      <point x="1122" y="745" type="line"/>
+      <point x="1122" y="905" type="line"/>
+    </contour>
+    <component base="j_ya-deva" xOffset="923"/>
+    <contour>
+      <point x="2079" y="79" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="2734" y="1167" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="2441" y="1167" type="move" name="topcandra"/>
+    </contour>
+    <contour>
+      <point x="2734" y="27" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

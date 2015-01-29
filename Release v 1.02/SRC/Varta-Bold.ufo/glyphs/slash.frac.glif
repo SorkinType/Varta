@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash.frac" format="1">
+  <advance width="184"/>
+  <outline>
+    <contour>
+      <point x="388" y="1365" type="line" name="hr00"/>
+      <point x="-345" y="-25" type="line"/>
+      <point x="-208" y="-25" type="line"/>
+      <point x="526" y="1365" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

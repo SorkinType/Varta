@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eMatra_reph-deva" format="1">
+  <advance width="539"/>
+  <outline>
+    <component base="reph-deva" xOffset="22"/>
+    <component base="eMatra-deva"/>
+    <contour>
+      <point x="423" y="1570" type="move" name="topcandra"/>
+    </contour>
+    <contour>
+      <point x="265" y="1168" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="1096"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="451" y="0" type="line" name="hr00"/>
+      <point x="645" y="0" type="line"/>
+      <point x="645" y="1178" type="line"/>
+      <point x="1045" y="1178" type="line"/>
+      <point x="1045" y="1342" type="line"/>
+      <point x="51" y="1342" type="line"/>
+      <point x="51" y="1178" type="line"/>
+      <point x="451" y="1178" type="line"/>
+    </contour>
+    <contour>
+      <point x="548" y="1050" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

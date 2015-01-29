@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_t-deva" format="1">
+  <advance width="770"/>
+  <outline>
+    <contour>
+      <point x="580" y="839" type="line" smooth="yes"/>
+      <point x="348" y="839"/>
+      <point x="247" y="726"/>
+      <point x="247" y="569" type="curve" smooth="yes"/>
+      <point x="247" y="366"/>
+      <point x="384" y="130"/>
+      <point x="510" y="-33" type="curve"/>
+      <point x="634" y="51" type="line"/>
+      <point x="481" y="269"/>
+      <point x="407" y="422"/>
+      <point x="407" y="546" type="curve" smooth="yes"/>
+      <point x="407" y="672"/>
+      <point x="475" y="695"/>
+      <point x="613" y="695" type="curve" smooth="yes"/>
+      <point x="1000" y="695" type="line"/>
+      <point x="976" y="839" type="line"/>
+    </contour>
+    <contour>
+      <point x="73" y="839" type="line"/>
+      <point x="73" y="695" type="line"/>
+      <point x="630" y="695" type="line"/>
+      <point x="630" y="839" type="line"/>
+    </contour>
+    <contour>
+      <point x="-15" y="1262" type="line"/>
+      <point x="-15" y="1129" type="line"/>
+      <point x="804" y="1129" type="line"/>
+      <point x="804" y="1262" type="line"/>
+    </contour>
+  </outline>
+</glyph>

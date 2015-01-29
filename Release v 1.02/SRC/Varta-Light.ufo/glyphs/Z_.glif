@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="1">
+  <advance width="1091"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="89" y="0" type="line" name="hr00"/>
+      <point x="1006" y="0" type="line"/>
+      <point x="1006" y="119" type="line"/>
+      <point x="263" y="119" type="line"/>
+      <point x="999" y="1264" type="line"/>
+      <point x="999" y="1346" type="line"/>
+      <point x="156" y="1346" type="line"/>
+      <point x="156" y="1228" type="line"/>
+      <point x="827" y="1228" type="line"/>
+      <point x="89" y="83" type="line"/>
+    </contour>
+    <contour>
+      <point x="565" y="1050" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
