@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0324" format="1">
+  <advance width="0"/>
+  <unicode hex="0324"/>
+  <outline>
+    <contour>
+      <point x="-903" y="-306" type="curve" name="hr00" smooth="yes"/>
+      <point x="-903" y="-372"/>
+      <point x="-855" y="-423"/>
+      <point x="-786" y="-423" type="curve" smooth="yes"/>
+      <point x="-719" y="-423"/>
+      <point x="-670" y="-372"/>
+      <point x="-670" y="-306" type="curve" smooth="yes"/>
+      <point x="-670" y="-241"/>
+      <point x="-719" y="-190"/>
+      <point x="-786" y="-190" type="curve" smooth="yes"/>
+      <point x="-855" y="-190"/>
+      <point x="-903" y="-241"/>
+    </contour>
+    <contour>
+      <point x="-530" y="-306" type="curve" smooth="yes"/>
+      <point x="-530" y="-372"/>
+      <point x="-481" y="-423"/>
+      <point x="-414" y="-423" type="curve" smooth="yes"/>
+      <point x="-345" y="-423"/>
+      <point x="-297" y="-372"/>
+      <point x="-297" y="-306" type="curve" smooth="yes"/>
+      <point x="-297" y="-241"/>
+      <point x="-345" y="-190"/>
+      <point x="-414" y="-190" type="curve" smooth="yes"/>
+      <point x="-481" y="-190"/>
+      <point x="-530" y="-241"/>
+    </contour>
+    <contour>
+      <point x="-600" y="-45" type="move" name="_mark0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

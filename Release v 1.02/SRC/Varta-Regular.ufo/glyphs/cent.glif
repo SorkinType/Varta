@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="1017"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="537" y="290" type="line" name="hr01"/>
+      <point x="382" y="325"/>
+      <point x="291" y="452"/>
+      <point x="291" y="635" type="curve" smooth="yes"/>
+      <point x="291" y="816"/>
+      <point x="386" y="943"/>
+      <point x="537" y="978" type="curve"/>
+    </contour>
+    <contour>
+      <point x="856" y="378" type="line"/>
+      <point x="800" y="329"/>
+      <point x="728" y="288"/>
+      <point x="642" y="282" type="curve"/>
+      <point x="642" y="988" type="line"/>
+      <point x="714" y="984"/>
+      <point x="774" y="951"/>
+      <point x="829" y="902" type="curve"/>
+      <point x="910" y="1008" type="line"/>
+      <point x="847" y="1067"/>
+      <point x="761" y="1120"/>
+      <point x="642" y="1126" type="curve" name="hr02"/>
+      <point x="642" y="1337" type="line"/>
+      <point x="537" y="1337" type="line"/>
+      <point x="537" y="1120" type="line"/>
+      <point x="305" y="1087"/>
+      <point x="125" y="918"/>
+      <point x="125" y="635" type="curve" smooth="yes"/>
+      <point x="125" y="346"/>
+      <point x="293" y="174"/>
+      <point x="537" y="146" type="curve"/>
+      <point x="537" y="-68" type="line"/>
+      <point x="642" y="-68" type="line"/>
+      <point x="642" y="144" type="line"/>
+      <point x="749" y="152"/>
+      <point x="849" y="202"/>
+      <point x="929" y="273" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

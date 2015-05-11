@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.a" format="1">
+  <advance width="503"/>
+  <outline>
+	<contour>
+	  <point x="169" y="0" type="line"/>
+	  <point x="335" y="0" type="line"/>
+	  <point x="335" y="1458" type="line"/>
+	  <point x="169" y="1458" type="line"/>
+	</contour>
+	<contour>
+	  <point x="252" y="-45" type="move" name="mark0"/>
+	</contour>
+  </outline>
+</glyph>

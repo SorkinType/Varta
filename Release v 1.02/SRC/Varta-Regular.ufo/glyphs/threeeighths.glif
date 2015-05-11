@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeeighths" format="1">
+  <advance width="1797"/>
+  <unicode hex="215C"/>
+  <outline>
+    <component base="three.numr"/>
+    <component base="fraction" xOffset="811"/>
+    <component base="eight.dnom" xOffset="986"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.65600000000000003</real>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tth_ya-deva" format="1">
+  <advance width="2326"/>
+  <outline>
+	<component base="ttha-deva"/>
+	<component base="ya-deva.post" xOffset="1171"/>
+	<contour>
+	  <point x="2052" y="1168" type="move" name="top"/>
+	</contour>
+	<contour>
+	  <point x="2052" y="28" type="move" name="bottom"/>
+	</contour>
+  </outline>
+</glyph>

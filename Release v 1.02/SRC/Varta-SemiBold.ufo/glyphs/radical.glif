@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="1153"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="366" y="842" type="line" name="hr01"/>
+      <point x="79" y="718" type="line"/>
+      <point x="120" y="616" type="line"/>
+      <point x="267" y="681" type="line"/>
+      <point x="574" y="-189" type="line" name="hr02"/>
+      <point x="718" y="-189" type="line"/>
+      <point x="1162" y="1679" type="line"/>
+      <point x="1025" y="1679" type="line"/>
+      <point x="668" y="154" type="line"/>
+      <point x="659" y="108"/>
+      <point x="650" y="61"/>
+      <point x="642" y="16" type="curve"/>
+      <point x="634" y="16" type="line"/>
+      <point x="623" y="61"/>
+      <point x="612" y="108"/>
+      <point x="598" y="154" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

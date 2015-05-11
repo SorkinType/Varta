@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rakar_uMatra-deva" format="1">
+  <advance width="600"/>
+  <outline>
+	<component base="rakar-deva" xOffset="1" yOffset="-6"/>
+	<component base="uMatra-deva" xOffset="93" yOffset="18"/>
+	<contour>
+	  <point x="68" y="96" type="move" name="_top"/>
+	</contour>
+  </outline>
+</glyph>

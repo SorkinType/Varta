@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="1304"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="184" y="0" type="line"/>
+      <point x="316" y="0" type="line"/>
+      <point x="316" y="758" type="line"/>
+      <point x="316" y="895"/>
+      <point x="306" y="1030"/>
+      <point x="298" y="1163" type="curve"/>
+      <point x="307" y="1163" type="line"/>
+      <point x="455" y="889" type="line"/>
+      <point x="974" y="0" type="line"/>
+      <point x="1119" y="0" type="line"/>
+      <point x="1119" y="1346" type="line"/>
+      <point x="987" y="1346" type="line"/>
+      <point x="987" y="597" type="line"/>
+      <point x="987" y="460"/>
+      <point x="998" y="317"/>
+      <point x="1005" y="183" type="curve"/>
+      <point x="997" y="183" type="line"/>
+      <point x="849" y="458" type="line"/>
+      <point x="328" y="1346" type="line"/>
+      <point x="184" y="1346" type="line"/>
+    </contour>
+    <contour>
+      <point x="651" y="1050" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

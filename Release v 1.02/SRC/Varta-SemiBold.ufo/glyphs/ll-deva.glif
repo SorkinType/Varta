@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ll-deva" format="1">
+  <advance width="1478"/>
+  <outline>
+    <contour>
+      <point x="187" y="942"/>
+      <point x="62" y="805"/>
+      <point x="62" y="539" type="curve" smooth="yes"/>
+      <point x="62" y="283"/>
+      <point x="192" y="138"/>
+      <point x="391" y="138" type="curve" smooth="yes"/>
+      <point x="566" y="138"/>
+      <point x="643" y="206"/>
+      <point x="795" y="445" type="curve" smooth="yes"/>
+      <point x="941" y="680"/>
+      <point x="991" y="765"/>
+      <point x="1091" y="765" type="curve" smooth="yes"/>
+      <point x="1184" y="765"/>
+      <point x="1227" y="691"/>
+      <point x="1227" y="554" type="curve" smooth="yes"/>
+      <point x="1227" y="394"/>
+      <point x="1162" y="312"/>
+      <point x="1041" y="312" type="curve" smooth="yes"/>
+      <point x="934" y="312"/>
+      <point x="866" y="376"/>
+      <point x="797" y="474" type="curve"/>
+      <point x="707" y="349" type="line"/>
+      <point x="804" y="217"/>
+      <point x="895" y="140"/>
+      <point x="1069" y="140" type="curve" smooth="yes"/>
+      <point x="1293" y="140"/>
+      <point x="1416" y="280"/>
+      <point x="1416" y="552" type="curve" smooth="yes"/>
+      <point x="1416" y="823"/>
+      <point x="1275" y="941"/>
+      <point x="1082" y="941" type="curve" smooth="yes"/>
+      <point x="911" y="941"/>
+      <point x="837" y="856"/>
+      <point x="713" y="670" type="curve" smooth="yes"/>
+      <point x="606" y="491"/>
+      <point x="521" y="314"/>
+      <point x="391" y="314" type="curve" smooth="yes"/>
+      <point x="291" y="314"/>
+      <point x="251" y="374"/>
+      <point x="251" y="537" type="curve" smooth="yes"/>
+      <point x="251" y="691"/>
+      <point x="314" y="770"/>
+      <point x="435" y="770" type="curve" smooth="yes"/>
+      <point x="553" y="770"/>
+      <point x="637" y="699"/>
+      <point x="707" y="598" type="curve"/>
+      <point x="778" y="721" type="line"/>
+      <point x="682" y="892"/>
+      <point x="566" y="942"/>
+      <point x="422" y="942" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-17" y="1277" type="line"/>
+      <point x="-17" y="1114" type="line"/>
+      <point x="1495" y="1114" type="line"/>
+      <point x="1495" y="1277" type="line"/>
+    </contour>
+    <contour>
+      <point x="732" y="68" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="747" y="1167" type="move" name="topcandra"/>
+    </contour>
+  </outline>
+</glyph>

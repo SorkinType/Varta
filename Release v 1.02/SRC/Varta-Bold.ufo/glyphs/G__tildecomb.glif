@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G_tildecomb" format="1">
+  <advance width="1272"/>
+  <outline>
+    <component base="G"/>
+    <component base="tilde.cap" xOffset="717"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.65600000000000003</real>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

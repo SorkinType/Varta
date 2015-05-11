@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zha-deva" format="1">
+  <advance width="1420"/>
+  <unicode hex="0979"/>
+  <outline>
+	<component base="ja-deva"/>
+	<component base="nukta-deva" xOffset="-48" yOffset="-14"/>
+	<component base="nukta-deva" xOffset="392" yOffset="-17"/>
+	<component base="nukta-deva" xOffset="161" yOffset="-232"/>
+  </outline>
+</glyph>

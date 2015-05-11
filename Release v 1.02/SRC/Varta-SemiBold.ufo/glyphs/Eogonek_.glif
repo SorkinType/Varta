@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="1">
+  <advance width="1078"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="174" y="0" type="line" name="hr00"/>
+      <point x="795" y="0" type="line"/>
+      <point x="718" y="-48"/>
+      <point x="639" y="-142"/>
+      <point x="639" y="-257" type="curve" smooth="yes"/>
+      <point x="639" y="-376"/>
+      <point x="729" y="-438"/>
+      <point x="842" y="-438" type="curve" smooth="yes"/>
+      <point x="900" y="-438"/>
+      <point x="973" y="-411"/>
+      <point x="1015" y="-378" type="curve"/>
+      <point x="963" y="-275" type="line"/>
+      <point x="940" y="-293"/>
+      <point x="914" y="-304"/>
+      <point x="883" y="-304" type="curve" smooth="yes"/>
+      <point x="835" y="-304"/>
+      <point x="787" y="-275"/>
+      <point x="787" y="-213" type="curve" smooth="yes"/>
+      <point x="787" y="-108"/>
+      <point x="880" y="-11"/>
+      <point x="973" y="0" type="curve" smooth="yes"/>
+      <point x="981" y="0" type="line"/>
+      <point x="981" y="165" type="line"/>
+      <point x="370" y="165" type="line"/>
+      <point x="370" y="620" type="line"/>
+      <point x="868" y="620" type="line"/>
+      <point x="868" y="784" type="line"/>
+      <point x="370" y="784" type="line"/>
+      <point x="370" y="1178" type="line"/>
+      <point x="960" y="1178" type="line"/>
+      <point x="960" y="1342" type="line"/>
+      <point x="174" y="1342" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

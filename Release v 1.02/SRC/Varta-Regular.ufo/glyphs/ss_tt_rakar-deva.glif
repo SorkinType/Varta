@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ss_tt_rakar-deva" format="1">
+  <advance width="993"/>
+  <outline>
+    <component base="ss_tta-deva"/>
+    <component base="rakar-deva" xOffset="268" yOffset="-437"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

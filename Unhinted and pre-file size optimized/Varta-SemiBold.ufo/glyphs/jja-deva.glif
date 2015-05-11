@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jja-deva" format="1">
+  <advance width="1421"/>
+  <unicode hex="097C"/>
+  <outline>
+	<contour>
+	  <point x="139" y="68" type="line"/>
+	  <point x="139" y="-85" type="line"/>
+	  <point x="1236" y="-85" type="line"/>
+	  <point x="1236" y="68" type="line"/>
+	</contour>
+	<component base="ja-deva"/>
+  </outline>
+</glyph>

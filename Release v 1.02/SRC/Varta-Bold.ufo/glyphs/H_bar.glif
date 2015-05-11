@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="1420"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="1212" y="1003" type="line" name="hr01"/>
+      <point x="1362" y="1003" type="line"/>
+      <point x="1362" y="1118" type="line"/>
+      <point x="1212" y="1118" type="line"/>
+      <point x="1212" y="1340" type="line" name="hr02"/>
+      <point x="990" y="1340" type="line"/>
+      <point x="990" y="1118" type="line" name="hr03"/>
+      <point x="428" y="1118" type="line"/>
+      <point x="428" y="1340" type="line" name="hr04"/>
+      <point x="208" y="1340" type="line"/>
+      <point x="208" y="1118" type="line" name="hr05"/>
+      <point x="56" y="1107" type="line"/>
+      <point x="56" y="1003" type="line"/>
+      <point x="208" y="1003" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="428" y="604" type="line"/>
+      <point x="990" y="604" type="line"/>
+      <point x="990" y="0" type="line"/>
+      <point x="1212" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="428" y="1003" type="line"/>
+      <point x="990" y="1003" type="line"/>
+      <point x="990" y="796" type="line"/>
+      <point x="428" y="796" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

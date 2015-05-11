@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="1120"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="428" y="1316" type="curve" name="hr00" smooth="yes"/>
+      <point x="428" y="1240"/>
+      <point x="484" y="1187"/>
+      <point x="560" y="1187" type="curve" smooth="yes"/>
+      <point x="636" y="1187"/>
+      <point x="692" y="1240"/>
+      <point x="692" y="1316" type="curve" smooth="yes"/>
+      <point x="692" y="1390"/>
+      <point x="636" y="1444"/>
+      <point x="560" y="1444" type="curve" smooth="yes"/>
+      <point x="484" y="1444"/>
+      <point x="428" y="1390"/>
+    </contour>
+    <contour>
+      <point x="560" y="800" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

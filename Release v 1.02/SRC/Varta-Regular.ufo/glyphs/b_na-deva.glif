@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b_na-deva" format="1">
+  <advance width="1110"/>
+  <outline>
+    <contour>
+      <point x="830" y="353" type="line"/>
+      <point x="758" y="438" type="line"/>
+      <point x="191" y="48" type="line"/>
+      <point x="251" y="-58" type="line"/>
+      <point x="466" y="-140" type="line"/>
+      <point x="496" y="-115"/>
+      <point x="508" y="-90"/>
+      <point x="509" y="-67" type="curve" smooth="yes"/>
+      <point x="510" y="-44"/>
+      <point x="502" y="-21"/>
+      <point x="488" y="0" type="curve" smooth="yes"/>
+      <point x="430" y="85" type="line"/>
+      <point x="413" y="29" type="line"/>
+    </contour>
+    <component base="ba-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

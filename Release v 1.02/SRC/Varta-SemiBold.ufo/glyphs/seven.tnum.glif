@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.tnum" format="1">
+  <advance width="1030"/>
+  <outline>
+    <contour>
+      <point x="355" y="-153" type="curve" name="hr00"/>
+      <point x="554" y="-153" type="line"/>
+      <point x="568" y="361"/>
+      <point x="636" y="666"/>
+      <point x="944" y="1058" type="curve"/>
+      <point x="944" y="1177" type="line"/>
+      <point x="90" y="1177" type="line"/>
+      <point x="90" y="1012" type="line"/>
+      <point x="729" y="1012" type="line"/>
+      <point x="473" y="655"/>
+      <point x="370" y="332"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

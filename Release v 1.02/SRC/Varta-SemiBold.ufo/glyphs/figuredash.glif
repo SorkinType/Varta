@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="figuredash" format="1">
+  <advance width="1030"/>
+  <unicode hex="2012"/>
+  <outline>
+    <contour>
+      <point x="85" y="451" type="line" name="hr00"/>
+      <point x="946" y="451" type="line"/>
+      <point x="946" y="581" type="line"/>
+      <point x="85" y="581" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

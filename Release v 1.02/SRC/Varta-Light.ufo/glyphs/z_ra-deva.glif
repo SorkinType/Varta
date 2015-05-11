@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z_ra-deva" format="1">
+  <advance width="1618"/>
+  <outline>
+    <contour>
+      <point x="586" y="102"/>
+      <point x="561" y="78"/>
+      <point x="561" y="21" type="curve" smooth="yes"/>
+      <point x="561" y="-35"/>
+      <point x="586" y="-59"/>
+      <point x="643" y="-59" type="curve" smooth="yes"/>
+      <point x="700" y="-59"/>
+      <point x="724" y="-35"/>
+      <point x="724" y="21" type="curve" smooth="yes"/>
+      <point x="724" y="78"/>
+      <point x="700" y="102"/>
+      <point x="643" y="102" type="curve" smooth="yes"/>
+    </contour>
+    <component base="j_ra-deva"/>
+    <contour>
+      <point x="1058" y="163" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="1386" y="1168" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1385" y="1168" type="move" name="topcandra"/>
+    </contour>
+    <contour>
+      <point x="1416" y="31" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

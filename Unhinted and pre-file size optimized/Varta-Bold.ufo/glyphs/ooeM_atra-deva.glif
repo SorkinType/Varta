@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ooeMatra-deva" format="1">
+  <advance width="561"/>
+  <unicode hex="093B"/>
+  <outline>
+	<contour>
+	  <point x="176" y="1091" type="line"/>
+	  <point x="386" y="1091" type="line"/>
+	  <point x="386" y="1538" type="line"/>
+	  <point x="176" y="1538" type="line"/>
+	</contour>
+	<component base="aaMatra-deva"/>
+  </outline>
+</glyph>

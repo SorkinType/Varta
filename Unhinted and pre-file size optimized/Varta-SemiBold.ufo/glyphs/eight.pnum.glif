@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.pnum" format="1">
+  <advance width="1084"/>
+  <outline>
+	<contour>
+	  <point x="283" y="363" type="curve" smooth="yes"/>
+	  <point x="283" y="475"/>
+	  <point x="353" y="577"/>
+	  <point x="449" y="644" type="curve"/>
+	  <point x="633" y="569"/>
+	  <point x="789" y="501"/>
+	  <point x="789" y="343" type="curve" smooth="yes"/>
+	  <point x="789" y="213"/>
+	  <point x="710" y="115"/>
+	  <point x="548" y="115" type="curve" smooth="yes"/>
+	  <point x="394" y="115"/>
+	  <point x="283" y="224"/>
+	</contour>
+	<contour>
+	  <point x="634" y="741" type="curve"/>
+	  <point x="480" y="800"/>
+	  <point x="347" y="874"/>
+	  <point x="347" y="1020" type="curve" smooth="yes"/>
+	  <point x="347" y="1142"/>
+	  <point x="419" y="1227"/>
+	  <point x="550" y="1227" type="curve" smooth="yes"/>
+	  <point x="688" y="1227"/>
+	  <point x="760" y="1129"/>
+	  <point x="760" y="1005" type="curve" smooth="yes"/>
+	  <point x="760" y="914"/>
+	  <point x="715" y="816"/>
+	</contour>
+	<contour>
+	  <point x="111" y="344" type="curve" smooth="yes"/>
+	  <point x="111" y="136"/>
+	  <point x="291" y="-25"/>
+	  <point x="543" y="-25" type="curve" smooth="yes"/>
+	  <point x="821" y="-25"/>
+	  <point x="972" y="139"/>
+	  <point x="972" y="336" type="curve" smooth="yes"/>
+	  <point x="972" y="511"/>
+	  <point x="864" y="615"/>
+	  <point x="746" y="682" type="curve"/>
+	  <point x="746" y="691" type="line"/>
+	  <point x="827" y="752"/>
+	  <point x="924" y="881"/>
+	  <point x="924" y="1015" type="curve" smooth="yes"/>
+	  <point x="924" y="1221"/>
+	  <point x="786" y="1367"/>
+	  <point x="555" y="1367" type="curve" smooth="yes"/>
+	  <point x="320" y="1367"/>
+	  <point x="171" y="1225"/>
+	  <point x="171" y="1020" type="curve" smooth="yes"/>
+	  <point x="171" y="883"/>
+	  <point x="255" y="777"/>
+	  <point x="353" y="708" type="curve"/>
+	  <point x="353" y="700" type="line"/>
+	  <point x="230" y="635"/>
+	  <point x="111" y="511"/>
+	</contour>
+  </outline>
+  <lib>
+	<dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+	</dict>
+  </lib>
+</glyph>

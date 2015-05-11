@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka_ra-deva" format="1">
+  <advance width="1530"/>
+  <outline>
+    <contour>
+      <point x="780" y="362" type="line"/>
+      <point x="700" y="458" type="line"/>
+      <point x="144" y="72" type="line"/>
+      <point x="264" y="-74" type="line"/>
+    </contour>
+    <component base="ka-deva" yOffset="-5"/>
+    <contour>
+      <point x="795" y="1167" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="798" y="27" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="796" y="1167" type="move" name="topcandra"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

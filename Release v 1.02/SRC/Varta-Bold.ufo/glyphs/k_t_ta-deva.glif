@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_t_ta-deva" format="1">
+  <advance width="2842"/>
+  <outline>
+    <contour>
+      <point x="1345" y="869"/>
+      <point x="1199" y="764"/>
+      <point x="1199" y="577" type="curve" smooth="yes"/>
+      <point x="1199" y="365"/>
+      <point x="1317" y="131"/>
+      <point x="1448" y="-38" type="curve"/>
+      <point x="1612" y="71" type="line"/>
+      <point x="1459" y="302"/>
+      <point x="1413" y="439"/>
+      <point x="1413" y="545" type="curve" smooth="yes"/>
+      <point x="1413" y="641"/>
+      <point x="1460" y="672"/>
+      <point x="1611" y="672" type="curve" smooth="yes"/>
+      <point x="1757" y="672"/>
+      <point x="1830" y="632"/>
+      <point x="1978" y="527" type="curve"/>
+      <point x="1953" y="760" type="line"/>
+      <point x="1857" y="836"/>
+      <point x="1725" y="869"/>
+      <point x="1575" y="869" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1119" y="1287" type="line"/>
+      <point x="1119" y="1104" type="line"/>
+      <point x="1778" y="1104" type="line"/>
+      <point x="1778" y="1287" type="line"/>
+    </contour>
+    <component base="k-deva"/>
+    <component base="ta-deva" xOffset="1734"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

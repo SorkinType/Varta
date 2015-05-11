@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka_ra-deva.alt" format="1">
+  <advance width="1464"/>
+  <outline>
+    <contour>
+      <point x="990" y="881"/>
+      <point x="889" y="811"/>
+      <point x="789" y="686" type="curve"/>
+      <point x="795" y="467" type="line"/>
+      <point x="938" y="646"/>
+      <point x="1036" y="712"/>
+      <point x="1108" y="712" type="curve" smooth="yes"/>
+      <point x="1181" y="712"/>
+      <point x="1232" y="669"/>
+      <point x="1232" y="575" type="curve" smooth="yes"/>
+      <point x="1232" y="464"/>
+      <point x="1184" y="364"/>
+      <point x="1104" y="252" type="curve"/>
+      <point x="1239" y="143" type="line"/>
+      <point x="1347" y="262"/>
+      <point x="1405" y="404"/>
+      <point x="1405" y="560" type="curve" smooth="yes"/>
+      <point x="1405" y="756"/>
+      <point x="1293" y="881"/>
+      <point x="1120" y="881" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="102" y="210" type="line"/>
+      <point x="216" y="73" type="line"/>
+      <point x="758" y="518" type="line"/>
+      <point x="665" y="628" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="941"/>
+      <point x="102" y="906"/>
+      <point x="35" y="868" type="curve"/>
+      <point x="106" y="703" type="line"/>
+      <point x="180" y="738"/>
+      <point x="238" y="760"/>
+      <point x="284" y="758" type="curve" smooth="yes"/>
+      <point x="387" y="754"/>
+      <point x="454" y="676"/>
+      <point x="604" y="469" type="curve"/>
+      <point x="709" y="539" type="line"/>
+      <point x="499" y="901"/>
+      <point x="388" y="934"/>
+      <point x="274" y="938" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="665" y="1151" type="line"/>
+      <point x="665" y="-1" type="line"/>
+      <point x="854" y="-1" type="line"/>
+      <point x="854" y="1151" type="line"/>
+    </contour>
+    <contour>
+      <point x="-18" y="1277" type="line"/>
+      <point x="-18" y="1114" type="line"/>
+      <point x="1481" y="1114" type="line"/>
+      <point x="1481" y="1277" type="line"/>
+    </contour>
+    <contour>
+      <point x="762" y="1167" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="762" y="27" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="763" y="1167" type="move" name="topcandra"/>
+    </contour>
+  </outline>
+</glyph>

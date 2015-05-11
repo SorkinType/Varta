@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.subs" format="1">
+  <advance width="484"/>
+  <unicode hex="208E"/>
+  <outline>
+    <contour>
+      <point x="80" y="-540" type="curve" name="hr00"/>
+      <point x="175" y="-584" type="line"/>
+      <point x="288" y="-418"/>
+      <point x="351" y="-256"/>
+      <point x="351" y="-26" type="curve" smooth="yes"/>
+      <point x="351" y="204"/>
+      <point x="288" y="366"/>
+      <point x="175" y="533" type="curve"/>
+      <point x="80" y="486" type="line"/>
+      <point x="184" y="327"/>
+      <point x="225" y="157"/>
+      <point x="225" y="-26" type="curve" smooth="yes"/>
+      <point x="225" y="-208"/>
+      <point x="184" y="-378"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

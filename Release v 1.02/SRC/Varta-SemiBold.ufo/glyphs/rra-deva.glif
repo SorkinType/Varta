@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rra-deva" format="1">
+  <advance width="724"/>
+  <unicode hex="0931"/>
+  <outline>
+    <component base="ra-deva"/>
+    <component base="anusvara-deva" xOffset="-176" yOffset="-1410"/>
+  </outline>
+</glyph>

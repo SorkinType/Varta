@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v.sups" format="1">
+  <advance width="684"/>
+  <unicode hex="1D5B"/>
+  <outline>
+    <contour>
+      <point x="175" y="1197" type="line" name="hr00"/>
+      <point x="16" y="1197" type="line"/>
+      <point x="249" y="532" type="line"/>
+      <point x="435" y="532" type="line"/>
+      <point x="668" y="1197" type="line"/>
+      <point x="513" y="1197" type="line"/>
+      <point x="407" y="856" type="line"/>
+      <point x="348" y="654" type="line"/>
+      <point x="342" y="654" type="line"/>
+      <point x="280" y="856" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

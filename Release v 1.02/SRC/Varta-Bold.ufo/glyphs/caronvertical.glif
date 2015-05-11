@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caronvertical" format="1">
+  <advance width="282"/>
+  <outline>
+    <contour>
+      <point x="86" y="1492" type="line" name="hr00"/>
+      <point x="94" y="1050" type="line"/>
+      <point x="194" y="1050" type="line"/>
+      <point x="230" y="1365" type="line"/>
+      <point x="234" y="1492" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="1050" type="move" name="_car"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

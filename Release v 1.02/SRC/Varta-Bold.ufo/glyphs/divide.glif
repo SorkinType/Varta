@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="1042"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="389" y="1044" type="curve" name="hr00" smooth="yes"/>
+      <point x="389" y="969"/>
+      <point x="446" y="916"/>
+      <point x="522" y="916" type="curve" smooth="yes"/>
+      <point x="595" y="916"/>
+      <point x="654" y="969"/>
+      <point x="654" y="1044" type="curve" smooth="yes"/>
+      <point x="654" y="1119"/>
+      <point x="595" y="1172"/>
+      <point x="522" y="1172" type="curve" smooth="yes"/>
+      <point x="446" y="1172"/>
+      <point x="389" y="1119"/>
+    </contour>
+    <contour>
+      <point x="972" y="755" type="line"/>
+      <point x="70" y="755" type="line"/>
+      <point x="70" y="596" type="line"/>
+      <point x="972" y="596" type="line"/>
+    </contour>
+    <contour>
+      <point x="522" y="435" type="curve" smooth="yes"/>
+      <point x="446" y="435"/>
+      <point x="389" y="382"/>
+      <point x="389" y="307" type="curve" smooth="yes"/>
+      <point x="389" y="232"/>
+      <point x="446" y="179"/>
+      <point x="522" y="179" type="curve" smooth="yes"/>
+      <point x="595" y="179"/>
+      <point x="654" y="232"/>
+      <point x="654" y="307" type="curve" smooth="yes"/>
+      <point x="654" y="382"/>
+      <point x="595" y="435"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

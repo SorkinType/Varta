@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="1">
+  <advance width="1006"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="-11" y="1340" type="line" name="hr00"/>
+      <point x="392" y="503" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="612" y="503" type="line"/>
+      <point x="1016" y="1340" type="line"/>
+      <point x="787" y="1340" type="line"/>
+      <point x="634" y="989" type="line"/>
+      <point x="595" y="890"/>
+      <point x="550" y="796"/>
+      <point x="508" y="695" type="curve"/>
+      <point x="500" y="695" type="line"/>
+      <point x="456" y="796"/>
+      <point x="418" y="890"/>
+      <point x="378" y="989" type="curve"/>
+      <point x="225" y="1340" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="800" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

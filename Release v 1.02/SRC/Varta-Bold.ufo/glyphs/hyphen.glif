@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="653"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="569" y="596" type="line" name="hr00"/>
+      <point x="86" y="596" type="line"/>
+      <point x="86" y="435" type="line"/>
+      <point x="569" y="435" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

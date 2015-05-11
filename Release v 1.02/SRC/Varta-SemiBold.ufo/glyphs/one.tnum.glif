@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.tnum" format="1">
+  <advance width="1030"/>
+  <outline>
+    <contour>
+      <point x="159" y="0" type="line" name="hr00"/>
+      <point x="912" y="0" type="line"/>
+      <point x="912" y="156" type="line"/>
+      <point x="648" y="156" type="line"/>
+      <point x="648" y="1177" type="line"/>
+      <point x="501" y="1177" type="line"/>
+      <point x="425" y="1132"/>
+      <point x="339" y="1099"/>
+      <point x="215" y="1076" type="curve"/>
+      <point x="215" y="952" type="line"/>
+      <point x="455" y="965" type="line"/>
+      <point x="455" y="156" type="line"/>
+      <point x="159" y="156" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+    </dict>
+  </lib>
+</glyph>

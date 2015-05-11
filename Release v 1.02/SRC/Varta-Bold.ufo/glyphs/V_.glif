@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="1079"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="224" y="1340" type="line" name="hr01"/>
+      <point x="-9" y="1340" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="671" y="0" type="line"/>
+      <point x="1089" y="1340" type="line"/>
+      <point x="863" y="1340" type="line"/>
+      <point x="669" y="654" type="line"/>
+      <point x="627" y="500"/>
+      <point x="596" y="370"/>
+      <point x="549" y="216" type="curve" name="hr02"/>
+      <point x="541" y="216" type="line"/>
+      <point x="495" y="370"/>
+      <point x="464" y="500"/>
+      <point x="420" y="654" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="538" y="-45" type="move" name="mark0"/>
+    </contour>
+    <contour>
+      <point x="540" y="800" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

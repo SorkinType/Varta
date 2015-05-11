@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_t_ya-deva" format="1">
+  <advance width="2354"/>
+  <outline>
+    <contour>
+      <point x="207" y="869"/>
+      <point x="61" y="764"/>
+      <point x="61" y="577" type="curve" smooth="yes"/>
+      <point x="61" y="365"/>
+      <point x="179" y="131"/>
+      <point x="310" y="-38" type="curve"/>
+      <point x="474" y="71" type="line"/>
+      <point x="321" y="302"/>
+      <point x="275" y="439"/>
+      <point x="275" y="545" type="curve" smooth="yes"/>
+      <point x="275" y="641"/>
+      <point x="322" y="672"/>
+      <point x="473" y="672" type="curve" smooth="yes"/>
+      <point x="621" y="672"/>
+      <point x="692" y="631"/>
+      <point x="840" y="520" type="curve"/>
+      <point x="815" y="755" type="line"/>
+      <point x="719" y="834"/>
+      <point x="589" y="869"/>
+      <point x="437" y="869" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="816" y="869"/>
+      <point x="670" y="764"/>
+      <point x="670" y="577" type="curve" smooth="yes"/>
+      <point x="670" y="365"/>
+      <point x="788" y="131"/>
+      <point x="919" y="-38" type="curve"/>
+      <point x="1083" y="71" type="line"/>
+      <point x="930" y="302"/>
+      <point x="884" y="439"/>
+      <point x="884" y="545" type="curve" smooth="yes"/>
+      <point x="884" y="641"/>
+      <point x="931" y="672"/>
+      <point x="1082" y="672" type="curve" smooth="yes"/>
+      <point x="1230" y="672"/>
+      <point x="1301" y="631"/>
+      <point x="1422" y="548" type="curve"/>
+      <point x="1423" y="756" type="line"/>
+      <point x="1328" y="834"/>
+      <point x="1198" y="869"/>
+      <point x="1046" y="869" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1287" type="line"/>
+      <point x="-19" y="1104" type="line"/>
+      <point x="640" y="1104" type="line"/>
+      <point x="640" y="1287" type="line"/>
+    </contour>
+    <contour>
+      <point x="576" y="1287" type="line"/>
+      <point x="576" y="1104" type="line"/>
+      <point x="1235" y="1104" type="line"/>
+      <point x="1235" y="1287" type="line"/>
+    </contour>
+    <component base="ya-deva" xOffset="1191"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="503"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="169" y="0" type="line" name="hr00"/>
+      <point x="335" y="0" type="line"/>
+      <point x="335" y="995" type="line"/>
+      <point x="169" y="995" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="1050" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

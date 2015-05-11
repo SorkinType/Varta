@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave.cap" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-48" y="1679" type="line" name="hr00"/>
+      <point x="-296" y="1679" type="line"/>
+      <point x="-59" y="1442" type="line"/>
+      <point x="126" y="1442" type="line"/>
+    </contour>
+    <contour>
+      <point x="1" y="800" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.59999999999999998</real>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
