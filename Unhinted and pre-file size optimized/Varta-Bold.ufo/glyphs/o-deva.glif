@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="o-deva" format="1">
-  <advance width="1959"/>
-  <unicode hex="0913"/>
-  <outline>
-	<component base="aa-deva"/>
-	<component base="eMatra-deva" xOffset="1416"/>
-  </outline>
-</glyph>
