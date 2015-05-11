@@ -45,7 +45,7 @@ ChangeLog
 
 See https://github.com/EbenSorkin/Varta/commits/master
 
-Release v1.02
+Release v1.03
 
 Acknowledgements
 
