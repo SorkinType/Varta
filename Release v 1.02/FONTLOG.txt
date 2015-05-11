@@ -37,7 +37,7 @@ To contribute to the project contact Eben Sorkin at sorkineben@gmail.com
 
 ChangeLog
 
-
+See https://github.com/EbenSorkin/Varta/commits/master
 
 Acknowledgements
 
