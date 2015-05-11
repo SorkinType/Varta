@@ -1,4 +1,4 @@
-Copyright (c) 2014-2105, SorkinType (sorkintype.com | sorkintype@gmail.com)
+Copyright (c) 2014-2015, Sorkin Type Co (sorkintype.com | sorkintype@gmail.com)
 
 
 *This Font Software is licensed under the SIL Open Font License, Version 1.1.
