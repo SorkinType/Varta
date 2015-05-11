@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="auMatra_reph-deva" format="1">
-  <advance width="554"/>
-  <outline>
-    <component base="aaMatra-deva"/>
-    <component base="aiMatra_reph-deva" xOffset="13"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iMatra_reph_anusvara-deva.01" format="1">
-  <advance width="562"/>
-  <outline>
-    <component base="iMatra-deva.01"/>
-    <component base="reph_anusvara-deva.imatra" xOffset="1119" yOffset="198"/>
-  </outline>
-</glyph>
