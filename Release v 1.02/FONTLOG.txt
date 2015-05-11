@@ -8,8 +8,14 @@ fonts and any derivative works.
 
 Font Information
 
-Varta offers a conteporary feeling. It is suitable for editorial 
-design, news in both small and large sizes.
+Varta offers a compelling sensibility made possible by the clever fusing of a
+warm humanity with a distinct clarity and profesional crispness. The net effect
+is to both calm and to cheer the reader. As Varta is seen at larger sizes its
+congenial personality emerges. Varta is well suited to a broad range of tasks
+including sign systems, editorial design, packaging and extended reading on
+screens. Varta is offered in four of the the four most commonly used weights to
+ensure broad utility. Each weight has been designed to render well down to
+surprisingly small sizes and on both low and high quality screens.
 
 Varta is an evolving project. As of now there are 4 styles: 
 
@@ -18,26 +24,28 @@ Regular
 SemiBold
 Bold
 
-Merriweather is a Unicode typeface family that supports 
+Varta is a Unicode typeface family that supports 
 languages that use the Devanagari and Latin scripts and 
 could be expanded to support other scripts.
 
-More specifically, this release supports the following codepages: 
-Latin-1, Latin-2, Turkish, Windows Baltic, Windows Vietnamese, Macintosh Character Set
+More specifically, this release supports the following codepages: Devanagari,
+Latin-1, Latin-2, Turkish, Windows Baltic, Windows Vietnamese, Macintosh
+Character Set
 
-The following Unicode ranges are supported:
-Basic Latin, Latin-1 Supplement, Latin Extended-A, Latin Extended-B, IPA Exetnsions, 
-Spacing Modifier letters, Combining Diacritical Marks, Greek, Devanagari, 
-Latin Extended Additional, General Puctuation, Superscripts and Subscripts, 
-Currency Symbols, Letterlike Symbols, Number Forms, Arrows, Mathematical Operators, 
-Geometric Shapes, Miscelanious Symbols, Dingbats, Alphabetic presentation forms
+The following Unicode ranges are supported: Basic Latin, Latin-1 Supplement,
+Latin Extended-A, Latin Extended-B, IPA Exetnsions, Spacing Modifier letters,
+Combining Diacritical Marks, Greek, Devanagari, Latin Extended Additional,
+General Puctuation, Superscripts and Subscripts, Currency Symbols, Letterlike
+Symbols, Number Forms, Arrows, Mathematical Operators, Geometric Shapes,
+Miscelanious Symbols, Dingbats, Alphabetic presentation forms
 
-
-To contribute to the project contact Eben Sorkin at sorkineben@gmail.com
+To contribute to the project contact Eben Sorkin at sorkintype@gmail.com
 
 ChangeLog
 
 See https://github.com/EbenSorkin/Varta/commits/master
+
+Release v1.02
 
 Acknowledgements
 
@@ -53,4 +61,9 @@ D: Designer and Mastering
 N: Joana Correira
 E: joanamcsilva@gmail.com
 W:
+D: Designer
+
+N: Viktoriya Grabowska
+E: 
+W: 
 D: Designer
