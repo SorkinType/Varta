@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eCandraMatra-deva.001" format="2">
+  <note>
+dMatraCandraE
+</note>
+  <anchor x="348.8888888888889" y="1256.3827160493827" name="_candra"/>
+  <anchor x="356.18518518518516" y="1620.6049382716049" name="candra"/>
+  <outline>
+    <component base="eCandraMatra-deva" xScale="0.9485679012345678" yScale="0.9485679012345678" xOffset="92.19753086419753" yOffset="81.5679012345679"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>512</integer>
+    </dict>
+  </lib>
+</glyph>

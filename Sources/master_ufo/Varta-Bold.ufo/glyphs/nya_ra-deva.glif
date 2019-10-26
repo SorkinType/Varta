@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nya_ra-deva" format="2">
+  <advance width="1478"/>
+  <anchor x="1199" y="27" name="bottom"/>
+  <anchor x="738" y="1167" name="candra"/>
+  <anchor x="1204" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="453" y="743" type="line"/>
+      <point x="486" y="751"/>
+      <point x="519" y="756"/>
+      <point x="570" y="756" type="curve" smooth="yes"/>
+      <point x="664" y="756"/>
+      <point x="732" y="718"/>
+      <point x="734" y="609" type="curve" smooth="yes"/>
+      <point x="738" y="498"/>
+      <point x="650" y="448"/>
+      <point x="549" y="448" type="curve" smooth="yes"/>
+      <point x="371" y="448"/>
+      <point x="257" y="579"/>
+      <point x="196" y="888" type="curve"/>
+      <point x="33" y="856" type="line"/>
+      <point x="101" y="375"/>
+      <point x="345" y="260"/>
+      <point x="555" y="260" type="curve" smooth="yes"/>
+      <point x="781" y="260"/>
+      <point x="927" y="387"/>
+      <point x="927" y="589" type="curve" smooth="yes"/>
+      <point x="927" y="833"/>
+      <point x="763" y="945"/>
+      <point x="573" y="945" type="curve" smooth="yes"/>
+      <point x="515" y="945"/>
+      <point x="462" y="936"/>
+      <point x="421" y="916" type="curve"/>
+    </contour>
+    <contour>
+      <point x="831" y="-52" type="line"/>
+      <point x="1281" y="326" type="line"/>
+      <point x="1146" y="420" type="line"/>
+      <point x="705" y="89" type="line"/>
+    </contour>
+    <contour>
+      <point x="874" y="535" type="line"/>
+      <point x="978" y="515"/>
+      <point x="1184" y="561"/>
+      <point x="1250" y="623" type="curve"/>
+      <point x="1243" y="821" type="line"/>
+      <point x="1125" y="733"/>
+      <point x="940" y="693"/>
+      <point x="823" y="708" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1093" y="0" type="line"/>
+      <point x="1303" y="0" type="line"/>
+      <point x="1303" y="1199" type="line"/>
+      <point x="1093" y="1199" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="1497" y="1104" type="line"/>
+      <point x="1497" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

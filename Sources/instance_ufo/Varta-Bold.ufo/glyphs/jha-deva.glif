@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jha-deva" format="2">
+  <advance width="1563"/>
+  <unicode hex="091D"/>
+  <anchor x="1283" y="27" name="bottom"/>
+  <anchor x="1033" y="1186" name="candra"/>
+  <anchor x="164" y="-196" name="nukta"/>
+  <anchor x="1283" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="896" y="363" type="line"/>
+      <point x="1002" y="344"/>
+      <point x="1187.91" y="384"/>
+      <point x="1251.91" y="444" type="curve"/>
+      <point x="1221" y="630" type="line"/>
+      <point x="1105" y="543"/>
+      <point x="947" y="502"/>
+      <point x="828" y="516" type="curve"/>
+    </contour>
+    <component base="i-deva"/>
+    <component base="aaMatra-deva" xOffset="1002"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>i-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aaMatra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

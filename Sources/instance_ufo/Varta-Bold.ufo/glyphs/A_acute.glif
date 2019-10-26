@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aacute" format="2">
+  <advance width="1128"/>
+  <unicode hex="00C1"/>
+  <anchor x="564" y="-200" name="btm"/>
+  <anchor x="564" y="800" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="acute.cap" xOffset="564"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="filledbox" format="2">
+  <advance width="620.1975308641976"/>
+  <unicode hex="25A0"/>
+  <outline>
+    <contour>
+      <point x="111.0" y="335.6666666666667" type="line"/>
+      <point x="509.1975308641975" y="335.6666666666667" type="line"/>
+      <point x="509.1975308641975" y="744.6296296296297" type="line"/>
+      <point x="111.0" y="744.6296296296297" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

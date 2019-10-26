@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotright" format="2">
+  <advance width="903.074074074074"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <component base="guilsinglleft" xScale="-1.0" xOffset="560.358024691358"/>
+    <component base="guilsinglleft" xScale="-1.0" xOffset="906.3456790123456"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

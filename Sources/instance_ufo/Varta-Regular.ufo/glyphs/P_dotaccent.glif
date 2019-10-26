@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pdotaccent" format="2">
+  <advance width="1162.320987654321"/>
+  <unicode hex="1E56"/>
+  <anchor x="581.1604938271605" y="0.0" name="bottom"/>
+  <anchor x="581.1604938271605" y="1344.5925925925926" name="top"/>
+  <outline>
+    <component base="P"/>
+    <component base="dotaccent.cap" xOffset="561.4938271604939"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

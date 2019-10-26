@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="1107.7530864197531"/>
+  <unicode hex="006F"/>
+  <anchor x="553.8765432098766" y="-276.5432098765432" name="btm"/>
+  <anchor x="553.8765432098766" y="991.3580246913581" name="top"/>
+  <outline>
+    <contour>
+      <point x="553.1111111111111" y="-25.0" type="curve" smooth="yes"/>
+      <point x="800.7530864197531" y="-25.0"/>
+      <point x="1011.8024691358024" y="162.46913580246914"/>
+      <point x="1011.8024691358024" y="495.87654320987656" type="curve" smooth="yes"/>
+      <point x="1011.8024691358024" y="833.5802469135803"/>
+      <point x="800.7530864197531" y="1018.0493827160494"/>
+      <point x="553.1111111111111" y="1018.0493827160494" type="curve" smooth="yes"/>
+      <point x="306.0" y="1018.0493827160494"/>
+      <point x="96.95061728395062" y="833.5802469135803"/>
+      <point x="96.95061728395062" y="495.87654320987656" type="curve" smooth="yes"/>
+      <point x="96.95061728395062" y="162.46913580246914"/>
+      <point x="306.0" y="-25.0"/>
+    </contour>
+    <contour>
+      <point x="553.1111111111111" y="105.24691358024691" type="curve" smooth="yes"/>
+      <point x="374.91358024691357" y="105.24691358024691"/>
+      <point x="257.8888888888889" y="260.38271604938274"/>
+      <point x="257.8888888888889" y="495.87654320987656" type="curve" smooth="yes"/>
+      <point x="257.8888888888889" y="733.1358024691358"/>
+      <point x="374.91358024691357" y="888.0370370370371"/>
+      <point x="553.1111111111111" y="888.0370370370371" type="curve" smooth="yes"/>
+      <point x="732.3086419753087" y="888.0370370370371"/>
+      <point x="851.0987654320987" y="733.1358024691358"/>
+      <point x="851.0987654320987" y="495.87654320987656" type="curve" smooth="yes"/>
+      <point x="851.0987654320987" y="260.38271604938274"/>
+      <point x="732.3086419753087" y="105.24691358024691"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

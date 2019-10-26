@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="la_ra-deva" format="2">
+  <advance width="1415"/>
+  <anchor x="1140" y="27" name="bottom"/>
+  <anchor x="669" y="1167" name="candra"/>
+  <anchor x="1137" y="1167" name="top"/>
+  <anchor x="3" y="82" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="742" y="61" type="line"/>
+      <point x="1227.91" y="430.909" type="line"/>
+      <point x="1163" y="594" type="line"/>
+      <point x="616" y="212" type="line"/>
+    </contour>
+    <component base="la-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

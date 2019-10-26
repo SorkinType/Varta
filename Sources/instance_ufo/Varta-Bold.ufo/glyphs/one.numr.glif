@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.numr" format="2">
+  <advance width="729"/>
+  <outline>
+    <contour>
+      <point x="332" y="542" type="line"/>
+      <point x="498" y="542" type="line"/>
+      <point x="498" y="1340" type="line"/>
+      <point x="365" y="1340" type="line"/>
+      <point x="305" y="1297"/>
+      <point x="252" y="1273"/>
+      <point x="155" y="1256" type="curve"/>
+      <point x="155" y="1151" type="line"/>
+      <point x="332" y="1151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

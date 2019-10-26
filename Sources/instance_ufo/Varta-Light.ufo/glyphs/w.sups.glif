@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w.sups" format="2">
+  <advance width="979"/>
+  <unicode hex="02B7"/>
+  <outline>
+    <contour>
+      <point x="218" y="532" type="line"/>
+      <point x="347" y="532" type="line"/>
+      <point x="444" y="886" type="line"/>
+      <point x="489" y="1074" type="line"/>
+      <point x="493" y="1074" type="line"/>
+      <point x="539" y="886" type="line"/>
+      <point x="634" y="532" type="line"/>
+      <point x="764" y="532" type="line"/>
+      <point x="947" y="1189" type="line"/>
+      <point x="844" y="1189" type="line"/>
+      <point x="749" y="806" type="line"/>
+      <point x="703" y="622" type="line"/>
+      <point x="695" y="622" type="line"/>
+      <point x="648" y="806" type="line"/>
+      <point x="541" y="1189" type="line"/>
+      <point x="440" y="1189" type="line"/>
+      <point x="338" y="806" type="line"/>
+      <point x="292" y="622" type="line"/>
+      <point x="284" y="622" type="line"/>
+      <point x="241" y="806" type="line"/>
+      <point x="145" y="1189" type="line"/>
+      <point x="33" y="1189" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>2</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

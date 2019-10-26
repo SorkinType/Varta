@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rra-deva" format="2">
+  <advance width="714.7777777777777"/>
+  <unicode hex="0931"/>
+  <anchor x="498.6296296296296" y="28.38271604938272" name="bottom"/>
+  <anchor x="439.4444444444444" y="1167.3456790123457" name="candra"/>
+  <anchor x="131.46913580246914" y="119.81481481481484" name="nukta"/>
+  <anchor x="440.4444444444444" y="1167.3456790123457" name="top"/>
+  <outline>
+    <component base="ra-deva"/>
+    <component base="anusvara-deva" xOffset="-177.64197530864197" yOffset="-1403.8765432098764"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

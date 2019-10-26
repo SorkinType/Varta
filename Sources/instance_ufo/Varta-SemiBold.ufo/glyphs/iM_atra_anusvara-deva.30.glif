@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iMatra_anusvara-deva.30" format="2">
+  <advance width="528.6543209876543"/>
+  <anchor x="2274.6543209876545" y="1456.2222222222222" name="candra"/>
+  <anchor x="2486.296296296296" y="1453.148148148148" name="imatra"/>
+  <anchor x="2451.7901234567903" y="1396.5555555555554" name="top"/>
+  <outline>
+    <component base="iMatra-deva.30"/>
+    <component base="anusvara-deva" xOffset="2098.185185185185" yOffset="183.86419753086417"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

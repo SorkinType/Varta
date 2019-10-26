@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="llla-deva" format="2">
+  <advance width="1468"/>
+  <unicode hex="0934"/>
+  <anchor x="793" y="127" name="bottom"/>
+  <anchor x="735" y="1167" name="candra"/>
+  <anchor x="731" y="44" name="nukta"/>
+  <anchor x="1080" y="1167" name="top"/>
+  <outline>
+    <component base="lla-deva"/>
+    <component base="nukta-deva" xOffset="460" yOffset="17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lla-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

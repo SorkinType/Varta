@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tnum" format="2">
+  <advance width="1012.1481481481482"/>
+  <outline>
+    <contour>
+      <point x="163.41975308641975" y="0.0" type="line"/>
+      <point x="891.5555555555555" y="0.0" type="line"/>
+      <point x="891.5555555555555" y="129.07407407407408" type="line"/>
+      <point x="619.7777777777778" y="129.07407407407408" type="line"/>
+      <point x="619.7777777777778" y="1174.4074074074074" type="line"/>
+      <point x="499.7037037037037" y="1174.4074074074074" type="line"/>
+      <point x="429.12345679012344" y="1133.2962962962963"/>
+      <point x="343.41975308641975" y="1100.8271604938273"/>
+      <point x="226.1358024691358" y="1080.1234567901236" type="curve"/>
+      <point x="226.1358024691358" y="976.0987654320987" type="line"/>
+      <point x="463.30864197530866" y="992.1604938271605" type="line"/>
+      <point x="463.30864197530866" y="129.07407407407408" type="line"/>
+      <point x="163.41975308641975" y="129.07407407407408" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

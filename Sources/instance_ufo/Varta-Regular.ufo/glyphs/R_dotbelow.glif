@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rdotbelow" format="2">
+  <advance width="1172.7283950617284"/>
+  <unicode hex="1E5A"/>
+  <anchor x="586.8641975308642" y="0.0" name="bottom"/>
+  <anchor x="586.8641975308642" y="1344.5925925925926" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="dotbelowcomb" xOffset="640.0987654320987"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

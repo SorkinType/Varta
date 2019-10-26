@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="936.6172839506172"/>
+  <unicode hex="0078"/>
+  <anchor x="468.1358024691358" y="-234.56790123456796" name="btm"/>
+  <anchor x="468.1358024691358" y="886.4197530864199" name="top"/>
+  <outline>
+    <contour>
+      <point x="29.0" y="0.0" type="line"/>
+      <point x="227.61728395061726" y="0.0" type="line"/>
+      <point x="353.71604938271605" y="220.4814814814815" type="line"/>
+      <point x="384.7901234567901" y="281.8271604938272"/>
+      <point x="417.48148148148147" y="341.17283950617286"/>
+      <point x="449.55555555555554" y="399.17283950617286" type="curve"/>
+      <point x="458.55555555555554" y="399.17283950617286" type="line"/>
+      <point x="494.59259259259255" y="341.17283950617286"/>
+      <point x="529.9753086419753" y="280.17283950617286"/>
+      <point x="564.320987654321" y="220.4814814814815" type="curve"/>
+      <point x="701.6913580246913" y="0.0" type="line"/>
+      <point x="908.2716049382716" y="0.0" type="line"/>
+      <point x="585.5061728395061" y="500.7283950617284" type="line"/>
+      <point x="885.8888888888888" y="998.5061728395061" type="line"/>
+      <point x="687.2716049382716" y="998.5061728395061" type="line"/>
+      <point x="574.8641975308642" y="788.7530864197531" type="line"/>
+      <point x="546.1358024691358" y="734.4444444444445"/>
+      <point x="515.7901234567901" y="677.1358024691358"/>
+      <point x="488.71604938271605" y="621.4814814814814" type="curve"/>
+      <point x="480.71604938271605" y="621.4814814814814" type="line"/>
+      <point x="446.679012345679" y="677.1358024691358"/>
+      <point x="413.98765432098764" y="734.4444444444445"/>
+      <point x="384.29629629629625" y="788.7530864197531" type="curve" smooth="yes"/>
+      <point x="258.61728395061726" y="998.5061728395061" type="line"/>
+      <point x="52.03703703703704" y="998.5061728395061" type="line"/>
+      <point x="351.7654320987654" y="521.2716049382716" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>25</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

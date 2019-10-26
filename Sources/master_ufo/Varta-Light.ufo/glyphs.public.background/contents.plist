@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>approxequal</key>
+    <string>approxequal.glif</string>
+    <key>candraBindu_reph-deva</key>
+    <string>candraB_indu_reph-deva.glif</string>
+    <key>eCandraMatra-deva.001</key>
+    <string>eC_andraM_atra-deva.001.glif</string>
+    <key>eCandraMatra-deva.01</key>
+    <string>eC_andraM_atra-deva.01.glif</string>
+    <key>eCandraMatra_reph-deva</key>
+    <string>eC_andraM_atra_reph-deva.glif</string>
+    <key>eMatra_reph_anusvara-deva</key>
+    <string>eM_atra_reph_anusvara-deva.glif</string>
+    <key>eShortMatra_reph-deva</key>
+    <string>eS_hortM_atra_reph-deva.glif</string>
+    <key>eShortMatra_reph_anusvara-deva</key>
+    <string>eS_hortM_atra_reph_anusvara-deva.glif</string>
+    <key>gcommaaccent</key>
+    <string>gcommaaccent.glif</string>
+    <key>greaterequal</key>
+    <string>greaterequal.glif</string>
+    <key>k_ssa_uMatra-deva</key>
+    <string>k_ssa_uM_atra-deva.glif</string>
+    <key>nukta_halant-deva</key>
+    <string>nukta_halant-deva.glif</string>
+    <key>nukta_rakar-deva</key>
+    <string>nukta_rakar-deva.glif</string>
+    <key>nukta_rakar_uMatra-deva</key>
+    <string>nukta_rakar_uM_atra-deva.glif</string>
+    <key>nukta_rakar_uuMatra-deva</key>
+    <string>nukta_rakar_uuM_atra-deva.glif</string>
+    <key>oCandraMatra-deva</key>
+    <string>oC_andraM_atra-deva.glif</string>
+    <key>oCandraMatra_reph-deva</key>
+    <string>oC_andraM_atra_reph-deva.glif</string>
+    <key>oShortMatra_reph-deva</key>
+    <string>oS_hortM_atra_reph-deva.glif</string>
+    <key>oShortMatra_reph_anusvara-deva</key>
+    <string>oS_hortM_atra_reph_anusvara-deva.glif</string>
+    <key>reph_anusvara-deva.imatra</key>
+    <string>reph_anusvara-deva.imatra.glif</string>
+  </dict>
+</plist>

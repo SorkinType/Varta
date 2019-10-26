@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="-400.8641975308639" y="998.5061728395061" name="_top"/>
+  <anchor x="-398.8641975308639" y="1506.9382716049383" name="top"/>
+  <outline>
+    <contour>
+      <point x="-334.6296296296294" y="1506.9382716049383" type="line"/>
+      <point x="-454.13580246913557" y="1453.9382716049383"/>
+      <point x="-505.67901234567876" y="1361.6666666666667"/>
+      <point x="-505.67901234567876" y="1261.469135802469" type="curve" smooth="yes"/>
+      <point x="-505.67901234567876" y="1166.2716049382716"/>
+      <point x="-467.75308641975283" y="1115.6913580246915"/>
+      <point x="-396.5925925925923" y="1115.6913580246915" type="curve" smooth="yes"/>
+      <point x="-349.3580246913578" y="1115.6913580246915"/>
+      <point x="-310.1234567901232" y="1149.5802469135801"/>
+      <point x="-310.1234567901232" y="1211.8148148148148" type="curve" smooth="yes"/>
+      <point x="-310.1234567901232" y="1267.3950617283951"/>
+      <point x="-354.3950617283948" y="1296.6296296296296"/>
+      <point x="-398.2839506172837" y="1296.6296296296296" type="curve" smooth="yes"/>
+      <point x="-403.6296296296294" y="1296.6296296296296"/>
+      <point x="-408.2839506172837" y="1296.6296296296296"/>
+      <point x="-414.6296296296294" y="1294.2839506172838" type="curve"/>
+      <point x="-409.32098765432073" y="1354.6666666666667"/>
+      <point x="-373.70370370370347" y="1402.3950617283951"/>
+      <point x="-295.70370370370347" y="1437.1604938271605" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>18</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

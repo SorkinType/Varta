@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.sups" format="2">
+  <advance width="717"/>
+  <unicode hex="1D4F"/>
+  <outline>
+    <contour>
+      <point x="98" y="532" type="line"/>
+      <point x="258" y="532" type="line"/>
+      <point x="258" y="697" type="line"/>
+      <point x="357" y="817" type="line"/>
+      <point x="533" y="532" type="line"/>
+      <point x="707" y="532" type="line"/>
+      <point x="448" y="922" type="line"/>
+      <point x="683" y="1197" type="line"/>
+      <point x="508" y="1197" type="line"/>
+      <point x="267" y="894" type="line"/>
+      <point x="258" y="894" type="line"/>
+      <point x="258" y="1488" type="line"/>
+      <point x="98" y="1488" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

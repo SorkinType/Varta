@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron.cap" format="2">
+  <anchor x="0.0" y="886.4197530864199" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-260.7037037037037" y="1489.1481481481483" type="line"/>
+      <point x="260.7037037037037" y="1489.1481481481483" type="line"/>
+      <point x="260.7037037037037" y="1620.8641975308642" type="line"/>
+      <point x="-260.7037037037037" y="1620.8641975308642" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>3</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

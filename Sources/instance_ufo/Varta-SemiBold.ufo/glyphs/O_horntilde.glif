@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorntilde" format="2">
+  <advance width="1358.2839506172838"/>
+  <unicode hex="1EE0"/>
+  <anchor x="682.0864197530864" y="-234.56790123456796" name="btm"/>
+  <anchor x="682.0864197530864" y="1073.0864197530868" name="top"/>
+  <outline>
+    <component base="Ohorn"/>
+    <component base="tilde.cap" xOffset="682.0864197530864"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

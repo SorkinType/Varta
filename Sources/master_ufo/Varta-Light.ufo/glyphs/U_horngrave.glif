@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorngrave" format="2">
+  <advance width="1326"/>
+  <unicode hex="1EEA"/>
+  <anchor x="648" y="-300" name="btm"/>
+  <anchor x="647" y="1590" name="top"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="grave.cap" xOffset="606"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

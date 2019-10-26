@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcomb" format="2">
+  <unicode hex="0328"/>
+  <anchor x="20.407407407407412" y="-276.5432098765432" name="_btm"/>
+  <outline>
+    <contour>
+      <point x="155.90123456790124" y="-288.0246913580247" type="line"/>
+      <point x="131.83950617283952" y="-305.08641975308643"/>
+      <point x="105.60493827160494" y="-314.55555555555554"/>
+      <point x="72.54320987654322" y="-314.55555555555554" type="curve" smooth="yes"/>
+      <point x="23.246913580246915" y="-314.55555555555554"/>
+      <point x="-22.28395061728395" y="-283.7283950617284"/>
+      <point x="-22.28395061728395" y="-218.1358024691358" type="curve" smooth="yes"/>
+      <point x="-22.28395061728395" y="-137.71604938271605"/>
+      <point x="30.37037037037037" y="-59.2962962962963"/>
+      <point x="119.49382716049382" y="6.530864197530864" type="curve"/>
+      <point x="5.222222222222225" y="6.530864197530864" type="line"/>
+      <point x="-62.901234567901234" y="-45.358024691358025"/>
+      <point x="-139.77777777777777" y="-138.12345679012347"/>
+      <point x="-139.77777777777777" y="-248.2962962962963" type="curve" smooth="yes"/>
+      <point x="-139.77777777777777" y="-361.7037037037037"/>
+      <point x="-59.432098765432094" y="-421.17283950617286"/>
+      <point x="41.14814814814815" y="-421.17283950617286" type="curve" smooth="yes"/>
+      <point x="91.0246913580247" y="-421.17283950617286"/>
+      <point x="160.83950617283952" y="-396.7037037037037"/>
+      <point x="198.71604938271605" y="-367.2962962962963" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

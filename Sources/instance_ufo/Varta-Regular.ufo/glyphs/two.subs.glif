@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.subs" format="2">
+  <advance width="749.8148148148148"/>
+  <unicode hex="2082"/>
+  <outline>
+    <contour>
+      <point x="107.88888888888889" y="-416.8395061728395" type="line"/>
+      <point x="652.2222222222222" y="-416.8395061728395" type="line"/>
+      <point x="652.2222222222222" y="-310.51851851851853" type="line"/>
+      <point x="305.2962962962963" y="-310.51851851851853" type="line"/>
+      <point x="480.85185185185185" y="-132.320987654321"/>
+      <point x="610.0987654320987" y="-5.96296296296296"/>
+      <point x="610.0987654320987" y="149.51851851851853" type="curve" smooth="yes"/>
+      <point x="610.0987654320987" y="318.7530864197531"/>
+      <point x="504.4567901234568" y="406.9259259259259"/>
+      <point x="347.641975308642" y="406.9259259259259" type="curve" smooth="yes"/>
+      <point x="240.53086419753086" y="406.9259259259259"/>
+      <point x="143.2962962962963" y="343.0987654320988"/>
+      <point x="84.24691358024691" y="253.7530864197531" type="curve"/>
+      <point x="158.0493827160494" y="185.65432098765433" type="line"/>
+      <point x="203.0493827160494" y="252.4814814814815"/>
+      <point x="263.17283950617286" y="302.8395061728395"/>
+      <point x="332.2962962962963" y="302.8395061728395" type="curve" smooth="yes"/>
+      <point x="428.24691358024694" y="302.8395061728395"/>
+      <point x="488.9012345679012" y="237.1851851851852"/>
+      <point x="488.9012345679012" y="132.7037037037037" type="curve" smooth="yes"/>
+      <point x="488.9012345679012" y="8.987654320987657"/>
+      <point x="359.55555555555554" y="-116.48148148148148"/>
+      <point x="107.88888888888889" y="-344.5061728395062" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>22</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

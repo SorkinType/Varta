@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="948.7654320987654"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="394.2716049382716" y="-164.0" type="line"/>
+      <point x="554.1851851851851" y="-164.0" type="line"/>
+      <point x="542.9135802469135" y="987.5061728395062" type="line"/>
+      <point x="841.6172839506172" y="976.2345679012346" type="line"/>
+      <point x="841.6172839506172" y="1137.8024691358025" type="line"/>
+      <point x="542.9135802469135" y="1125.530864197531" type="line"/>
+      <point x="554.1851851851851" y="1458.0" type="line"/>
+      <point x="394.2716049382716" y="1458.0" type="line"/>
+      <point x="405.5432098765432" y="1125.530864197531" type="line"/>
+      <point x="107.49382716049384" y="1137.8024691358025" type="line"/>
+      <point x="107.49382716049384" y="976.2345679012346" type="line"/>
+      <point x="405.5432098765432" y="987.5061728395062" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>11</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

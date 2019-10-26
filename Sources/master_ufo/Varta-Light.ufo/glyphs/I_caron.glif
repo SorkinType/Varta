@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icaron" format="2">
+  <advance width="507"/>
+  <unicode hex="01CF"/>
+  <anchor x="254" y="0" name="bottom"/>
+  <anchor x="456" y="10" name="ogonek"/>
+  <anchor x="254" y="1346" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="caron.cap" xOffset="254"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

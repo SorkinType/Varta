@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d-deva" format="2">
+  <advance width="1030.2345679012346"/>
+  <anchor x="560.8765432098766" y="24.481481481481538" name="bottom"/>
+  <anchor x="527.0864197530864" y="1167.3456790123457" name="candra"/>
+  <anchor x="39.85185185185188" y="68.86419753086417" name="nukta"/>
+  <anchor x="720.6543209876543" y="1167.3456790123457" name="top"/>
+  <outline>
+    <component base="da-deva"/>
+    <component base="halant-deva" xOffset="425.22222222222223" yOffset="-16.691358024691326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

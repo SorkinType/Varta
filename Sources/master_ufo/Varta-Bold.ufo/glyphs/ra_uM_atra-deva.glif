@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra_uMatra-deva" format="2">
+  <advance width="1117"/>
+  <anchor x="644" y="95" name="bottom"/>
+  <anchor x="571" y="1167" name="candra"/>
+  <anchor x="140" y="140" name="nukta"/>
+  <anchor x="462" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="501" y="-30" type="line"/>
+      <point x="673" y="93" type="line"/>
+      <point x="291.091" y="611" type="line"/>
+      <point x="291" y="592" type="line"/>
+      <point x="320" y="573"/>
+      <point x="354" y="568"/>
+      <point x="388" y="572" type="curve" smooth="yes"/>
+      <point x="427" y="576"/>
+      <point x="459" y="591"/>
+      <point x="484" y="615" type="curve" smooth="yes"/>
+      <point x="593" y="715"/>
+      <point x="651" y="771"/>
+      <point x="741" y="771" type="curve" smooth="yes"/>
+      <point x="824" y="771"/>
+      <point x="856" y="724"/>
+      <point x="856" y="659" type="curve" smooth="yes"/>
+      <point x="856" y="591"/>
+      <point x="818" y="488"/>
+      <point x="707" y="369" type="curve"/>
+      <point x="863" y="243" type="line"/>
+      <point x="1016" y="403"/>
+      <point x="1048" y="539"/>
+      <point x="1048" y="641" type="curve" smooth="yes"/>
+      <point x="1048" y="836"/>
+      <point x="937" y="958"/>
+      <point x="764" y="958" type="curve" smooth="yes"/>
+      <point x="666" y="958"/>
+      <point x="550" y="913"/>
+      <point x="490" y="817" type="curve"/>
+      <point x="557" y="817" type="line"/>
+      <point x="557" y="1187" type="line"/>
+      <point x="357" y="1187" type="line"/>
+      <point x="357" y="838" type="line" smooth="yes"/>
+      <point x="357" y="775"/>
+      <point x="336" y="730"/>
+      <point x="284" y="730" type="curve" smooth="yes"/>
+      <point x="257" y="730"/>
+      <point x="222" y="745"/>
+      <point x="182" y="776" type="curve"/>
+      <point x="47" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="1136" y="1104" type="line"/>
+      <point x="1136" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

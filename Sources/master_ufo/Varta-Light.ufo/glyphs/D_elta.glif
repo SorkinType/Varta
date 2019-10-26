@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Delta" format="2">
+  <advance width="1185"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="59" y="0" type="line"/>
+      <point x="1127" y="0" type="line"/>
+      <point x="1127" y="83" type="line"/>
+      <point x="671" y="1352" type="line"/>
+      <point x="514" y="1352" type="line"/>
+      <point x="59" y="83" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="119" type="line"/>
+      <point x="448" y="777" type="line"/>
+      <point x="590" y="1202" type="line"/>
+      <point x="598" y="1202" type="line"/>
+      <point x="737" y="777" type="line"/>
+      <point x="970" y="119" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

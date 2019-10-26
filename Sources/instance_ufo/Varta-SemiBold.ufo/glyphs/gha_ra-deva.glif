@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gha_ra-deva" format="2">
+  <advance width="1193.5802469135801"/>
+  <anchor x="919.8888888888889" y="27.34567901234568" name="bottom"/>
+  <anchor x="601.6666666666667" y="1167.3456790123457" name="candra"/>
+  <anchor x="920.5802469135803" y="1167.3456790123457" name="top"/>
+  <anchor x="240.76543209876547" y="68.86419753086417" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="344.17283950617286" y="-57.518518518518505" type="line"/>
+      <point x="932.395061728395" y="392.1975308641975" type="line"/>
+      <point x="892.6543209876543" y="512.4197530864197" type="line"/>
+      <point x="234.4567901234568" y="73.77777777777777" type="line"/>
+    </contour>
+    <component base="gha-deva" xOffset="6.580246913580244"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>gh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

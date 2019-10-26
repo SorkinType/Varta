@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oMatra_anusvara-deva" format="2">
+  <advance width="561"/>
+  <anchor x="281" y="27" name="bottom"/>
+  <anchor x="287" y="1168" name="candra"/>
+  <anchor x="596" y="1287" name="top"/>
+  <outline>
+    <component base="aaMatra-deva"/>
+    <component base="eMatra-deva" xOffset="11"/>
+    <component base="anusvara-deva" xOffset="158" yOffset="31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

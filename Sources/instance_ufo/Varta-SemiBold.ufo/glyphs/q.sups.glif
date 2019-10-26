@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q.sups" format="2">
+  <advance width="769.1604938271605"/>
+  <outline>
+    <contour>
+      <point x="525.641975308642" y="253.2716049382716" type="line"/>
+      <point x="666.9753086419753" y="253.2716049382716" type="line"/>
+      <point x="666.9753086419753" y="1194.2345679012346" type="line"/>
+      <point x="557.4938271604939" y="1194.2345679012346" type="line"/>
+      <point x="544.5308641975308" y="1127.2716049382716" type="line"/>
+      <point x="537.1851851851852" y="1127.2716049382716" type="line"/>
+      <point x="484.8395061728395" y="1181.888888888889"/>
+      <point x="424.8024691358025" y="1210.888888888889"/>
+      <point x="354.11111111111114" y="1210.888888888889" type="curve" smooth="yes"/>
+      <point x="205.7283950617284" y="1210.888888888889"/>
+      <point x="65.11111111111111" y="1079.5802469135801"/>
+      <point x="65.11111111111111" y="863.2716049382716" type="curve" smooth="yes"/>
+      <point x="65.11111111111111" y="645.9629629629629"/>
+      <point x="173.41975308641975" y="516.0"/>
+      <point x="347.7654320987654" y="516.0" type="curve" smooth="yes"/>
+      <point x="417.5308641975309" y="516.0"/>
+      <point x="484.22222222222223" y="550.0370370370371"/>
+      <point x="532.9506172839506" y="596.7283950617284" type="curve"/>
+      <point x="525.641975308642" y="479.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="525.641975308642" y="705.0123456790124" type="line"/>
+      <point x="475.4938271604938" y="654.2469135802469"/>
+      <point x="430.0" y="633.8271604938271"/>
+      <point x="379.2345679012346" y="633.8271604938271" type="curve" smooth="yes"/>
+      <point x="265.55555555555554" y="633.8271604938271"/>
+      <point x="210.44444444444443" y="719.0864197530864"/>
+      <point x="210.44444444444443" y="865.2716049382716" type="curve" smooth="yes"/>
+      <point x="210.44444444444443" y="1009.1111111111111"/>
+      <point x="289.28395061728395" y="1094.0617283950617"/>
+      <point x="377.2345679012346" y="1094.0617283950617" type="curve" smooth="yes"/>
+      <point x="423.69135802469134" y="1094.0617283950617"/>
+      <point x="475.4938271604938" y="1073.679012345679"/>
+      <point x="525.641975308642" y="1031.530864197531" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>18</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>3</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

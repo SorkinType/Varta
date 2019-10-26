@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.pnum" format="2">
+  <advance width="1116.3333333333333"/>
+  <outline>
+    <contour>
+      <point x="558.6666666666666" y="-25.0" type="curve" smooth="yes"/>
+      <point x="844.4444444444445" y="-25.0"/>
+      <point x="1004.6419753086419" y="237.80246913580248"/>
+      <point x="1004.6419753086419" y="674.3827160493827" type="curve" smooth="yes"/>
+      <point x="1004.6419753086419" y="1110.6172839506173"/>
+      <point x="844.4444444444445" y="1368.037037037037"/>
+      <point x="558.6666666666666" y="1368.037037037037" type="curve" smooth="yes"/>
+      <point x="272.2345679012346" y="1368.037037037037"/>
+      <point x="112.03703703703704" y="1112.6172839506173"/>
+      <point x="112.03703703703704" y="674.3827160493827" type="curve" smooth="yes"/>
+      <point x="112.03703703703704" y="237.80246913580248"/>
+      <point x="272.2345679012346" y="-25.0"/>
+    </contour>
+    <contour>
+      <point x="558.6666666666666" y="132.53086419753083" type="curve" smooth="yes"/>
+      <point x="398.641975308642" y="132.53086419753083"/>
+      <point x="304.69135802469134" y="298.5432098765432"/>
+      <point x="304.69135802469134" y="674.3827160493827" type="curve" smooth="yes"/>
+      <point x="304.69135802469134" y="1050.8765432098764"/>
+      <point x="398.641975308642" y="1210.1604938271605"/>
+      <point x="558.6666666666666" y="1210.1604938271605" type="curve" smooth="yes"/>
+      <point x="717.0370370370371" y="1210.1604938271605"/>
+      <point x="812.641975308642" y="1050.8765432098764"/>
+      <point x="812.641975308642" y="674.3827160493827" type="curve" smooth="yes"/>
+      <point x="812.641975308642" y="298.5432098765432"/>
+      <point x="717.0370370370371" y="132.53086419753083"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>11</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

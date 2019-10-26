@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute" format="2">
+  <advance width="1114.469135802469"/>
+  <unicode hex="00B4"/>
+  <anchor x="486.8395061728395" y="886.4197530864199" name="_top"/>
+  <outline>
+    <contour>
+      <point x="379.2345679012346" y="1174.3086419753085" type="line"/>
+      <point x="523.5308641975308" y="1174.3086419753085" type="line"/>
+      <point x="758.0370370370371" y="1465.5061728395062" type="line"/>
+      <point x="563.5802469135803" y="1465.5061728395062" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>1</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

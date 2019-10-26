@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="triagdn" format="2">
+  <advance width="1159"/>
+  <unicode hex="25BC"/>
+  <outline>
+    <contour>
+      <point x="577" y="67" type="line"/>
+      <point x="585" y="67" type="line"/>
+      <point x="1110" y="1062" type="line"/>
+      <point x="1110" y="1066" type="line"/>
+      <point x="49" y="1066" type="line"/>
+      <point x="49" y="1062" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

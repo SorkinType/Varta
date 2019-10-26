@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="secondtonechinese" format="2">
+  <advance width="458.28395061728395"/>
+  <unicode hex="02CA"/>
+  <outline>
+    <contour>
+      <point x="95.95061728395062" y="1173.469135802469" type="line"/>
+      <point x="216.320987654321" y="1173.469135802469" type="line"/>
+      <point x="446.3703703703704" y="1460.0493827160494" type="line"/>
+      <point x="281.48148148148147" y="1460.0493827160494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>1</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

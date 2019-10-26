@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ss_tt_rakar-deva" format="2">
+  <advance width="949.7777777777778"/>
+  <anchor x="571.9629629629629" y="-333.679012345679" name="bottom"/>
+  <anchor x="506.95061728395063" y="1167.7654320987654" name="candra"/>
+  <anchor x="791.2469135802469" y="1167.7654320987654" name="top"/>
+  <outline>
+    <component base="ss_tta-deva"/>
+    <component base="rakar-deva" xOffset="268.8395061728395" yOffset="-434.9753086419753"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ss-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tt-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

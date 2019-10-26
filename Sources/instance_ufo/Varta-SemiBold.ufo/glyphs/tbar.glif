@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="707.2962962962963"/>
+  <unicode hex="0167"/>
+  <anchor x="374.11111111111114" y="-234.56790123456796" name="btm"/>
+  <anchor x="640.9012345679013" y="1020.0123456790124" name="car"/>
+  <anchor x="297.28395061728395" y="1097.4444444444446" name="top"/>
+  <outline>
+    <contour>
+      <point x="48.76543209876544" y="501.5555555555556" type="line"/>
+      <point x="648.9506172839506" y="501.5555555555556" type="line"/>
+      <point x="648.9506172839506" y="654.4320987654321" type="line"/>
+      <point x="48.76543209876544" y="654.4320987654321" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>3</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>3</integer>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

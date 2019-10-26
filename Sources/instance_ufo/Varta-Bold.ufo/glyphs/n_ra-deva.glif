@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n_ra-deva" format="2">
+  <advance width="1305"/>
+  <anchor x="1053" y="27" name="bottom"/>
+  <anchor x="999" y="1167" name="candra"/>
+  <anchor x="681" y="97" name="nukta"/>
+  <anchor x="999" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="1021" y="-36" type="line"/>
+      <point x="1191" y="86" type="line"/>
+      <point x="835" y="557" type="line"/>
+      <point x="832" y="547" type="line"/>
+      <point x="848" y="537"/>
+      <point x="873" y="532"/>
+      <point x="897.909" y="531.909" type="curve" smooth="yes"/>
+      <point x="1012" y="532"/>
+      <point x="1105" y="618"/>
+      <point x="1105" y="795" type="curve" smooth="yes"/>
+      <point x="1105" y="1176" type="line"/>
+      <point x="895" y="1176" type="line"/>
+      <point x="895" y="801" type="line" smooth="yes"/>
+      <point x="895" y="729"/>
+      <point x="877" y="692"/>
+      <point x="818" y="692" type="curve" smooth="yes"/>
+      <point x="771" y="692"/>
+      <point x="713.909" y="730"/>
+      <point x="673" y="775" type="curve"/>
+      <point x="561" y="664" type="line"/>
+    </contour>
+    <contour>
+      <point x="199" y="387" type="line"/>
+      <point x="346" y="387"/>
+      <point x="369" y="468"/>
+      <point x="369" y="568" type="curve" smooth="yes"/>
+      <point x="369" y="775" type="line"/>
+      <point x="45" y="775" type="line"/>
+      <point x="45" y="611" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="589" type="line"/>
+      <point x="684" y="589" type="line"/>
+      <point x="672" y="775" type="line"/>
+      <point x="170" y="775" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="1324" y="1104" type="line"/>
+      <point x="1324" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

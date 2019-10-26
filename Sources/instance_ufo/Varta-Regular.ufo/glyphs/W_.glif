@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="1593.148148148148"/>
+  <unicode hex="0057"/>
+  <anchor x="796.6913580246913" y="0.0" name="bottom"/>
+  <anchor x="796.6913580246913" y="1344.5925925925926" name="top"/>
+  <outline>
+    <contour>
+      <point x="330.4938271604938" y="0.0" type="line"/>
+      <point x="517.8888888888889" y="0.0" type="line"/>
+      <point x="724.5679012345679" y="827.679012345679" type="line"/>
+      <point x="748.0987654320987" y="932.2098765432099"/>
+      <point x="771.1604938271605" y="1028.6172839506173"/>
+      <point x="792.6913580246913" y="1132.9135802469136" type="curve"/>
+      <point x="800.925925925926" y="1132.9135802469136" type="line"/>
+      <point x="820.7530864197531" y="1028.6172839506173"/>
+      <point x="843.283950617284" y="932.2098765432099"/>
+      <point x="866.0493827160494" y="827.679012345679" type="curve"/>
+      <point x="1076.4938271604938" y="0.0" type="line"/>
+      <point x="1265.8271604938273" y="0.0" type="line"/>
+      <point x="1548.7283950617284" y="1344.5925925925926" type="line"/>
+      <point x="1394.9012345679012" y="1344.5925925925926" type="line"/>
+      <point x="1248.7037037037037" y="603.3086419753087" type="line"/>
+      <point x="1223.8765432098764" y="459.2469135802469"/>
+      <point x="1197.8148148148148" y="314.48148148148147"/>
+      <point x="1171.2222222222222" y="167.9506172839506" type="curve"/>
+      <point x="1162.2222222222222" y="167.9506172839506" type="line"/>
+      <point x="1129.9259259259259" y="314.48148148148147"/>
+      <point x="1096.8641975308642" y="460.48148148148147"/>
+      <point x="1064.567901234568" y="603.3086419753087" type="curve"/>
+      <point x="873.9012345679013" y="1344.5925925925926" type="line"/>
+      <point x="728.1234567901234" y="1344.5925925925926" type="line"/>
+      <point x="537.4567901234568" y="603.3086419753087" type="line"/>
+      <point x="504.1604938271605" y="459.01234567901236"/>
+      <point x="471.0987654320988" y="313.48148148148147"/>
+      <point x="441.8024691358025" y="167.9506172839506" type="curve"/>
+      <point x="433.5679012345679" y="167.9506172839506" type="line"/>
+      <point x="406.74074074074076" y="313.48148148148147"/>
+      <point x="379.679012345679" y="458.01234567901236"/>
+      <point x="351.32098765432096" y="603.3086419753087" type="curve"/>
+      <point x="206.88888888888889" y="1344.5925925925926" type="line"/>
+      <point x="42.123456790123456" y="1344.5925925925926" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>33</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>4</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

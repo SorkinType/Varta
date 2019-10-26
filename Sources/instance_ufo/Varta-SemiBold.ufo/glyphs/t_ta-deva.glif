@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_ta-deva" format="2">
+  <advance width="1293.3086419753085"/>
+  <anchor x="1018.6172839506173" y="27.34567901234568" name="bottom"/>
+  <anchor x="636.8271604938273" y="1167.3456790123457" name="candra"/>
+  <anchor x="1021.0" y="1167.3456790123457" name="top"/>
+  <anchor x="220.49382716049388" y="68.86419753086417" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="73.0" y="681.9382716049383" type="line"/>
+      <point x="630.0" y="681.9382716049383" type="line"/>
+      <point x="630.0" y="845.9753086419753" type="line"/>
+      <point x="73.0" y="845.9753086419753" type="line"/>
+    </contour>
+    <contour>
+      <point x="-16.580246913580243" y="1117.4814814814815" type="line"/>
+      <point x="368.0" y="1117.4814814814815" type="line"/>
+      <point x="368.0" y="1273.1728395061727" type="line"/>
+      <point x="-16.580246913580243" y="1273.1728395061727" type="line"/>
+    </contour>
+    <component base="ta-deva" xOffset="185.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ta-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

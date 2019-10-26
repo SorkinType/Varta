@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v_na-deva" format="2">
+  <advance width="1089.962962962963"/>
+  <anchor x="811.0" y="27.34567901234568" name="bottom"/>
+  <anchor x="522.1975308641976" y="1167.3456790123457" name="candra"/>
+  <anchor x="168.1728395061729" y="68.86419753086417" name="nukta"/>
+  <anchor x="811.0" y="1167.3456790123457" name="top"/>
+  <outline>
+    <contour>
+      <point x="401.58024691358025" y="-155.02469135802465" type="line"/>
+      <point x="438.6296296296297" y="-125.86419753086417"/>
+      <point x="453.17283950617286" y="-97.04938271604937"/>
+      <point x="454.8271604938272" y="-69.5432098765432" type="curve" smooth="yes"/>
+      <point x="455.4814814814815" y="-44.30864197530864"/>
+      <point x="447.17283950617286" y="-19.074074074074076"/>
+      <point x="432.8641975308642" y="3.1975308641975264" type="curve" smooth="yes"/>
+      <point x="383.4938271604938" y="77.64197530864199" type="line"/>
+      <point x="366.8024691358025" y="19.71604938271606" type="line"/>
+      <point x="790.8518518518518" y="349.14814814814815" type="line"/>
+      <point x="696.1234567901234" y="435.11111111111114" type="line"/>
+      <point x="120.18518518518522" y="48.96296296296296" type="line"/>
+      <point x="183.38271604938274" y="-69.5185185185185" type="line"/>
+    </contour>
+    <component base="va-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>v-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>na-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

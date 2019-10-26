@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bba-deva" format="2">
+  <advance width="1107.6913580246915"/>
+  <unicode hex="097F"/>
+  <anchor x="829.9876543209876" y="27.765432098765434" name="bottom"/>
+  <anchor x="574.8395061728395" y="1167.7654320987654" name="candra"/>
+  <anchor x="217.74074074074076" y="52.91358024691358" name="nukta"/>
+  <anchor x="829.9876543209876" y="1167.7654320987654" name="top"/>
+  <outline>
+    <contour>
+      <point x="84.60493827160494" y="-62.32098765432099" type="line"/>
+      <point x="902.8395061728395" y="-62.32098765432099" type="line"/>
+      <point x="902.8395061728395" y="55.629629629629626" type="line"/>
+      <point x="84.60493827160494" y="55.629629629629626" type="line"/>
+    </contour>
+    <component base="ba-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

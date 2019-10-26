@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reph_anusvara-deva" format="2">
+  <advance width="584"/>
+  <anchor x="275" y="1168" name="_top"/>
+  <anchor x="387" y="1548" name="candra"/>
+  <outline>
+    <component base="reph-deva" xOffset="2"/>
+    <component base="anusvara-deva" xOffset="129" yOffset="-110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

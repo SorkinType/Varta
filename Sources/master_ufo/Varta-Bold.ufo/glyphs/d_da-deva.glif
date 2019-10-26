@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d_da-deva" format="2">
+  <advance width="1152"/>
+  <anchor x="646" y="-104" name="bottom"/>
+  <anchor x="569" y="1167" name="candra"/>
+  <anchor x="677" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="653" y="252" type="line"/>
+      <point x="799" y="58" type="line"/>
+      <point x="855" y="167" type="line"/>
+      <point x="748" y="56"/>
+      <point x="663" y="12"/>
+      <point x="541" y="12" type="curve" smooth="yes"/>
+      <point x="377" y="12"/>
+      <point x="316" y="89"/>
+      <point x="316" y="178" type="curve" smooth="yes"/>
+      <point x="316" y="295"/>
+      <point x="407" y="354"/>
+      <point x="616" y="381" type="curve"/>
+      <point x="582" y="534" type="line"/>
+      <point x="185" y="503"/>
+      <point x="109" y="333"/>
+      <point x="109" y="174" type="curve" smooth="yes"/>
+      <point x="109" y="8"/>
+      <point x="251" y="-165"/>
+      <point x="521" y="-165" type="curve" smooth="yes"/>
+      <point x="693" y="-165"/>
+      <point x="866" y="-102"/>
+      <point x="948" y="-10" type="curve" smooth="yes"/>
+      <point x="990" y="38"/>
+      <point x="1010" y="99"/>
+      <point x="1009" y="154" type="curve" smooth="yes"/>
+      <point x="1008" y="267"/>
+      <point x="921" y="352"/>
+      <point x="748" y="360" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1064" y="-280" type="line"/>
+      <point x="1204" y="-150" type="line"/>
+      <point x="919" y="125" type="line"/>
+      <point x="809.909" y="44" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="426" type="line"/>
+      <point x="334" y="465"/>
+      <point x="274" y="552"/>
+      <point x="274" y="632" type="curve" smooth="yes"/>
+      <point x="274" y="716"/>
+      <point x="313" y="735"/>
+      <point x="401" y="735" type="curve" smooth="yes"/>
+      <point x="703" y="735" type="line"/>
+      <point x="679" y="922" type="line"/>
+      <point x="364" y="922" type="line" smooth="yes"/>
+      <point x="180" y="922"/>
+      <point x="70" y="836"/>
+      <point x="70" y="691" type="curve" smooth="yes"/>
+      <point x="70" y="528"/>
+      <point x="154" y="441"/>
+      <point x="255" y="377" type="curve"/>
+    </contour>
+    <contour>
+      <point x="573" y="735" type="line"/>
+      <point x="780" y="735" type="line"/>
+      <point x="780" y="1217" type="line"/>
+      <point x="572.909" y="1217.09" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="1072" y="1104" type="line"/>
+      <point x="1072" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>da-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

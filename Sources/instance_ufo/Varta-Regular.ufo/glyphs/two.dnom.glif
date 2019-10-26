@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.dnom" format="2">
+  <advance width="756.8518518518518"/>
+  <outline>
+    <contour>
+      <point x="111.4074074074074" y="0.0" type="line"/>
+      <point x="655.7407407407408" y="0.0" type="line"/>
+      <point x="655.7407407407408" y="105.55555555555556" type="line"/>
+      <point x="308.8148148148148" y="105.55555555555556" type="line"/>
+      <point x="484.3703703703704" y="284.28395061728395"/>
+      <point x="613.6172839506173" y="410.1111111111111"/>
+      <point x="613.6172839506173" y="565.358024691358" type="curve" smooth="yes"/>
+      <point x="613.6172839506173" y="733.8271604938271"/>
+      <point x="507.9753086419753" y="823.0"/>
+      <point x="351.1604938271605" y="823.0" type="curve" smooth="yes"/>
+      <point x="244.0493827160494" y="823.0"/>
+      <point x="146.8148148148148" y="759.1728395061729"/>
+      <point x="87.76543209876543" y="668.8271604938271" type="curve"/>
+      <point x="161.5679012345679" y="601.4938271604939" type="line"/>
+      <point x="206.5679012345679" y="667.5555555555555"/>
+      <point x="266.69135802469134" y="719.679012345679"/>
+      <point x="335.81481481481484" y="719.679012345679" type="curve" smooth="yes"/>
+      <point x="431.7654320987654" y="719.679012345679"/>
+      <point x="492.41975308641975" y="654.0246913580247"/>
+      <point x="492.41975308641975" y="547.7777777777778" type="curve" smooth="yes"/>
+      <point x="492.41975308641975" y="424.82716049382714"/>
+      <point x="363.0740740740741" y="299.358024691358"/>
+      <point x="111.4074074074074" y="72.09876543209876" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>22</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

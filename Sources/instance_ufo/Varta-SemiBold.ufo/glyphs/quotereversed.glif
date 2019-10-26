@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotereversed" format="2">
+  <advance width="531.4567901234568"/>
+  <unicode hex="201B"/>
+  <outline>
+    <component base="quoteleft" yScale="-1.0" xOffset="7.22222222222223" yOffset="2240.4320987654323"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 04:37:59</string>
+    </dict>
+  </lib>
+</glyph>

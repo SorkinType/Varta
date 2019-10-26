@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightFacingSvasti" format="2">
+  <advance width="1622.0"/>
+  <unicode hex="0FD5"/>
+  <outline>
+    <contour>
+      <point x="720.8641975308642" y="0.6543209876543206" type="line"/>
+      <point x="901.8271604938271" y="0.6543209876543206" type="line"/>
+      <point x="901.8271604938271" y="1225.5555555555554" type="line"/>
+      <point x="720.8641975308642" y="1225.5555555555554" type="line"/>
+    </contour>
+    <contour>
+      <point x="170.8641975308642" y="0.6543209876543206" type="line"/>
+      <point x="901.8271604938271" y="0.6543209876543206" type="line"/>
+      <point x="901.8271604938271" y="156.037037037037" type="line"/>
+      <point x="170.8641975308642" y="156.037037037037" type="line"/>
+    </contour>
+    <contour>
+      <point x="170.8641975308642" y="577.5925925925926" type="line"/>
+      <point x="351.82716049382714" y="577.5925925925926" type="line"/>
+      <point x="351.82716049382714" y="1273.1728395061727" type="line"/>
+      <point x="170.8641975308642" y="1273.1728395061727" type="line"/>
+    </contour>
+    <contour>
+      <point x="170.8641975308642" y="567.3333333333334" type="line"/>
+      <point x="1451.8271604938273" y="567.3333333333334" type="line"/>
+      <point x="1451.8271604938273" y="723.3703703703703" type="line"/>
+      <point x="170.8641975308642" y="723.3703703703703" type="line"/>
+    </contour>
+    <contour>
+      <point x="1270.8641975308642" y="0.6543209876543206" type="line"/>
+      <point x="1451.8271604938273" y="0.6543209876543206" type="line"/>
+      <point x="1451.8271604938273" y="723.3703703703703" type="line"/>
+      <point x="1270.8641975308642" y="723.3703703703703" type="line"/>
+    </contour>
+    <contour>
+      <point x="720.8641975308642" y="1117.4814814814815" type="line"/>
+      <point x="1451.8271604938273" y="1117.4814814814815" type="line"/>
+      <point x="1451.8271604938273" y="1273.1728395061727" type="line"/>
+      <point x="720.8641975308642" y="1273.1728395061727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

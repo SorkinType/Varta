@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gh_h-deva" format="2">
+  <advance width="614"/>
+  <anchor x="345" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="236" y="465" type="line"/>
+      <point x="446" y="653" type="line"/>
+      <point x="446" y="1176" type="line"/>
+      <point x="236" y="1176" type="line"/>
+    </contour>
+    <contour>
+      <point x="328" y="36" type="curve" smooth="yes"/>
+      <point x="402" y="36"/>
+      <point x="433" y="67"/>
+      <point x="433" y="139" type="curve" smooth="yes"/>
+      <point x="433" y="212"/>
+      <point x="402" y="243"/>
+      <point x="328" y="243" type="curve" smooth="yes"/>
+      <point x="255" y="243"/>
+      <point x="223" y="212"/>
+      <point x="223" y="139" type="curve" smooth="yes"/>
+      <point x="223" y="67"/>
+      <point x="255" y="36"/>
+    </contour>
+    <contour>
+      <point x="278" y="357" type="line"/>
+      <point x="418" y="358"/>
+      <point x="446" y="424"/>
+      <point x="446" y="506" type="curve" smooth="yes"/>
+      <point x="446" y="729" type="line"/>
+      <point x="281" y="729" type="line"/>
+      <point x="93" y="706" type="line"/>
+      <point x="93" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="1104" type="line"/>
+      <point x="633" y="1104" type="line"/>
+      <point x="633" y="1287" type="line"/>
+      <point x="-10" y="1287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>gh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="1584"/>
+  <unicode hex="0057"/>
+  <anchor x="792" y="0" name="bottom"/>
+  <anchor x="792" y="1346" name="top"/>
+  <outline>
+    <contour>
+      <point x="338" y="0" type="line"/>
+      <point x="501" y="0" type="line"/>
+      <point x="718" y="857" type="line"/>
+      <point x="742" y="962"/>
+      <point x="766" y="1057"/>
+      <point x="788" y="1162" type="curve"/>
+      <point x="796" y="1162" type="line"/>
+      <point x="817" y="1057"/>
+      <point x="840" y="962"/>
+      <point x="863" y="857" type="curve"/>
+      <point x="1084" y="0" type="line"/>
+      <point x="1248" y="0" type="line"/>
+      <point x="1537" y="1346" type="line"/>
+      <point x="1401" y="1346" type="line"/>
+      <point x="1248" y="589" type="line"/>
+      <point x="1222" y="444"/>
+      <point x="1195" y="299"/>
+      <point x="1167" y="152" type="curve"/>
+      <point x="1158" y="152" type="line"/>
+      <point x="1125" y="299"/>
+      <point x="1091" y="445"/>
+      <point x="1058" y="589" type="curve"/>
+      <point x="861" y="1346" type="line"/>
+      <point x="730" y="1346" type="line"/>
+      <point x="533" y="589" type="line"/>
+      <point x="499" y="444"/>
+      <point x="465" y="298"/>
+      <point x="435" y="152" type="curve"/>
+      <point x="427" y="152" type="line"/>
+      <point x="399" y="298"/>
+      <point x="371" y="443"/>
+      <point x="341" y="589" type="curve"/>
+      <point x="190" y="1346" type="line"/>
+      <point x="44" y="1346" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>33</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>4</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

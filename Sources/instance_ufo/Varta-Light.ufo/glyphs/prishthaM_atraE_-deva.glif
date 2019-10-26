@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prishthaMatraE-deva" format="2">
+  <advance width="569"/>
+  <unicode hex="094E"/>
+  <anchor x="285" y="28" name="bottom"/>
+  <anchor x="285" y="1168" name="top"/>
+  <outline>
+    <contour>
+      <point x="221" y="0" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="348" y="1193" type="line"/>
+      <point x="221" y="1193" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="1143" type="line"/>
+      <point x="581" y="1143" type="line"/>
+      <point x="581" y="1247" type="line"/>
+      <point x="221" y="1247" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

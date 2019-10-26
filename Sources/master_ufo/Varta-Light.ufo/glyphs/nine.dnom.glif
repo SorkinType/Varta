@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.dnom" format="2">
+  <advance width="777"/>
+  <outline>
+    <contour>
+      <point x="132" y="32" type="line"/>
+      <point x="179" y="1"/>
+      <point x="232" y="-25"/>
+      <point x="319" y="-25" type="curve" smooth="yes"/>
+      <point x="505" y="-25"/>
+      <point x="660" y="111"/>
+      <point x="660" y="424" type="curve" smooth="yes"/>
+      <point x="660" y="675"/>
+      <point x="541" y="823"/>
+      <point x="357" y="823" type="curve" smooth="yes"/>
+      <point x="209" y="823"/>
+      <point x="97" y="708"/>
+      <point x="97" y="555" type="curve" smooth="yes"/>
+      <point x="97" y="405"/>
+      <point x="186" y="299"/>
+      <point x="347" y="299" type="curve" smooth="yes"/>
+      <point x="425" y="299"/>
+      <point x="495" y="329"/>
+      <point x="554" y="386" type="curve"/>
+      <point x="542" y="162"/>
+      <point x="435" y="65"/>
+      <point x="317" y="65" type="curve" smooth="yes"/>
+      <point x="261" y="65"/>
+      <point x="218" y="86"/>
+      <point x="179" y="112" type="curve"/>
+    </contour>
+    <contour>
+      <point x="365" y="382" type="curve" smooth="yes"/>
+      <point x="258" y="382"/>
+      <point x="200" y="457"/>
+      <point x="200" y="557" type="curve" smooth="yes"/>
+      <point x="200" y="659"/>
+      <point x="265" y="734"/>
+      <point x="357" y="734" type="curve" smooth="yes"/>
+      <point x="468" y="734"/>
+      <point x="542" y="645"/>
+      <point x="554" y="477" type="curve"/>
+      <point x="487" y="406"/>
+      <point x="432" y="382"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>11</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

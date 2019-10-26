@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ha_uuMatra-deva" format="2">
+  <advance width="1086"/>
+  <anchor x="744" y="-637" name="bottom"/>
+  <anchor x="516" y="1167" name="candra"/>
+  <anchor x="752" y="1168" name="top"/>
+  <outline>
+    <contour>
+      <point x="683" y="-594" type="line"/>
+      <point x="652" y="-600"/>
+      <point x="630" y="-601"/>
+      <point x="608" y="-601" type="curve" smooth="yes"/>
+      <point x="505" y="-601"/>
+      <point x="417" y="-567"/>
+      <point x="417" y="-454" type="curve" smooth="yes"/>
+      <point x="417" y="-356"/>
+      <point x="477" y="-303"/>
+      <point x="589" y="-303" type="curve" smooth="yes"/>
+      <point x="715" y="-303"/>
+      <point x="842" y="-359"/>
+      <point x="1022" y="-661" type="curve"/>
+      <point x="1099" y="-597" type="line"/>
+      <point x="989" y="-401"/>
+      <point x="884" y="-282"/>
+      <point x="741" y="-223" type="curve" smooth="yes"/>
+      <point x="625" y="-176"/>
+      <point x="227" y="-77"/>
+      <point x="224" y="208" type="curve" smooth="yes"/>
+      <point x="224" y="359"/>
+      <point x="328" y="436"/>
+      <point x="534" y="436" type="curve" smooth="yes"/>
+      <point x="692" y="436"/>
+      <point x="779" y="390"/>
+      <point x="779" y="290" type="curve" smooth="yes"/>
+      <point x="779" y="205"/>
+      <point x="706" y="158"/>
+      <point x="614" y="141" type="curve"/>
+      <point x="646" y="41" type="line"/>
+      <point x="789" y="57"/>
+      <point x="892" y="155"/>
+      <point x="892" y="288" type="curve" smooth="yes"/>
+      <point x="892" y="468"/>
+      <point x="750" y="549"/>
+      <point x="535" y="549" type="curve" smooth="yes"/>
+      <point x="341" y="549"/>
+      <point x="98" y="484"/>
+      <point x="98" y="220" type="curve" smooth="yes"/>
+      <point x="98" y="62"/>
+      <point x="207" y="-113"/>
+      <point x="502" y="-239" type="curve"/>
+      <point x="496" y="-216" type="line"/>
+      <point x="368" y="-241"/>
+      <point x="295" y="-329"/>
+      <point x="295" y="-444" type="curve" smooth="yes"/>
+      <point x="295" y="-584"/>
+      <point x="393" y="-709"/>
+      <point x="595" y="-709" type="curve" smooth="yes"/>
+      <point x="625" y="-709"/>
+      <point x="661" y="-705"/>
+      <point x="698" y="-695" type="curve"/>
+    </contour>
+    <contour>
+      <point x="339" y="481" type="line"/>
+      <point x="287" y="566"/>
+      <point x="248" y="648"/>
+      <point x="251" y="720" type="curve" smooth="yes"/>
+      <point x="254" y="784"/>
+      <point x="303" y="810"/>
+      <point x="400" y="810" type="curve" smooth="yes"/>
+      <point x="816" y="810" type="line"/>
+      <point x="816" y="1180" type="line"/>
+      <point x="689" y="1180" type="line"/>
+      <point x="689" y="921" type="line"/>
+      <point x="374" y="921" type="line" smooth="yes"/>
+      <point x="222" y="921"/>
+      <point x="127" y="864"/>
+      <point x="125" y="747" type="curve" smooth="yes"/>
+      <point x="124" y="651"/>
+      <point x="170" y="558"/>
+      <point x="254" y="451" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-12" y="1143" type="line"/>
+      <point x="1001" y="1143" type="line"/>
+      <point x="1001" y="1247" type="line"/>
+      <point x="-12" y="1247" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ha-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ha-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+    </dict>
+  </lib>
+</glyph>

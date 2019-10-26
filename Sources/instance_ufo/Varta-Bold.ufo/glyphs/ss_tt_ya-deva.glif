@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ss_tt_ya-deva" format="2">
+  <advance width="2180"/>
+  <anchor x="522" y="-78" name="bottom_1"/>
+  <anchor x="1908" y="27" name="bottom_2"/>
+  <anchor x="497" y="1167" name="candra_1"/>
+  <anchor x="1582" y="1167" name="candra_2"/>
+  <anchor x="779" y="1167" name="top_1"/>
+  <anchor x="1900" y="1167" name="top_2"/>
+  <outline>
+    <component base="ss_tta-deva"/>
+    <component base="ya-deva.post" xOffset="994"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ss-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ya-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

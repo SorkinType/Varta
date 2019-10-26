@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anusvara-deva.001" format="2">
+  <anchor x="177.7037037037037" y="1273.1728395061727" name="_candra"/>
+  <outline>
+    <contour>
+      <point x="390.12345679012344" y="1527.5925925925926" type="curve" smooth="yes"/>
+      <point x="463.82716049382714" y="1527.5925925925926"/>
+      <point x="495.02469135802465" y="1558.1358024691358"/>
+      <point x="495.02469135802465" y="1630.8395061728395" type="curve" smooth="yes"/>
+      <point x="495.02469135802465" y="1704.1975308641975"/>
+      <point x="463.82716049382714" y="1734.7407407407406"/>
+      <point x="390.12345679012344" y="1734.7407407407406" type="curve" smooth="yes"/>
+      <point x="316.7654320987654" y="1734.7407407407406"/>
+      <point x="285.2222222222222" y="1704.1975308641975"/>
+      <point x="285.2222222222222" y="1630.8395061728395" type="curve" smooth="yes"/>
+      <point x="285.2222222222222" y="1558.1358024691358"/>
+      <point x="316.7654320987654" y="1527.5925925925926"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>540</integer>
+    </dict>
+  </lib>
+</glyph>

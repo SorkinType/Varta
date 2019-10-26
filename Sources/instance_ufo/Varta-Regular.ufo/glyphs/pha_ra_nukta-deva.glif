@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pha_ra_nukta-deva" format="2">
+  <advance width="1570.2592592592594"/>
+  <anchor x="872.641975308642" y="27.765432098765434" name="bottom"/>
+  <anchor x="870.9382716049382" y="1167.7654320987654" name="candra"/>
+  <anchor x="867.4074074074074" y="1167.7654320987654" name="top"/>
+  <anchor x="569.6913580246913" y="28.0" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="562.8765432098766" y="-70.49382716049382" type="curve" smooth="yes"/>
+      <point x="622.3546790123456" y="-70.49382716049382"/>
+      <point x="647.9753086419753" y="-45.617283950617285"/>
+      <point x="647.9753086419753" y="12.60493827160494" type="curve" smooth="yes"/>
+      <point x="647.9753086419753" y="72.06172839506173"/>
+      <point x="622.3333333333334" y="96.93827160493827"/>
+      <point x="562.8765432098766" y="96.93827160493827" type="curve" smooth="yes"/>
+      <point x="503.65432098765433" y="96.93827160493827"/>
+      <point x="477.77777777777777" y="72.06172839506173"/>
+      <point x="477.77777777777777" y="12.60493827160494" type="curve" smooth="yes"/>
+      <point x="477.77777777777777" y="-45.617283950617285"/>
+      <point x="503.65432098765433" y="-70.49382716049382"/>
+    </contour>
+    <component base="pha_ra-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

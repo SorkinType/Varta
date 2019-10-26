@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
+  <advance width="1042"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="155" y="0" type="line"/>
+      <point x="926" y="0" type="line"/>
+      <point x="926" y="175" type="line"/>
+      <point x="668" y="175" type="line"/>
+      <point x="668" y="1343" type="line"/>
+      <point x="501" y="1343" type="line"/>
+      <point x="422" y="1295"/>
+      <point x="335" y="1261"/>
+      <point x="207" y="1238" type="curve"/>
+      <point x="207" y="1094" type="line"/>
+      <point x="448" y="1108" type="line"/>
+      <point x="448" y="175" type="line"/>
+      <point x="155" y="175" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

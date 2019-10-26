@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wacute" format="2">
+  <advance width="1593.148148148148"/>
+  <unicode hex="1E82"/>
+  <anchor x="796.6913580246913" y="0.0" name="bottom"/>
+  <anchor x="796.6913580246913" y="1344.5925925925926" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="acute.cap" xOffset="822.4814814814815"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

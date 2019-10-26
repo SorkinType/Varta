@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k_ssa_uMatra-deva" format="2">
+  <advance width="1324.79012345679"/>
+  <anchor x="1124.5802469135801" y="0.0" name="_bottom"/>
+  <anchor x="1124.5802469135801" y="0.0" name="bottom"/>
+  <anchor x="812.8148148148147" y="1187.0" name="candra"/>
+  <anchor x="51.38271604938265" y="-210.0" name="nukta"/>
+  <anchor x="1124.5802469135801" y="1187.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="920.9259259259259" y="-105.46913580246913" type="line"/>
+      <point x="956.604938271605" y="-93.93827160493825"/>
+      <point x="980.2222222222222" y="-90.59259259259258"/>
+      <point x="1013.0987654320987" y="-90.93827160493825" type="curve" smooth="yes"/>
+      <point x="1083.0617283950617" y="-91.62962962962962"/>
+      <point x="1138.6543209876543" y="-114.48148148148147"/>
+      <point x="1138.6543209876543" y="-209.34567901234567" type="curve" smooth="yes"/>
+      <point x="1138.6543209876543" y="-286.71604938271605"/>
+      <point x="1090.1975308641975" y="-336.9382716049383"/>
+      <point x="975.4444444444445" y="-336.9382716049383" type="curve" smooth="yes"/>
+      <point x="870.2592592592592" y="-336.9382716049383"/>
+      <point x="752.8395061728395" y="-294.5925925925926"/>
+      <point x="580.604938271605" y="-102.51851851851853" type="curve"/>
+      <point x="490.77777777777777" y="-188.41975308641975" type="line"/>
+      <point x="684.2469135802469" y="-432.5061728395062"/>
+      <point x="838.8271604938271" y="-494.04938271604937"/>
+      <point x="978.7901234567901" y="-494.04938271604937" type="curve" smooth="yes"/>
+      <point x="1190.2222222222222" y="-494.04938271604937"/>
+      <point x="1305.7654320987654" y="-372.5432098765432"/>
+      <point x="1305.7654320987654" y="-210.7283950617284" type="curve" smooth="yes"/>
+      <point x="1305.7654320987654" y="-61.64197530864199"/>
+      <point x="1207.641975308642" y="60.90123456790122"/>
+      <point x="1004.8395061728395" y="60.90123456790122" type="curve" smooth="yes"/>
+      <point x="976.679012345679" y="60.90123456790122"/>
+      <point x="936.9876543209876" y="57.93827160493826"/>
+      <point x="886.6172839506172" y="40.604938271604915" type="curve"/>
+    </contour>
+    <component base="k_ssa-deva" xOffset="-85.98765432098767"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>k-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ssa-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut.cap" format="2">
+  <anchor x="89" y="800" name="_top"/>
+  <outline>
+    <contour>
+      <point x="164" y="1442" type="line"/>
+      <point x="321" y="1442" type="line"/>
+      <point x="498" y="1679" type="line"/>
+      <point x="298" y="1679" type="line"/>
+    </contour>
+    <contour>
+      <point x="-179" y="1442" type="line"/>
+      <point x="-20" y="1442" type="line"/>
+      <point x="155" y="1679" type="line"/>
+      <point x="-46" y="1679" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

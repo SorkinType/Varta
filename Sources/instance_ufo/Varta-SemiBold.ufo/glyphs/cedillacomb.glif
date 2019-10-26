@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb" format="2">
+  <unicode hex="0327"/>
+  <anchor x="6.555555555555539" y="-234.56790123456796" name="_btm"/>
+  <outline>
+    <contour>
+      <point x="-150.30864197530863" y="-438.5432098765432" type="line"/>
+      <point x="11.049382716049372" y="-425.5061728395062"/>
+      <point x="156.5185185185185" y="-368.88888888888886"/>
+      <point x="156.5185185185185" y="-246.7283950617284" type="curve" smooth="yes"/>
+      <point x="156.5185185185185" y="-162.7283950617284"/>
+      <point x="103.13580246913578" y="-122.76543209876543"/>
+      <point x="35.827160493827144" y="-100.11111111111111" type="curve"/>
+      <point x="86.2469135802469" y="6.308641975308641" type="line"/>
+      <point x="-34.58024691358025" y="6.308641975308641" type="line"/>
+      <point x="-116.58024691358024" y="-154.30864197530863" type="line"/>
+      <point x="-31.962962962962962" y="-174.96296296296296"/>
+      <point x="11.839506172839512" y="-201.96296296296296"/>
+      <point x="11.839506172839512" y="-251.41975308641975" type="curve" smooth="yes"/>
+      <point x="11.839506172839512" y="-306.7654320987654"/>
+      <point x="-62.197530864197525" y="-335.4567901234568"/>
+      <point x="-168.2716049382716" y="-348.4938271604938" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

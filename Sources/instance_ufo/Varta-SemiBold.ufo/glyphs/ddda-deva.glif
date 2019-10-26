@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddda-deva" format="2">
+  <advance width="1031.8024691358025"/>
+  <unicode hex="097E"/>
+  <anchor x="540.9382716049382" y="-51.172839506172856" name="bottom"/>
+  <anchor x="538.7654320987655" y="1167.3456790123457" name="candra"/>
+  <anchor x="532.5555555555555" y="-210.5802469135802" name="nukta"/>
+  <anchor x="748.283950617284" y="1167.3456790123457" name="top"/>
+  <outline>
+    <contour>
+      <point x="99.41975308641976" y="-312.3827160493827" type="line"/>
+      <point x="950.7654320987654" y="-312.3827160493827" type="line"/>
+      <point x="950.7654320987654" y="-166.23456790123456" type="line"/>
+      <point x="99.41975308641976" y="-166.23456790123456" type="line"/>
+    </contour>
+    <component base="dda-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

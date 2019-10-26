@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_acutecomb.cap" format="2">
+  <anchor x="-553.3333333333333" y="886.4197530864199" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-825.1604938271604" y="1444.7283950617284" type="line"/>
+      <point x="-682.1358024691358" y="1444.7283950617284" type="line"/>
+      <point x="-556.2962962962962" y="1569.1851851851852" type="line"/>
+      <point x="-548.2962962962962" y="1569.1851851851852" type="line"/>
+      <point x="-422.4567901234567" y="1444.7283950617284" type="line"/>
+      <point x="-279.43209876543204" y="1444.7283950617284" type="line"/>
+      <point x="-469.39506172839504" y="1664.2716049382716" type="line"/>
+      <point x="-635.1975308641975" y="1664.2716049382716" type="line"/>
+    </contour>
+    <contour>
+      <point x="-358.62962962962956" y="1577.0" type="line"/>
+      <point x="-241.45679012345676" y="1577.0" type="line"/>
+      <point x="-52.25925925925923" y="1807.1975308641975" type="line"/>
+      <point x="-213.93827160493822" y="1807.1975308641975" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>3</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>1</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>1</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

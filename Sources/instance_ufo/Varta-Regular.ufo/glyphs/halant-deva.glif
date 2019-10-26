@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="halant-deva" format="2">
+  <unicode hex="094D"/>
+  <anchor x="135.23456790123456" y="58.382716049382715" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="621.4197530864197" y="-401.1604938271605" type="line"/>
+      <point x="366.60493827160496" y="-132.41975308641975"/>
+      <point x="256.8024691358025" y="-81.25925925925927"/>
+      <point x="92.45679012345678" y="-81.25925925925927" type="curve" smooth="yes"/>
+      <point x="34.58024691358025" y="-81.25925925925927"/>
+      <point x="-7.358024691358025" y="-86.72839506172839"/>
+      <point x="-67.82716049382717" y="-96.79012345679013" type="curve"/>
+      <point x="-45.48148148148148" y="-229.6172839506173" type="line"/>
+      <point x="15.518518518518517" y="-220.55555555555554"/>
+      <point x="54.51851851851852" y="-217.85185185185185"/>
+      <point x="108.51851851851852" y="-217.85185185185185" type="curve" smooth="yes"/>
+      <point x="240.45679012345678" y="-217.85185185185185"/>
+      <point x="315.1604938271605" y="-240.79012345679013"/>
+      <point x="551.4444444444445" y="-469.3703703703704" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>540</integer>
+    </dict>
+  </lib>
+</glyph>

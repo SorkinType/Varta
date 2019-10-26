@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apostrophemod" format="2">
+  <advance width="527.5308641975308"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="181.74074074074073" y="855.9135802469136" type="line"/>
+      <point x="332.641975308642" y="940.1111111111112"/>
+      <point x="413.4938271604938" y="1062.2345679012346"/>
+      <point x="413.4938271604938" y="1230.6666666666667" type="curve" smooth="yes"/>
+      <point x="413.4938271604938" y="1358.2592592592594"/>
+      <point x="360.98765432098764" y="1431.037037037037"/>
+      <point x="273.32098765432096" y="1431.037037037037" type="curve" smooth="yes"/>
+      <point x="205.54320987654322" y="1431.037037037037"/>
+      <point x="157.03703703703704" y="1384.530864197531"/>
+      <point x="157.03703703703704" y="1307.4444444444446" type="curve" smooth="yes"/>
+      <point x="157.03703703703704" y="1236.9753086419753"/>
+      <point x="211.23456790123456" y="1196.469135802469"/>
+      <point x="273.32098765432096" y="1196.469135802469" type="curve" smooth="yes"/>
+      <point x="279.32098765432096" y="1196.469135802469"/>
+      <point x="284.32098765432096" y="1196.469135802469"/>
+      <point x="290.9753086419753" y="1199.469135802469" type="curve"/>
+      <point x="290.9753086419753" y="1079.5061728395062"/>
+      <point x="237.04938271604937" y="1009.2345679012346"/>
+      <point x="131.54320987654322" y="942.5061728395062" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>18</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

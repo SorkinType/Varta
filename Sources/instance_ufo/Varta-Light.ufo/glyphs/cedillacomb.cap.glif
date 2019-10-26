@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb.cap" format="2">
+  <anchor x="-17" y="-300" name="_btm"/>
+  <outline>
+    <contour>
+      <point x="-149" y="-432" type="line"/>
+      <point x="-4" y="-417"/>
+      <point x="131" y="-363"/>
+      <point x="131" y="-250" type="curve" smooth="yes"/>
+      <point x="131" y="-166"/>
+      <point x="75" y="-128"/>
+      <point x="9" y="-106" type="curve"/>
+      <point x="64" y="5" type="line"/>
+      <point x="-30" y="5" type="line"/>
+      <point x="-112" y="-153" type="line"/>
+      <point x="-30" y="-173"/>
+      <point x="21" y="-200"/>
+      <point x="21" y="-256" type="curve" smooth="yes"/>
+      <point x="21" y="-312"/>
+      <point x="-55" y="-342"/>
+      <point x="-165" y="-357" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

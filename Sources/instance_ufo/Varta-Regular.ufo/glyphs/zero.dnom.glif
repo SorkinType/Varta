@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.dnom" format="2">
+  <advance width="749.8148148148148"/>
+  <outline>
+    <contour>
+      <point x="376.17283950617286" y="-25.0" type="curve" smooth="yes"/>
+      <point x="557.5802469135803" y="-25.0"/>
+      <point x="678.395061728395" y="128.7037037037037"/>
+      <point x="678.395061728395" y="401.0" type="curve" smooth="yes"/>
+      <point x="678.395061728395" y="670.5308641975308"/>
+      <point x="557.5802469135803" y="823.0"/>
+      <point x="376.17283950617286" y="823.0" type="curve" smooth="yes"/>
+      <point x="193.0" y="823.0"/>
+      <point x="73.41975308641976" y="670.5308641975308"/>
+      <point x="73.41975308641976" y="401.0" type="curve" smooth="yes"/>
+      <point x="73.41975308641976" y="128.7037037037037"/>
+      <point x="193.0" y="-25.0"/>
+    </contour>
+    <contour>
+      <point x="376.17283950617286" y="74.14814814814815" type="curve" smooth="yes"/>
+      <point x="265.8024691358025" y="74.14814814814815"/>
+      <point x="193.14814814814815" y="185.5185185185185"/>
+      <point x="193.14814814814815" y="401.0" type="curve" smooth="yes"/>
+      <point x="193.14814814814815" y="616.716049382716"/>
+      <point x="265.8024691358025" y="724.8518518518518"/>
+      <point x="376.17283950617286" y="724.8518518518518" type="curve" smooth="yes"/>
+      <point x="483.77777777777777" y="724.8518518518518"/>
+      <point x="557.4320987654321" y="616.716049382716"/>
+      <point x="557.4320987654321" y="401.0" type="curve" smooth="yes"/>
+      <point x="557.4320987654321" y="185.5185185185185"/>
+      <point x="483.77777777777777" y="74.14814814814815"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>11</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reph_anusvara-deva.imatra" format="2">
+  <advance width="600"/>
+  <anchor x="275" y="1281" name="_imatra"/>
+  <anchor x="240" y="1226" name="_top"/>
+  <outline>
+    <component base="reph-deva.imatra"/>
+    <component base="anusvara-deva" xScale="0.744" yScale="0.744" xOffset="183" yOffset="248"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

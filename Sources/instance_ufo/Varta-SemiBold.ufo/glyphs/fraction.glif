@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="179.50617283950618"/>
+  <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="-303.2716049382716" y="-25.0" type="line"/>
+      <point x="-179.06172839506175" y="-25.0" type="line"/>
+      <point x="485.6296296296296" y="1366.7283950617284" type="line"/>
+      <point x="360.7654320987654" y="1366.7283950617284" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

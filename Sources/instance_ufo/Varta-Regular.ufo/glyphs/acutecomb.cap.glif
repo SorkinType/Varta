@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.cap" format="2">
+  <anchor x="-59.802469135802454" y="1344.5925925925926" name="_top"/>
+  <anchor x="-57.802469135802454" y="1674.1728395061727" name="top"/>
+  <outline>
+    <contour>
+      <point x="-240.77777777777774" y="1446.8271604938273" type="line"/>
+      <point x="-109.23456790123456" y="1446.8271604938273" type="line"/>
+      <point x="121.40740740740742" y="1674.1728395061727" type="line"/>
+      <point x="-58.88888888888886" y="1674.1728395061727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>1</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

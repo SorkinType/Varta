@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_gravecomb.cap" format="2">
+  <anchor x="-423.82716049382714" y="991.3580246913581" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-678.5679012345679" y="1446.8271604938273" type="line"/>
+      <point x="-557.3703703703703" y="1446.8271604938273" type="line"/>
+      <point x="-425.65432098765433" y="1575.4814814814815" type="line"/>
+      <point x="-417.65432098765433" y="1575.4814814814815" type="line"/>
+      <point x="-285.9382716049383" y="1446.8271604938273" type="line"/>
+      <point x="-164.74074074074073" y="1446.8271604938273" type="line"/>
+      <point x="-353.44444444444446" y="1662.1728395061727" type="line"/>
+      <point x="-489.8641975308642" y="1662.1728395061727" type="line"/>
+    </contour>
+    <contour>
+      <point x="-156.0864197530864" y="1577.0" type="line"/>
+      <point x="-55.46913580246913" y="1577.0" type="line"/>
+      <point x="-201.0" y="1802.5802469135801" type="line"/>
+      <point x="-340.1975308641975" y="1802.5802469135801" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>1</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>1</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

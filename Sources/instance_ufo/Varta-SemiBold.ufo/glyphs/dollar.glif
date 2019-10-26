@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="1028.5185185185185"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="452.11111111111114" y="-225.0" type="line"/>
+      <point x="588.2098765432098" y="-225.0" type="line"/>
+      <point x="588.2098765432098" y="-17.38271604938272" type="line"/>
+      <point x="785.0617283950617" y="12.469135802469129"/>
+      <point x="905.5185185185185" y="150.01234567901233"/>
+      <point x="905.5185185185185" y="345.01234567901236" type="curve" smooth="yes"/>
+      <point x="905.5185185185185" y="777.0370370370371"/>
+      <point x="339.25925925925924" y="705.8641975308642"/>
+      <point x="339.25925925925924" y="985.9876543209876" type="curve" smooth="yes"/>
+      <point x="339.25925925925924" y="1100.20987654321"/>
+      <point x="416.75308641975306" y="1171.5061728395062"/>
+      <point x="536.9753086419753" y="1171.5061728395062" type="curve" smooth="yes"/>
+      <point x="644.5061728395061" y="1171.5061728395062"/>
+      <point x="704.5432098765432" y="1145.7037037037037"/>
+      <point x="780.8888888888889" y="1072.6666666666667" type="curve"/>
+      <point x="880.7530864197531" y="1188.0740740740741" type="line"/>
+      <point x="806.1358024691358" y="1266.3456790123457"/>
+      <point x="719.2098765432098" y="1312.111111111111"/>
+      <point x="588.2098765432098" y="1326.7283950617284" type="curve"/>
+      <point x="588.2098765432098" y="1531.037037037037" type="line"/>
+      <point x="452.11111111111114" y="1531.037037037037" type="line"/>
+      <point x="452.11111111111114" y="1324.4197530864199" type="line"/>
+      <point x="271.5679012345679" y="1294.8395061728395"/>
+      <point x="153.22222222222223" y="1162.567901234568"/>
+      <point x="153.22222222222223" y="976.716049382716" type="curve" smooth="yes"/>
+      <point x="153.22222222222223" y="583.1481481481482"/>
+      <point x="719.1358024691358" y="643.0123456790124"/>
+      <point x="719.1358024691358" y="331.7407407407407" type="curve" smooth="yes"/>
+      <point x="719.1358024691358" y="210.1358024691358"/>
+      <point x="647.2592592592592" y="133.18518518518516"/>
+      <point x="502.30864197530866" y="133.18518518518516" type="curve" smooth="yes"/>
+      <point x="381.4320987654321" y="133.18518518518516"/>
+      <point x="279.01234567901236" y="176.4074074074074"/>
+      <point x="188.46913580246914" y="252.02469135802465" type="curve"/>
+      <point x="101.53086419753087" y="117.76543209876543" type="line"/>
+      <point x="190.11111111111111" y="36.49382716049384"/>
+      <point x="322.34567901234567" y="-9.037037037037038"/>
+      <point x="452.11111111111114" y="-22.34567901234568" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>14</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>1</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="516.5185185185185"/>
+  <unicode hex="006A"/>
+  <anchor x="150.0864197530864" y="-234.56790123456796" name="btm"/>
+  <anchor x="188.4567901234568" y="886.4197530864199" name="top"/>
+  <outline>
+    <contour>
+      <point x="354.25925925925924" y="998.5061728395061" type="line"/>
+      <point x="163.9135802469136" y="998.5061728395061" type="line"/>
+      <point x="163.9135802469136" y="-97.5061728395062" type="line"/>
+      <point x="163.9135802469136" y="-216.8888888888889"/>
+      <point x="138.95061728395063" y="-283.4197530864198"/>
+      <point x="43.802469135802475" y="-283.4197530864198" type="curve" smooth="yes"/>
+      <point x="9.419753086419757" y="-283.4197530864198"/>
+      <point x="-23.308641975308642" y="-275.7283950617284"/>
+      <point x="-47.96296296296296" y="-267.7283950617284" type="curve"/>
+      <point x="-85.1604938271605" y="-410.67901234567904" type="line"/>
+      <point x="-49.5432098765432" y="-424.98765432098764"/>
+      <point x="1.7654320987654355" y="-436.98765432098764"/>
+      <point x="66.92592592592592" y="-436.98765432098764" type="curve" smooth="yes"/>
+      <point x="277.98765432098764" y="-436.98765432098764"/>
+      <point x="354.25925925925924" y="-302.4320987654321"/>
+      <point x="354.25925925925924" y="-96.58024691358028" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="261.08641975308643" y="1194.6049382716049" type="curve" smooth="yes"/>
+      <point x="330.48148148148147" y="1194.6049382716049"/>
+      <point x="385.98765432098764" y="1242.7654320987654"/>
+      <point x="385.98765432098764" y="1310.888888888889" type="curve" smooth="yes"/>
+      <point x="385.98765432098764" y="1381.358024691358"/>
+      <point x="330.48148148148147" y="1427.8641975308642"/>
+      <point x="261.08641975308643" y="1427.8641975308642" type="curve" smooth="yes"/>
+      <point x="189.03703703703704" y="1427.8641975308642"/>
+      <point x="134.53086419753086" y="1381.358024691358"/>
+      <point x="134.53086419753086" y="1310.888888888889" type="curve" smooth="yes"/>
+      <point x="134.53086419753086" y="1242.7654320987654"/>
+      <point x="189.03703703703704" y="1194.6049382716049"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>1</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>11</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>11</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aaMatra-deva" format="2">
+  <advance width="558.5802469135803"/>
+  <unicode hex="093E"/>
+  <anchor x="279.61728395061726" y="27.34567901234568" name="bottom"/>
+  <anchor x="283.1975308641975" y="1167.6543209876543" name="candra"/>
+  <anchor x="281.58024691358025" y="1167.3456790123457" name="top"/>
+  <outline>
+    <contour>
+      <point x="188.4814814814815" y="0.0" type="line"/>
+      <point x="369.7901234567901" y="0.0" type="line"/>
+      <point x="369.7901234567901" y="1202.8148148148148" type="line"/>
+      <point x="188.4814814814815" y="1202.8148148148148" type="line"/>
+    </contour>
+    <contour>
+      <point x="-16.580246913580243" y="1117.4814814814815" type="line"/>
+      <point x="575.5061728395061" y="1117.4814814814815" type="line"/>
+      <point x="575.5061728395061" y="1273.1728395061727" type="line"/>
+      <point x="-16.580246913580243" y="1273.1728395061727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

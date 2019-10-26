@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightFacingSvasti" format="2">
+  <advance width="1622"/>
+  <unicode hex="0FD5"/>
+  <outline>
+    <contour>
+      <point x="706" y="1" type="line"/>
+      <point x="916" y="1" type="line"/>
+      <point x="916" y="1238" type="line"/>
+      <point x="706" y="1238" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="1" type="line"/>
+      <point x="916" y="1" type="line"/>
+      <point x="916" y="183" type="line"/>
+      <point x="156" y="183" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="561" type="line"/>
+      <point x="366" y="561" type="line"/>
+      <point x="366" y="1287" type="line"/>
+      <point x="156" y="1287" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="558" type="line"/>
+      <point x="1466" y="558" type="line"/>
+      <point x="1466" y="741" type="line"/>
+      <point x="156" y="741" type="line"/>
+    </contour>
+    <contour>
+      <point x="1256" y="1" type="line"/>
+      <point x="1466" y="1" type="line"/>
+      <point x="1466" y="741" type="line"/>
+      <point x="1256" y="741" type="line"/>
+    </contour>
+    <contour>
+      <point x="706" y="1104" type="line"/>
+      <point x="1466" y="1104" type="line"/>
+      <point x="1466" y="1287" type="line"/>
+      <point x="706" y="1287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

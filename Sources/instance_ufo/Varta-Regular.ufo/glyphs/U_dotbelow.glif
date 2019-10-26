@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udotbelow" format="2">
+  <advance width="1306.8024691358025"/>
+  <unicode hex="1EE4"/>
+  <anchor x="653.5185185185185" y="0.0" name="bottom"/>
+  <anchor x="1176.0987654320988" y="10.0" name="ogonek"/>
+  <anchor x="653.5185185185185" y="1344.5925925925926" name="top"/>
+  <anchor x="1286.8024691358025" y="1344.5925925925926" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="dotbelowcomb" xOffset="653.5185185185185"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

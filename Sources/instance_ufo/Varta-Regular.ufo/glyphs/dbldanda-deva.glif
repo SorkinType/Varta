@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dbldanda-deva" format="2">
+  <advance width="731.9135802469136"/>
+  <unicode hex="0965"/>
+  <outline>
+    <contour>
+      <point x="421.0" y="0.0" type="line"/>
+      <point x="566.9382716049382" y="0.0" type="line"/>
+      <point x="566.9382716049382" y="1256.3827160493827" type="line"/>
+      <point x="421.0" y="1256.3827160493827" type="line"/>
+    </contour>
+    <contour>
+      <point x="123.46913580246914" y="0.0" type="line"/>
+      <point x="269.4074074074074" y="0.0" type="line"/>
+      <point x="269.4074074074074" y="1256.3827160493827" type="line"/>
+      <point x="123.46913580246914" y="1256.3827160493827" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

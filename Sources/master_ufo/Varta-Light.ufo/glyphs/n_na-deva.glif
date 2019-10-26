@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n_na-deva" format="2">
+  <advance width="1093"/>
+  <anchor x="814" y="28" name="bottom"/>
+  <anchor x="540" y="1168" name="candra"/>
+  <anchor x="816" y="1168" name="top"/>
+  <outline>
+    <contour>
+      <point x="784" y="665" type="line"/>
+      <point x="183" y="348" type="line"/>
+      <point x="228" y="252" type="line"/>
+      <point x="423" y="144" type="line"/>
+      <point x="500" y="184"/>
+      <point x="490" y="244"/>
+      <point x="458" y="305" type="curve" smooth="yes"/>
+      <point x="410" y="392" type="line"/>
+      <point x="396" y="333" type="line"/>
+      <point x="832" y="569" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="938" type="line"/>
+      <point x="128" y="841" type="line"/>
+      <point x="191" y="630" type="line"/>
+      <point x="279" y="604"/>
+      <point x="311" y="655"/>
+      <point x="329" y="723" type="curve" smooth="yes"/>
+      <point x="356" y="820" type="line"/>
+      <point x="302" y="789" type="line"/>
+      <point x="850" y="641" type="line"/>
+      <point x="867" y="745" type="line"/>
+    </contour>
+    <contour>
+      <point x="879" y="1191" type="line"/>
+      <point x="753" y="1191" type="line"/>
+      <point x="753" y="0" type="line"/>
+      <point x="879" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1106" y="1247" type="line"/>
+      <point x="-12" y="1247" type="line"/>
+      <point x="-12" y="1143" type="line"/>
+      <point x="1106" y="1143" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>na-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

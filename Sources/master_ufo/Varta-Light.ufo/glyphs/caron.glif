@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron" format="2">
+  <advance width="1104"/>
+  <unicode hex="02C7"/>
+  <anchor x="552" y="1050" name="_top"/>
+  <outline>
+    <contour>
+      <point x="494" y="1173" type="line"/>
+      <point x="610" y="1173" type="line"/>
+      <point x="803" y="1457" type="line"/>
+      <point x="700" y="1457" type="line"/>
+      <point x="556" y="1263" type="line"/>
+      <point x="548" y="1263" type="line"/>
+      <point x="404" y="1457" type="line"/>
+      <point x="302" y="1457" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

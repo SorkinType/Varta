@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="500.2469135802469"/>
+  <unicode hex="003A"/>
+  <outline>
+    <component base="period" yOffset="579.4320987654321"/>
+    <component base="period" yOffset="166.5432098765432"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 04:37:59</string>
+    </dict>
+  </lib>
+</glyph>

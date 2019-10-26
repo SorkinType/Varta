@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance width="542.3333333333333"/>
+  <unicode hex="0130"/>
+  <anchor x="271.66666666666663" y="0.0" name="bottom"/>
+  <anchor x="488.0617283950617" y="10.0" name="ogonek"/>
+  <anchor x="271.66666666666663" y="1342.0740740740741" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="dotaccent.cap" xOffset="271.66666666666663"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

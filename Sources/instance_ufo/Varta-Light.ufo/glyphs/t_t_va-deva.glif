@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_t_va-deva" format="2">
+  <advance width="2255"/>
+  <anchor x="1978" y="28" name="bottom"/>
+  <anchor x="1682" y="1168" name="candra"/>
+  <anchor x="1415" y="44" name="nukta"/>
+  <anchor x="1978" y="1168" name="top"/>
+  <outline>
+    <contour>
+      <point x="640" y="1247" type="line"/>
+      <point x="-12" y="1247" type="line"/>
+      <point x="-12" y="1143" type="line"/>
+      <point x="640" y="1143" type="line"/>
+    </contour>
+    <contour>
+      <point x="1209" y="1247" type="line"/>
+      <point x="585" y="1247" type="line"/>
+      <point x="585" y="1143" type="line"/>
+      <point x="1209" y="1143" type="line"/>
+    </contour>
+    <contour>
+      <point x="454" y="39" type="line"/>
+      <point x="301" y="250"/>
+      <point x="212" y="412"/>
+      <point x="212" y="555" type="curve" smooth="yes"/>
+      <point x="212" y="670"/>
+      <point x="263" y="714"/>
+      <point x="430" y="714" type="curve" smooth="yes"/>
+      <point x="588" y="714"/>
+      <point x="660" y="685"/>
+      <point x="790" y="614" type="curve"/>
+      <point x="789" y="745" type="line"/>
+      <point x="684" y="807"/>
+      <point x="581" y="831"/>
+      <point x="407" y="831" type="curve" smooth="yes"/>
+      <point x="179" y="831"/>
+      <point x="82" y="742"/>
+      <point x="82" y="573" type="curve" smooth="yes"/>
+      <point x="82" y="366"/>
+      <point x="229" y="130"/>
+      <point x="353" y="-30" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1365" y="828" type="line"/>
+      <point x="999" y="828" type="line" smooth="yes"/>
+      <point x="757" y="828"/>
+      <point x="680" y="713"/>
+      <point x="680" y="570" type="curve" smooth="yes"/>
+      <point x="680" y="366"/>
+      <point x="827" y="130"/>
+      <point x="951" y="-30" type="curve"/>
+      <point x="1052" y="39" type="line"/>
+      <point x="899" y="250"/>
+      <point x="810" y="412"/>
+      <point x="810" y="552" type="curve" smooth="yes"/>
+      <point x="810" y="693"/>
+      <point x="887" y="713"/>
+      <point x="1039" y="713" type="curve" smooth="yes"/>
+      <point x="1378" y="713" type="line"/>
+    </contour>
+    <component base="va-deva" xOffset="1167"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>va-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

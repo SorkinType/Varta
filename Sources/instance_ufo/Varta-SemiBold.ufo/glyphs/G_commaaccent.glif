@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcommaaccent" format="2">
+  <advance width="1261.2839506172838"/>
+  <unicode hex="0122"/>
+  <anchor x="617.7777777777777" y="-446.4691358024691" name="bottom"/>
+  <anchor x="714.0617283950617" y="1358.432098765432" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="commaaccent" xOffset="373.29629629629625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

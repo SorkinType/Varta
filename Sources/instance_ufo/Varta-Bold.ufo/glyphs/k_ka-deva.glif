@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k_ka-deva" format="2">
+  <advance width="2668"/>
+  <anchor x="1942" y="27" name="bottom"/>
+  <anchor x="1931" y="1167" name="candra"/>
+  <anchor x="1927" y="1167" name="top"/>
+  <anchor x="347" y="28" name="nukta_1"/>
+  <anchor x="1314" y="-30" name="nukta_2"/>
+  <outline>
+    <component base="k-deva"/>
+    <component base="ka-deva" xOffset="1138"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>k-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ka-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.numr" format="2">
+  <advance width="719.8148148148148"/>
+  <outline>
+    <contour>
+      <point x="338.12345679012344" y="545.8271604938271" type="line"/>
+      <point x="461.25925925925924" y="545.8271604938271" type="line"/>
+      <point x="461.25925925925924" y="1344.5925925925926" type="line"/>
+      <point x="361.17283950617286" y="1344.5925925925926" type="line"/>
+      <point x="307.2962962962963" y="1303.888888888889"/>
+      <point x="253.53086419753086" y="1279.1234567901236"/>
+      <point x="165.71604938271605" y="1262.888888888889" type="curve"/>
+      <point x="165.71604938271605" y="1182.3827160493827" type="line"/>
+      <point x="338.12345679012344" y="1182.3827160493827" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

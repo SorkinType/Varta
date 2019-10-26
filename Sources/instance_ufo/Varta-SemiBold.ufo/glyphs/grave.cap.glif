@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.cap" format="2">
+  <anchor x="14.82716049382718" y="886.4197530864199" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-46.90123456790122" y="1444.0740740740741" type="line"/>
+      <point x="114.59259259259258" y="1444.0740740740741" type="line"/>
+      <point x="-62.86419753086422" y="1676.9259259259259" type="line"/>
+      <point x="-281.1358024691358" y="1676.9259259259259" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>3</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

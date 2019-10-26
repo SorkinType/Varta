@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisacute" format="2">
+  <advance width="1121.9382716049383"/>
+  <unicode hex="01D8"/>
+  <anchor x="554.1234567901234" y="-234.56790123456796" name="btm"/>
+  <anchor x="554.1234567901234" y="886.4197530864199" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb_acutecomb" xOffset="946.7160493827157"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

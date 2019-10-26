@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aiMatra_anusvara-deva" format="2">
+  <advance width="726"/>
+  <anchor x="738" y="1168" name="_top"/>
+  <outline>
+    <component base="anusvara-deva" xOffset="561" yOffset="-32"/>
+    <component base="aiMatra-deva" xOffset="464"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

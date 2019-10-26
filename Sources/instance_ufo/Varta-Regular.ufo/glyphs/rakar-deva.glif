@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rakar-deva" format="2">
+  <anchor x="272.2962962962963" y="363.8641975308642" name="_bottom"/>
+  <anchor x="303.12345679012344" y="101.29629629629629" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-78.54320987654322" y="6.4938271604938285" type="line"/>
+      <point x="336.81481481481484" y="292.08641975308643" type="line"/>
+      <point x="201.49382716049382" y="294.30864197530866" type="line"/>
+      <point x="622.716049382716" y="34.7283950617284" type="line"/>
+      <point x="690.925925925926" y="140.62962962962962" type="line"/>
+      <point x="269.5308641975309" y="402.91358024691357" type="line"/>
+      <point x="-150.92592592592592" y="107.1604938271605" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>540</integer>
+    </dict>
+  </lib>
+</glyph>

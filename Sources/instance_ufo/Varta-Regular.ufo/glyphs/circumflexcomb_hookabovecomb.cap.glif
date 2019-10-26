@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_hookabovecomb.cap" format="2">
+  <anchor x="-140.2716049382716" y="991.3580246913581" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-397.6543209876543" y="1446.8271604938273" type="line"/>
+      <point x="-276.45679012345676" y="1446.8271604938273" type="line"/>
+      <point x="-144.7407407407407" y="1575.4814814814815" type="line"/>
+      <point x="-136.7407407407407" y="1575.4814814814815" type="line"/>
+      <point x="-5.024691358024654" y="1446.8271604938273" type="line"/>
+      <point x="116.17283950617286" y="1446.8271604938273" type="line"/>
+      <point x="-72.53086419753083" y="1662.1728395061727" type="line"/>
+      <point x="-208.95061728395058" y="1662.1728395061727" type="line"/>
+    </contour>
+    <contour>
+      <point x="90.8271604938272" y="1544.8271604938273" type="line"/>
+      <point x="185.98765432098767" y="1561.888888888889"/>
+      <point x="274.8641975308642" y="1602.8271604938273"/>
+      <point x="274.8641975308642" y="1705.1728395061727" type="curve" smooth="yes"/>
+      <point x="274.8641975308642" y="1799.7037037037037"/>
+      <point x="186.74074074074076" y="1846.5185185185185"/>
+      <point x="33.12345679012347" y="1852.5185185185185" type="curve"/>
+      <point x="16.481481481481495" y="1770.888888888889" type="line"/>
+      <point x="117.95061728395063" y="1765.4197530864199"/>
+      <point x="162.0740740740741" y="1744.6543209876543"/>
+      <point x="162.0740740740741" y="1690.530864197531" type="curve" smooth="yes"/>
+      <point x="162.0740740740741" y="1646.7037037037037"/>
+      <point x="120.71604938271608" y="1626.8765432098764"/>
+      <point x="68.59259259259261" y="1614.3456790123457" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>13</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackDiamond" format="2">
+  <advance width="620.1975308641976"/>
+  <unicode hex="25C6"/>
+  <outline>
+    <contour>
+      <point x="310.0987654320988" y="257.0246913580247" type="line"/>
+      <point x="592.604938271605" y="539.5308641975308" type="line"/>
+      <point x="310.0987654320988" y="821.2716049382716" type="line"/>
+      <point x="25.59259259259259" y="539.5308641975308" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

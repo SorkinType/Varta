@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tt_na-deva" format="2">
+  <advance width="1049"/>
+  <anchor x="782" y="-546" name="bottom"/>
+  <anchor x="571" y="1167" name="candra"/>
+  <anchor x="196" y="176" name="nukta"/>
+  <anchor x="703" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="896" y="493" type="line"/>
+      <point x="784" y="452"/>
+      <point x="685" y="430"/>
+      <point x="579" y="430" type="curve" smooth="yes"/>
+      <point x="379" y="430"/>
+      <point x="322" y="499"/>
+      <point x="322" y="633" type="curve" smooth="yes"/>
+      <point x="322" y="822"/>
+      <point x="541" y="815"/>
+      <point x="623" y="815" type="curve" smooth="yes"/>
+      <point x="686" y="815"/>
+      <point x="753" y="810"/>
+      <point x="812.091" y="807" type="curve"/>
+      <point x="812" y="1215" type="line"/>
+      <point x="615" y="1215" type="line"/>
+      <point x="615" y="919" type="line"/>
+      <point x="655" y="952" type="line"/>
+      <point x="629" y="973"/>
+      <point x="602" y="973"/>
+      <point x="532" y="973" type="curve" smooth="yes"/>
+      <point x="328" y="973"/>
+      <point x="118" y="892"/>
+      <point x="118" y="637" type="curve" smooth="yes"/>
+      <point x="118" y="349"/>
+      <point x="377.091" y="256.909"/>
+      <point x="582" y="257" type="curve" smooth="yes"/>
+      <point x="700.091" y="256.909"/>
+      <point x="843" y="281"/>
+      <point x="946" y="333" type="curve"/>
+    </contour>
+    <contour>
+      <point x="294" y="-351" type="line"/>
+      <point x="413" y="-351"/>
+      <point x="435" y="-271"/>
+      <point x="435" y="-170" type="curve" smooth="yes"/>
+      <point x="435" y="37" type="line"/>
+      <point x="140" y="37" type="line"/>
+      <point x="140" y="-127" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="-140" type="line"/>
+      <point x="843" y="-140" type="line"/>
+      <point x="843" y="37" type="line"/>
+      <point x="247" y="37" type="line"/>
+    </contour>
+    <contour>
+      <point x="677" y="-568" type="line"/>
+      <point x="874" y="-568" type="line"/>
+      <point x="874" y="320" type="line"/>
+      <point x="677.091" y="319.909" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="1068" y="1104" type="line"/>
+      <point x="1068" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>tt-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>na-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

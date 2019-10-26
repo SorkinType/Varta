@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="1107.7530864197531"/>
+  <unicode hex="0060"/>
+  <anchor x="624.4074074074074" y="991.3580246913581" name="_top"/>
+  <outline>
+    <contour>
+      <point x="562.9012345679013" y="1173.469135802469" type="line"/>
+      <point x="683.8024691358024" y="1173.469135802469" type="line"/>
+      <point x="498.5061728395062" y="1460.0493827160494" type="line"/>
+      <point x="334.38271604938274" y="1460.0493827160494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>3</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

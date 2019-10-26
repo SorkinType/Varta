@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra_halant-deva" format="2">
+  <advance width="650"/>
+  <anchor x="479" y="31" name="bottom"/>
+  <anchor x="410" y="1168" name="candra"/>
+  <anchor x="121" y="163" name="nukta"/>
+  <anchor x="411" y="1168" name="top"/>
+  <outline>
+    <component base="ra-deva"/>
+    <component base="halant-deva" xOffset="344" yOffset="-37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

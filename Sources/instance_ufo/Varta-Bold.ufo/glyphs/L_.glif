@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="1012"/>
+  <unicode hex="004C"/>
+  <anchor x="562" y="-200" name="btm"/>
+  <anchor x="643" y="1029" name="car"/>
+  <anchor x="731" y="776" name="dot"/>
+  <anchor x="288" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="170" y="0" type="line"/>
+      <point x="955" y="0" type="line"/>
+      <point x="955" y="187" type="line"/>
+      <point x="392" y="187" type="line"/>
+      <point x="392" y="1340" type="line"/>
+      <point x="170" y="1340" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

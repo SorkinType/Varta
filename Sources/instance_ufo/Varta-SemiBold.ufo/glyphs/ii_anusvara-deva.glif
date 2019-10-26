@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ii_anusvara-deva" format="2">
+  <advance width="1077.888888888889"/>
+  <anchor x="814.1358024691357" y="-55.24691358024687" name="bottom"/>
+  <anchor x="563.3333333333333" y="1169.0740740740741" name="candra"/>
+  <anchor x="870.7283950617284" y="1704.148148148148" name="top"/>
+  <outline>
+    <component base="ii-deva"/>
+    <component base="anusvara-deva" xScale="0.7160740740740742" yScale="0.7160740740740742" xOffset="737.1358024691358" yOffset="317.59259259259255"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

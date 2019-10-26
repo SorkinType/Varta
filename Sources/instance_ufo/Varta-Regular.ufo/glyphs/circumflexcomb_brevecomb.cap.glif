@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_brevecomb.cap" format="2">
+  <anchor x="-140.7407407407407" y="1344.5925925925926" name="_top"/>
+  <anchor x="-138.7407407407407" y="1915.20987654321" name="top"/>
+  <outline>
+    <contour>
+      <point x="-397.6543209876543" y="1446.8271604938273" type="line"/>
+      <point x="-276.45679012345676" y="1446.8271604938273" type="line"/>
+      <point x="-144.7407407407407" y="1575.4814814814815" type="line"/>
+      <point x="-136.7407407407407" y="1575.4814814814815" type="line"/>
+      <point x="-5.024691358024654" y="1446.8271604938273" type="line"/>
+      <point x="116.17283950617286" y="1446.8271604938273" type="line"/>
+      <point x="-72.53086419753083" y="1662.1728395061727" type="line"/>
+      <point x="-208.95061728395058" y="1662.1728395061727" type="line"/>
+    </contour>
+    <contour>
+      <point x="18.913580246913597" y="1915.20987654321" type="line"/>
+      <point x="2.679012345679041" y="1852.4444444444443"/>
+      <point x="-41.91358024691357" y="1806.148148148148"/>
+      <point x="-140.7407407407407" y="1806.148148148148" type="curve" smooth="yes"/>
+      <point x="-239.56790123456787" y="1806.148148148148"/>
+      <point x="-284.1604938271605" y="1852.4444444444443"/>
+      <point x="-300.39506172839504" y="1915.20987654321" type="curve"/>
+      <point x="-387.1975308641975" y="1915.20987654321" type="line"/>
+      <point x="-373.96296296296293" y="1810.5802469135801"/>
+      <point x="-296.55555555555554" y="1720.5802469135801"/>
+      <point x="-140.7407407407407" y="1720.5802469135801" type="curve" smooth="yes"/>
+      <point x="15.074074074074105" y="1720.5802469135801"/>
+      <point x="92.4814814814815" y="1810.5802469135801"/>
+      <point x="105.71604938271608" y="1915.20987654321" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

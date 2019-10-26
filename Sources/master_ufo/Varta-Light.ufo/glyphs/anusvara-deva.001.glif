@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anusvara-deva.001" format="2">
+  <anchor x="162" y="1247" name="_candra"/>
+  <outline>
+    <contour>
+      <point x="326" y="1453" type="curve" smooth="yes"/>
+      <point x="384" y="1453"/>
+      <point x="408" y="1477"/>
+      <point x="408" y="1534" type="curve" smooth="yes"/>
+      <point x="408" y="1591"/>
+      <point x="384" y="1615"/>
+      <point x="326" y="1615" type="curve" smooth="yes"/>
+      <point x="269" y="1615"/>
+      <point x="244" y="1591"/>
+      <point x="244" y="1534" type="curve" smooth="yes"/>
+      <point x="244" y="1477"/>
+      <point x="269" y="1453"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>540</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c" format="2">
+  <advance width="937.1604938271605"/>
+  <unicode hex="0063"/>
+  <anchor x="557.2098765432098" y="-234.56790123456796" name="btm"/>
+  <anchor x="572.6172839506173" y="886.4197530864199" name="top"/>
+  <outline>
+    <contour>
+      <point x="799.8024691358024" y="220.09876543209873" type="line"/>
+      <point x="741.7283950617284" y="169.64197530864195"/>
+      <point x="669.5802469135803" y="132.53086419753083"/>
+      <point x="578.4320987654321" y="132.53086419753083" type="curve" smooth="yes"/>
+      <point x="404.02469135802465" y="132.53086419753083"/>
+      <point x="285.8024691358024" y="273.8641975308642"/>
+      <point x="285.8024691358024" y="500.2345679012346" type="curve" smooth="yes"/>
+      <point x="285.8024691358024" y="728.2962962962963"/>
+      <point x="409.4444444444444" y="866.6296296296297"/>
+      <point x="584.0493827160494" y="866.6296296296297" type="curve" smooth="yes"/>
+      <point x="657.6172839506173" y="866.6296296296297"/>
+      <point x="719.7283950617284" y="835.8271604938271"/>
+      <point x="777.1481481481482" y="786.0617283950618" type="curve"/>
+      <point x="869.7407407407408" y="907.4691358024692" type="line"/>
+      <point x="802.7407407407408" y="972.4320987654321"/>
+      <point x="705.5061728395061" y="1023.5061728395061"/>
+      <point x="575.1234567901234" y="1023.5061728395061" type="curve" smooth="yes"/>
+      <point x="315.30864197530866" y="1023.5061728395061"/>
+      <point x="90.49382716049384" y="845.1604938271605"/>
+      <point x="90.49382716049384" y="500.2345679012346" type="curve" smooth="yes"/>
+      <point x="90.49382716049384" y="159.0"/>
+      <point x="293.38271604938274" y="-25.0"/>
+      <point x="560.5802469135803" y="-25.0" type="curve" smooth="yes"/>
+      <point x="678.3086419753087" y="-25.0"/>
+      <point x="791.1975308641976" y="16.111111111111114"/>
+      <point x="882.1234567901234" y="96.38271604938272" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>18</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

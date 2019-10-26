@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khha-deva" format="2">
+  <advance width="1589"/>
+  <unicode hex="0959"/>
+  <anchor x="1313" y="28" name="bottom"/>
+  <anchor x="848" y="1168" name="candra"/>
+  <anchor x="177" y="44" name="nukta"/>
+  <anchor x="1310" y="1168" name="top"/>
+  <outline>
+    <component base="kha-deva"/>
+    <component base="nukta-deva" xOffset="-100" yOffset="16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

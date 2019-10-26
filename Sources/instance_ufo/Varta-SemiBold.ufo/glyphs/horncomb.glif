@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb" format="2">
+  <unicode hex="031B"/>
+  <anchor x="-250.46913580246888" y="998.5061728395061" name="_topright"/>
+  <anchor x="-250.46913580246888" y="998.5061728395061" name="topright"/>
+  <outline>
+    <contour>
+      <point x="-393.6296296296294" y="888.4567901234568" type="line"/>
+      <point x="-222.46913580246888" y="903.8395061728395"/>
+      <point x="-90.03703703703678" y="972.4197530864197"/>
+      <point x="-90.03703703703678" y="1125.5061728395062" type="curve" smooth="yes"/>
+      <point x="-90.03703703703678" y="1180.0493827160494"/>
+      <point x="-111.9629629629627" y="1226.9382716049383"/>
+      <point x="-139.27160493827137" y="1263.9382716049383" type="curve"/>
+      <point x="-274.95061728395035" y="1199.5061728395062" type="line"/>
+      <point x="-258.6049382716047" y="1173.8148148148148"/>
+      <point x="-244.6419753086417" y="1143.8518518518517"/>
+      <point x="-244.6419753086417" y="1112.5802469135801" type="curve" smooth="yes"/>
+      <point x="-244.6419753086417" y="1029.2716049382716"/>
+      <point x="-302.3333333333331" y="993.8518518518518"/>
+      <point x="-410.901234567901" y="978.5061728395061" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>13</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

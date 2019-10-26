@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upperRightShadowedWhiteSquare" format="2">
+  <advance width="801"/>
+  <unicode hex="2752"/>
+  <outline>
+    <contour>
+      <point x="111" y="234" type="line"/>
+      <point x="583" y="234" type="line"/>
+      <point x="690" y="360" type="line"/>
+      <point x="690" y="823" type="line"/>
+      <point x="237" y="823" type="line"/>
+      <point x="111" y="717" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="318" type="line"/>
+      <point x="197" y="669" type="line"/>
+      <point x="535" y="669" type="line"/>
+      <point x="535" y="318" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcommaaccent" format="2">
+  <advance width="532.5185185185185"/>
+  <unicode hex="013C"/>
+  <anchor x="266.4320987654321" y="0.0" name="bottom"/>
+  <anchor x="266.4320987654321" y="499.58024691358025" name="center"/>
+  <anchor x="266.4320987654321" y="998.5061728395061" name="top"/>
+  <anchor x="512.5185185185185" y="998.5061728395061" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="cedillacomb" xOffset="305.4567901234568"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fisheye" format="2">
+  <advance width="941"/>
+  <unicode hex="25C9"/>
+  <outline>
+    <contour>
+      <point x="471" y="146" type="curve" smooth="yes"/>
+      <point x="684" y="146"/>
+      <point x="857" y="301"/>
+      <point x="857" y="538" type="curve" smooth="yes"/>
+      <point x="857" y="775"/>
+      <point x="684" y="931"/>
+      <point x="471" y="931" type="curve" smooth="yes"/>
+      <point x="257" y="931"/>
+      <point x="83" y="775"/>
+      <point x="83" y="538" type="curve" smooth="yes"/>
+      <point x="83" y="301"/>
+      <point x="257" y="146"/>
+    </contour>
+    <contour>
+      <point x="471" y="265" type="curve" smooth="yes"/>
+      <point x="331" y="265"/>
+      <point x="212" y="370"/>
+      <point x="212" y="538" type="curve" smooth="yes"/>
+      <point x="212" y="708"/>
+      <point x="331" y="812"/>
+      <point x="471" y="812" type="curve" smooth="yes"/>
+      <point x="611" y="812"/>
+      <point x="731" y="708"/>
+      <point x="731" y="538" type="curve" smooth="yes"/>
+      <point x="731" y="370"/>
+      <point x="611" y="265"/>
+    </contour>
+    <contour>
+      <point x="471" y="407" type="curve" smooth="yes"/>
+      <point x="539" y="407"/>
+      <point x="596" y="462"/>
+      <point x="596" y="538" type="curve" smooth="yes"/>
+      <point x="596" y="614"/>
+      <point x="539" y="669"/>
+      <point x="471" y="669" type="curve" smooth="yes"/>
+      <point x="402" y="669"/>
+      <point x="346" y="614"/>
+      <point x="346" y="538" type="curve" smooth="yes"/>
+      <point x="346" y="462"/>
+      <point x="402" y="407"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

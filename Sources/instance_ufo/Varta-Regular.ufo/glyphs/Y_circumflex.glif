@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ycircumflex" format="2">
+  <advance width="954.716049382716"/>
+  <unicode hex="0176"/>
+  <anchor x="477.74074074074076" y="0.0" name="bottom"/>
+  <anchor x="477.74074074074076" y="1344.5925925925926" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="circumflex.cap" xOffset="475.9753086419753"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

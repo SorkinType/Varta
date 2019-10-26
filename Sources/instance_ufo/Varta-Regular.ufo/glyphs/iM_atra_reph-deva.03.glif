@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iMatra_reph-deva.03" format="2">
+  <advance width="554.8765432098766"/>
+  <anchor x="1278.5802469135801" y="1560.1851851851852" name="candra"/>
+  <anchor x="1692.3703703703704" y="1424.1851851851852" name="imatra"/>
+  <anchor x="1774.1975308641975" y="1860.7037037037037" name="top"/>
+  <outline>
+    <component base="iMatra-deva.03"/>
+    <component base="reph-deva" xOffset="1379.5185185185185" yOffset="185.5185185185185"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iMatra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

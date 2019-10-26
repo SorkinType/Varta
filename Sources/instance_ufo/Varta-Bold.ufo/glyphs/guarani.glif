@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani" format="2">
+  <advance width="1042"/>
+  <unicode hex="20B2"/>
+  <outline>
+    <contour>
+      <point x="529" y="-225" type="line"/>
+      <point x="682" y="-225" type="line"/>
+      <point x="682" y="-18" type="line"/>
+      <point x="791" y="-3"/>
+      <point x="890" y="47"/>
+      <point x="969" y="126" type="curve"/>
+      <point x="969" y="702" type="line"/>
+      <point x="590" y="702" type="line"/>
+      <point x="590" y="521" type="line"/>
+      <point x="772" y="521" type="line"/>
+      <point x="772" y="211" type="line"/>
+      <point x="741" y="180"/>
+      <point x="681" y="155"/>
+      <point x="619" y="155" type="curve" smooth="yes"/>
+      <point x="424" y="155"/>
+      <point x="310" y="341"/>
+      <point x="310" y="655" type="curve" smooth="yes"/>
+      <point x="310" y="964"/>
+      <point x="422" y="1156"/>
+      <point x="625" y="1156" type="curve" smooth="yes"/>
+      <point x="715" y="1156"/>
+      <point x="779" y="1112"/>
+      <point x="841" y="1043" type="curve"/>
+      <point x="966" y="1164" type="line"/>
+      <point x="892" y="1248"/>
+      <point x="794" y="1312"/>
+      <point x="682" y="1325" type="curve"/>
+      <point x="682" y="1530" type="line"/>
+      <point x="529" y="1530" type="line"/>
+      <point x="529" y="1320" type="line"/>
+      <point x="262" y="1271"/>
+      <point x="89" y="1027"/>
+      <point x="89" y="648" type="curve" smooth="yes"/>
+      <point x="89" y="257"/>
+      <point x="269" y="18"/>
+      <point x="529" y="-18" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>6</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>28</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

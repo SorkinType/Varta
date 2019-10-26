@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Umacron" format="2">
+  <advance width="1329"/>
+  <unicode hex="016A"/>
+  <anchor x="665" y="0" name="bottom"/>
+  <anchor x="1196" y="10" name="ogonek"/>
+  <anchor x="665" y="1340" name="top"/>
+  <anchor x="1309" y="1340" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="macron.cap" xOffset="665"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

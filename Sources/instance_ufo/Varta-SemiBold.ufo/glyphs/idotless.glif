@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="514.2098765432098"/>
+  <unicode hex="0131"/>
+  <anchor x="257.08641975308643" y="-234.56790123456796" name="btm"/>
+  <anchor x="257.08641975308643" y="886.4197530864199" name="top"/>
+  <outline>
+    <contour>
+      <point x="162.25925925925927" y="0.0" type="line"/>
+      <point x="352.25925925925924" y="0.0" type="line"/>
+      <point x="352.25925925925924" y="998.5061728395061" type="line"/>
+      <point x="162.25925925925927" y="998.5061728395061" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>3</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

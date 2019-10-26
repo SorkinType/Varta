@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eCandraMatra_reph-deva" format="2">
+  <advance width="600.0"/>
+  <anchor x="239.64197530864197" y="1187.0" name="_top"/>
+  <anchor x="343.97530864197535" y="1891.358024691358" name="candra"/>
+  <outline>
+    <contour>
+      <point x="538.7037037037037" y="2043.2962962962963" type="line"/>
+      <point x="503.01234567901236" y="1985.3333333333333"/>
+      <point x="449.9382716049383" y="1924.4444444444443"/>
+      <point x="345.01234567901236" y="1924.4444444444443" type="curve" smooth="yes"/>
+      <point x="247.01234567901236" y="1924.4444444444443"/>
+      <point x="190.04938271604942" y="1976.4074074074074"/>
+      <point x="151.70370370370372" y="2041.3333333333333" type="curve"/>
+      <point x="48.02469135802474" y="1979.358024691358" type="line"/>
+      <point x="90.33333333333339" y="1880.3086419753085"/>
+      <point x="183.4567901234568" y="1787.567901234568"/>
+      <point x="339.4320987654321" y="1787.567901234568" type="curve" smooth="yes"/>
+      <point x="477.3703703703704" y="1787.567901234568"/>
+      <point x="573.5679012345679" y="1858.6913580246912"/>
+      <point x="633.7654320987655" y="1987.938271604938" type="curve"/>
+    </contour>
+    <component base="reph-deva" xOffset="-4.91358024691359" yOffset="3.456790123456795"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+    </dict>
+  </lib>
+</glyph>

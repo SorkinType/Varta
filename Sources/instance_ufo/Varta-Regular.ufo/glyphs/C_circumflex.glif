@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccircumflex" format="2">
+  <advance width="1156.2222222222222"/>
+  <unicode hex="0108"/>
+  <anchor x="668.6296296296297" y="0.0" name="bottom"/>
+  <anchor x="684.8641975308642" y="1531.358024691358" name="top"/>
+  <outline>
+    <component base="C"/>
+    <component base="circumflex.cap" xOffset="685.0987654320987"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

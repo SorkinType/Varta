@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prishthaMatraE-deva" format="2">
+  <advance width="565.0740740740741"/>
+  <unicode hex="094E"/>
+  <anchor x="282.38271604938274" y="27.34567901234568" name="bottom"/>
+  <anchor x="282.38271604938274" y="1167.3456790123457" name="top"/>
+  <outline>
+    <contour>
+      <point x="191.55555555555557" y="0.0" type="line"/>
+      <point x="372.8641975308642" y="0.0" type="line"/>
+      <point x="372.8641975308642" y="1202.8148148148148" type="line"/>
+      <point x="191.55555555555557" y="1202.8148148148148" type="line"/>
+    </contour>
+    <contour>
+      <point x="191.55555555555557" y="1117.4814814814815" type="line"/>
+      <point x="581.6543209876543" y="1117.4814814814815" type="line"/>
+      <point x="581.6543209876543" y="1273.1728395061727" type="line"/>
+      <point x="191.55555555555557" y="1273.1728395061727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

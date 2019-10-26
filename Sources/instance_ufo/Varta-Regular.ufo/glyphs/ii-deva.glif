@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ii-deva" format="2">
+  <advance width="1006.1111111111111"/>
+  <unicode hex="0908"/>
+  <note>
+dIi
+</note>
+  <anchor x="728.0864197530864" y="-6.975308641975303" name="bottom"/>
+  <anchor x="540.6666666666666" y="1171.5925925925926" name="candra"/>
+  <anchor x="872.8271604938271" y="1675.1851851851852" name="top"/>
+  <outline>
+    <component base="i-deva"/>
+    <component base="reph-deva" xOffset="478.14814814814815"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 04:37:59</string>
+    </dict>
+  </lib>
+</glyph>

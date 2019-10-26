@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="candraBindu_reph-deva" format="2">
+  <advance width="600"/>
+  <anchor x="256" y="1187" name="_top"/>
+  <outline>
+    <component base="reph-deva" xOffset="4"/>
+    <component base="candraBindu-deva" xScale="0.797" yScale="0.797" xOffset="128" yOffset="712"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

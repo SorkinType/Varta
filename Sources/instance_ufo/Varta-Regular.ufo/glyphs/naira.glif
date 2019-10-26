@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="1012.1481481481482"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="178.2469135802469" y="0.0" type="line"/>
+      <point x="303.44444444444446" y="0.0" type="line"/>
+      <point x="303.44444444444446" y="492.82716049382714" type="line"/>
+      <point x="498.82716049382714" y="492.82716049382714" type="line"/>
+      <point x="671.6543209876543" y="0.0" type="line"/>
+      <point x="833.9012345679013" y="0.0" type="line"/>
+      <point x="833.9012345679013" y="492.82716049382714" type="line"/>
+      <point x="981.1975308641976" y="492.82716049382714" type="line"/>
+      <point x="981.1975308641976" y="577.283950617284" type="line"/>
+      <point x="833.9012345679013" y="577.283950617284" type="line"/>
+      <point x="833.9012345679013" y="702.5308641975308" type="line"/>
+      <point x="981.1975308641976" y="702.5308641975308" type="line"/>
+      <point x="981.1975308641976" y="784.6913580246913" type="line"/>
+      <point x="833.9012345679013" y="784.6913580246913" type="line"/>
+      <point x="833.9012345679013" y="1307.0617283950617" type="line"/>
+      <point x="708.7037037037037" y="1307.0617283950617" type="line"/>
+      <point x="708.7037037037037" y="784.6913580246913" type="line"/>
+      <point x="524.1481481481482" y="784.6913580246913" type="line"/>
+      <point x="340.7283950617284" y="1307.0617283950617" type="line"/>
+      <point x="178.2469135802469" y="1307.0617283950617" type="line"/>
+      <point x="178.2469135802469" y="784.6913580246913" type="line"/>
+      <point x="24.654320987654323" y="775.2222222222222" type="line"/>
+      <point x="24.654320987654323" y="702.5308641975308" type="line"/>
+      <point x="178.2469135802469" y="702.5308641975308" type="line"/>
+      <point x="178.2469135802469" y="577.283950617284" type="line"/>
+      <point x="24.654320987654323" y="567.0493827160494" type="line"/>
+      <point x="24.654320987654323" y="492.82716049382714" type="line"/>
+      <point x="178.2469135802469" y="492.82716049382714" type="line"/>
+    </contour>
+    <contour>
+      <point x="730.2222222222222" y="145.320987654321" type="line"/>
+      <point x="622.1481481481482" y="492.82716049382714" type="line"/>
+      <point x="718.0493827160494" y="492.82716049382714" type="line"/>
+      <point x="738.2222222222222" y="145.320987654321" type="line"/>
+    </contour>
+    <contour>
+      <point x="302.74074074074076" y="577.283950617284" type="line"/>
+      <point x="300.037037037037" y="702.5308641975308" type="line"/>
+      <point x="425.7654320987654" y="702.5308641975308" type="line"/>
+      <point x="469.65432098765433" y="577.283950617284" type="line"/>
+    </contour>
+    <contour>
+      <point x="595.2098765432099" y="577.283950617284" type="line"/>
+      <point x="553.0864197530864" y="702.5308641975308" type="line"/>
+      <point x="709.4074074074074" y="702.5308641975308" type="line"/>
+      <point x="713.1111111111111" y="577.283950617284" type="line"/>
+    </contour>
+    <contour>
+      <point x="295.0987654320988" y="784.6913580246913" type="line"/>
+      <point x="273.69135802469134" y="1160.7407407407406" type="line"/>
+      <point x="281.9259259259259" y="1160.7407407407406" type="line"/>
+      <point x="400.358024691358" y="784.6913580246913" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>3</integer>
+            <integer>2</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

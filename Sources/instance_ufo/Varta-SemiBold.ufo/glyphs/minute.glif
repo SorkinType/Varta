@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="527.5308641975308"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="165.69135802469137" y="861.9135802469136" type="line"/>
+      <point x="289.3703703703703" y="861.9135802469136" type="line"/>
+      <point x="364.4938271604938" y="1191.7777777777778" type="line"/>
+      <point x="400.3456790123456" y="1411.7283950617284" type="line"/>
+      <point x="212.03703703703704" y="1411.7283950617284" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>4</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

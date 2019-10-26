@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackrightpointingtriangle" format="2">
+  <advance width="1165.567901234568"/>
+  <unicode hex="25B6"/>
+  <outline>
+    <contour>
+      <point x="117.82716049382717" y="41.54320987654321" type="line"/>
+      <point x="121.82716049382717" y="41.54320987654321" type="line"/>
+      <point x="1127.9753086419753" y="573.0" type="line"/>
+      <point x="1127.9753086419753" y="582.0" type="line"/>
+      <point x="121.82716049382717" y="1111.4567901234568" type="line"/>
+      <point x="117.82716049382717" y="1111.4567901234568" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

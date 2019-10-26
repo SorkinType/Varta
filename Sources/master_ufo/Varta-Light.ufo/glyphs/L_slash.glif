@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="972"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="188" y="0" type="line"/>
+      <point x="928" y="0" type="line"/>
+      <point x="928" y="119" type="line"/>
+      <point x="328" y="119" type="line"/>
+      <point x="328" y="566" type="line"/>
+      <point x="720" y="774" type="line"/>
+      <point x="720" y="889" type="line"/>
+      <point x="328" y="681" type="line"/>
+      <point x="328" y="1346" type="line"/>
+      <point x="188" y="1346" type="line"/>
+      <point x="188" y="612" type="line"/>
+      <point x="20" y="526" type="line"/>
+      <point x="20" y="411" type="line"/>
+      <point x="188" y="497" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>2</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

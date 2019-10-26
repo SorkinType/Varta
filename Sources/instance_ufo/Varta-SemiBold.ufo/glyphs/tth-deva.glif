@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tth-deva" format="2">
+  <advance width="1174.9259259259259"/>
+  <anchor x="612.358024691358" y="52.97530864197533" name="bottom"/>
+  <anchor x="625.9259259259259" y="1167.3456790123457" name="candra"/>
+  <anchor x="21.950617283950663" y="68.86419753086417" name="nukta"/>
+  <anchor x="772.3827160493827" y="1167.3456790123457" name="top"/>
+  <outline>
+    <component base="ttha-deva"/>
+    <component base="halant-deva" xOffset="476.7037037037037" yOffset="11.802469135802474"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

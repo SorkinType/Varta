@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rr-deva" format="2">
+  <advance width="650"/>
+  <anchor x="479" y="31" name="bottom"/>
+  <anchor x="410" y="1168" name="candra"/>
+  <anchor x="121" y="163" name="nukta"/>
+  <anchor x="411" y="1168" name="top"/>
+  <outline>
+    <component base="rra-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

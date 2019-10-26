@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kh_ma-deva" format="2">
+  <advance width="2275"/>
+  <anchor x="779" y="0" name="bottom"/>
+  <anchor x="832" y="1167" name="candra"/>
+  <anchor x="150" y="27" name="nukta"/>
+  <anchor x="456" y="1168" name="top"/>
+  <outline>
+    <contour>
+      <point x="1037" y="96" type="line"/>
+      <point x="981" y="73"/>
+      <point x="902" y="55"/>
+      <point x="802" y="55" type="curve" smooth="yes"/>
+      <point x="544" y="55"/>
+      <point x="322" y="236"/>
+      <point x="198" y="614" type="curve"/>
+      <point x="175" y="585" type="line"/>
+      <point x="215" y="571"/>
+      <point x="256" y="561"/>
+      <point x="298" y="561" type="curve" smooth="yes"/>
+      <point x="409" y="561"/>
+      <point x="504" y="630"/>
+      <point x="504" y="839" type="curve" smooth="yes"/>
+      <point x="504" y="1191" type="line"/>
+      <point x="377" y="1190" type="line"/>
+      <point x="377" y="831" type="line" smooth="yes"/>
+      <point x="377" y="720"/>
+      <point x="350" y="667"/>
+      <point x="263" y="665" type="curve" smooth="yes"/>
+      <point x="230" y="664"/>
+      <point x="193" y="671"/>
+      <point x="150" y="706" type="curve"/>
+      <point x="65" y="649" type="line"/>
+      <point x="237" y="123"/>
+      <point x="502" y="-56"/>
+      <point x="806" y="-56" type="curve" smooth="yes"/>
+      <point x="875" y="-56"/>
+      <point x="979" y="-51"/>
+      <point x="1067" y="-8" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1223" y="561" type="line"/>
+      <point x="1181" y="432"/>
+      <point x="1070" y="358"/>
+      <point x="931" y="358" type="curve" smooth="yes"/>
+      <point x="783" y="358"/>
+      <point x="731" y="437"/>
+      <point x="732" y="584" type="curve" smooth="yes"/>
+      <point x="734" y="760"/>
+      <point x="837" y="804"/>
+      <point x="987" y="804" type="curve" smooth="yes"/>
+      <point x="1047" y="804"/>
+      <point x="1122" y="795"/>
+      <point x="1198" y="775" type="curve"/>
+      <point x="1209" y="874" type="line"/>
+      <point x="1142" y="899"/>
+      <point x="1053" y="910"/>
+      <point x="982" y="910" type="curve" smooth="yes"/>
+      <point x="769" y="910"/>
+      <point x="603" y="835"/>
+      <point x="602" y="580" type="curve" smooth="yes"/>
+      <point x="601" y="402"/>
+      <point x="682" y="248"/>
+      <point x="915" y="248" type="curve" smooth="yes"/>
+      <point x="1077" y="248"/>
+      <point x="1213" y="319"/>
+      <point x="1271" y="459" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-12" y="1143" type="line"/>
+      <point x="1132" y="1143" type="line"/>
+      <point x="1132" y="1247" type="line"/>
+      <point x="-12" y="1247" type="line"/>
+    </contour>
+    <component base="ma-deva" xOffset="1102"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>kh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ma-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

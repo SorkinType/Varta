@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.numr" format="2">
+  <advance width="754.8518518518518"/>
+  <outline>
+    <contour>
+      <point x="448.41975308641975" y="543.7283950617284" type="line"/>
+      <point x="579.8271604938271" y="543.7283950617284" type="line"/>
+      <point x="579.8271604938271" y="750.679012345679" type="line"/>
+      <point x="698.8271604938271" y="750.679012345679" type="line"/>
+      <point x="698.8271604938271" y="852.9629629629629" type="line"/>
+      <point x="579.8271604938271" y="852.9629629629629" type="line"/>
+      <point x="579.8271604938271" y="1342.0740740740741" type="line"/>
+      <point x="411.1358024691358" y="1342.0740740740741" type="line"/>
+      <point x="83.76543209876543" y="824.6913580246913" type="line"/>
+      <point x="83.76543209876543" y="750.679012345679" type="line"/>
+      <point x="448.41975308641975" y="750.679012345679" type="line"/>
+    </contour>
+    <contour>
+      <point x="231.28395061728395" y="852.9629629629629" type="line"/>
+      <point x="350.58024691358025" y="1048.2222222222222" type="line"/>
+      <point x="449.7283950617284" y="1212.9506172839506" type="line"/>
+      <point x="457.7283950617284" y="1212.9506172839506" type="line"/>
+      <point x="448.41975308641975" y="987.7530864197531" type="line"/>
+      <point x="448.41975308641975" y="852.9629629629629" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

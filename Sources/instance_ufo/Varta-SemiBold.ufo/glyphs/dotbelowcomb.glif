@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <anchor x="0.0" y="-234.56790123456796" name="_btm"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="-429.01234567901236" type="curve" smooth="yes"/>
+      <point x="69.0864197530864" y="-429.01234567901236"/>
+      <point x="119.90123456790121" y="-380.5061728395062"/>
+      <point x="119.90123456790121" y="-310.03703703703707" type="curve" smooth="yes"/>
+      <point x="119.90123456790121" y="-241.9135802469136"/>
+      <point x="69.0864197530864" y="-193.40740740740742"/>
+      <point x="0.0" y="-193.40740740740742" type="curve" smooth="yes"/>
+      <point x="-69.0864197530864" y="-193.40740740740742"/>
+      <point x="-119.90123456790121" y="-241.9135802469136"/>
+      <point x="-119.90123456790121" y="-310.03703703703707" type="curve" smooth="yes"/>
+      <point x="-119.90123456790121" y="-380.5061728395062"/>
+      <point x="-69.0864197530864" y="-429.01234567901236"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>11</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

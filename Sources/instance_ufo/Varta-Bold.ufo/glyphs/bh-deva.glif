@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bh-deva" format="2">
+  <advance width="654"/>
+  <outline>
+    <contour>
+      <point x="275" y="548" type="line"/>
+      <point x="485" y="548" type="line"/>
+      <point x="485" y="1032" type="line" smooth="yes"/>
+      <point x="485" y="1168"/>
+      <point x="464" y="1307"/>
+      <point x="239" y="1307" type="curve" smooth="yes"/>
+      <point x="173" y="1307"/>
+      <point x="126" y="1299"/>
+      <point x="77" y="1281" type="curve"/>
+      <point x="101" y="1105" type="line"/>
+      <point x="135" y="1112"/>
+      <point x="168" y="1118"/>
+      <point x="197" y="1118" type="curve" smooth="yes"/>
+      <point x="245" y="1119"/>
+      <point x="275" y="1099"/>
+      <point x="275" y="1035" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="316" y="289" type="line"/>
+      <point x="455" y="289"/>
+      <point x="484" y="357"/>
+      <point x="484" y="437" type="curve" smooth="yes"/>
+      <point x="484" y="661" type="line"/>
+      <point x="318" y="661" type="line"/>
+      <point x="131" y="639" type="line"/>
+      <point x="131" y="495" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="471" type="line"/>
+      <point x="904" y="471" type="line"/>
+      <point x="904" y="657" type="line"/>
+      <point x="280" y="657" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

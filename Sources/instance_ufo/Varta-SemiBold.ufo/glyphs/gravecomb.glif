@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="-443.40740740740716" y="998.5061728395061" name="_top"/>
+  <anchor x="-441.40740740740716" y="1465.5061728395062" name="top"/>
+  <outline>
+    <contour>
+      <point x="-397.49382716049354" y="1174.3086419753085" type="line"/>
+      <point x="-253.50617283950595" y="1174.3086419753085" type="line"/>
+      <point x="-437.54320987654296" y="1465.5061728395062" type="line"/>
+      <point x="-632.654320987654" y="1465.5061728395062" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>3</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

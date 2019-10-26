@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresismacron" format="2">
+  <advance width="1133"/>
+  <unicode hex="01D6"/>
+  <anchor x="560" y="-200" name="btm"/>
+  <anchor x="560" y="800" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscomb_macroncomb" xOffset="1160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khh_ma-deva" format="2">
+  <advance width="2275"/>
+  <anchor x="772" y="0" name="bottom"/>
+  <anchor x="824" y="1167" name="candra"/>
+  <anchor x="142" y="27" name="nukta"/>
+  <anchor x="448" y="1168" name="top"/>
+  <outline>
+    <component base="nukta-deva" xOffset="-134" yOffset="-1"/>
+    <component base="kh_ma-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>khh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ma-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

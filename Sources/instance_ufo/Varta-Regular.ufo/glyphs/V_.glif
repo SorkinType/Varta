@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="1035.3703703703704"/>
+  <unicode hex="0056"/>
+  <anchor x="517.8024691358024" y="0.0" name="bottom"/>
+  <anchor x="517.8024691358024" y="1344.5925925925926" name="top"/>
+  <outline>
+    <contour>
+      <point x="427.60493827160496" y="0.0" type="line"/>
+      <point x="611.2962962962963" y="0.0" type="line"/>
+      <point x="1039.2469135802469" y="1344.5925925925926" type="line"/>
+      <point x="878.3086419753087" y="1344.5925925925926" type="line"/>
+      <point x="656.7530864197531" y="608.8395061728395" type="line"/>
+      <point x="610.925925925926" y="449.48148148148147"/>
+      <point x="576.8641975308642" y="321.77777777777777"/>
+      <point x="526.0370370370371" y="163.1851851851852" type="curve"/>
+      <point x="518.0370370370371" y="163.1851851851852" type="line"/>
+      <point x="467.44444444444446" y="321.77777777777777"/>
+      <point x="434.14814814814815" y="449.48148148148147"/>
+      <point x="386.32098765432096" y="608.8395061728395" type="curve" smooth="yes"/>
+      <point x="164.2962962962963" y="1344.5925925925926" type="line"/>
+      <point x="-3.641975308641975" y="1344.5925925925926" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>13</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gh_h-deva" format="2">
+  <advance width="607.8765432098766"/>
+  <anchor x="318.2098765432099" y="1167.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="249.77777777777777" y="507.0987654320988" type="line"/>
+      <point x="395.48148148148147" y="629.2716049382716" type="line"/>
+      <point x="395.48148148148147" y="1187.4814814814815" type="line"/>
+      <point x="249.77777777777777" y="1187.4814814814815" type="line"/>
+    </contour>
+    <contour>
+      <point x="309.6296296296296" y="71.20987654320987" type="curve" smooth="yes"/>
+      <point x="369.08641975308643" y="71.20987654320987"/>
+      <point x="394.7283950617284" y="96.08641975308642"/>
+      <point x="394.7283950617284" y="154.30864197530863" type="curve" smooth="yes"/>
+      <point x="394.7283950617284" y="213.53086419753086"/>
+      <point x="369.08641975308643" y="238.40740740740742"/>
+      <point x="309.6296296296296" y="238.40740740740742" type="curve" smooth="yes"/>
+      <point x="250.40740740740742" y="238.40740740740742"/>
+      <point x="224.53086419753086" y="213.53086419753086"/>
+      <point x="224.53086419753086" y="154.30864197530863" type="curve" smooth="yes"/>
+      <point x="224.53086419753086" y="96.08641975308642"/>
+      <point x="250.40740740740742" y="71.20987654320987"/>
+    </contour>
+    <contour>
+      <point x="272.641975308642" y="379.1975308641975" type="line"/>
+      <point x="373.60493827160496" y="381.7283950617284"/>
+      <point x="394.71604938271605" y="433.95061728395063"/>
+      <point x="394.71604938271605" y="497.58024691358025" type="curve" smooth="yes"/>
+      <point x="394.71604938271605" y="695.320987654321" type="line"/>
+      <point x="276.4074074074074" y="695.320987654321" type="line"/>
+      <point x="99.12345679012346" y="674.6172839506173" type="line"/>
+      <point x="99.12345679012346" y="572.9506172839506" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10.0" y="1133.851851851852" type="line"/>
+      <point x="622.283950617284" y="1133.851851851852" type="line"/>
+      <point x="622.283950617284" y="1256.3827160493827" type="line"/>
+      <point x="-10.0" y="1256.3827160493827" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>gh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

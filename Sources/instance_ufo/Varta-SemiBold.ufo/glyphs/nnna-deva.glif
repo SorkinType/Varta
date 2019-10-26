@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nnna-deva" format="2">
+  <advance width="1055.7037037037037"/>
+  <unicode hex="0929"/>
+  <anchor x="776.7407407407408" y="27.34567901234568" name="bottom"/>
+  <anchor x="499.28395061728395" y="1167.3456790123457" name="candra"/>
+  <anchor x="247.12345679012344" y="68.86419753086417" name="nukta"/>
+  <anchor x="776.7407407407408" y="1167.3456790123457" name="top"/>
+  <outline>
+    <component base="na-deva"/>
+    <component base="nukta-deva" xOffset="-25.950617283950628" yOffset="41.518518518518505"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

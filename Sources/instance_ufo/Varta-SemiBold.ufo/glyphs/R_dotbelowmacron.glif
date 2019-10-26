@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rdotbelowmacron" format="2">
+  <advance width="1193.716049382716"/>
+  <unicode hex="1E5C"/>
+  <anchor x="597.358024691358" y="0.0" name="bottom"/>
+  <anchor x="597.358024691358" y="1342.0740740740741" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="dotbelowcomb" xOffset="651.0123456790124"/>
+    <component base="macron.cap" xOffset="600.9135802469135"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcommaaccent" format="2">
+  <advance width="1031.8395061728395"/>
+  <unicode hex="0137"/>
+  <anchor x="579.716049382716" y="-234.56790123456796" name="btm"/>
+  <anchor x="476.35802469135785" y="941.0370370370372" name="top"/>
+  <outline>
+    <component base="k"/>
+    <component base="commaaccent" xOffset="337.2345679012345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

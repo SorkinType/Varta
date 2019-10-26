@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oCandraMatra-deva" format="2">
+  <advance width="505"/>
+  <unicode hex="0949"/>
+  <note>
+dMatraCandraO
+</note>
+  <anchor x="62" y="1487" name="candra"/>
+  <anchor x="277" y="28" name="bottom"/>
+  <anchor x="277" y="1168" name="top"/>
+  <outline>
+    <component base="aaMatra-deva"/>
+    <component base="eCandraMatra-deva" xOffset="-229"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

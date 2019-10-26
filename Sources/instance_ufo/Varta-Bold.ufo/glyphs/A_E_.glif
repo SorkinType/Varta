@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="1694"/>
+  <unicode hex="00C6"/>
+  <anchor x="847" y="1340" name="top"/>
+  <outline>
+    <contour>
+      <point x="-4" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="404" y="358" type="line"/>
+      <point x="806" y="358" type="line"/>
+      <point x="806" y="0" type="line"/>
+      <point x="1595" y="0" type="line"/>
+      <point x="1595" y="187" type="line"/>
+      <point x="1027" y="187" type="line"/>
+      <point x="1027" y="606" type="line"/>
+      <point x="1486" y="606" type="line"/>
+      <point x="1486" y="791" type="line"/>
+      <point x="1027" y="791" type="line"/>
+      <point x="1027" y="1155" type="line"/>
+      <point x="1575" y="1155" type="line"/>
+      <point x="1575" y="1340" type="line"/>
+      <point x="674" y="1340" type="line"/>
+    </contour>
+    <contour>
+      <point x="489" y="532" type="line"/>
+      <point x="599" y="754" type="line"/>
+      <point x="664" y="889"/>
+      <point x="732" y="1030"/>
+      <point x="798" y="1170" type="curve"/>
+      <point x="806" y="1170" type="line"/>
+      <point x="806" y="532" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>6</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>3</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>11</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

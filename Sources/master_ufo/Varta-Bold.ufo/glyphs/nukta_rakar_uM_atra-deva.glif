@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nukta_rakar_uMatra-deva" format="2">
+  <advance width="600"/>
+  <anchor x="256" y="0" name="_bottom"/>
+  <outline>
+    <component base="nukta_rakar-deva" xScale="0.961" yScale="0.961" xOffset="10" yOffset="-33"/>
+    <component base="uMatra-deva" xScale="0.888" yScale="0.888" xOffset="73" yOffset="-972"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

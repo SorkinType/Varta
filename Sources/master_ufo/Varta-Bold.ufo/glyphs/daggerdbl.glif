@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="974"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="396" y="-164" type="line"/>
+      <point x="577" y="-164" type="line"/>
+      <point x="564" y="174" type="line"/>
+      <point x="871" y="161" type="line"/>
+      <point x="871" y="343" type="line"/>
+      <point x="564" y="325" type="line"/>
+      <point x="577" y="647" type="line"/>
+      <point x="564" y="970" type="line"/>
+      <point x="871" y="951" type="line"/>
+      <point x="871" y="1134" type="line"/>
+      <point x="564" y="1120" type="line"/>
+      <point x="577" y="1458" type="line"/>
+      <point x="396" y="1458" type="line"/>
+      <point x="409" y="1120" type="line"/>
+      <point x="103" y="1134" type="line"/>
+      <point x="103" y="951" type="line"/>
+      <point x="409" y="970" type="line"/>
+      <point x="396" y="647" type="line"/>
+      <point x="409" y="325" type="line"/>
+      <point x="103" y="343" type="line"/>
+      <point x="103" y="161" type="line"/>
+      <point x="409" y="174" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>17</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>17</integer>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

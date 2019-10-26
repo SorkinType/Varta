@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z.sups" format="2">
+  <advance width="601.320987654321"/>
+  <unicode hex="1DBB"/>
+  <outline>
+    <contour>
+      <point x="44.2716049382716" y="532.0" type="line"/>
+      <point x="564.9753086419753" y="532.0" type="line"/>
+      <point x="564.9753086419753" y="645.2098765432098" type="line"/>
+      <point x="223.14814814814812" y="645.2098765432098" type="line"/>
+      <point x="555.283950617284" y="1115.2222222222222" type="line"/>
+      <point x="555.283950617284" y="1194.2345679012346" type="line"/>
+      <point x="84.30864197530865" y="1194.2345679012346" type="line"/>
+      <point x="84.30864197530865" y="1082.0246913580247" type="line"/>
+      <point x="377.7530864197531" y="1082.0246913580247" type="line"/>
+      <point x="44.2716049382716" y="609.320987654321" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>9</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="danda-deva" format="2">
+  <advance width="600.0"/>
+  <unicode hex="0964"/>
+  <outline>
+    <contour>
+      <point x="211.1604938271605" y="0.0" type="line"/>
+      <point x="392.77777777777777" y="0.0" type="line"/>
+      <point x="392.77777777777777" y="1273.1728395061727" type="line"/>
+      <point x="211.1604938271605" y="1273.1728395061727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

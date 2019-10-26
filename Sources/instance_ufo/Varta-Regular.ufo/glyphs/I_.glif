@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="519.6666666666666"/>
+  <unicode hex="0049"/>
+  <anchor x="260.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="467.4938271604938" y="10.0" name="ogonek"/>
+  <anchor x="260.3333333333333" y="1344.5925925925926" name="top"/>
+  <outline>
+    <contour>
+      <point x="180.71604938271605" y="0.0" type="line"/>
+      <point x="339.95061728395063" y="0.0" type="line"/>
+      <point x="339.95061728395063" y="1344.5925925925926" type="line"/>
+      <point x="180.71604938271605" y="1344.5925925925926" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>3</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

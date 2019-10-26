@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wgrave" format="2">
+  <advance width="1609.5185185185185"/>
+  <unicode hex="1E80"/>
+  <anchor x="805.0864197530864" y="0.0" name="bottom"/>
+  <anchor x="805.0864197530864" y="1342.0740740740741" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="grave.cap" xOffset="788.9135802469135"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

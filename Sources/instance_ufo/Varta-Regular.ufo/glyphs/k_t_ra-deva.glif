@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k_t_ra-deva" format="2">
+  <advance width="2449.0246913580245"/>
+  <anchor x="787.3456790123457" y="27.765432098765434" name="bottom_1"/>
+  <anchor x="2261.8395061728397" y="30.061728395061728" name="bottom_2"/>
+  <anchor x="786.3456790123457" y="1167.7654320987654" name="candra_1"/>
+  <anchor x="2196.358024691358" y="1167.7654320987654" name="candra_2"/>
+  <anchor x="347.0" y="28.0" name="nukta_1"/>
+  <anchor x="1900.5555555555557" y="147.51851851851853" name="nukta_2"/>
+  <anchor x="787.3456790123457" y="1167.7654320987654" name="top_1"/>
+  <anchor x="2197.358024691358" y="1167.7654320987654" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="1618.4197530864199" y="46.50617283950617" type="line"/>
+      <point x="1465.4197530864199" y="262.1975308641975"/>
+      <point x="1386.5061728395062" y="418.3333333333333"/>
+      <point x="1386.5061728395062" y="547.7777777777778" type="curve" smooth="yes"/>
+      <point x="1386.5061728395062" y="652.2098765432099"/>
+      <point x="1435.0987654320988" y="699.2716049382716"/>
+      <point x="1591.7865432098765" y="699.292950617284" type="curve" smooth="yes"/>
+      <point x="1720.3086419753085" y="699.2716049382716"/>
+      <point x="1783.469135802469" y="666.5679012345679"/>
+      <point x="1931.3333333333333" y="537.925925925926" type="curve"/>
+      <point x="1924.7037037037037" y="699.4444444444445" type="line"/>
+      <point x="1813.7865432098765" y="796.2098765432099"/>
+      <point x="1735.9135802469136" y="835.0370370370371"/>
+      <point x="1581.8148148148148" y="835.0370370370371" type="curve" smooth="yes"/>
+      <point x="1345.2962962962963" y="835.0370370370371"/>
+      <point x="1236.8024691358025" y="742.283950617284"/>
+      <point x="1236.8024691358025" y="569.0617283950618" type="curve" smooth="yes"/>
+      <point x="1236.8024691358025" y="365.7654320987654"/>
+      <point x="1377.0" y="130.23456790123456"/>
+      <point x="1502.641975308642" y="-31.876543209876544" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1164.0987654320988" y="1133.851851851852" type="line"/>
+      <point x="1818.5061728395062" y="1133.851851851852" type="line"/>
+      <point x="1818.5061728395062" y="1256.3827160493827" type="line"/>
+      <point x="1164.0987654320988" y="1256.3827160493827" type="line"/>
+    </contour>
+    <component base="k-deva"/>
+    <component base="ra-deva" xOffset="1775.8024691358025"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>k-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

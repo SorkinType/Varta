@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cdotaccent" format="2">
+  <advance width="942"/>
+  <unicode hex="010B"/>
+  <anchor x="570" y="-200" name="btm"/>
+  <anchor x="574" y="800" name="top"/>
+  <outline>
+    <component base="c"/>
+    <component base="dotaccent" xOffset="14"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

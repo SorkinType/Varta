@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caronvertical" format="2">
+  <advance width="333"/>
+  <anchor x="179" y="1015" name="_car"/>
+  <outline>
+    <contour>
+      <point x="138" y="1122" type="line"/>
+      <point x="209" y="1122" type="line"/>
+      <point x="233" y="1441" type="line"/>
+      <point x="234" y="1551" type="line"/>
+      <point x="131" y="1551" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

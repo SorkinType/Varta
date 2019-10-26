@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="1667.9753086419753"/>
+  <unicode hex="00C6"/>
+  <anchor x="833.9876543209876" y="1344.5925925925926" name="top"/>
+  <outline>
+    <contour>
+      <point x="15.901234567901236" y="0.0" type="line"/>
+      <point x="179.30864197530863" y="0.0" type="line"/>
+      <point x="388.69135802469134" y="400.0987654320988" type="line"/>
+      <point x="819.7777777777778" y="400.0987654320988" type="line"/>
+      <point x="819.7777777777778" y="0.0" type="line"/>
+      <point x="1575.0987654320988" y="0.0" type="line"/>
+      <point x="1575.0987654320988" y="134.9506172839506" type="line"/>
+      <point x="978.0123456790124" y="134.9506172839506" type="line"/>
+      <point x="978.0123456790124" y="640.4444444444445" type="line"/>
+      <point x="1458.4444444444443" y="640.4444444444445" type="line"/>
+      <point x="1458.4444444444443" y="774.925925925926" type="line"/>
+      <point x="978.0123456790124" y="774.925925925926" type="line"/>
+      <point x="978.0123456790124" y="1210.8765432098764" type="line"/>
+      <point x="1555.0987654320988" y="1210.8765432098764" type="line"/>
+      <point x="1555.0987654320988" y="1344.5925925925926" type="line"/>
+      <point x="727.5802469135803" y="1344.5925925925926" type="line"/>
+    </contour>
+    <contour>
+      <point x="455.32098765432096" y="527.4074074074074" type="line"/>
+      <point x="583.6913580246913" y="773.9012345679013" type="line"/>
+      <point x="658.641975308642" y="921.9135802469136"/>
+      <point x="737.358024691358" y="1072.0987654320988"/>
+      <point x="811.7777777777778" y="1218.2222222222222" type="curve"/>
+      <point x="819.7777777777778" y="1218.2222222222222" type="line"/>
+      <point x="819.7777777777778" y="527.4074074074074" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>6</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>3</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>11</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

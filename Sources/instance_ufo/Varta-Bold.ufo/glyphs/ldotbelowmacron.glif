@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldotbelowmacron" format="2">
+  <advance width="546"/>
+  <unicode hex="1E39"/>
+  <anchor x="273" y="0" name="bottom"/>
+  <anchor x="273" y="502" name="center"/>
+  <anchor x="273" y="1003" name="top"/>
+  <anchor x="526" y="1003" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="dotbelowcomb" xOffset="321"/>
+    <component base="macron.cap" xOffset="271" yOffset="142"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

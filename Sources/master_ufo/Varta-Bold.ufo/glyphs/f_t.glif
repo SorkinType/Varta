@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_t" format="2">
+  <advance width="1290"/>
+  <outline>
+    <contour>
+      <point x="1222" y="174" type="line"/>
+      <point x="1191" y="163"/>
+      <point x="1150" y="150"/>
+      <point x="1115" y="150" type="curve" smooth="yes"/>
+      <point x="1014" y="150"/>
+      <point x="970" y="211"/>
+      <point x="970" y="331" type="curve" smooth="yes"/>
+      <point x="970" y="828" type="line"/>
+      <point x="1229" y="828" type="line"/>
+      <point x="1229" y="1003" type="line"/>
+      <point x="970" y="1003" type="line"/>
+      <point x="970" y="1279" type="line"/>
+      <point x="788" y="1279" type="line"/>
+      <point x="762" y="1003" type="line"/>
+      <point x="411" y="1003" type="line"/>
+      <point x="411" y="1124" type="line" smooth="yes"/>
+      <point x="411" y="1243"/>
+      <point x="455" y="1299"/>
+      <point x="541" y="1299" type="curve" smooth="yes"/>
+      <point x="577" y="1299"/>
+      <point x="615" y="1290"/>
+      <point x="651" y="1276" type="curve"/>
+      <point x="695" y="1440" type="line"/>
+      <point x="650" y="1457"/>
+      <point x="585" y="1474"/>
+      <point x="514" y="1474" type="curve" smooth="yes"/>
+      <point x="287" y="1474"/>
+      <point x="192" y="1329"/>
+      <point x="192" y="1121" type="curve" smooth="yes"/>
+      <point x="192" y="1002" type="line"/>
+      <point x="56" y="992" type="line"/>
+      <point x="56" y="828" type="line"/>
+      <point x="192" y="828" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="411" y="828" type="line"/>
+      <point x="751" y="828" type="line"/>
+      <point x="751" y="331" type="line" smooth="yes"/>
+      <point x="751" y="119"/>
+      <point x="833" y="-25"/>
+      <point x="1061" y="-25" type="curve" smooth="yes"/>
+      <point x="1136" y="-25"/>
+      <point x="1206" y="-5"/>
+      <point x="1260" y="12" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>40</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>40</integer>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>26</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>40</integer>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>28</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>40</integer>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>37</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>40</integer>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

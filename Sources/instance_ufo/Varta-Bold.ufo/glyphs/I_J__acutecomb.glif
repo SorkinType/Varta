@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ_acutecomb" format="2">
+  <advance width="1568"/>
+  <anchor x="281" y="0" name="bottom_1"/>
+  <anchor x="1070" y="0" name="bottom_2"/>
+  <anchor x="505" y="10" name="ogonek"/>
+  <anchor x="281" y="1340" name="top_1"/>
+  <anchor x="1407" y="1678" name="top_2"/>
+  <outline>
+    <component base="Iacute"/>
+    <component base="Jacute" xOffset="571"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Iacute</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Jacute</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

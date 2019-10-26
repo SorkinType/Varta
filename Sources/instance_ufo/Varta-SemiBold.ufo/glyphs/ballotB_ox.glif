@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ballotBox" format="2">
+  <advance width="1638.5432098765432"/>
+  <unicode hex="2610"/>
+  <outline>
+    <contour>
+      <point x="152.0" y="-20.0" type="line"/>
+      <point x="1374.7283950617284" y="-20.0" type="line"/>
+      <point x="1487.5432098765432" y="108.77777777777777" type="line"/>
+      <point x="1487.5432098765432" y="1375.2716049382716" type="line"/>
+      <point x="280.77777777777777" y="1375.2716049382716" type="line"/>
+      <point x="152.0" y="1266.4938271604938" type="line"/>
+    </contour>
+    <contour>
+      <point x="244.0864197530864" y="72.0864197530864" type="line"/>
+      <point x="244.0864197530864" y="1219.1851851851852" type="line"/>
+      <point x="1328.4197530864199" y="1219.1851851851852" type="line"/>
+      <point x="1328.4197530864199" y="72.0864197530864" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

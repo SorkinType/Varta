@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.onum" format="2">
+  <advance width="1010.5925925925926"/>
+  <outline>
+    <contour>
+      <point x="526.3333333333333" y="-152.92592592592592" type="line"/>
+      <point x="541.679012345679" y="366.69135802469134"/>
+      <point x="609.7901234567901" y="665.3333333333334"/>
+      <point x="913.5185185185185" y="1060.20987654321" type="curve"/>
+      <point x="913.5185185185185" y="1176.9259259259259" type="line"/>
+      <point x="90.0" y="1176.9259259259259" type="line"/>
+      <point x="90.0" y="1013.7407407407408" type="line"/>
+      <point x="701.5185185185186" y="1013.7407407407408" type="line"/>
+      <point x="450.0987654320988" y="653.6666666666667"/>
+      <point x="348.0246913580247" y="337.7901234567901"/>
+      <point x="330.98765432098764" y="-152.92592592592592" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>9</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

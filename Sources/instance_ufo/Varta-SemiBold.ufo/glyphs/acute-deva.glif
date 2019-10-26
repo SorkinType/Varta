@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute-deva" format="2">
+  <unicode hex="0954"/>
+  <outline>
+    <contour>
+      <point x="-268.9259259259259" y="1319.3456790123457" type="line"/>
+      <point x="148.74074074074073" y="1706.3950617283951" type="line"/>
+      <point x="36.987654320987666" y="1801.641975308642" type="line"/>
+      <point x="-355.7901234567901" y="1411.5555555555554" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

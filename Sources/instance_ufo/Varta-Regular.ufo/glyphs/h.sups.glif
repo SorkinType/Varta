@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h.sups" format="2">
+  <advance width="746.395061728395"/>
+  <unicode hex="02B0"/>
+  <outline>
+    <contour>
+      <point x="107.95061728395062" y="532.0" type="line"/>
+      <point x="226.6172839506173" y="532.0" type="line"/>
+      <point x="226.6172839506173" y="1005.716049382716" type="line"/>
+      <point x="295.0987654320988" y="1073.1975308641975"/>
+      <point x="350.04938271604937" y="1104.2592592592594"/>
+      <point x="404.4074074074074" y="1104.2592592592594" type="curve" smooth="yes"/>
+      <point x="510.48148148148147" y="1104.2592592592594"/>
+      <point x="533.074074074074" y="1038.3086419753085"/>
+      <point x="533.074074074074" y="930.8271604938271" type="curve" smooth="yes"/>
+      <point x="533.074074074074" y="532.0" type="line"/>
+      <point x="652.5061728395061" y="532.0" type="line"/>
+      <point x="652.5061728395061" y="948.5308641975308" type="line"/>
+      <point x="652.5061728395061" y="1101.641975308642"/>
+      <point x="597.8024691358024" y="1207.111111111111"/>
+      <point x="444.037037037037" y="1207.111111111111" type="curve" smooth="yes"/>
+      <point x="355.8024691358025" y="1207.111111111111"/>
+      <point x="277.5061728395062" y="1155.3456790123457"/>
+      <point x="221.44444444444446" y="1095.7530864197531" type="curve"/>
+      <point x="226.6172839506173" y="1233.8765432098764" type="line"/>
+      <point x="226.6172839506173" y="1494.1234567901236" type="line"/>
+      <point x="107.95061728395062" y="1494.1234567901236" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

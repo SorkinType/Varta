@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qa-deva" format="2">
+  <advance width="1516.5185185185185"/>
+  <unicode hex="0958"/>
+  <anchor x="791.5432098765432" y="27.34567901234568" name="bottom"/>
+  <anchor x="786.9259259259259" y="1166.037037037037" name="candra"/>
+  <anchor x="231.6543209876544" y="-4.419753086419725" name="nukta"/>
+  <anchor x="784.6913580246913" y="1170.6913580246915" name="top"/>
+  <outline>
+    <component base="ka-deva"/>
+    <component base="nukta-deva" xOffset="-81.79012345679007" yOffset="35.98765432098763"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

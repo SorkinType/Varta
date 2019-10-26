@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w.sups" format="2">
+  <advance width="1025"/>
+  <unicode hex="02B7"/>
+  <outline>
+    <contour>
+      <point x="210" y="532" type="line"/>
+      <point x="396" y="532" type="line"/>
+      <point x="473" y="839" type="line"/>
+      <point x="512" y="1025" type="line"/>
+      <point x="516" y="1025" type="line"/>
+      <point x="555" y="839" type="line"/>
+      <point x="632" y="532" type="line"/>
+      <point x="821" y="532" type="line"/>
+      <point x="993" y="1197" type="line"/>
+      <point x="844" y="1197" type="line"/>
+      <point x="767" y="855" type="line"/>
+      <point x="728" y="661" type="line"/>
+      <point x="720" y="661" type="line"/>
+      <point x="677" y="855" type="line"/>
+      <point x="583" y="1197" type="line"/>
+      <point x="447" y="1197" type="line"/>
+      <point x="358" y="855" type="line"/>
+      <point x="316" y="661" type="line"/>
+      <point x="309" y="661" type="line"/>
+      <point x="273" y="855" type="line"/>
+      <point x="195" y="1197" type="line"/>
+      <point x="33" y="1197" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>19</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>19</integer>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

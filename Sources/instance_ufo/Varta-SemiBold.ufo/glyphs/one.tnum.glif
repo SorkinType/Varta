@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tnum" format="2">
+  <advance width="1028.5185185185185"/>
+  <outline>
+    <contour>
+      <point x="158.80246913580248" y="0.0" type="line"/>
+      <point x="910.4444444444445" y="0.0" type="line"/>
+      <point x="910.4444444444445" y="154.25925925925924" type="line"/>
+      <point x="646.2222222222222" y="154.25925925925924" type="line"/>
+      <point x="646.2222222222222" y="1176.9259259259259" type="line"/>
+      <point x="500.96296296296293" y="1176.9259259259259" type="line"/>
+      <point x="425.7654320987654" y="1132.037037037037"/>
+      <point x="338.8024691358025" y="1098.7283950617284"/>
+      <point x="215.64197530864197" y="1076.7654320987654" type="curve"/>
+      <point x="215.64197530864197" y="953.0123456790124" type="line"/>
+      <point x="454.91358024691357" y="967.395061728395" type="line"/>
+      <point x="454.91358024691357" y="154.25925925925924" type="line"/>
+      <point x="158.80246913580248" y="154.25925925925924" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bh_r_ya-deva" format="2">
+  <advance width="1929"/>
+  <anchor x="1656" y="28" name="bottom"/>
+  <anchor x="1393" y="1168" name="candra"/>
+  <anchor x="1102" y="44" name="nukta"/>
+  <anchor x="1656" y="1168" name="top"/>
+  <outline>
+    <contour>
+      <point x="370" y="-32" type="line"/>
+      <point x="990" y="450" type="line"/>
+      <point x="941" y="538" type="line"/>
+      <point x="292" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="321" y="309" type="line"/>
+      <point x="411" y="312"/>
+      <point x="429" y="361"/>
+      <point x="429" y="419" type="curve" smooth="yes"/>
+      <point x="429" y="609" type="line"/>
+      <point x="319" y="609" type="line"/>
+      <point x="151" y="589" type="line"/>
+      <point x="151" y="498" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="551" type="line"/>
+      <point x="430" y="551" type="line"/>
+      <point x="430" y="1037" type="line" smooth="yes"/>
+      <point x="430" y="1144"/>
+      <point x="412" y="1269"/>
+      <point x="218" y="1269" type="curve" smooth="yes"/>
+      <point x="158" y="1269"/>
+      <point x="108" y="1258"/>
+      <point x="71" y="1243" type="curve"/>
+      <point x="92" y="1141" type="line"/>
+      <point x="117" y="1148"/>
+      <point x="157" y="1158"/>
+      <point x="200" y="1158" type="curve" smooth="yes"/>
+      <point x="271" y="1158"/>
+      <point x="304" y="1132"/>
+      <point x="304" y="1041" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="310" y="489" type="line"/>
+      <point x="969" y="489" type="line"/>
+      <point x="969" y="601" type="line"/>
+      <point x="310" y="601" type="line"/>
+    </contour>
+    <contour>
+      <point x="682" y="1143" type="line"/>
+      <point x="1228" y="1143" type="line"/>
+      <point x="1228" y="1247" type="line"/>
+      <point x="682" y="1247" type="line"/>
+    </contour>
+    <component base="ya-deva" xOffset="790"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>bh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ya-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

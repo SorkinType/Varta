@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="977.5555555555555"/>
+  <unicode hex="004C"/>
+  <anchor x="516.8395061728395" y="-276.5432098765432" name="btm"/>
+  <anchor x="718.0123456790124" y="1009.0987654320987" name="car"/>
+  <anchor x="688.1358024691358" y="772.9382716049382" name="dot"/>
+  <anchor x="264.2716049382716" y="1404.6913580246915" name="top"/>
+  <outline>
+    <contour>
+      <point x="180.71604938271605" y="0.0" type="line"/>
+      <point x="931.2716049382716" y="0.0" type="line"/>
+      <point x="931.2716049382716" y="134.9506172839506" type="line"/>
+      <point x="339.95061728395063" y="134.9506172839506" type="line"/>
+      <point x="339.95061728395063" y="1344.5925925925926" type="line"/>
+      <point x="180.71604938271605" y="1344.5925925925926" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

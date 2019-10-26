@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k_t_ra-deva" format="2">
+  <advance width="2485"/>
+  <anchor x="795" y="27" name="bottom_1"/>
+  <anchor x="2245" y="27" name="bottom_2"/>
+  <anchor x="794" y="1167" name="candra_1"/>
+  <anchor x="2191" y="1167" name="candra_2"/>
+  <anchor x="347" y="28" name="nukta_1"/>
+  <anchor x="1873" y="97" name="nukta_2"/>
+  <anchor x="795" y="1167" name="top_1"/>
+  <anchor x="2192" y="1167" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="1610" y="71" type="line"/>
+      <point x="1457" y="302"/>
+      <point x="1411" y="439"/>
+      <point x="1411" y="534" type="curve" smooth="yes"/>
+      <point x="1411" y="617"/>
+      <point x="1455" y="661"/>
+      <point x="1591.09" y="661.091" type="curve" smooth="yes"/>
+      <point x="1705" y="661"/>
+      <point x="1785" y="626"/>
+      <point x="1952" y="492" type="curve"/>
+      <point x="1927" y="727" type="line"/>
+      <point x="1813.09" y="823"/>
+      <point x="1703" y="858"/>
+      <point x="1591" y="858" type="curve" smooth="yes"/>
+      <point x="1343" y="858"/>
+      <point x="1197" y="753"/>
+      <point x="1197" y="566" type="curve" smooth="yes"/>
+      <point x="1197" y="365"/>
+      <point x="1315" y="131"/>
+      <point x="1446" y="-38" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1122" y="1104" type="line"/>
+      <point x="1781" y="1104" type="line"/>
+      <point x="1781" y="1287" type="line"/>
+      <point x="1122" y="1287" type="line"/>
+    </contour>
+    <component base="k-deva"/>
+    <component base="ra-deva" xOffset="1736"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>k-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

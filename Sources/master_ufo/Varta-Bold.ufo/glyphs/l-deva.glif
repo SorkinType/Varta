@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l-deva" format="2">
+  <advance width="891"/>
+  <outline>
+    <contour>
+      <point x="456" y="151" type="line"/>
+      <point x="345" y="293"/>
+      <point x="260" y="423"/>
+      <point x="260" y="567" type="curve" smooth="yes"/>
+      <point x="260" y="707"/>
+      <point x="329" y="746"/>
+      <point x="408" y="746" type="curve" smooth="yes"/>
+      <point x="512" y="746"/>
+      <point x="583" y="659"/>
+      <point x="660" y="536" type="curve"/>
+      <point x="679" y="671" type="line"/>
+      <point x="607" y="860"/>
+      <point x="504" y="940"/>
+      <point x="358" y="940" type="curve" smooth="yes"/>
+      <point x="167" y="940"/>
+      <point x="54" y="815"/>
+      <point x="54" y="597" type="curve" smooth="yes"/>
+      <point x="54" y="334"/>
+      <point x="214" y="132"/>
+      <point x="308" y="24" type="curve"/>
+    </contour>
+    <contour>
+      <point x="756" y="466" type="line"/>
+      <point x="751" y="499"/>
+      <point x="747" y="530"/>
+      <point x="747" y="562" type="curve" smooth="yes"/>
+      <point x="747" y="667"/>
+      <point x="796" y="750"/>
+      <point x="884" y="750" type="curve" smooth="yes"/>
+      <point x="979" y="750"/>
+      <point x="1032" y="670"/>
+      <point x="1054" y="550" type="curve"/>
+      <point x="1144" y="655" type="line"/>
+      <point x="1102" y="829"/>
+      <point x="1016" y="943"/>
+      <point x="853" y="943" type="curve" smooth="yes"/>
+      <point x="658" y="943"/>
+      <point x="554" y="772"/>
+      <point x="554" y="577" type="curve" smooth="yes"/>
+      <point x="554" y="530"/>
+      <point x="559" y="485"/>
+      <point x="576" y="445" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="912" y="1104" type="line"/>
+      <point x="912" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+    </dict>
+  </lib>
+</glyph>

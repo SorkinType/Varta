@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocaron" format="2">
+  <advance width="1358.2839506172838"/>
+  <unicode hex="01D1"/>
+  <anchor x="677.8148148148148" y="-234.56790123456796" name="btm"/>
+  <anchor x="677.8148148148148" y="1073.0864197530868" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="caron.cap" xOffset="677.8148148148148"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

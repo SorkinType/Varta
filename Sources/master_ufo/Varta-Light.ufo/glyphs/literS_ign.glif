@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="literSign" format="2">
+  <advance width="808"/>
+  <unicode hex="2113"/>
+  <outline>
+    <contour>
+      <point x="730" y="183" type="line"/>
+      <point x="681" y="136"/>
+      <point x="627" y="93"/>
+      <point x="542" y="93" type="curve" smooth="yes"/>
+      <point x="439" y="93"/>
+      <point x="353" y="169"/>
+      <point x="353" y="372" type="curve" smooth="yes"/>
+      <point x="353" y="447" type="line"/>
+      <point x="590" y="656"/>
+      <point x="748" y="908"/>
+      <point x="748" y="1166" type="curve" smooth="yes"/>
+      <point x="748" y="1366"/>
+      <point x="643" y="1475"/>
+      <point x="496" y="1475" type="curve" smooth="yes"/>
+      <point x="340" y="1475"/>
+      <point x="218" y="1354"/>
+      <point x="218" y="1043" type="curve" smooth="yes"/>
+      <point x="218" y="473" type="line"/>
+      <point x="165" y="429"/>
+      <point x="108" y="388"/>
+      <point x="49" y="348" type="curve"/>
+      <point x="106" y="259" type="line"/>
+      <point x="144" y="285"/>
+      <point x="182" y="312"/>
+      <point x="218" y="339" type="curve"/>
+      <point x="219" y="330"/>
+      <point x="219" y="314"/>
+      <point x="220" y="306" type="curve" smooth="yes"/>
+      <point x="236" y="88"/>
+      <point x="369" y="-25"/>
+      <point x="526" y="-25" type="curve" smooth="yes"/>
+      <point x="638" y="-25"/>
+      <point x="724" y="39"/>
+      <point x="786" y="97" type="curve"/>
+    </contour>
+    <contour>
+      <point x="353" y="1069" type="line"/>
+      <point x="353" y="1273"/>
+      <point x="421" y="1367"/>
+      <point x="499" y="1367" type="curve" smooth="yes"/>
+      <point x="573" y="1367"/>
+      <point x="628" y="1310"/>
+      <point x="628" y="1164" type="curve" smooth="yes"/>
+      <point x="628" y="961"/>
+      <point x="520" y="766"/>
+      <point x="353" y="595" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>9</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

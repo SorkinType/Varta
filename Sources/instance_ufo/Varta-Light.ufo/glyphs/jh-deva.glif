@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jh-deva" format="2">
+  <advance width="1035"/>
+  <anchor x="680" y="20" name="bottom"/>
+  <anchor x="528" y="1173" name="candra"/>
+  <anchor x="739" y="1168" name="top"/>
+  <outline>
+    <contour>
+      <point x="844" y="384" type="line"/>
+      <point x="960" y="370"/>
+      <point x="1142" y="405"/>
+      <point x="1249" y="476" type="curve"/>
+      <point x="1228" y="593" type="line"/>
+      <point x="1088" y="504"/>
+      <point x="938" y="469"/>
+      <point x="796" y="474" type="curve"/>
+    </contour>
+    <contour>
+      <point x="885" y="1143" type="line"/>
+      <point x="1047" y="1143" type="line"/>
+      <point x="1047" y="1247" type="line"/>
+      <point x="885" y="1247" type="line"/>
+    </contour>
+    <component base="i-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

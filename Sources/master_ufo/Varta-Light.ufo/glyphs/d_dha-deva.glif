@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d_dha-deva" format="2">
+  <advance width="1286"/>
+  <anchor x="752" y="-343" name="bottom"/>
+  <anchor x="662" y="1168" name="candra"/>
+  <anchor x="983" y="1168" name="top"/>
+  <outline>
+    <contour>
+      <point x="925" y="426" type="line"/>
+      <point x="1021" y="239" type="line"/>
+      <point x="1047" y="281" type="line"/>
+      <point x="952" y="222"/>
+      <point x="872" y="206"/>
+      <point x="788" y="206" type="curve" smooth="yes"/>
+      <point x="606" y="206"/>
+      <point x="481" y="281"/>
+      <point x="481" y="497" type="curve" smooth="yes"/>
+      <point x="481" y="706"/>
+      <point x="580" y="788"/>
+      <point x="820" y="788" type="curve" smooth="yes"/>
+      <point x="921" y="788"/>
+      <point x="1017" y="781"/>
+      <point x="1044" y="780" type="curve"/>
+      <point x="1044" y="1178" type="line"/>
+      <point x="917" y="1178" type="line"/>
+      <point x="917" y="865" type="line"/>
+      <point x="976" y="885" type="line"/>
+      <point x="918" y="896"/>
+      <point x="862" y="901"/>
+      <point x="812" y="901" type="curve" smooth="yes"/>
+      <point x="469" y="901"/>
+      <point x="348" y="749"/>
+      <point x="348" y="506" type="curve" smooth="yes"/>
+      <point x="348" y="260"/>
+      <point x="503" y="97"/>
+      <point x="795" y="97" type="curve" smooth="yes"/>
+      <point x="909" y="97"/>
+      <point x="1005" y="121"/>
+      <point x="1080" y="172" type="curve" smooth="yes"/>
+      <point x="1146" y="215"/>
+      <point x="1175" y="272"/>
+      <point x="1175" y="324" type="curve" smooth="yes"/>
+      <point x="1175" y="399"/>
+      <point x="1107" y="464"/>
+      <point x="1002" y="496" type="curve"/>
+    </contour>
+    <contour>
+      <point x="263" y="437" type="line"/>
+      <point x="154" y="400"/>
+      <point x="77" y="315"/>
+      <point x="75" y="199" type="curve" smooth="yes"/>
+      <point x="72" y="68"/>
+      <point x="155" y="-20"/>
+      <point x="303" y="-49" type="curve" smooth="yes"/>
+      <point x="348" y="-58"/>
+      <point x="399" y="-60"/>
+      <point x="456" y="-58" type="curve"/>
+      <point x="496" y="23" type="line"/>
+      <point x="432" y="25"/>
+      <point x="373" y="31"/>
+      <point x="326" y="45" type="curve" smooth="yes"/>
+      <point x="247" y="70"/>
+      <point x="191" y="119"/>
+      <point x="190" y="196" type="curve" smooth="yes"/>
+      <point x="188" y="278"/>
+      <point x="234" y="321"/>
+      <point x="298" y="354" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1027" y="252" type="line"/>
+      <point x="998" y="-17"/>
+      <point x="901" y="-271"/>
+      <point x="680" y="-271" type="curve" smooth="yes"/>
+      <point x="590" y="-271"/>
+      <point x="526" y="-215"/>
+      <point x="526" y="-125" type="curve" smooth="yes"/>
+      <point x="526" y="10"/>
+      <point x="650" y="70"/>
+      <point x="734" y="120" type="curve"/>
+      <point x="682" y="198" type="line"/>
+      <point x="614" y="160"/>
+      <point x="403" y="77"/>
+      <point x="403" y="-122" type="curve" smooth="yes"/>
+      <point x="403" y="-276"/>
+      <point x="518" y="-377"/>
+      <point x="687" y="-377" type="curve" smooth="yes"/>
+      <point x="994" y="-377"/>
+      <point x="1108" y="-44"/>
+      <point x="1107" y="206" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1217" y="-106" type="line"/>
+      <point x="1313" y="-44" type="line"/>
+      <point x="1114" y="247" type="line"/>
+      <point x="1043" y="212" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="1143" type="line"/>
+      <point x="1304" y="1143" type="line"/>
+      <point x="1304" y="1247" type="line"/>
+      <point x="-12" y="1247" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

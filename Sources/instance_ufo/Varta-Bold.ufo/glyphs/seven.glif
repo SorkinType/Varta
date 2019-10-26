@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <advance width="1042"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="572" y="0" type="line"/>
+      <point x="590" y="509"/>
+      <point x="650" y="825"/>
+      <point x="956" y="1208" type="curve"/>
+      <point x="956" y="1343" type="line"/>
+      <point x="90" y="1343" type="line"/>
+      <point x="90" y="1156" type="line"/>
+      <point x="715" y="1156" type="line"/>
+      <point x="462" y="805"/>
+      <point x="367" y="469"/>
+      <point x="348" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>9</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two-deva" format="2">
+  <advance width="826"/>
+  <unicode hex="0968"/>
+  <outline>
+    <contour>
+      <point x="296" y="461" type="line"/>
+      <point x="587" y="534"/>
+      <point x="774" y="724"/>
+      <point x="771" y="954" type="curve" smooth="yes"/>
+      <point x="768" y="1136"/>
+      <point x="664" y="1311"/>
+      <point x="369" y="1311" type="curve" smooth="yes"/>
+      <point x="317" y="1311"/>
+      <point x="184" y="1304"/>
+      <point x="76" y="1259" type="curve"/>
+      <point x="121" y="1092" type="line"/>
+      <point x="190" y="1112"/>
+      <point x="296" y="1130"/>
+      <point x="346" y="1130" type="curve" smooth="yes"/>
+      <point x="474" y="1130"/>
+      <point x="565" y="1087"/>
+      <point x="567" y="949" type="curve" smooth="yes"/>
+      <point x="568" y="779"/>
+      <point x="417" y="656"/>
+      <point x="139" y="604" type="curve"/>
+    </contour>
+    <contour>
+      <point x="642" y="-30" type="line"/>
+      <point x="804" y="101" type="line"/>
+      <point x="333" y="593" type="line"/>
+      <point x="204" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="409" y="560" type="line"/>
+      <point x="232" y="752" type="line"/>
+      <point x="115" y="752" type="line"/>
+      <point x="63" y="667"/>
+      <point x="52" y="611"/>
+      <point x="52" y="575" type="curve" smooth="yes"/>
+      <point x="52" y="479"/>
+      <point x="128" y="431"/>
+      <point x="209" y="431" type="curve" smooth="yes"/>
+      <point x="215" y="431"/>
+      <point x="282" y="431"/>
+      <point x="415" y="461" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b_la-deva.loclMAR" format="2">
+  <advance width="1198"/>
+  <anchor x="839" y="-479" name="bottom"/>
+  <anchor x="559" y="1167" name="candra"/>
+  <anchor x="902" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="833" y="593" type="line"/>
+      <point x="756" y="495"/>
+      <point x="661" y="440"/>
+      <point x="532" y="440" type="curve" smooth="yes"/>
+      <point x="373" y="440"/>
+      <point x="318" y="475"/>
+      <point x="318" y="613" type="curve" smooth="yes"/>
+      <point x="318" y="741"/>
+      <point x="378" y="786"/>
+      <point x="546" y="788" type="curve" smooth="yes"/>
+      <point x="660" y="790"/>
+      <point x="774" y="774"/>
+      <point x="880" y="750" type="curve"/>
+      <point x="875" y="838" type="line"/>
+      <point x="809" y="923"/>
+      <point x="691" y="966"/>
+      <point x="509" y="966" type="curve" smooth="yes"/>
+      <point x="247" y="966"/>
+      <point x="114" y="851"/>
+      <point x="114" y="626" type="curve" smooth="yes"/>
+      <point x="114" y="443"/>
+      <point x="189" y="268"/>
+      <point x="501" y="268" type="curve" smooth="yes"/>
+      <point x="669" y="268"/>
+      <point x="802" y="332"/>
+      <point x="877" y="451" type="curve"/>
+    </contour>
+    <contour>
+      <point x="734" y="380" type="line"/>
+      <point x="826" y="478" type="line"/>
+      <point x="445" y="862" type="line"/>
+      <point x="353" y="763" type="line"/>
+    </contour>
+    <contour>
+      <point x="793" y="28" type="line"/>
+      <point x="1003" y="28" type="line"/>
+      <point x="1003" y="1195" type="line"/>
+      <point x="793" y="1195" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="1217" y="1104" type="line"/>
+      <point x="1217" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+    <component base="add" xOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+    </dict>
+  </lib>
+</glyph>

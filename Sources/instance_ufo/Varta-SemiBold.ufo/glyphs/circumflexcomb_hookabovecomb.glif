@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_hookabovecomb" format="2">
+  <anchor x="-390.6296296296294" y="886.4197530864199" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-638.5679012345677" y="1174.3086419753085" type="line"/>
+      <point x="-511.77777777777754" y="1174.3086419753085" type="line"/>
+      <point x="-396.5925925925923" y="1320.7654320987654" type="line"/>
+      <point x="-388.5925925925923" y="1320.7654320987654" type="line"/>
+      <point x="-273.40740740740716" y="1174.3086419753085" type="line"/>
+      <point x="-146.61728395061704" y="1174.3086419753085" type="line"/>
+      <point x="-314.6543209876541" y="1420.5061728395062" type="line"/>
+      <point x="-470.5308641975306" y="1420.5061728395062" type="line"/>
+    </contour>
+    <contour>
+      <point x="-147.27160493827137" y="1286.0" type="line"/>
+      <point x="-45.530864197530605" y="1308.037037037037"/>
+      <point x="50.35802469135825" y="1345.6913580246915"/>
+      <point x="50.35802469135825" y="1459.8148148148148" type="curve" smooth="yes"/>
+      <point x="50.35802469135825" y="1555.5061728395062"/>
+      <point x="-37.06172839506149" y="1605.0864197530864"/>
+      <point x="-207.2345679012343" y="1611.3950617283951" type="curve"/>
+      <point x="-224.1234567901232" y="1520.7283950617284" type="line"/>
+      <point x="-123.16049382716022" y="1514.7283950617284"/>
+      <point x="-84.39506172839481" y="1490.037037037037"/>
+      <point x="-84.39506172839481" y="1439.2716049382716" type="curve" smooth="yes"/>
+      <point x="-84.39506172839481" y="1397.1975308641975"/>
+      <point x="-117.81481481481455" y="1376.469135802469"/>
+      <point x="-166.58024691358003" y="1362.7407407407406" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

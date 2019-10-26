@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="1003.716049382716"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="171.07407407407408" y="0.0" type="line"/>
+      <point x="327.0740740740741" y="0.0" type="line"/>
+      <point x="327.0740740740741" y="257.65432098765433" type="line"/>
+      <point x="516.925925925926" y="482.0987654320988" type="line"/>
+      <point x="813.2469135802469" y="0.0" type="line"/>
+      <point x="983.8888888888889" y="0.0" type="line"/>
+      <point x="609.8888888888889" y="595.4691358024692" type="line"/>
+      <point x="937.4691358024692" y="993.0493827160494" type="line"/>
+      <point x="764.8271604938271" y="993.0493827160494" type="line"/>
+      <point x="333.0740740740741" y="454.17283950617286" type="line"/>
+      <point x="327.0740740740741" y="454.17283950617286" type="line"/>
+      <point x="327.0740740740741" y="993.0493827160494" type="line"/>
+      <point x="171.07407407407408" y="993.0493827160494" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anudatta-deva" format="2">
+  <unicode hex="0952"/>
+  <outline>
+    <contour>
+      <point x="-864" y="-459" type="line"/>
+      <point x="-90" y="-459" type="line"/>
+      <point x="-90" y="-289" type="line"/>
+      <point x="-864" y="-289" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>540</integer>
+    </dict>
+  </lib>
+</glyph>

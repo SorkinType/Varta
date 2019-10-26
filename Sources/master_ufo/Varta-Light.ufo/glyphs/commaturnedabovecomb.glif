@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="-5" y="990" name="_top"/>
+  <anchor x="-3" y="1486" name="top"/>
+  <outline>
+    <contour>
+      <point x="56" y="1486" type="line"/>
+      <point x="-55" y="1433"/>
+      <point x="-100" y="1344"/>
+      <point x="-100" y="1251" type="curve" smooth="yes"/>
+      <point x="-100" y="1163"/>
+      <point x="-66" y="1117"/>
+      <point x="-4" y="1117" type="curve" smooth="yes"/>
+      <point x="38" y="1117"/>
+      <point x="72" y="1145"/>
+      <point x="72" y="1202" type="curve" smooth="yes"/>
+      <point x="72" y="1253"/>
+      <point x="31" y="1277"/>
+      <point x="-7" y="1277" type="curve" smooth="yes"/>
+      <point x="-13" y="1277"/>
+      <point x="-17" y="1277"/>
+      <point x="-24" y="1274" type="curve"/>
+      <point x="-20" y="1337"/>
+      <point x="13" y="1388"/>
+      <point x="91" y="1428" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>18</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

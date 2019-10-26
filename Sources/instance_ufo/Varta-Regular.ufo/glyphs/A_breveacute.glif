@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreveacute" format="2">
+  <advance width="1095.851851851852"/>
+  <unicode hex="1EAE"/>
+  <anchor x="547.925925925926" y="-276.5432098765432" name="btm"/>
+  <anchor x="547.925925925926" y="1404.6913580246915" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb_acutecomb.cap" xOffset="688.6666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

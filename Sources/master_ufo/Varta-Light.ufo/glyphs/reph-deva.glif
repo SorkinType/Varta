@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reph-deva" format="2">
+  <anchor x="274" y="1168" name="_top"/>
+  <anchor x="-26" y="1426" name="candra"/>
+  <anchor x="405" y="1659" name="top"/>
+  <outline>
+    <contour>
+      <point x="322" y="1226" type="line"/>
+      <point x="277" y="1274"/>
+      <point x="237" y="1347"/>
+      <point x="237" y="1432" type="curve" smooth="yes"/>
+      <point x="237" y="1537"/>
+      <point x="305" y="1574"/>
+      <point x="418" y="1574" type="curve" smooth="yes"/>
+      <point x="498" y="1574"/>
+      <point x="560" y="1550"/>
+      <point x="607" y="1523" type="curve"/>
+      <point x="640" y="1621" type="line"/>
+      <point x="587" y="1659"/>
+      <point x="501" y="1684"/>
+      <point x="405" y="1684" type="curve" smooth="yes"/>
+      <point x="252" y="1684"/>
+      <point x="133" y="1602"/>
+      <point x="133" y="1461" type="curve" smooth="yes"/>
+      <point x="133" y="1383"/>
+      <point x="163" y="1290"/>
+      <point x="250" y="1200" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>540</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S" format="2">
+  <advance width="1071"/>
+  <unicode hex="0053"/>
+  <anchor x="536" y="0" name="bottom"/>
+  <anchor x="536" y="1346" name="top"/>
+  <outline>
+    <contour>
+      <point x="514" y="794" type="line"/>
+      <point x="412" y="839"/>
+      <point x="289" y="898"/>
+      <point x="289" y="1038" type="curve" smooth="yes"/>
+      <point x="289" y="1170"/>
+      <point x="400" y="1247"/>
+      <point x="562" y="1247" type="curve" smooth="yes"/>
+      <point x="690" y="1247"/>
+      <point x="791" y="1201"/>
+      <point x="871" y="1121" type="curve"/>
+      <point x="947" y="1212" type="line"/>
+      <point x="858" y="1306"/>
+      <point x="723" y="1370"/>
+      <point x="562" y="1370" type="curve" smooth="yes"/>
+      <point x="327" y="1370"/>
+      <point x="149" y="1231"/>
+      <point x="149" y="1030" type="curve" smooth="yes"/>
+      <point x="149" y="832"/>
+      <point x="297" y="735"/>
+      <point x="419" y="683" type="curve" smooth="yes"/>
+      <point x="616" y="595" type="line"/>
+      <point x="746" y="537"/>
+      <point x="854" y="487"/>
+      <point x="854" y="337" type="curve" smooth="yes"/>
+      <point x="854" y="194"/>
+      <point x="739" y="99"/>
+      <point x="551" y="99" type="curve" smooth="yes"/>
+      <point x="403" y="99"/>
+      <point x="269" y="162"/>
+      <point x="171" y="267" type="curve"/>
+      <point x="87" y="170" type="line"/>
+      <point x="200" y="50"/>
+      <point x="355" y="-25"/>
+      <point x="548" y="-25" type="curve" smooth="yes"/>
+      <point x="822" y="-25"/>
+      <point x="996" y="137"/>
+      <point x="996" y="348" type="curve" smooth="yes"/>
+      <point x="996" y="550"/>
+      <point x="865" y="641"/>
+      <point x="711" y="708" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>29</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

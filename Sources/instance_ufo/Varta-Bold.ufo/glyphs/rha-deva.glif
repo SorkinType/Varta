@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rha-deva" format="2">
+  <advance width="1082"/>
+  <unicode hex="095D"/>
+  <anchor x="565" y="36" name="bottom"/>
+  <anchor x="545" y="1167" name="candra"/>
+  <anchor x="-4" y="82" name="nukta"/>
+  <anchor x="768" y="1167" name="top"/>
+  <outline>
+    <component base="ddha-deva"/>
+    <component base="nukta-deva" xOffset="-275" yOffset="55"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

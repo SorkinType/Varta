@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p_la-deva" format="2">
+  <advance width="1240"/>
+  <anchor x="884" y="-479" name="bottom"/>
+  <anchor x="586" y="1167" name="candra"/>
+  <anchor x="902" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="846" y="751" type="line"/>
+      <point x="772" y="631"/>
+      <point x="665" y="556"/>
+      <point x="526" y="555" type="curve" smooth="yes"/>
+      <point x="405" y="554"/>
+      <point x="372" y="609"/>
+      <point x="372" y="746" type="curve" smooth="yes"/>
+      <point x="372" y="1133" type="line"/>
+      <point x="158" y="1133" type="line"/>
+      <point x="158" y="755" type="line" smooth="yes"/>
+      <point x="158" y="499"/>
+      <point x="283" y="365"/>
+      <point x="514" y="365" type="curve" smooth="yes"/>
+      <point x="673" y="365"/>
+      <point x="813" y="444"/>
+      <point x="892" y="561" type="curve"/>
+    </contour>
+    <contour>
+      <point x="798" y="123" type="line"/>
+      <point x="1009" y="123" type="line"/>
+      <point x="1009" y="1199" type="line"/>
+      <point x="798" y="1199" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="1259" y="1104" type="line"/>
+      <point x="1259" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+    <component base="add" xOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

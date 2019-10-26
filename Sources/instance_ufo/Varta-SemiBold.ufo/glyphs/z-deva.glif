@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z-deva" format="2">
+  <advance width="930.4567901234568"/>
+  <outline>
+    <component base="j-deva"/>
+    <component base="nukta-deva" xOffset="370.2716049382716" yOffset="10.604938271604947"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

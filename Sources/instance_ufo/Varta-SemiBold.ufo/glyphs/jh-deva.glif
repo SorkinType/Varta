@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jh-deva" format="2">
+  <advance width="1056.5925925925926"/>
+  <anchor x="814.1358024691357" y="-55.24691358024687" name="bottom"/>
+  <anchor x="563.3333333333333" y="1169.0740740740741" name="candra"/>
+  <anchor x="753.395061728395" y="1167.3456790123457" name="top"/>
+  <outline>
+    <contour>
+      <point x="881.9506172839506" y="369.60493827160496" type="line"/>
+      <point x="1014.3086419753085" y="351.0246913580247"/>
+      <point x="1176.679012345679" y="384.0617283950617"/>
+      <point x="1306.5802469135801" y="470.11111111111114" type="curve"/>
+      <point x="1278.3827160493827" y="630.9506172839506" type="line"/>
+      <point x="1128.567901234568" y="532.1358024691358"/>
+      <point x="995.5802469135803" y="494.5185185185185"/>
+      <point x="816.283950617284" y="493.6296296296296" type="curve"/>
+    </contour>
+    <contour>
+      <point x="893.5061728395061" y="1117.4814814814815" type="line"/>
+      <point x="1071.8641975308642" y="1117.4814814814815" type="line"/>
+      <point x="1071.8641975308642" y="1273.1728395061727" type="line"/>
+      <point x="893.5061728395061" y="1273.1728395061727" type="line"/>
+    </contour>
+    <component base="i-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

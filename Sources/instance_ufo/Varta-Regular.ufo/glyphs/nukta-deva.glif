@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nukta-deva" format="2">
+  <unicode hex="093C"/>
+  <anchor x="275.5925925925926" y="27.765432098765434" name="_nukta"/>
+  <outline>
+    <contour>
+      <point x="275.358024691358" y="117.44444444444444" type="curve" smooth="yes"/>
+      <point x="212.25925925925927" y="117.44444444444444"/>
+      <point x="184.679012345679" y="90.8641975308642"/>
+      <point x="184.679012345679" y="27.765432098765434" type="curve" smooth="yes"/>
+      <point x="184.679012345679" y="-34.33333333333333"/>
+      <point x="212.25925925925927" y="-60.91358024691358"/>
+      <point x="275.358024691358" y="-60.91358024691358" type="curve" smooth="yes"/>
+      <point x="338.4567901234568" y="-60.91358024691358"/>
+      <point x="365.2716049382716" y="-34.33333333333333"/>
+      <point x="365.2716049382716" y="27.765432098765434" type="curve" smooth="yes"/>
+      <point x="365.2716049382716" y="90.8641975308642"/>
+      <point x="338.4567901234568" y="117.44444444444444"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>584</integer>
+    </dict>
+  </lib>
+</glyph>

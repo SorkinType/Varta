@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eMatra_reph-deva" format="2">
+  <advance width="537"/>
+  <anchor x="252" y="1167" name="_top"/>
+  <anchor x="245" y="1582" name="candra"/>
+  <anchor x="456" y="1340" name="top"/>
+  <outline>
+    <contour>
+      <point x="351" y="1276" type="line"/>
+      <point x="329" y="1326"/>
+      <point x="296" y="1389"/>
+      <point x="296" y="1444" type="curve" smooth="yes"/>
+      <point x="296" y="1527"/>
+      <point x="353" y="1569"/>
+      <point x="468" y="1569" type="curve" smooth="yes"/>
+      <point x="542" y="1569"/>
+      <point x="596" y="1549"/>
+      <point x="659" y="1514" type="curve"/>
+      <point x="704" y="1675" type="line"/>
+      <point x="641" y="1713"/>
+      <point x="558" y="1749"/>
+      <point x="432" y="1749" type="curve" smooth="yes"/>
+      <point x="247" y="1749"/>
+      <point x="135" y="1643"/>
+      <point x="135" y="1512" type="curve" smooth="yes"/>
+      <point x="135" y="1438"/>
+      <point x="149" y="1343"/>
+      <point x="255" y="1240" type="curve"/>
+    </contour>
+    <component base="eMatra-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+    </dict>
+  </lib>
+</glyph>

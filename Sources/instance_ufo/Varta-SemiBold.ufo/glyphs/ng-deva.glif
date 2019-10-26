@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ng-deva" format="2">
+  <advance width="1132.4444444444443"/>
+  <anchor x="540.9382716049382" y="-51.172839506172856" name="bottom"/>
+  <anchor x="538.7654320987655" y="1167.3456790123457" name="candra"/>
+  <anchor x="532.5555555555555" y="-210.5802469135802" name="nukta"/>
+  <anchor x="748.283950617284" y="1167.3456790123457" name="top"/>
+  <outline>
+    <contour>
+      <point x="847.0" y="1117.4814814814815" type="line"/>
+      <point x="1149.3703703703704" y="1117.4814814814815" type="line"/>
+      <point x="1149.3703703703704" y="1272.5185185185185" type="line"/>
+      <point x="847.0" y="1272.5185185185185" type="line"/>
+    </contour>
+    <component base="dda-deva"/>
+    <component base="halant-deva" xOffset="428.2469135802469" yOffset="-81.60493827160491"/>
+    <component base="anusvara-deva" xOffset="749.8765432098766" yOffset="-864.320987654321"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

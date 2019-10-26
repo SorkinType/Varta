@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
+  <advance width="634.679012345679"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="553.5185185185185" y="-307.8395061728395" type="line"/>
+      <point x="396.7901234567901" y="-46.22222222222223"/>
+      <point x="324.02469135802465" y="232.83950617283952"/>
+      <point x="324.02469135802465" y="568.3086419753087" type="curve" smooth="yes"/>
+      <point x="324.02469135802465" y="905.1234567901234"/>
+      <point x="396.7901234567901" y="1185.2222222222222"/>
+      <point x="553.5185185185185" y="1446.1851851851852" type="curve"/>
+      <point x="434.4938271604938" y="1499.962962962963" type="line"/>
+      <point x="264.8395061728395" y="1225.0"/>
+      <point x="164.49382716049382" y="962.5555555555555"/>
+      <point x="164.49382716049382" y="568.3086419753087" type="curve" smooth="yes"/>
+      <point x="164.49382716049382" y="174.40740740740742"/>
+      <point x="264.8395061728395" y="-86.0"/>
+      <point x="434.4938271604938" y="-361.61728395061726" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

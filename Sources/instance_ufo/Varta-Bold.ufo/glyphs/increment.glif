@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="increment" format="2">
+  <advance width="1257"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="64" y="0" type="line"/>
+      <point x="1195" y="0" type="line"/>
+      <point x="1195" y="133" type="line"/>
+      <point x="759" y="1352" type="line"/>
+      <point x="499" y="1352" type="line"/>
+      <point x="64" y="133" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="187" type="line"/>
+      <point x="507" y="749" type="line"/>
+      <point x="626" y="1135" type="line"/>
+      <point x="634" y="1135" type="line"/>
+      <point x="752" y="749" type="line"/>
+      <point x="945" y="187" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave-deva" format="2">
+  <unicode hex="0953"/>
+  <outline>
+    <contour>
+      <point x="-315" y="1320" type="line"/>
+      <point x="-252" y="1388" type="line"/>
+      <point x="-633" y="1765" type="line"/>
+      <point x="-715" y="1692" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

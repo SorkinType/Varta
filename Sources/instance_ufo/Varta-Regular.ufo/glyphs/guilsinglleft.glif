@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="551.0987654320987"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="370.7037037037037" y="136.9506172839506" type="line"/>
+      <point x="440.0987654320988" y="191.87654320987653" type="line"/>
+      <point x="197.44444444444446" y="516.0" type="line"/>
+      <point x="440.0987654320988" y="836.8271604938271" type="line"/>
+      <point x="370.7037037037037" y="895.0493827160494" type="line"/>
+      <point x="91.17283950617283" y="576.0987654320987" type="line"/>
+      <point x="91.17283950617283" y="456.9012345679012" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>6</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

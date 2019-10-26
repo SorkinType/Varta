@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_gravecomb" format="2">
+  <anchor x="-538.3950617283949" y="886.4197530864199" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-783.753086419753" y="1174.3086419753085" type="line"/>
+      <point x="-656.9629629629629" y="1174.3086419753085" type="line"/>
+      <point x="-541.7777777777777" y="1320.7654320987654" type="line"/>
+      <point x="-533.7777777777777" y="1320.7654320987654" type="line"/>
+      <point x="-418.5925925925925" y="1174.3086419753085" type="line"/>
+      <point x="-291.8024691358024" y="1174.3086419753085" type="line"/>
+      <point x="-459.83950617283944" y="1420.5061728395062" type="line"/>
+      <point x="-615.7160493827159" y="1420.5061728395062" type="line"/>
+    </contour>
+    <contour>
+      <point x="-225.03703703703695" y="1313.5802469135801" type="line"/>
+      <point x="-109.86419753086415" y="1313.5802469135801" type="line"/>
+      <point x="-259.2839506172839" y="1547.5061728395062" type="line"/>
+      <point x="-414.3456790123456" y="1547.5061728395062" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

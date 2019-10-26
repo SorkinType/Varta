@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom" format="2">
+  <advance width="724.8518518518518"/>
+  <outline>
+    <contour>
+      <point x="334.7654320987654" y="0.0" type="line"/>
+      <point x="481.4074074074074" y="0.0" type="line"/>
+      <point x="481.4074074074074" y="799.0" type="line"/>
+      <point x="363.2716049382716" y="799.0" type="line"/>
+      <point x="306.03703703703707" y="757.0370370370371"/>
+      <point x="252.69135802469137" y="732.0370370370371"/>
+      <point x="159.83950617283952" y="716.0370370370371" type="curve"/>
+      <point x="159.83950617283952" y="622.0987654320987" type="line"/>
+      <point x="334.7654320987654" y="622.0987654320987" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

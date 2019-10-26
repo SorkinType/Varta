@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eShortMatra_reph-deva" format="2">
+  <advance width="600"/>
+  <anchor x="256" y="1187" name="_top"/>
+  <anchor x="89" y="1466" name="candra"/>
+  <anchor x="272" y="1192" name="top"/>
+  <outline>
+    <contour>
+      <point x="613" y="1621" type="line"/>
+      <point x="568" y="1659"/>
+      <point x="501" y="1684"/>
+      <point x="430" y="1684" type="curve" smooth="yes"/>
+      <point x="300" y="1684"/>
+      <point x="201" y="1600"/>
+      <point x="201" y="1466" type="curve" smooth="yes"/>
+      <point x="201" y="1379"/>
+      <point x="243" y="1288"/>
+      <point x="289" y="1197" type="curve"/>
+      <point x="336" y="1226" type="line"/>
+      <point x="323" y="1288"/>
+      <point x="305" y="1348"/>
+      <point x="305" y="1424" type="curve" smooth="yes"/>
+      <point x="305" y="1523"/>
+      <point x="335" y="1574"/>
+      <point x="430" y="1574" type="curve" smooth="yes"/>
+      <point x="497" y="1574"/>
+      <point x="544" y="1549"/>
+      <point x="580" y="1523" type="curve"/>
+    </contour>
+    <component base="eShortMatra-deva" xOffset="-11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

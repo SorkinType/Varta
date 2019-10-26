@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b_za-deva" format="2">
+  <advance width="2084.9753086419755"/>
+  <anchor x="1809.9753086419753" y="27.34567901234568" name="bottom"/>
+  <anchor x="1421.1851851851852" y="1168.0" name="candra"/>
+  <anchor x="972.814814814815" y="22.814814814814845" name="nukta"/>
+  <anchor x="1808.7037037037037" y="1167.3456790123457" name="top"/>
+  <outline>
+    <component base="b_ja-deva"/>
+    <component base="nukta-deva" xOffset="651.2222222222224" yOffset="50.43209876543209"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>b-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>za-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

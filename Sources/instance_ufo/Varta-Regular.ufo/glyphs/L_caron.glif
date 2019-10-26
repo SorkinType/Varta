@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron" format="2">
+  <advance width="977.5555555555555"/>
+  <unicode hex="013D"/>
+  <anchor x="516.8395061728395" y="-276.5432098765432" name="btm"/>
+  <anchor x="718.0123456790124" y="1009.0987654320987" name="car"/>
+  <anchor x="688.1358024691358" y="772.9382716049382" name="dot"/>
+  <anchor x="264.2716049382716" y="1404.6913580246915" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="caronvertical" xOffset="547.2222222222222" yOffset="-8.950617283950617"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

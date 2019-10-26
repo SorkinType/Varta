@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iiMatra_reph_anusvara-deva" format="2">
+  <advance width="566.8271604938271"/>
+  <anchor x="217.97530864197532" y="1531.9506172839506" name="candra"/>
+  <anchor x="-228.66666666666666" y="1167.7654320987654" name="iimatra"/>
+  <anchor x="371.6296296296296" y="1178.567901234568" name="top"/>
+  <outline>
+    <component base="iiMatra-deva"/>
+    <component base="reph_anusvara-deva" xOffset="46.864197530864196"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

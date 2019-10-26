@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n-deva" format="2">
+  <advance width="553.9506172839506"/>
+  <outline>
+    <contour>
+      <point x="189.0493827160494" y="425.2716049382716" type="line"/>
+      <point x="297.01234567901236" y="425.2716049382716"/>
+      <point x="316.18518518518516" y="491.7283950617284"/>
+      <point x="316.18518518518516" y="573.358024691358" type="curve" smooth="yes"/>
+      <point x="316.18518518518516" y="755.8641975308642" type="line"/>
+      <point x="48.82716049382716" y="755.8641975308642" type="line"/>
+      <point x="48.82716049382716" y="631.6666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="182.2469135802469" y="627.2716049382716" type="line"/>
+      <point x="747.0987654320987" y="627.2716049382716" type="line"/>
+      <point x="747.0987654320987" y="756.6296296296297" type="line"/>
+      <point x="182.2469135802469" y="755.8641975308642" type="line"/>
+    </contour>
+    <contour>
+      <point x="-13.641975308641975" y="1133.851851851852" type="line"/>
+      <point x="585.1358024691358" y="1133.851851851852" type="line"/>
+      <point x="585.1358024691358" y="1256.3827160493827" type="line"/>
+      <point x="-13.641975308641975" y="1256.3827160493827" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

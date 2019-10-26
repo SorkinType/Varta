@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <advance width="1069.5185185185185"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="450.11111111111114" y="-20.0" type="line"/>
+      <point x="619.4074074074074" y="-20.0" type="line"/>
+      <point x="955.4444444444445" y="676.0" type="line"/>
+      <point x="619.4074074074074" y="1372.0" type="line"/>
+      <point x="450.11111111111114" y="1372.0" type="line"/>
+      <point x="113.72839506172839" y="676.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="531.0864197530864" y="139.4938271604938" type="line"/>
+      <point x="405.28395061728395" y="407.3333333333333" type="line"/>
+      <point x="278.98765432098764" y="676.0" type="line"/>
+      <point x="405.28395061728395" y="942.320987654321" type="line"/>
+      <point x="531.0864197530864" y="1212.5061728395062" type="line"/>
+      <point x="539.0864197530864" y="1212.5061728395062" type="line"/>
+      <point x="663.8888888888889" y="942.320987654321" type="line"/>
+      <point x="790.5308641975308" y="676.0" type="line"/>
+      <point x="663.8888888888889" y="407.3333333333333" type="line"/>
+      <point x="539.0864197530864" y="139.4938271604938" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

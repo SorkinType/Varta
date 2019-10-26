@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddotbelow" format="2">
+  <advance width="1128"/>
+  <unicode hex="1E0D"/>
+  <anchor x="525" y="-300" name="btm"/>
+  <anchor x="1136" y="1003" name="car"/>
+  <anchor x="333" y="1050" name="top"/>
+  <outline>
+    <component base="d"/>
+    <component base="dotbelowcomb" xOffset="525"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex" format="2">
+  <advance width="1120"/>
+  <unicode hex="02C6"/>
+  <anchor x="560" y="800" name="_top"/>
+  <outline>
+    <contour>
+      <point x="277" y="1175" type="line"/>
+      <point x="430" y="1175" type="line"/>
+      <point x="556" y="1351" type="line"/>
+      <point x="564" y="1351" type="line"/>
+      <point x="691" y="1175" type="line"/>
+      <point x="844" y="1175" type="line"/>
+      <point x="649" y="1470" type="line"/>
+      <point x="471" y="1470" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

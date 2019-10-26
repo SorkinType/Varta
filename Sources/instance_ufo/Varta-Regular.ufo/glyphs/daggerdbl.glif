@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="918.1234567901234"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="392.17283950617286" y="-164.0" type="line"/>
+      <point x="526.4814814814815" y="-164.0" type="line"/>
+      <point x="517.3086419753087" y="161.7530864197531" type="line"/>
+      <point x="805.9382716049382" y="151.8148148148148" type="line"/>
+      <point x="805.9382716049382" y="287.12345679012344" type="line"/>
+      <point x="517.3086419753087" y="275.2469135802469" type="line"/>
+      <point x="526.4814814814815" y="647.0" type="line"/>
+      <point x="517.3086419753087" y="1019.7530864197531" type="line"/>
+      <point x="805.9382716049382" y="1006.8765432098766" type="line"/>
+      <point x="805.9382716049382" y="1142.4197530864199" type="line"/>
+      <point x="517.3086419753087" y="1132.2469135802469" type="line"/>
+      <point x="526.4814814814815" y="1458.0" type="line"/>
+      <point x="392.17283950617286" y="1458.0" type="line"/>
+      <point x="401.34567901234567" y="1132.2469135802469" type="line"/>
+      <point x="112.95061728395062" y="1142.4197530864199" type="line"/>
+      <point x="112.95061728395062" y="1006.8765432098766" type="line"/>
+      <point x="401.34567901234567" y="1019.7530864197531" type="line"/>
+      <point x="392.17283950617286" y="647.0" type="line"/>
+      <point x="401.34567901234567" y="275.2469135802469" type="line"/>
+      <point x="112.95061728395062" y="287.12345679012344" type="line"/>
+      <point x="112.95061728395062" y="151.8148148148148" type="line"/>
+      <point x="401.34567901234567" y="161.7530864197531" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>19</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

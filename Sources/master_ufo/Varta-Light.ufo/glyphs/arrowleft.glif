@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowleft" format="2">
+  <advance width="1269"/>
+  <unicode hex="2190"/>
+  <outline>
+    <contour>
+      <point x="626" y="-25" type="line"/>
+      <point x="699" y="54" type="line"/>
+      <point x="262" y="464" type="line"/>
+      <point x="1200" y="464" type="line"/>
+      <point x="1200" y="579" type="line"/>
+      <point x="262" y="579" type="line"/>
+      <point x="699" y="989" type="line"/>
+      <point x="626" y="1069" type="line"/>
+      <point x="72" y="526" type="line"/>
+      <point x="72" y="518" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

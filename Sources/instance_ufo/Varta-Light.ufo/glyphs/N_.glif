@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="1304"/>
+  <unicode hex="004E"/>
+  <anchor x="652" y="0" name="bottom"/>
+  <anchor x="652" y="1346" name="top"/>
+  <outline>
+    <contour>
+      <point x="184" y="0" type="line"/>
+      <point x="316" y="0" type="line"/>
+      <point x="316" y="758" type="line"/>
+      <point x="316" y="895"/>
+      <point x="306" y="1030"/>
+      <point x="298" y="1163" type="curve"/>
+      <point x="307" y="1163" type="line"/>
+      <point x="455" y="889" type="line"/>
+      <point x="974" y="0" type="line"/>
+      <point x="1119" y="0" type="line"/>
+      <point x="1119" y="1346" type="line"/>
+      <point x="987" y="1346" type="line"/>
+      <point x="987" y="597" type="line"/>
+      <point x="987" y="460"/>
+      <point x="998" y="317"/>
+      <point x="1005" y="183" type="curve"/>
+      <point x="997" y="183" type="line"/>
+      <point x="849" y="458" type="line"/>
+      <point x="328" y="1346" type="line"/>
+      <point x="184" y="1346" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>19</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>4</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>14</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

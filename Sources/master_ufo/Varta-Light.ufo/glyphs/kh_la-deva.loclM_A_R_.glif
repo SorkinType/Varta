@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kh_la-deva.loclMAR" format="2">
+  <advance width="1589"/>
+  <anchor x="1208" y="-662" name="bottom"/>
+  <anchor x="865" y="1168" name="candra"/>
+  <anchor x="1313" y="1168" name="top"/>
+  <outline>
+    <contour>
+      <point x="1030" y="231" type="line"/>
+      <point x="973" y="207"/>
+      <point x="893" y="189"/>
+      <point x="792" y="189" type="curve" smooth="yes"/>
+      <point x="540" y="189"/>
+      <point x="313" y="366"/>
+      <point x="198" y="680" type="curve"/>
+      <point x="175" y="651" type="line"/>
+      <point x="215" y="637"/>
+      <point x="256" y="627"/>
+      <point x="298" y="627" type="curve" smooth="yes"/>
+      <point x="409" y="627"/>
+      <point x="504" y="695"/>
+      <point x="504" y="905" type="curve" smooth="yes"/>
+      <point x="504" y="1191" type="line"/>
+      <point x="377" y="1190" type="line"/>
+      <point x="377" y="897" type="line" smooth="yes"/>
+      <point x="377" y="785"/>
+      <point x="350" y="732"/>
+      <point x="262" y="731" type="curve" smooth="yes"/>
+      <point x="231" y="730"/>
+      <point x="193" y="737"/>
+      <point x="150" y="772" type="curve"/>
+      <point x="65" y="715" type="line"/>
+      <point x="224" y="255"/>
+      <point x="502" y="80"/>
+      <point x="788" y="80" type="curve" smooth="yes"/>
+      <point x="859" y="80"/>
+      <point x="964" y="85"/>
+      <point x="1057" y="128" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1286" y="632" type="line"/>
+      <point x="1214" y="524"/>
+      <point x="1105" y="459"/>
+      <point x="967" y="459" type="curve" smooth="yes"/>
+      <point x="835" y="459"/>
+      <point x="777" y="529"/>
+      <point x="777" y="650" type="curve" smooth="yes"/>
+      <point x="777" y="765"/>
+      <point x="822" y="844"/>
+      <point x="1007" y="844" type="curve" smooth="yes"/>
+      <point x="1094" y="844"/>
+      <point x="1184" y="831"/>
+      <point x="1291" y="794" type="curve"/>
+      <point x="1289" y="887" type="line"/>
+      <point x="1229" y="916"/>
+      <point x="1117" y="949"/>
+      <point x="989" y="949" type="curve" smooth="yes"/>
+      <point x="784" y="949"/>
+      <point x="648" y="865"/>
+      <point x="648" y="652" type="curve" smooth="yes"/>
+      <point x="648" y="492"/>
+      <point x="746" y="352"/>
+      <point x="950" y="352" type="curve" smooth="yes"/>
+      <point x="1096" y="352"/>
+      <point x="1216" y="408"/>
+      <point x="1291" y="497" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1250" y="-74" type="line"/>
+      <point x="1376" y="-74" type="line"/>
+      <point x="1376" y="1193" type="line"/>
+      <point x="1250" y="1193" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="1143" type="line"/>
+      <point x="1602" y="1143" type="line"/>
+      <point x="1602" y="1247" type="line"/>
+      <point x="-12" y="1247" type="line"/>
+    </contour>
+    <component base="add" xOffset="406" yOffset="-173"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>kh-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>la-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+    </dict>
+  </lib>
+</glyph>

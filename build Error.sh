@@ -1,241 +1,89 @@
-(venv) EbensiMacRetina:Varta ebensorkin$ /Users/ebensorkin/Documents/GitHub/Varta/build.sh
+(venv) EbensiMacRetina:Varta ebensorkin$ deactivate
+ EbensiMacRetina:Varta ebensorkin$ cd /Users/ebensorkin/Documents/GitHub/Varta
+ EbensiMacRetina:Varta ebensorkin$ ls
+ AUTHORS.txt        OFL.txt            build.sh
+ CONTRIBUTORS.txt    README.md        fonts
+ DESCRIPTION.en_us.html    Sources            old source
+ FONTLOG.txt        build Error.sh        venv
+ EbensiMacRetina:Varta ebensorkin$ source venv/bin/activate
+ (venv) EbensiMacRetina:Varta ebensorkin$ /Users/ebensorkin/Documents/GitHub/Varta/build.sh
  Generating Static fonts
  INFO:fontmake.font_project:Building master UFOs and designspace from Glyphs source
  INFO:glyphsLib.classes:Parsing "Varta.glyphs" file into <GSFont>
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.A found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.C found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.F found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.a found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.g found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.j found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.n found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.o found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.p found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.s found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.t found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.u found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.w found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.z found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.L found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.C found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.O found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.S found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.a found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.g found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.i found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.j found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.n found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.o found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.p found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.s found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.t found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.u found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.w found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.z found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.O found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.P found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.a found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.g found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.i found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.j found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.n found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.o found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.p found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.s found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.u found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.w found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.z found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.T found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.C found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.O found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.a found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.g found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.i found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.j found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.n found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.o found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.p found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.s found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.t found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.u found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.w found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.z found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.a found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.g found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.i found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.j found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.n found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.o found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.p found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.s found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.t found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.u found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.w found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.z found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.O found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.a found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.g found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.n found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.o found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.p found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.s found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.u found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.w found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.z found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.O found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.a found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.g found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.n found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.o found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.p found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.s found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.t found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.u found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.w found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.z found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.a found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.b found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.c found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.A found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.O found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.e found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.f found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.g found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.i found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.j found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.k found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.n found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.o found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.A found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.AE found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.J found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.w found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.r found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.s found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.t found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.u found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.w found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.U found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.z found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.Y found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.W found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.AE found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.J found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.T found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
  WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.w found in kerning rules.
- WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.y found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.C found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.C found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.e found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.q found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.a found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern1.b found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.AE found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.d found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.AE found in kerning rules.
+ WARNING:glyphsLib.builder.builders.UFOBuilder:Non-existent glyph class public.kern2.c found in kerning rules.
  INFO:fontmake.font_project:Interpolating master UFOs from designspace
  INFO:mutatorMath:    Generating instance Varta-Light.ufo
  INFO:mutatorMath:    Generating instance Varta-Regular.ufo
@@ -299,5 +147,4 @@
  File "/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/lib/python3.7/site-packages/fontTools/feaLib/builder.py", line 1293, in getAlternateGlyphs
  alts = lookup.getAlternateGlyphs()
  AttributeError: 'NoneType' object has no attribute 'getAlternateGlyphs'
- (venv) EbensiMacRetina:Varta ebensorkin$
-
+ (venv) EbensiMacRetina:Varta ebensorkin$ 

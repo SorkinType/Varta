@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.cap" format="2">
+  <anchor x="-225.38271604938268" y="1344.5925925925926" name="_top"/>
+  <anchor x="-223.38271604938268" y="1674.1728395061727" name="top"/>
+  <outline>
+    <contour>
+      <point x="-117.54320987654316" y="1446.8271604938273" type="line"/>
+      <point x="-3.0493827160493368" y="1446.8271604938273" type="line"/>
+      <point x="-138.5802469135802" y="1674.1728395061727" type="line"/>
+      <point x="-286.88888888888886" y="1674.1728395061727" type="line"/>
+    </contour>
+    <contour>
+      <point x="-276.0740740740741" y="1446.8271604938273" type="line"/>
+      <point x="-162.87654320987653" y="1446.8271604938273" type="line"/>
+      <point x="-298.1728395061728" y="1674.1728395061727" type="line"/>
+      <point x="-446.48148148148147" y="1674.1728395061727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

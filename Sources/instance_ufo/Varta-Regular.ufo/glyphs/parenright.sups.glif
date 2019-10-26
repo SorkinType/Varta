@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.sups" format="2">
+  <advance width="479.14814814814815"/>
+  <unicode hex="207E"/>
+  <outline>
+    <contour>
+      <point x="169.91358024691357" y="741.716049382716" type="line"/>
+      <point x="283.14814814814815" y="905.8271604938271"/>
+      <point x="345.85185185185185" y="1069.358024691358"/>
+      <point x="345.85185185185185" y="1299.469135802469" type="curve" smooth="yes"/>
+      <point x="345.85185185185185" y="1528.3456790123457"/>
+      <point x="283.14814814814815" y="1690.111111111111"/>
+      <point x="169.91358024691357" y="1855.2222222222222" type="curve"/>
+      <point x="80.82716049382717" y="1811.1728395061727" type="line"/>
+      <point x="185.9506172839506" y="1652.469135802469"/>
+      <point x="226.12345679012347" y="1480.7037037037037"/>
+      <point x="226.12345679012347" y="1299.469135802469" type="curve" smooth="yes"/>
+      <point x="226.12345679012347" y="1118.0"/>
+      <point x="185.9506172839506" y="947.4691358024692"/>
+      <point x="80.82716049382717" y="784.5308641975308" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

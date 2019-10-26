@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yya-deva" format="2">
+  <advance width="1164"/>
+  <unicode hex="095F"/>
+  <anchor x="883" y="27" name="bottom"/>
+  <anchor x="584" y="1167" name="candra"/>
+  <anchor x="195" y="84" name="nukta"/>
+  <anchor x="883" y="1167" name="top"/>
+  <outline>
+    <component base="ya-deva"/>
+    <component base="nukta-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

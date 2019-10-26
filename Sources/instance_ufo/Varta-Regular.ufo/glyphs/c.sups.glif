@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c.sups" format="2">
+  <advance width="625.1111111111111"/>
+  <unicode hex="1D9C"/>
+  <outline>
+    <contour>
+      <point x="541.358024691358" y="672.5061728395061" type="line"/>
+      <point x="502.5308641975309" y="640.9135802469136"/>
+      <point x="458.17283950617286" y="615.1481481481482"/>
+      <point x="387.04938271604937" y="615.1481481481482" type="curve" smooth="yes"/>
+      <point x="267.5061728395062" y="615.1481481481482"/>
+      <point x="183.02469135802468" y="715.8641975308642"/>
+      <point x="183.02469135802468" y="861.1728395061729" type="curve" smooth="yes"/>
+      <point x="183.02469135802468" y="1006.4814814814815"/>
+      <point x="271.5061728395062" y="1108.7283950617284"/>
+      <point x="386.51851851851853" y="1108.7283950617284" type="curve" smooth="yes"/>
+      <point x="448.4691358024691" y="1108.7283950617284"/>
+      <point x="481.5308641975309" y="1089.432098765432"/>
+      <point x="523.1234567901234" y="1056.0740740740741" type="curve"/>
+      <point x="581.283950617284" y="1134.5802469135801" type="line"/>
+      <point x="540.2222222222222" y="1170.111111111111"/>
+      <point x="475.58024691358025" y="1207.111111111111"/>
+      <point x="380.641975308642" y="1207.111111111111" type="curve" smooth="yes"/>
+      <point x="211.53086419753086" y="1207.111111111111"/>
+      <point x="62.123456790123456" y="1080.1728395061727"/>
+      <point x="62.123456790123456" y="861.1728395061729" type="curve" smooth="yes"/>
+      <point x="62.123456790123456" y="640.7037037037037"/>
+      <point x="195.2962962962963" y="516.0"/>
+      <point x="376.7037037037037" y="516.0" type="curve" smooth="yes"/>
+      <point x="478.641975308642" y="516.0"/>
+      <point x="544.283950617284" y="554.4691358024692"/>
+      <point x="592.0493827160494" y="594.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="869.716049382716"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="492.61728395061715" y="826.2962962962963" type="line"/>
+      <point x="604.827160493827" y="932.9012345679014" type="line"/>
+      <point x="569.7777777777777" y="1013.432098765432" type="line"/>
+      <point x="737.9259259259259" y="1091.6049382716049" type="line"/>
+      <point x="674.6543209876543" y="1231.8395061728395" type="line"/>
+      <point x="588.2592592592594" y="1223.469135802469" type="line"/>
+      <point x="565.530864197531" y="1411.7777777777776" type="line"/>
+      <point x="415.1851851851852" y="1394.4938271604938" type="line"/>
+      <point x="394.56790123456796" y="1308.1604938271605" type="line"/>
+      <point x="212.7283950617285" y="1344.8024691358025" type="line"/>
+      <point x="182.29629629629642" y="1194.888888888889" type="line"/>
+      <point x="256.4197530864197" y="1151.3580246913582" type="line"/>
+      <point x="164.98765432098764" y="984.6419753086421" type="line"/>
+      <point x="295.8271604938272" y="910.567901234568" type="line"/>
+      <point x="362.07407407407396" y="970.5555555555555" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>14</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

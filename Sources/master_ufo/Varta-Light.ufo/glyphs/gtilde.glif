@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gtilde" format="2">
+  <advance width="1018"/>
+  <anchor x="501" y="-300" name="btm"/>
+  <anchor x="546" y="1050" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="tilde" xOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

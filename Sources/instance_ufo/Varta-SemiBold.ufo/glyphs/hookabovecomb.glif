@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb" format="2">
+  <unicode hex="0309"/>
+  <anchor x="-226.06172839506132" y="998.5061728395061" name="_top"/>
+  <anchor x="-224.06172839506132" y="1496.9382716049383" name="top"/>
+  <outline>
+    <contour>
+      <point x="-306.2592592592588" y="1134.2716049382716" type="line"/>
+      <point x="-181.86419753086375" y="1152.6913580246915"/>
+      <point x="-69.35802469135763" y="1205.2716049382716"/>
+      <point x="-69.35802469135763" y="1327.7777777777778" type="curve" smooth="yes"/>
+      <point x="-69.35802469135763" y="1433.0864197530864"/>
+      <point x="-171.4691358024687" y="1490.9382716049383"/>
+      <point x="-362.22222222222183" y="1496.9382716049383" type="curve"/>
+      <point x="-383.11111111111063" y="1390.6913580246915" type="line"/>
+      <point x="-269.45679012345636" y="1385.037037037037"/>
+      <point x="-214.38271604938222" y="1358.3086419753085"/>
+      <point x="-214.38271604938222" y="1307.1975308641975" type="curve" smooth="yes"/>
+      <point x="-214.38271604938222" y="1257.7777777777778"/>
+      <point x="-262.45679012345636" y="1235.358024691358"/>
+      <point x="-325.56790123456744" y="1218.6296296296296" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>883</integer>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>13</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

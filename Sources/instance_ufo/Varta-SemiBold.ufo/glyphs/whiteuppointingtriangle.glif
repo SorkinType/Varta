@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteuppointingtriangle" format="2">
+  <advance width="1177.320987654321"/>
+  <unicode hex="25B3"/>
+  <outline>
+    <contour>
+      <point x="45.7283950617284" y="71.60493827160495" type="line"/>
+      <point x="1130.9382716049383" y="71.60493827160495" type="line"/>
+      <point x="1130.9382716049383" y="75.60493827160495" type="line"/>
+      <point x="593.5061728395061" y="1097.8148148148148" type="line"/>
+      <point x="585.5061728395061" y="1097.8148148148148" type="line"/>
+      <point x="45.7283950617284" y="75.60493827160495" type="line"/>
+    </contour>
+    <contour>
+      <point x="282.037037037037" y="204.66666666666666" type="line"/>
+      <point x="589.5061728395061" y="811.4938271604939" type="line"/>
+      <point x="898.283950617284" y="204.66666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

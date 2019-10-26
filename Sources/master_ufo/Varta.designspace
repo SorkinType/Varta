@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="300" maximum="700" default="300">
+      <map input="300" output="137"/>
+      <map input="400" output="156"/>
+      <map input="600" output="190"/>
+      <map input="700" output="218"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Varta-Light.ufo" name="Varta Light" familyname="Varta" stylename="Light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="137"/>
+      </location>
+    </source>
+    <source filename="Varta-Bold.ufo" name="Varta Bold" familyname="Varta" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="218"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Varta Light" familyname="Varta" stylename="Light" filename="../instance_ufo/Varta-Light.ufo" stylemapfamilyname="Varta Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="137"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Varta Regular" familyname="Varta" stylename="Regular" filename="../instance_ufo/Varta-Regular.ufo" stylemapfamilyname="Varta" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="156"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Varta SemiBold" familyname="Varta" stylename="SemiBold" filename="../instance_ufo/Varta-SemiBold.ufo" stylemapfamilyname="Varta SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="190"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Varta Bold" familyname="Varta" stylename="Bold" filename="../instance_ufo/Varta-Bold.ufo" stylemapfamilyname="Varta" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="218"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>

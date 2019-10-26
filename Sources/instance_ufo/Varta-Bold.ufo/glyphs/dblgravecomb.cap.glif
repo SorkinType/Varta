@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.cap" format="2">
+  <anchor x="-690" y="1340" name="_top"/>
+  <anchor x="-688" y="1678" name="top"/>
+  <outline>
+    <contour>
+      <point x="-847" y="1443" type="line"/>
+      <point x="-695" y="1443" type="line"/>
+      <point x="-829" y="1678" type="line"/>
+      <point x="-1024" y="1678" type="line"/>
+    </contour>
+    <contour>
+      <point x="-508" y="1443" type="line"/>
+      <point x="-355" y="1443" type="line"/>
+      <point x="-488" y="1678" type="line"/>
+      <point x="-683" y="1678" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

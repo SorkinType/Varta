@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p_tta-deva" format="2">
+  <advance width="991"/>
+  <anchor x="552" y="-40" name="bottom"/>
+  <anchor x="519" y="1167" name="candra"/>
+  <anchor x="777" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="854" y="173" type="line"/>
+      <point x="781" y="114"/>
+      <point x="673" y="55"/>
+      <point x="518" y="55" type="curve" smooth="yes"/>
+      <point x="324" y="55"/>
+      <point x="266" y="135"/>
+      <point x="266" y="215" type="curve" smooth="yes"/>
+      <point x="266" y="342"/>
+      <point x="402" y="367"/>
+      <point x="498" y="383" type="curve" smooth="yes"/>
+      <point x="752" y="427"/>
+      <point x="872" y="518"/>
+      <point x="872" y="822" type="curve" smooth="yes"/>
+      <point x="872" y="1143" type="line"/>
+      <point x="681" y="1143" type="line"/>
+      <point x="681" y="815" type="line" smooth="yes"/>
+      <point x="681" y="663"/>
+      <point x="612" y="570"/>
+      <point x="484" y="570" type="curve" smooth="yes"/>
+      <point x="364" y="570"/>
+      <point x="305" y="651"/>
+      <point x="305" y="780" type="curve" smooth="yes"/>
+      <point x="305" y="1143" type="line"/>
+      <point x="115" y="1143" type="line"/>
+      <point x="115" y="783" type="line" smooth="yes"/>
+      <point x="115" y="634"/>
+      <point x="159" y="528"/>
+      <point x="243" y="468" type="curve"/>
+      <point x="265" y="500" type="line"/>
+      <point x="122" y="446"/>
+      <point x="70" y="343"/>
+      <point x="70" y="227" type="curve" smooth="yes"/>
+      <point x="70" y="17"/>
+      <point x="241" y="-119"/>
+      <point x="514" y="-119" type="curve" smooth="yes"/>
+      <point x="688" y="-119"/>
+      <point x="834" y="-64"/>
+      <point x="938" y="22" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="1010" y="1104" type="line"/>
+      <point x="1010" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

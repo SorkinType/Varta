@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jacute" format="2">
+  <advance width="964.8518518518518"/>
+  <anchor x="482.9259259259259" y="0.0" name="bottom"/>
+  <anchor x="788.5432098765432" y="1674.1728395061727" name="top"/>
+  <outline>
+    <component base="J"/>
+    <component base="acutecomb.cap" xOffset="846.3456790123456"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

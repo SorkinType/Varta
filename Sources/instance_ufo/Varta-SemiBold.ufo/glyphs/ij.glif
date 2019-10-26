@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij" format="2">
+  <advance width="1030.7283950617284"/>
+  <unicode hex="0133"/>
+  <anchor x="664.2962962962963" y="-234.56790123456796" name="btm"/>
+  <anchor x="702.6666666666667" y="886.4197530864199" name="top"/>
+  <outline>
+    <component base="i"/>
+    <component base="j" xOffset="514.2098765432098"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

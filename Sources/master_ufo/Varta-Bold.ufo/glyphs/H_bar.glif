@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="1420"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="208" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="428" y="604" type="line"/>
+      <point x="990" y="604" type="line"/>
+      <point x="990" y="0" type="line"/>
+      <point x="1212" y="0" type="line"/>
+      <point x="1212" y="1003" type="line"/>
+      <point x="1362" y="1003" type="line"/>
+      <point x="1362" y="1118" type="line"/>
+      <point x="1212" y="1118" type="line"/>
+      <point x="1212" y="1340" type="line"/>
+      <point x="990" y="1340" type="line"/>
+      <point x="990" y="1118" type="line"/>
+      <point x="428" y="1118" type="line"/>
+      <point x="428" y="1340" type="line"/>
+      <point x="208" y="1340" type="line"/>
+      <point x="208" y="1118" type="line"/>
+      <point x="56" y="1118" type="line"/>
+      <point x="56" y="1003" type="line"/>
+      <point x="208" y="1003" type="line"/>
+    </contour>
+    <contour>
+      <point x="428" y="796" type="line"/>
+      <point x="428" y="1003" type="line"/>
+      <point x="990" y="1003" type="line"/>
+      <point x="990" y="796" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>4</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>6</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>10</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

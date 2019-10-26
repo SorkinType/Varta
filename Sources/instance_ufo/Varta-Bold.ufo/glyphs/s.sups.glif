@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s.sups" format="2">
+  <advance width="591"/>
+  <unicode hex="02E2"/>
+  <outline>
+    <contour>
+      <point x="537" y="1135" type="line"/>
+      <point x="481" y="1177"/>
+      <point x="409" y="1214"/>
+      <point x="309" y="1214" type="curve" smooth="yes"/>
+      <point x="161" y="1214"/>
+      <point x="69" y="1126"/>
+      <point x="69" y="1016" type="curve" smooth="yes"/>
+      <point x="69" y="902"/>
+      <point x="168" y="852"/>
+      <point x="258" y="818" type="curve" smooth="yes"/>
+      <point x="331" y="789"/>
+      <point x="402" y="768"/>
+      <point x="402" y="714" type="curve" smooth="yes"/>
+      <point x="402" y="668"/>
+      <point x="365" y="635"/>
+      <point x="298" y="635" type="curve" smooth="yes"/>
+      <point x="232" y="635"/>
+      <point x="170" y="664"/>
+      <point x="109" y="709" type="curve"/>
+      <point x="36" y="606" type="line"/>
+      <point x="103" y="554"/>
+      <point x="199" y="516"/>
+      <point x="294" y="516" type="curve" smooth="yes"/>
+      <point x="456" y="516"/>
+      <point x="553" y="605"/>
+      <point x="553" y="726" type="curve" smooth="yes"/>
+      <point x="553" y="848"/>
+      <point x="451" y="890"/>
+      <point x="361" y="924" type="curve" smooth="yes"/>
+      <point x="288" y="951"/>
+      <point x="219" y="970"/>
+      <point x="219" y="1023" type="curve" smooth="yes"/>
+      <point x="219" y="1061"/>
+      <point x="250" y="1094"/>
+      <point x="314" y="1094" type="curve" smooth="yes"/>
+      <point x="370" y="1094"/>
+      <point x="414" y="1071"/>
+      <point x="463" y="1037" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>18</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

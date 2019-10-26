@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dlinebelow" format="2">
+  <advance width="1143.0493827160494"/>
+  <unicode hex="1E0F"/>
+  <anchor x="536.7777777777777" y="-234.56790123456796" name="btm"/>
+  <anchor x="1168.0617283950617" y="1019.358024691358" name="car"/>
+  <anchor x="367.679012345679" y="886.4197530864199" name="top"/>
+  <outline>
+    <component base="d"/>
+    <component base="macronbelowcomb" xOffset="537.4691358024692"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_l" format="2">
+  <advance width="1746.6049382716049"/>
+  <anchor x="1480.5185185185185" y="0.0" name="bottom"/>
+  <anchor x="1480.5185185185185" y="499.58024691358025" name="center"/>
+  <anchor x="1480.5185185185185" y="998.5061728395061" name="top"/>
+  <anchor x="1726.6049382716049" y="998.5061728395061" name="topright"/>
+  <outline>
+    <component base="f_f" xOffset="-0.34567901234567944"/>
+    <component base="l" xOffset="1214.0864197530864"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

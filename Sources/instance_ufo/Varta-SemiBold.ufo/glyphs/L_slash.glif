@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="1004.716049382716"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="182.11111111111111" y="0.0" type="line"/>
+      <point x="950.9012345679013" y="0.0" type="line"/>
+      <point x="950.9012345679013" y="163.4938271604938" type="line"/>
+      <point x="375.1111111111111" y="163.4938271604938" type="line"/>
+      <point x="375.1111111111111" y="567.3086419753087" type="line"/>
+      <point x="755.3333333333333" y="770.7283950617284" type="line"/>
+      <point x="755.3333333333333" y="924.9876543209876" type="line"/>
+      <point x="375.1111111111111" y="720.9135802469135" type="line"/>
+      <point x="375.1111111111111" y="1342.0740740740741" type="line"/>
+      <point x="182.11111111111111" y="1342.0740740740741" type="line"/>
+      <point x="182.11111111111111" y="626.395061728395" type="line"/>
+      <point x="20.0" y="541.7037037037037" type="line"/>
+      <point x="20.0" y="388.0987654320988" type="line"/>
+      <point x="182.11111111111111" y="472.7901234567901" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>2</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

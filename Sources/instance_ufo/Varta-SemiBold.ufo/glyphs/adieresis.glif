@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresis" format="2">
+  <advance width="1056.320987654321"/>
+  <unicode hex="00E4"/>
+  <anchor x="525.9012345679013" y="-234.56790123456796" name="btm"/>
+  <anchor x="525.9012345679013" y="886.4197530864199" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="dieresis" xOffset="-31.333333333333346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

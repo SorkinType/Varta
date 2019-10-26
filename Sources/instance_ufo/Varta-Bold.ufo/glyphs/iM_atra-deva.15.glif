@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iMatra-deva.15" format="2">
+  <advance width="561"/>
+  <anchor x="1951" y="1490" name="candra"/>
+  <anchor x="2176" y="1477" name="imatra"/>
+  <anchor x="2136" y="1415" name="top"/>
+  <outline>
+    <contour>
+      <point x="451" y="1204" type="line"/>
+      <point x="314" y="1338"/>
+      <point x="285" y="1400"/>
+      <point x="285" y="1465" type="curve" smooth="yes"/>
+      <point x="285" y="1565"/>
+      <point x="351" y="1614"/>
+      <point x="684" y="1614" type="curve" smooth="yes"/>
+      <point x="1196" y="1614"/>
+      <point x="1703" y="1497"/>
+      <point x="2102" y="1356" type="curve"/>
+      <point x="2176" y="1477" type="line"/>
+      <point x="1768" y="1686"/>
+      <point x="1145" y="1808"/>
+      <point x="658" y="1808" type="curve" smooth="yes"/>
+      <point x="289" y="1808"/>
+      <point x="68" y="1738"/>
+      <point x="68" y="1520" type="curve" smooth="yes"/>
+      <point x="68" y="1404"/>
+      <point x="131" y="1305"/>
+      <point x="271" y="1197" type="curve"/>
+    </contour>
+    <contour>
+      <point x="175" y="1" type="line"/>
+      <point x="385" y="1" type="line"/>
+      <point x="385" y="1217" type="line"/>
+      <point x="175" y="1217" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="586" y="1104" type="line"/>
+      <point x="586" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

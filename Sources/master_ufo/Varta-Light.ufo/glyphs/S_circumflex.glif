@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scircumflex" format="2">
+  <advance width="1071"/>
+  <unicode hex="015C"/>
+  <anchor x="536" y="0" name="bottom"/>
+  <anchor x="536" y="1346" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="circumflex.cap" xOffset="563"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

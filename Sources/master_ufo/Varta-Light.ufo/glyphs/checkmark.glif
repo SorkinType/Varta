@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="checkmark" format="2">
+  <advance width="1236"/>
+  <unicode hex="2713"/>
+  <outline>
+    <contour>
+      <point x="453" y="-23" type="line"/>
+      <point x="606" y="520"/>
+      <point x="911" y="999"/>
+      <point x="1246" y="1311" type="curve"/>
+      <point x="1153" y="1399" type="line"/>
+      <point x="824" y="1075"/>
+      <point x="520" y="563"/>
+      <point x="375" y="77" type="curve"/>
+      <point x="367" y="77" type="line"/>
+      <point x="304" y="263"/>
+      <point x="205" y="457"/>
+      <point x="93" y="627" type="curve"/>
+      <point x="-3" y="561" type="line"/>
+      <point x="122" y="379"/>
+      <point x="222" y="182"/>
+      <point x="302" y="-41" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+    </dict>
+  </lib>
+</glyph>

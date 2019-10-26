@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rakar_uuMatra-deva" format="2">
+  <advance width="600.0"/>
+  <anchor x="275.9259259259259" y="365.0617283950617" name="_bottom"/>
+  <outline>
+    <component base="rakar-deva" xOffset="1.6543209876543206" yOffset="-7.185185185185192"/>
+    <component base="uuMatra-deva" xOffset="10.87654320987655" yOffset="21.901234567901255"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

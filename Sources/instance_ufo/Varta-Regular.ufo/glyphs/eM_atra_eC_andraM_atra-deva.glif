@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eMatra_eCandraMatra-deva" format="2">
+  <advance width="600.0"/>
+  <outline>
+    <component base="eMatra-deva"/>
+    <component base="eCandraMatra-deva" xOffset="215.8641975308642" yOffset="141.76543209876542"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="988"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="313" y="0" type="line"/>
+      <point x="313" y="260" type="line"/>
+      <point x="512" y="495" type="line"/>
+      <point x="817" y="0" type="line"/>
+      <point x="967" y="0" type="line"/>
+      <point x="593" y="595" type="line"/>
+      <point x="918" y="990" type="line"/>
+      <point x="766" y="990" type="line"/>
+      <point x="319" y="434" type="line"/>
+      <point x="313" y="434" type="line"/>
+      <point x="313" y="990" type="line"/>
+      <point x="176" y="990" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

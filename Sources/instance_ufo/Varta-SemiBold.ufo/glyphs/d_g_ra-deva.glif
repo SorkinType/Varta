@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d_g_ra-deva" format="2">
+  <advance width="1055.2839506172838"/>
+  <anchor x="560.8765432098766" y="24.481481481481538" name="bottom"/>
+  <anchor x="527.0864197530864" y="1167.3456790123457" name="candra"/>
+  <anchor x="39.85185185185188" y="68.86419753086417" name="nukta"/>
+  <anchor x="720.6543209876543" y="1167.3456790123457" name="top"/>
+  <outline>
+    <contour>
+      <point x="310.24691358024694" y="-653.4567901234568" type="line"/>
+      <point x="797.0740740740741" y="-253.86419753086417" type="line"/>
+      <point x="714.8518518518518" y="-157.35802469135803" type="line"/>
+      <point x="207.76543209876547" y="-529.4320987654321" type="line"/>
+    </contour>
+    <contour>
+      <point x="263.81481481481484" y="-317.18518518518516" type="line"/>
+      <point x="386.5308641975309" y="-315.4938271604938"/>
+      <point x="403.4567901234568" y="-255.71604938271602"/>
+      <point x="403.4567901234568" y="-198.48148148148147" type="curve" smooth="yes"/>
+      <point x="403.4567901234568" y="-15.197530864197526" type="line"/>
+      <point x="251.54320987654324" y="-31.012345679012334" type="line"/>
+      <point x="111.58024691358028" y="-65.09876543209874" type="line"/>
+      <point x="111.58024691358028" y="-168.037037037037" type="line"/>
+    </contour>
+    <contour>
+      <point x="237.34567901234573" y="-88.58024691358024" type="line"/>
+      <point x="403.11111111111114" y="-72.76543209876543" type="line"/>
+      <point x="403.11111111111114" y="236.01234567901233" type="line"/>
+      <point x="237.34567901234573" y="236.01234567901233" type="line"/>
+    </contour>
+    <contour>
+      <point x="659.8888888888889" y="-572.395061728395" type="line"/>
+      <point x="825.6543209876543" y="-572.395061728395" type="line"/>
+      <point x="825.6543209876543" y="226.19753086419752" type="line"/>
+      <point x="659.8888888888889" y="226.19753086419752" type="line"/>
+    </contour>
+    <component base="da-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="visarga-deva" format="2">
+  <advance width="584"/>
+  <unicode hex="0903"/>
+  <outline>
+    <contour>
+      <point x="301" y="688" type="curve" smooth="yes"/>
+      <point x="359" y="688"/>
+      <point x="384" y="713"/>
+      <point x="384" y="770" type="curve" smooth="yes"/>
+      <point x="384" y="827"/>
+      <point x="359" y="852"/>
+      <point x="301" y="852" type="curve" smooth="yes"/>
+      <point x="244" y="852"/>
+      <point x="218" y="827"/>
+      <point x="218" y="770" type="curve" smooth="yes"/>
+      <point x="218" y="713"/>
+      <point x="244" y="688"/>
+    </contour>
+    <contour>
+      <point x="301" y="150" type="curve" smooth="yes"/>
+      <point x="359" y="150"/>
+      <point x="384" y="175"/>
+      <point x="384" y="232" type="curve" smooth="yes"/>
+      <point x="384" y="289"/>
+      <point x="359" y="314"/>
+      <point x="301" y="314" type="curve" smooth="yes"/>
+      <point x="244" y="314"/>
+      <point x="218" y="289"/>
+      <point x="218" y="232" type="curve" smooth="yes"/>
+      <point x="218" y="175"/>
+      <point x="244" y="150"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

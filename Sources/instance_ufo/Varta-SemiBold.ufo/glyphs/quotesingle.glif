@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle" format="2">
+  <advance width="527.5308641975308"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="206.16049382716048" y="832.1358024691358" type="line"/>
+      <point x="319.02469135802465" y="832.1358024691358" type="line"/>
+      <point x="356.4938271604938" y="1209.7037037037037" type="line"/>
+      <point x="362.7654320987654" y="1411.7283950617284" type="line"/>
+      <point x="162.7283950617284" y="1411.7283950617284" type="line"/>
+      <point x="169.03703703703704" y="1209.7037037037037" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 04:37:59</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

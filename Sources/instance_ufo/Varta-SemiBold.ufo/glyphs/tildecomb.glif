@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="-392.5925925925923" y="998.5061728395061" name="_top"/>
+  <anchor x="-390.5925925925923" y="1410.9382716049383" name="top"/>
+  <outline>
+    <contour>
+      <point x="-581.6296296296293" y="1184.7283950617284" type="line"/>
+      <point x="-569.3209876543208" y="1253.4197530864199"/>
+      <point x="-547.6296296296293" y="1286.4938271604938"/>
+      <point x="-507.5925925925923" y="1286.4938271604938" type="curve" smooth="yes"/>
+      <point x="-438.8641975308639" y="1286.4938271604938"/>
+      <point x="-377.6296296296294" y="1184.7283950617284"/>
+      <point x="-272.32098765432073" y="1184.7283950617284" type="curve" smooth="yes"/>
+      <point x="-170.70370370370347" y="1184.7283950617284"/>
+      <point x="-111.27160493827137" y="1278.0740740740741"/>
+      <point x="-98.34567901234544" y="1410.9382716049383" type="curve"/>
+      <point x="-203.55555555555532" y="1410.9382716049383" type="line"/>
+      <point x="-215.86419753086392" y="1342.5925925925926"/>
+      <point x="-237.55555555555532" y="1308.8271604938273"/>
+      <point x="-277.5925925925923" y="1308.8271604938273" type="curve" smooth="yes"/>
+      <point x="-342.97530864197506" y="1308.8271604938273"/>
+      <point x="-407.5555555555553" y="1410.9382716049383"/>
+      <point x="-512.864197530864" y="1410.9382716049383" type="curve" smooth="yes"/>
+      <point x="-614.4814814814813" y="1410.9382716049383"/>
+      <point x="-673.9135802469134" y="1318.2469135802469"/>
+      <point x="-686.8395061728393" y="1184.7283950617284" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>18</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

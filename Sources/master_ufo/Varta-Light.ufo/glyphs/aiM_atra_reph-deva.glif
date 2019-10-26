@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aiMatra_reph-deva" format="2">
+  <advance width="540"/>
+  <anchor x="264" y="1168" name="_top"/>
+  <anchor x="254" y="1521" name="candra"/>
+  <outline>
+    <contour>
+      <point x="355" y="1223" type="line"/>
+      <point x="310" y="1271"/>
+      <point x="270" y="1344"/>
+      <point x="270" y="1429" type="curve" smooth="yes"/>
+      <point x="270" y="1534"/>
+      <point x="338" y="1571"/>
+      <point x="451" y="1571" type="curve" smooth="yes"/>
+      <point x="531" y="1571"/>
+      <point x="593" y="1547"/>
+      <point x="640" y="1520" type="curve"/>
+      <point x="673" y="1618" type="line"/>
+      <point x="620" y="1656"/>
+      <point x="534" y="1681"/>
+      <point x="438" y="1681" type="curve" smooth="yes"/>
+      <point x="285" y="1681"/>
+      <point x="166" y="1599"/>
+      <point x="166" y="1458" type="curve" smooth="yes"/>
+      <point x="166" y="1380"/>
+      <point x="196" y="1287"/>
+      <point x="283" y="1197" type="curve"/>
+    </contour>
+    <component base="aiMatra-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+    </dict>
+  </lib>
+</glyph>

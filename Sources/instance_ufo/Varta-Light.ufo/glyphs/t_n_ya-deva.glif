@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_n_ya-deva" format="2">
+  <advance width="2288"/>
+  <anchor x="2012" y="28" name="bottom"/>
+  <anchor x="1736" y="1168" name="candra"/>
+  <anchor x="1455" y="64" name="nukta"/>
+  <anchor x="2012" y="1168" name="top"/>
+  <outline>
+    <contour>
+      <point x="453" y="39" type="line"/>
+      <point x="300" y="250"/>
+      <point x="211" y="412"/>
+      <point x="211" y="552" type="curve" smooth="yes"/>
+      <point x="211" y="663"/>
+      <point x="261" y="711"/>
+      <point x="418" y="711" type="curve" smooth="yes"/>
+      <point x="579" y="711"/>
+      <point x="637" y="668"/>
+      <point x="757" y="560" type="curve"/>
+      <point x="779" y="681" type="line"/>
+      <point x="666" y="788"/>
+      <point x="583" y="828"/>
+      <point x="406" y="828" type="curve" smooth="yes"/>
+      <point x="178" y="828"/>
+      <point x="81" y="739"/>
+      <point x="81" y="570" type="curve" smooth="yes"/>
+      <point x="81" y="366"/>
+      <point x="228" y="130"/>
+      <point x="352" y="-30" type="curve"/>
+    </contour>
+    <contour>
+      <point x="844" y="394" type="line"/>
+      <point x="940" y="394"/>
+      <point x="958" y="456"/>
+      <point x="958" y="531" type="curve" smooth="yes"/>
+      <point x="958" y="706" type="line"/>
+      <point x="708" y="706" type="line"/>
+      <point x="708" y="594" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="1143" type="line"/>
+      <point x="635" y="1143" type="line"/>
+      <point x="635" y="1247" type="line"/>
+      <point x="-12" y="1247" type="line"/>
+    </contour>
+    <contour>
+      <point x="844" y="595" type="line"/>
+      <point x="1304" y="595" type="line"/>
+      <point x="1304" y="707" type="line"/>
+      <point x="844" y="706" type="line"/>
+    </contour>
+    <contour>
+      <point x="580" y="1143" type="line"/>
+      <point x="1184" y="1143" type="line"/>
+      <point x="1184" y="1247" type="line"/>
+      <point x="580" y="1247" type="line"/>
+    </contour>
+    <component base="ya-deva" xOffset="1149"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ya-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

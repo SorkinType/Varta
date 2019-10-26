@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="982.4814814814814"/>
+  <unicode hex="004A"/>
+  <anchor x="491.7407407407407" y="0.0" name="bottom"/>
+  <anchor x="491.7407407407407" y="1342.0740740740741" name="top"/>
+  <outline>
+    <contour>
+      <point x="814.2962962962963" y="1342.0740740740741" type="line"/>
+      <point x="621.641975308642" y="1342.0740740740741" type="line"/>
+      <point x="621.641975308642" y="414.2469135802469" type="line"/>
+      <point x="621.641975308642" y="213.71604938271602"/>
+      <point x="554.5308641975308" y="143.4938271604938"/>
+      <point x="416.9259259259259" y="143.4938271604938" type="curve" smooth="yes"/>
+      <point x="325.04938271604937" y="143.4938271604938"/>
+      <point x="249.320987654321" y="188.4938271604938"/>
+      <point x="188.9012345679012" y="290.9506172839506" type="curve"/>
+      <point x="54.22222222222223" y="194.12345679012344" type="line"/>
+      <point x="134.76543209876544" y="49.96296296296296"/>
+      <point x="260.0" y="-25.0"/>
+      <point x="435.7407407407407" y="-25.0" type="curve" smooth="yes"/>
+      <point x="704.8271604938271" y="-25.0"/>
+      <point x="814.2962962962963" y="160.50617283950618"/>
+      <point x="814.2962962962963" y="396.32098765432096" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

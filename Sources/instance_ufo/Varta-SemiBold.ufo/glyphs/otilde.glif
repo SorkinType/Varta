@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otilde" format="2">
+  <advance width="1114.469135802469"/>
+  <unicode hex="00F5"/>
+  <anchor x="557.2345679012345" y="-234.56790123456796" name="btm"/>
+  <anchor x="557.2345679012345" y="886.4197530864199" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="tilde"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

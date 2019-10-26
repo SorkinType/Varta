@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oeMatra-deva" format="2">
+  <unicode hex="093A"/>
+  <outline>
+    <contour>
+      <point x="165" y="1091" type="line"/>
+      <point x="375" y="1091" type="line"/>
+      <point x="375" y="1538" type="line"/>
+      <point x="165" y="1538" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>540</integer>
+    </dict>
+  </lib>
+</glyph>

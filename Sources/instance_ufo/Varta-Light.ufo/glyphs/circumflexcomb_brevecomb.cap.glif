@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_brevecomb.cap" format="2">
+  <anchor x="0" y="1346" name="_top"/>
+  <anchor x="2" y="1907" name="top"/>
+  <outline>
+    <contour>
+      <point x="-248" y="1448" type="line"/>
+      <point x="-139" y="1448" type="line"/>
+      <point x="-4" y="1579" type="line"/>
+      <point x="4" y="1579" type="line"/>
+      <point x="139" y="1448" type="line"/>
+      <point x="248" y="1448" type="line"/>
+      <point x="60" y="1661" type="line"/>
+      <point x="-60" y="1661" type="line"/>
+    </contour>
+    <contour>
+      <point x="162" y="1907" type="line"/>
+      <point x="146" y="1844"/>
+      <point x="100" y="1797"/>
+      <point x="0" y="1797" type="curve" smooth="yes"/>
+      <point x="-100" y="1797"/>
+      <point x="-146" y="1844"/>
+      <point x="-162" y="1907" type="curve"/>
+      <point x="-242" y="1907" type="line"/>
+      <point x="-229" y="1808"/>
+      <point x="-153" y="1718"/>
+      <point x="0" y="1718" type="curve" smooth="yes"/>
+      <point x="153" y="1718"/>
+      <point x="229" y="1808"/>
+      <point x="242" y="1907" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>7</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb" format="2">
+  <unicode hex="032E"/>
+  <anchor x="0.0" y="-234.56790123456796" name="_btm"/>
+  <outline>
+    <contour>
+      <point x="147.95061728395063" y="-159.45679012345678" type="line"/>
+      <point x="137.60493827160494" y="-237.22222222222223"/>
+      <point x="91.8395061728395" y="-309.0617283950617"/>
+      <point x="0.0" y="-309.0617283950617" type="curve" smooth="yes"/>
+      <point x="-91.8395061728395" y="-309.0617283950617"/>
+      <point x="-137.60493827160494" y="-237.22222222222223"/>
+      <point x="-147.95061728395063" y="-159.45679012345678" type="curve"/>
+      <point x="-262.4691358024691" y="-159.45679012345678" type="line"/>
+      <point x="-254.4320987654321" y="-285.2345679012346"/>
+      <point x="-178.23456790123456" y="-423.2716049382716"/>
+      <point x="0.0" y="-423.2716049382716" type="curve" smooth="yes"/>
+      <point x="178.23456790123456" y="-423.2716049382716"/>
+      <point x="254.4320987654321" y="-285.2345679012346"/>
+      <point x="262.4691358024691" y="-159.45679012345678" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>9</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_ra-deva" format="2">
+  <advance width="1347"/>
+  <anchor x="1107" y="27" name="bottom"/>
+  <anchor x="1053" y="1167" name="candra"/>
+  <anchor x="735" y="97" name="nukta"/>
+  <anchor x="1054" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="472" y="71" type="line"/>
+      <point x="319" y="302"/>
+      <point x="273" y="439"/>
+      <point x="273" y="534" type="curve" smooth="yes"/>
+      <point x="273" y="617"/>
+      <point x="317" y="661.091"/>
+      <point x="452.909" y="661.091" type="curve" smooth="yes"/>
+      <point x="567" y="661"/>
+      <point x="647" y="626"/>
+      <point x="814" y="492" type="curve"/>
+      <point x="789" y="727" type="line"/>
+      <point x="674.909" y="823"/>
+      <point x="565" y="858"/>
+      <point x="453" y="858" type="curve" smooth="yes"/>
+      <point x="205" y="858"/>
+      <point x="59" y="753"/>
+      <point x="59" y="566" type="curve" smooth="yes"/>
+      <point x="59" y="365"/>
+      <point x="177" y="131"/>
+      <point x="308" y="-38" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="643" y="1104" type="line"/>
+      <point x="643" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+    <component base="ra-deva" xOffset="598"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

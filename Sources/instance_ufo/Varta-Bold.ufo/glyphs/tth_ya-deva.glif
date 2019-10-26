@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tth_ya-deva" format="2">
+  <advance width="2363"/>
+  <anchor x="2084" y="27" name="bottom"/>
+  <anchor x="2082" y="1167" name="candra"/>
+  <anchor x="2084" y="1167" name="top"/>
+  <anchor x="-14" y="82" name="nukta"/>
+  <outline>
+    <component base="ttha-deva"/>
+    <component base="ya-deva.post" xOffset="1177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>tth-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ya-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dda-deva" format="2">
+  <advance width="1056"/>
+  <unicode hex="0921"/>
+  <anchor x="552" y="-37" name="bottom"/>
+  <anchor x="536" y="1167" name="candra"/>
+  <anchor x="545" y="-241" name="nukta"/>
+  <anchor x="759" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="314" y="518" type="line"/>
+      <point x="301" y="542"/>
+      <point x="285" y="592"/>
+      <point x="285" y="645" type="curve" smooth="yes"/>
+      <point x="285" y="718"/>
+      <point x="315" y="745"/>
+      <point x="434" y="745" type="curve" smooth="yes"/>
+      <point x="781" y="745" type="line"/>
+      <point x="758" y="932" type="line"/>
+      <point x="397" y="932" type="line" smooth="yes"/>
+      <point x="175" y="930"/>
+      <point x="98" y="846"/>
+      <point x="98" y="702" type="curve" smooth="yes"/>
+      <point x="98" y="572"/>
+      <point x="159" y="421"/>
+      <point x="229" y="366" type="curve" smooth="yes"/>
+      <point x="265" y="339"/>
+      <point x="288" y="339"/>
+      <point x="317" y="342" type="curve" smooth="yes"/>
+      <point x="382" y="349"/>
+      <point x="572" y="369"/>
+      <point x="657" y="369" type="curve" smooth="yes"/>
+      <point x="770" y="369"/>
+      <point x="796" y="334"/>
+      <point x="796" y="272" type="curve" smooth="yes"/>
+      <point x="795" y="196"/>
+      <point x="753" y="118"/>
+      <point x="545" y="118" type="curve" smooth="yes"/>
+      <point x="355" y="118"/>
+      <point x="235" y="186"/>
+      <point x="122" y="265" type="curve"/>
+      <point x="40" y="135" type="line"/>
+      <point x="154" y="23"/>
+      <point x="348" y="-67"/>
+      <point x="559" y="-67" type="curve" smooth="yes"/>
+      <point x="822" y="-67"/>
+      <point x="990" y="60"/>
+      <point x="990" y="295" type="curve" smooth="yes"/>
+      <point x="990" y="524"/>
+      <point x="832" y="559"/>
+      <point x="668" y="559" type="curve" smooth="yes"/>
+      <point x="543" y="559"/>
+      <point x="352" y="538"/>
+      <point x="291" y="525" type="curve"/>
+    </contour>
+    <contour>
+      <point x="651" y="745" type="line"/>
+      <point x="858" y="745" type="line"/>
+      <point x="858" y="1180" type="line"/>
+      <point x="651" y="1180" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="1075" y="1104" type="line"/>
+      <point x="1075" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:49</string>
+    </dict>
+  </lib>
+</glyph>

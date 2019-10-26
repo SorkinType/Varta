@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f.sups" format="2">
+  <advance width="422.5185185185185"/>
+  <unicode hex="1DA0"/>
+  <outline>
+    <contour>
+      <point x="129.7283950617284" y="532.0" type="line"/>
+      <point x="271.4074074074074" y="532.0" type="line"/>
+      <point x="271.4074074074074" y="1083.3703703703704" type="line"/>
+      <point x="406.9012345679012" y="1083.3703703703704" type="line"/>
+      <point x="406.9012345679012" y="1194.2345679012346" type="line"/>
+      <point x="271.4074074074074" y="1194.2345679012346" type="line"/>
+      <point x="271.4074074074074" y="1278.0246913580247" type="line"/>
+      <point x="271.4074074074074" y="1355.7160493827162"/>
+      <point x="301.75308641975306" y="1401.5185185185185"/>
+      <point x="358.8641975308642" y="1401.5185185185185" type="curve" smooth="yes"/>
+      <point x="389.9012345679012" y="1401.5185185185185"/>
+      <point x="414.9012345679012" y="1394.1728395061727"/>
+      <point x="433.2469135802469" y="1388.4814814814815" type="curve"/>
+      <point x="462.48148148148147" y="1491.7283950617284" type="line"/>
+      <point x="427.1358024691358" y="1505.7283950617284"/>
+      <point x="389.9012345679012" y="1514.3827160493827"/>
+      <point x="343.32098765432096" y="1514.3827160493827" type="curve" smooth="yes"/>
+      <point x="194.03703703703704" y="1514.3827160493827"/>
+      <point x="129.7283950617284" y="1407.6049382716049"/>
+      <point x="129.7283950617284" y="1270.0246913580247" type="curve" smooth="yes"/>
+      <point x="129.7283950617284" y="1194.2345679012346" type="line"/>
+      <point x="37.7283950617284" y="1188.2345679012346" type="line"/>
+      <point x="37.7283950617284" y="1083.3703703703704" type="line"/>
+      <point x="129.7283950617284" y="1083.3703703703704" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

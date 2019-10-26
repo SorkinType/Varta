@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gga-deva" format="2">
+  <advance width="1142.888888888889"/>
+  <unicode hex="097B"/>
+  <anchor x="863.2716049382716" y="27.34567901234568" name="bottom"/>
+  <anchor x="610.6172839506173" y="1167.3456790123457" name="candra"/>
+  <anchor x="326.5432098765432" y="104.09876543209879" name="nukta"/>
+  <anchor x="863.6172839506173" y="1167.3456790123457" name="top"/>
+  <outline>
+    <contour>
+      <point x="74.2962962962963" y="-80.7901234567901" type="line"/>
+      <point x="953.7530864197531" y="-80.7901234567901" type="line"/>
+      <point x="953.7530864197531" y="65.7037037037037" type="line"/>
+      <point x="74.2962962962963" y="65.7037037037037" type="line"/>
+    </contour>
+    <component base="ga-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

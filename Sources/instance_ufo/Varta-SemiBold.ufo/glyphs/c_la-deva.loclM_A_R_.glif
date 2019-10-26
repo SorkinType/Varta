@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c_la-deva.loclMAR" format="2">
+  <advance width="1246.8271604938273"/>
+  <anchor x="889.6543209876543" y="-482.4567901234568" name="bottom"/>
+  <anchor x="682.5432098765432" y="1167.3456790123457" name="candra"/>
+  <anchor x="971.4814814814814" y="1167.3456790123457" name="top"/>
+  <outline>
+    <contour>
+      <point x="957.4074074074074" y="671.0" type="line"/>
+      <point x="864.4197530864197" y="542.0493827160493"/>
+      <point x="724.8024691358024" y="454.1481481481481"/>
+      <point x="567.9876543209876" y="456.18518518518516" type="curve" smooth="yes"/>
+      <point x="427.3827160493827" y="458.25925925925924"/>
+      <point x="376.8148148148148" y="521.5925925925926"/>
+      <point x="376.8148148148148" y="611.3827160493827" type="curve" smooth="yes"/>
+      <point x="376.8148148148148" y="729.7530864197531"/>
+      <point x="491.96296296296293" y="809.5925925925926"/>
+      <point x="649.0246913580247" y="805.5925925925926" type="curve"/>
+      <point x="619.679012345679" y="865.8641975308642" type="line"/>
+      <point x="467.3456790123456" y="851.0246913580247" type="line"/>
+      <point x="282.5432098765432" y="823.3333333333334"/>
+      <point x="191.50617283950618" y="718.679012345679"/>
+      <point x="191.50617283950618" y="591.604938271605" type="curve" smooth="yes"/>
+      <point x="191.50617283950618" y="432.87654320987656"/>
+      <point x="313.01234567901236" y="301.7654320987654"/>
+      <point x="555.0617283950617" y="300.38271604938274" type="curve" smooth="yes"/>
+      <point x="742.8024691358024" y="298.69135802469134"/>
+      <point x="890.9506172839506" y="379.5432098765432"/>
+      <point x="984.6419753086419" y="491.38271604938274" type="curve"/>
+    </contour>
+    <contour>
+      <point x="36.197530864197525" y="797.6666666666667" type="line"/>
+      <point x="698.320987654321" y="798.0123456790124" type="line"/>
+      <point x="698.320987654321" y="950.8148148148148" type="line"/>
+      <point x="36.197530864197525" y="950.8148148148148" type="line"/>
+    </contour>
+    <contour>
+      <point x="877.7283950617284" y="34.19753086419756" type="line"/>
+      <point x="1058.6913580246912" y="34.19753086419756" type="line"/>
+      <point x="1058.6913580246912" y="1181.8765432098764" type="line"/>
+      <point x="877.7283950617284" y="1181.8765432098764" type="line"/>
+    </contour>
+    <contour>
+      <point x="-16.580246913580243" y="1117.4814814814815" type="line"/>
+      <point x="1263.7530864197531" y="1117.4814814814815" type="line"/>
+      <point x="1263.7530864197531" y="1273.1728395061727" type="line"/>
+      <point x="-16.580246913580243" y="1273.1728395061727" type="line"/>
+    </contour>
+    <component base="add" xOffset="61.481481481481495"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>c-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>la-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+    </dict>
+  </lib>
+</glyph>

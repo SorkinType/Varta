@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.subs" format="2">
+  <advance width="356.14814814814815"/>
+  <outline>
+    <contour>
+      <point x="178.69135802469137" y="-432.8395061728395" type="curve" smooth="yes"/>
+      <point x="230.50617283950618" y="-432.8395061728395"/>
+      <point x="267.85185185185185" y="-395.4938271604938"/>
+      <point x="267.85185185185185" y="-338.91358024691357" type="curve" smooth="yes"/>
+      <point x="267.85185185185185" y="-282.5679012345679"/>
+      <point x="230.50617283950618" y="-243.7530864197531"/>
+      <point x="178.69135802469137" y="-243.7530864197531" type="curve" smooth="yes"/>
+      <point x="126.64197530864197" y="-243.7530864197531"/>
+      <point x="88.29629629629629" y="-282.5679012345679"/>
+      <point x="88.29629629629629" y="-338.91358024691357" type="curve" smooth="yes"/>
+      <point x="88.29629629629629" y="-395.4938271604938"/>
+      <point x="126.64197530864197" y="-432.8395061728395"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

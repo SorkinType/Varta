@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe-deva" format="2">
+  <advance width="1386"/>
+  <unicode hex="0973"/>
+  <anchor x="1102" y="28" name="bottom"/>
+  <anchor x="1100" y="1247" name="candra"/>
+  <anchor x="1095" y="1168" name="top"/>
+  <outline>
+    <contour>
+      <point x="1040" y="1113" type="line"/>
+      <point x="1165" y="1113" type="line"/>
+      <point x="1165" y="1469" type="line"/>
+      <point x="1040" y="1469" type="line"/>
+    </contour>
+    <component base="a-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

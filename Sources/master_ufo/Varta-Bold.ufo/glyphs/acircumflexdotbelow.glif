@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexdotbelow" format="2">
+  <advance width="1066"/>
+  <unicode hex="1EAD"/>
+  <anchor x="538" y="-200" name="btm"/>
+  <anchor x="538" y="800" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflex" xOffset="-22"/>
+    <component base="dotbelowcomb" xOffset="538"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="852"/>
+  <unicode hex="007A"/>
+  <anchor x="429" y="-300" name="btm"/>
+  <anchor x="429" y="1050" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="799" y="0" type="line"/>
+      <point x="799" y="114" type="line"/>
+      <point x="234" y="114" type="line"/>
+      <point x="782" y="918" type="line"/>
+      <point x="782" y="990" type="line"/>
+      <point x="120" y="990" type="line"/>
+      <point x="120" y="877" type="line"/>
+      <point x="608" y="877" type="line"/>
+      <point x="60" y="73" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>9</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

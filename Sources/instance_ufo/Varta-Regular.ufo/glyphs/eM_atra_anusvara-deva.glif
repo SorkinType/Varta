@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eMatra_anusvara-deva" format="2">
+  <advance width="540.0"/>
+  <anchor x="270.0" y="1167.7654320987654" name="_top"/>
+  <outline>
+    <component base="anusvara-deva" xOffset="71.24691358024691" yOffset="58.25925925925926"/>
+    <component base="eMatra-deva" xOffset="-7.123456790123457"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

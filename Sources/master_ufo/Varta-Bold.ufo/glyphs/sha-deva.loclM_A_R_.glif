@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha-deva.loclMAR" format="2">
+  <advance width="1401"/>
+  <anchor x="1121" y="27" name="bottom"/>
+  <anchor x="731" y="1167" name="candra"/>
+  <anchor x="252" y="-274" name="nukta"/>
+  <anchor x="1121" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="1015" y="0" type="line"/>
+      <point x="1225" y="0" type="line"/>
+      <point x="1225" y="1208" type="line"/>
+      <point x="1015" y="1208" type="line"/>
+    </contour>
+    <contour>
+      <point x="821" y="1104" type="line"/>
+      <point x="1420" y="1104" type="line"/>
+      <point x="1420" y="1287" type="line"/>
+      <point x="821" y="1287" type="line"/>
+    </contour>
+    <component base="sh-deva.loclMAR"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>sh-deva.loclMAR</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aaMatra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

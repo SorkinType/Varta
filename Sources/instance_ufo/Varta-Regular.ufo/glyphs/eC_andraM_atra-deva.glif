@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eCandraMatra-deva" format="2">
+  <unicode hex="0945"/>
+  <anchor x="268.71604938271605" y="1168.2345679012346" name="_candra"/>
+  <anchor x="274.2962962962963" y="1481.6913580246915" name="candra"/>
+  <outline>
+    <contour>
+      <point x="497.2962962962963" y="1639.148148148148" type="line"/>
+      <point x="455.2962962962963" y="1573.4444444444443"/>
+      <point x="394.641975308642" y="1505.8641975308642"/>
+      <point x="276.0" y="1505.8641975308642" type="curve" smooth="yes"/>
+      <point x="162.76543209876544" y="1505.8641975308642"/>
+      <point x="98.06172839506173" y="1564.2716049382716"/>
+      <point x="53.2962962962963" y="1636.4444444444443" type="curve"/>
+      <point x="-41.01234567901234" y="1578.9382716049383" type="line"/>
+      <point x="6.691358024691361" y="1475.6049382716049"/>
+      <point x="106.14814814814815" y="1378.7407407407406"/>
+      <point x="273.12345679012344" y="1378.7407407407406" type="curve" smooth="yes"/>
+      <point x="416.8024691358025" y="1378.7407407407406"/>
+      <point x="522.8518518518518" y="1452.432098765432"/>
+      <point x="587.6666666666666" y="1585.5802469135801" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>540</integer>
+    </dict>
+  </lib>
+</glyph>

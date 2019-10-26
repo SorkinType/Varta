@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="988"/>
+  <unicode hex="006B"/>
+  <anchor x="547" y="-300" name="btm"/>
+  <anchor x="248" y="1208" name="top"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="311" y="0" type="line"/>
+      <point x="311" y="264" type="line"/>
+      <point x="512" y="498" type="line"/>
+      <point x="817" y="0" type="line"/>
+      <point x="967" y="0" type="line"/>
+      <point x="590" y="595" type="line"/>
+      <point x="918" y="990" type="line"/>
+      <point x="766" y="990" type="line"/>
+      <point x="317" y="437" type="line"/>
+      <point x="311" y="437" type="line"/>
+      <point x="311" y="1464" type="line"/>
+      <point x="176" y="1464" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>12</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

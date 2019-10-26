@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n_d_va-deva" format="2">
+  <advance width="1599.7037037037037"/>
+  <anchor x="1267.3086419753085" y="1167.6913580246915" name="candra"/>
+  <anchor x="1267.3086419753085" y="1167.0" name="top"/>
+  <outline>
+    <component base="n-deva"/>
+    <component base="d_va-deva" xOffset="548.4938271604939"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>va-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

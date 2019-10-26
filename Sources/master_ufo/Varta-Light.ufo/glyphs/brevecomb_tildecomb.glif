@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb" format="2">
+  <anchor x="0" y="1050" name="_top"/>
+  <outline>
+    <contour>
+      <point x="169" y="1391" type="line"/>
+      <point x="157" y="1323"/>
+      <point x="105" y="1259"/>
+      <point x="0" y="1259" type="curve" smooth="yes"/>
+      <point x="-105" y="1259"/>
+      <point x="-157" y="1323"/>
+      <point x="-169" y="1391" type="curve"/>
+      <point x="-249" y="1391" type="line"/>
+      <point x="-239" y="1287"/>
+      <point x="-173" y="1179"/>
+      <point x="0" y="1179" type="curve" smooth="yes"/>
+      <point x="173" y="1179"/>
+      <point x="239" y="1287"/>
+      <point x="249" y="1391" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-185" y="1452" type="line"/>
+      <point x="-175" y="1512"/>
+      <point x="-146" y="1542"/>
+      <point x="-103" y="1542" type="curve" smooth="yes"/>
+      <point x="-34" y="1542"/>
+      <point x="4" y="1452"/>
+      <point x="105" y="1452" type="curve" smooth="yes"/>
+      <point x="200" y="1452"/>
+      <point x="252" y="1531"/>
+      <point x="260" y="1626" type="curve"/>
+      <point x="185" y="1626" type="line"/>
+      <point x="175" y="1566"/>
+      <point x="146" y="1536"/>
+      <point x="103" y="1536" type="curve" smooth="yes"/>
+      <point x="34" y="1536"/>
+      <point x="-4" y="1626"/>
+      <point x="-105" y="1626" type="curve" smooth="yes"/>
+      <point x="-200" y="1626"/>
+      <point x="-252" y="1548"/>
+      <point x="-260" y="1452" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:10:50</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>9</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum" format="2">
+  <advance width="1012.1481481481482"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="124.95061728395062" y="583.9506172839506" type="line"/>
+      <point x="262.7283950617284" y="583.9506172839506" type="line"/>
+      <point x="399.8641975308642" y="952.8765432098766" type="line"/>
+      <point x="501.9259259259259" y="1225.111111111111" type="line"/>
+      <point x="510.69135802469134" y="1225.111111111111" type="line"/>
+      <point x="611.5185185185185" y="952.8765432098766" type="line"/>
+      <point x="749.6543209876543" y="583.9506172839506" type="line"/>
+      <point x="887.1975308641976" y="583.9506172839506" type="line"/>
+      <point x="576.4938271604939" y="1372.0" type="line"/>
+      <point x="435.12345679012344" y="1372.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>9</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

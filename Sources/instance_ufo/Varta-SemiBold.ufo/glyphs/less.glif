@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <advance width="1028.5185185185185"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="958.5185185185185" y="258.7530864197531" type="line"/>
+      <point x="958.5185185185185" y="421.9753086419753" type="line"/>
+      <point x="264.3086419753086" y="676.0" type="line"/>
+      <point x="264.3086419753086" y="684.0" type="line"/>
+      <point x="958.5185185185185" y="938.0246913580247" type="line"/>
+      <point x="958.5185185185185" y="1101.2469135802469" type="line"/>
+      <point x="70.0" y="754.0493827160494" type="line"/>
+      <point x="70.0" y="605.9506172839506" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>6</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

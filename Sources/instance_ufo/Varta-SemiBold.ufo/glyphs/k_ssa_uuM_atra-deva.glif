@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k_ssa_uuMatra-deva" format="2">
+  <advance width="1522.8641975308642"/>
+  <anchor x="1049.4444444444443" y="27.34567901234568" name="bottom"/>
+  <anchor x="774.8518518518518" y="1167.3456790123457" name="candra"/>
+  <anchor x="1049.4444444444443" y="1167.3456790123457" name="top"/>
+  <outline>
+    <component base="k_ssa-deva" xOffset="-85.98765432098767"/>
+    <component base="uuMatra-deva" xOffset="764.4567901234568" yOffset="14.395061728395053"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>k-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ssa-deva</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

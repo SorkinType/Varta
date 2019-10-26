@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance width="1024.0"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="17.962962962962965" y="-255.22222222222223" type="line"/>
+      <point x="1008.3827160493827" y="-255.22222222222223" type="line"/>
+      <point x="1008.3827160493827" y="-147.77777777777777" type="line"/>
+      <point x="17.962962962962965" y="-147.77777777777777" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>2</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

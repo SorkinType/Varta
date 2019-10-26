@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="954.716049382716"/>
+  <unicode hex="0059"/>
+  <anchor x="477.74074074074076" y="0.0" name="bottom"/>
+  <anchor x="477.74074074074076" y="1344.5925925925926" name="top"/>
+  <outline>
+    <contour>
+      <point x="397.358024691358" y="0.0" type="line"/>
+      <point x="556.1234567901234" y="0.0" type="line"/>
+      <point x="556.1234567901234" y="524.4320987654321" type="line"/>
+      <point x="960.1234567901234" y="1344.5925925925926" type="line"/>
+      <point x="796.9506172839506" y="1344.5925925925926" type="line"/>
+      <point x="617.925925925926" y="959.1481481481482" type="line"/>
+      <point x="576.6296296296297" y="860.1481481481482"/>
+      <point x="527.8024691358024" y="766.1481481481482"/>
+      <point x="481.9753086419753" y="666.679012345679" type="curve"/>
+      <point x="473.2098765432099" y="666.679012345679" type="line"/>
+      <point x="426.14814814814815" y="766.1481481481482"/>
+      <point x="384.32098765432096" y="860.1481481481482"/>
+      <point x="341.25925925925924" y="959.1481481481482" type="curve" smooth="yes"/>
+      <point x="163.0" y="1344.5925925925926" type="line"/>
+      <point x="-7.172839506172839" y="1344.5925925925926" type="line"/>
+      <point x="397.358024691358" y="524.4320987654321" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>15</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Tag</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

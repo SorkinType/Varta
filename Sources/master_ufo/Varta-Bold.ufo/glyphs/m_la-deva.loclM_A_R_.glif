@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m_la-deva.loclMAR" format="2">
+  <advance width="1203"/>
+  <anchor x="839" y="-479" name="bottom"/>
+  <anchor x="619" y="1167" name="candra"/>
+  <anchor x="929" y="1167" name="top"/>
+  <outline>
+    <contour>
+      <point x="817" y="12" type="line"/>
+      <point x="1027" y="12" type="line"/>
+      <point x="1027" y="1152" type="line"/>
+      <point x="817" y="1152" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="316" type="line"/>
+      <point x="388" y="316"/>
+      <point x="416" y="383"/>
+      <point x="416" y="464" type="curve" smooth="yes"/>
+      <point x="416" y="688" type="line"/>
+      <point x="250" y="688" type="line"/>
+      <point x="63" y="665" type="line"/>
+      <point x="63" y="521" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="412" type="line"/>
+      <point x="414" y="601" type="line"/>
+      <point x="415" y="1152" type="line"/>
+      <point x="205" y="1152" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="498" type="line"/>
+      <point x="987" y="498" type="line"/>
+      <point x="987" y="685" type="line"/>
+      <point x="211" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="-19" y="1104" type="line"/>
+      <point x="1222" y="1104" type="line"/>
+      <point x="1222" y="1287" type="line"/>
+      <point x="-19" y="1287" type="line"/>
+    </contour>
+    <component base="add"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:30</string>
+    </dict>
+  </lib>
+</glyph>

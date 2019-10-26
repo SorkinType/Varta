@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aShort-deva" format="2">
+  <advance width="1382.6913580246915"/>
+  <unicode hex="0904"/>
+  <anchor x="395.7283950617284" y="16.012345679012345" name="bottom"/>
+  <anchor x="395.7283950617284" y="674.716049382716" name="top"/>
+  <anchor x="1104.2222222222222" y="1228.2345679012346" name="candra"/>
+  <outline>
+    <component base="a-deva"/>
+    <component base="eShortMatra-deva" xOffset="846.2098765432099" yOffset="10.925925925925924"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/10/26 06:09:29</string>
+    </dict>
+  </lib>
+</glyph>
