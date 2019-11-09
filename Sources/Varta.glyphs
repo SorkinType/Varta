@@ -17,7 +17,9 @@ DisplayStrings = (
 "/Jacute",
 "/IJ_acutecomb IJ",
 "ij/jacute í/jacute/ij_acutecomb ij",
-"/j_j_ya-deva"
+"/j_j_ya-deva",
+Tno,
+tTn
 );
 classes = (
 {
@@ -87,9 +89,21 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = "Use Line Breaks";
 value = 1;
+},
+{
+name = blueFuzz;
+value = "1";
+},
+{
+name = blueScale;
+value = 0.03963;
+},
+{
+name = blueShift;
+value = 7;
 }
 );
-date = "2019-10-26 03:39:00 +0000";
+date = "2019-11-09 00:05:43 +0000";
 designer = "Joana Correia, Viktoriya Grabowska, Eben Sorkin";
 disablesAutomaticAlignment = 1;
 familyName = Varta;
@@ -1508,6 +1522,14 @@ name = abvs;
 );
 fontMaster = (
 {
+alignmentZones = (
+"{1775, 16}",
+"{1346, 25}",
+"{1247, 26}",
+"{990, 26}",
+"{0, -26}",
+"{-987, -31}"
+);
 ascender = 1775;
 capHeight = 1346;
 customParameters = (
@@ -1529,12 +1551,28 @@ value = "1247";
 }
 );
 descender = -987;
+horizontalStems = (
+120,
+112
+);
 id = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
+verticalStems = (
+142,
+137
+);
 weight = Light;
 weightValue = 137;
 xHeight = 990;
 },
 {
+alignmentZones = (
+"{1902, 16}",
+"{1340, 26}",
+"{1287, 26}",
+"{1003, 26}",
+"{0, -26}",
+"{-1068, -31}"
+);
 ascender = 1902;
 capHeight = 1340;
 customParameters = (
@@ -1556,7 +1594,15 @@ value = "1287";
 }
 );
 descender = -1068;
+horizontalStems = (
+187,
+173
+);
 id = "C4389747-BECF-4D47-A11A-92B8AD605B66";
+verticalStems = (
+220,
+218
+);
 weight = Bold;
 weightValue = 218;
 xHeight = 1003;
@@ -130456,5 +130502,5 @@ space = {
 manufacturer = "Sorkin Type Co.";
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 3;
 }
