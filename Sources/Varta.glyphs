@@ -1,5 +1,5 @@
 {
-.appVersion = "1270";
+.appVersion = "1272";
 DisplayStrings = (
 "/l_la-deva.loclMAR/eShortMatra_reph-deva",
 "/ka-deva/kha-deva/ga-deva/gha-deva/nga-deva/ca-deva/cha-deva/ja-deva/jha-deva/nya-deva/tta-deva/ttha-deva/dda-deva/ddha-deva/nna-deva/ta-deva/tha-deva/da-deva/dha-deva/na-deva/nnna-deva/pa-deva/pha-deva/ba-deva/bha-deva/ma-deva/ya-deva/ra-deva",
@@ -77188,7 +77188,7 @@ components = (
 name = "ss_tta-deva";
 },
 {
-name = "rakar-deva";
+name = "rakar-deva.001";
 transform = "{1, 0, 0, 1, 274, -427}";
 }
 );
@@ -77201,7 +77201,7 @@ components = (
 name = "ss_tta-deva";
 },
 {
-name = "rakar-deva";
+name = "rakar-deva.001";
 transform = "{1, 0, 0, 1, 252, -461}";
 }
 );
@@ -77471,7 +77471,7 @@ components = (
 name = "ss_ttha-deva";
 },
 {
-name = "rakar-deva";
+name = "rakar-deva.001";
 transform = "{1, 0, 0, 1, 253, -427}";
 }
 );
@@ -77484,7 +77484,7 @@ components = (
 name = "ss_ttha-deva";
 },
 {
-name = "rakar-deva";
+name = "rakar-deva.001";
 transform = "{1, 0, 0, 1, 226, -462}";
 }
 );
@@ -87125,41 +87125,6 @@ userData = {
 com.schriftgestaltung.Glyphs.ColorIndex = 9;
 com.schriftgestaltung.Glyphs.leftMetricsKey = "ra-deva";
 };
-},
-{
-color = 9;
-glyphname = "ra_halant-deva";
-lastChange = "2019-10-26 06:09:30 +0000";
-layers = (
-{
-components = (
-{
-name = "ra-deva";
-},
-{
-name = "halant-deva";
-transform = "{1, 0, 0, 1, 344, -37}";
-}
-);
-layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
-width = 650;
-},
-{
-components = (
-{
-name = "ra-deva";
-},
-{
-name = "halant-deva";
-transform = "{1, 0, 0, 1, 373, 0}";
-}
-);
-layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
-width = 749;
-}
-);
-leftKerningGroup = "ra-deva";
-rightKerningGroup = "ra-deva";
 },
 {
 glyphname = "rr-deva";
@@ -125722,7 +125687,7 @@ position = "{256, 0}";
 };
 components = (
 {
-name = "rakar-deva";
+name = "rakar-deva.001";
 transform = "{1, 0, 0, 1, -11, -880}";
 },
 {
@@ -125749,7 +125714,7 @@ position = "{256, 0}";
 };
 components = (
 {
-name = "rakar-deva";
+name = "rakar-deva.001";
 transform = "{1, 0, 0, 1, -15, -975}";
 },
 {
@@ -125895,9 +125860,9 @@ leftKerningGroup = "nukta_rakar_uuMatra-deva";
 rightKerningGroup = "uuMatra-deva";
 },
 {
-color = 8;
+color = 9;
 glyphname = "reph-deva";
-lastChange = "2019-10-26 06:10:50 +0000";
+lastChange = "2019-11-09 00:02:26 +0000";
 layers = (
 {
 anchors = (
@@ -126187,68 +126152,39 @@ leftKerningGroup = "reph-deva.imatra";
 rightKerningGroup = "reph-deva.imatra";
 },
 {
+color = 9;
 glyphname = "rakar-deva";
-lastChange = "2019-10-26 06:09:30 +0000";
+lastChange = "2019-11-09 00:01:59 +0000";
 layers = (
 {
-anchors = (
+components = (
 {
-name = _bottom;
-position = "{273, 358}";
+name = "ra-deva";
 },
 {
-name = bottom;
-position = "{305, 102}";
+name = "halant-deva";
+transform = "{1, 0, 0, 1, 344, -37}";
 }
 );
 layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
-paths = (
-{
-closed = 1;
-nodes = (
-"334 301 LINE",
-"209 299 LINE",
-"626 42 LINE",
-"686 135 LINE",
-"270 394 LINE",
-"-146 102 LINE",
-"-83 14 LINE"
-);
-}
-);
-width = 540;
+width = 650;
 },
 {
-anchors = (
+components = (
 {
-name = _bottom;
-position = "{270, 383}";
+name = "ra-deva";
 },
 {
-name = bottom;
-position = "{297, 99}";
+name = "halant-deva";
+transform = "{1, 0, 0, 1, 373, 0}";
 }
 );
 layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
-paths = (
-{
-closed = 1;
-nodes = (
-"346 263 LINE",
-"177 279 LINE",
-"612 11 LINE",
-"707 159 LINE",
-"268 432 LINE",
-"-167 124 LINE",
-"-64 -18 LINE"
-);
+width = 749;
 }
 );
-width = 540;
-}
-);
-leftKerningGroup = "rakar-deva";
-rightKerningGroup = "rakar-deva";
+leftKerningGroup = "ra-deva";
+rightKerningGroup = "ra-deva";
 },
 {
 glyphname = "r_ra-deva";
@@ -126342,7 +126278,7 @@ position = "{272, 333}";
 );
 components = (
 {
-name = "rakar-deva";
+name = "rakar-deva.001";
 transform = "{1, 0, 0, 1, 0, -18}";
 },
 {
@@ -126362,7 +126298,7 @@ position = "{273, 388}";
 );
 components = (
 {
-name = "rakar-deva";
+name = "rakar-deva.001";
 transform = "{1, 0, 0, 1, 1, -1}";
 },
 {
@@ -126390,7 +126326,7 @@ position = "{272, 333}";
 );
 components = (
 {
-name = "rakar-deva";
+name = "rakar-deva.001";
 transform = "{1, 0, 0, 1, 1, -17}";
 },
 {
@@ -126410,7 +126346,7 @@ position = "{278, 382}";
 );
 components = (
 {
-name = "rakar-deva";
+name = "rakar-deva.001";
 transform = "{1, 0, 0, 1, 2, -2}";
 },
 {
@@ -126960,6 +126896,71 @@ width = 600;
 );
 leftKerningGroup = "anusvara-deva.001";
 rightKerningGroup = "anusvara-deva.001";
+},
+{
+color = 8;
+glyphname = "rakar-deva.001";
+lastChange = "2019-11-09 00:04:03 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{273, 358}";
+},
+{
+name = bottom;
+position = "{305, 102}";
+}
+);
+layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
+paths = (
+{
+closed = 1;
+nodes = (
+"334 301 LINE",
+"209 299 LINE",
+"626 42 LINE",
+"686 135 LINE",
+"270 394 LINE",
+"-146 102 LINE",
+"-83 14 LINE"
+);
+}
+);
+width = 540;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{270, 383}";
+},
+{
+name = bottom;
+position = "{297, 99}";
+}
+);
+layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
+paths = (
+{
+closed = 1;
+nodes = (
+"346 263 LINE",
+"177 279 LINE",
+"612 11 LINE",
+"707 159 LINE",
+"268 432 LINE",
+"-167 124 LINE",
+"-64 -18 LINE"
+);
+}
+);
+width = 540;
+}
+);
+leftKerningGroup = "rakar-deva";
+rightKerningGroup = "rakar-deva";
 },
 {
 glyphname = "eCandraMatra-deva.01";
