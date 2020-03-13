@@ -10,9 +10,11 @@
 # Name <email address>
 
 
-Eben Sorkin <sorkineben@gmail.com>
+
 Joana Correira <joanamcsilva@gmail.com>
 Viktoriya Grabowska <vika.grabowska@gmail.com >
+Kimya Gandhi <info@motaitalic.com>
+Rob Keller <info@motaitalic.com>
 Eben Sorkin <sorkineben@gmail.com>
 Viviana Monsalve <viviana.monsalve.a@gmail.com>
 Google, Inc
