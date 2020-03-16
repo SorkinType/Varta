@@ -5,7 +5,8 @@ DisplayStrings = (
 "/om-deva",
 "/kha-deva   ",
 "/f_f  /f_t  /fi  /fl \012ff ft fi fl",
-"Å"
+"Å",
+"/f_f  /f_t  /fi  /fl \012ff ft fi fl"
 );
 classes = (
 {
@@ -1512,7 +1513,7 @@ capHeight = 1346;
 customParameters = (
 {
 name = typoAscender;
-value = 1800;
+value = 1902;
 },
 {
 name = typoDescender;
@@ -1524,7 +1525,7 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1800;
+value = 1902;
 },
 {
 name = hheaDescender;
