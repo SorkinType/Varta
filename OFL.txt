@@ -1,4 +1,4 @@
-Copyright (c) 2014-2015, Sorkin Type Co (sorkintype.com | sorkintype@gmail.com)
+Copyright 2014 The Varta Project Authors (https://github.com/SorkinType/Varta)
 
 Varta is a trademark of Sorkin Type Co.
 
