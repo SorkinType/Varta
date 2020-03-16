@@ -1,5 +1,12 @@
 {
-.appVersion = "1300";
+.appVersion = "1286";
+DisplayStrings = (
+"/rupee",
+"/om-deva",
+"/kha-deva   ",
+"/f_f  /f_t  /fi  /fl \012ff ft fi fl",
+"Å"
+);
 classes = (
 {
 automatic = 1;
@@ -42,15 +49,15 @@ code = "iMatra_candraBindu-deva iMatra_candraBindu-deva.0 iMatra_candraBindu-dev
 name = DevaIMatraCandraBindus;
 }
 );
-copyright = "Copyright 2019 The Varta Project Authors (https://github.com/SorkinType/Varta)";
+copyright = "Copyright 2014 The Varta Project Authors (https://github.com/SorkinType/Varta)";
 customParameters = (
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = fsType;
@@ -1505,7 +1512,7 @@ capHeight = 1346;
 customParameters = (
 {
 name = typoAscender;
-value = 1902;
+value = 1800;
 },
 {
 name = typoDescender;
@@ -1514,6 +1521,26 @@ value = -1068;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = hheaAscender;
+value = 1800;
+},
+{
+name = hheaDescender;
+value = -1068;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2340;
+},
+{
+name = winDescent;
+value = 1450;
 },
 {
 name = shoulderHeight;
@@ -1527,8 +1554,8 @@ horizontalStems = (
 );
 id = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
 verticalStems = (
-142,
-137
+137,
+142
 );
 weight = Light;
 weightValue = 137;
@@ -1552,7 +1579,7 @@ value = 1902;
 },
 {
 name = typoDescender;
-value = -860;
+value = -1068;
 },
 {
 name = typoLineGap;
@@ -1564,7 +1591,7 @@ value = 1902;
 },
 {
 name = hheaDescender;
-value = -860;
+value = -1068;
 },
 {
 name = hheaLineGap;
@@ -1572,11 +1599,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2230;
+value = 2340;
 },
 {
 name = winDescent;
-value = 1480;
+value = 1450;
 },
 {
 name = shoulderHeight;
@@ -1590,8 +1617,8 @@ horizontalStems = (
 );
 id = "C4389747-BECF-4D47-A11A-92B8AD605B66";
 verticalStems = (
-220,
-218
+218,
+220
 );
 weight = Bold;
 weightValue = 218;
@@ -2564,7 +2591,7 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = Aring;
-lastChange = "2019-12-20 18:51:35 +0000";
+lastChange = "2020-03-13 21:07:41 +0000";
 layers = (
 {
 components = (
@@ -29198,9 +29225,15 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = f_f;
-lastChange = "2019-12-12 13:39:54 +0000";
+lastChange = "2020-03-13 19:41:37 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{567.5, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -29276,6 +29309,12 @@ nodes = (
 width = 1135;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{620, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -29363,9 +29402,23 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = f_t;
-lastChange = "2019-12-12 13:39:54 +0000";
+lastChange = "2020-03-13 19:41:53 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{585.5, 0}";
+},
+{
+name = top_1;
+position = "{293, 1775}";
+},
+{
+name = top_2;
+position = "{878, 1775}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -29441,6 +29494,20 @@ nodes = (
 width = 1171;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{645, 0}";
+},
+{
+name = top_1;
+position = "{323, 1902}";
+},
+{
+name = top_2;
+position = "{968, 1902}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -29534,9 +29601,15 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = fi;
-lastChange = "2019-12-12 13:39:54 +0000";
+lastChange = "2020-03-13 19:41:59 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{549.5, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -29612,6 +29685,12 @@ nodes = (
 width = 1099;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{600, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -29719,9 +29798,15 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = fl;
-lastChange = "2019-12-12 13:39:54 +0000";
+lastChange = "2020-03-13 19:42:04 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{540.5, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -29792,6 +29877,12 @@ nodes = (
 width = 1081;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{591.5, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
