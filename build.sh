@@ -1,5 +1,5 @@
 #!/bin/sh
-source venv/bin/activate
+# source venv/bin/activate
 set -e
 
 cd sources
@@ -74,32 +74,32 @@ done
 
 # requires https://github.com/bramstein/homebrew-webfonttools
 
-rm -rf fonts/woff2
+# rm -rf fonts/woff2
 
-ttfs=$(ls fonts/*/*.ttf)
-for ttf in $ttfs; do
-    woff2_compress $ttf
-done
+# ttfs=$(ls fonts/*/*.ttf)
+# for ttf in $ttfs; do
+#     woff2_compress $ttf
+# done
 
-mkdir -p fonts/woff2
-woff2s=$(ls fonts/*/*.woff2)
-for woff2 in $woff2s; do
-    mv $woff2 fonts/woff2/$(basename $woff2)
-done
-# ============================================================================
-# Build woff fonts ==========================================================
+# mkdir -p fonts/woff2
+# woff2s=$(ls fonts/*/*.woff2)
+# for woff2 in $woff2s; do
+#     mv $woff2 fonts/woff2/$(basename $woff2)
+# done
+# # ============================================================================
+# # Build woff fonts ==========================================================
 
-# requires https://github.com/bramstein/homebrew-webfonttools
+# # requires https://github.com/bramstein/homebrew-webfonttools
 
-rm -rf fonts/woff
+# rm -rf fonts/woff
 
-ttfs=$(ls fonts/*/*.ttf)
-for ttf in $ttfs; do
-    sfnt2woff-zopfli $ttf
-done
+# ttfs=$(ls fonts/*/*.ttf)
+# for ttf in $ttfs; do
+#     sfnt2woff-zopfli $ttf
+# done
 
-mkdir -p fonts/woff
-woffs=$(ls fonts/*/*.woff)
-for woff in $woffs; do
-    mv $woff fonts/woff/$(basename $woff)
-done
+# mkdir -p fonts/woff
+# woffs=$(ls fonts/*/*.woff)
+# for woff in $woffs; do
+#     mv $woff fonts/woff/$(basename $woff)
+# done
