@@ -61,11 +61,11 @@ copyright = "Copyright 2019 The Varta Project Authors (https://github.com/Sorkin
 customParameters = (
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = fsType;
@@ -112,6 +112,17 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+136 = 300;
+156 = 400;
+190 = 600;
+218 = 700;
+};
+};
 }
 );
 date = "2019-12-21 06:33:26 +0000";
