@@ -501,6 +501,7 @@ feature onum;
 feature case;
 feature nukt;
 feature akhn;
+feature rphf;
 feature rkrf;
 feature blwf;
 feature half;
@@ -510,9 +511,7 @@ feature pres;
 feature abvs;
 feature ss02;
 feature calt;
-feature rphf;
 ";
-disabled = 1;
 name = aalt;
 },
 {
@@ -660,10 +659,6 @@ sub six by six.numr;
 sub seven by seven.numr;
 sub eight by eight.numr;
 sub nine by nine.numr;
-sub parenleft by parenleft.numr;
-sub parenright by parenright.numr;
-sub period by period.numr;
-sub comma by comma.numr;
 ";
 name = numr;
 },
@@ -679,10 +674,6 @@ sub six by six.dnom;
 sub seven by seven.dnom;
 sub eight by eight.dnom;
 sub nine by nine.dnom;
-sub parenleft by parenleft.dnom;
-sub parenright by parenright.dnom;
-sub period by period.dnom;
-sub comma by comma.dnom;
 ";
 name = dnom;
 },
@@ -1979,7 +1970,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2240;
+value = 2340;
 },
 {
 name = winDescent;
