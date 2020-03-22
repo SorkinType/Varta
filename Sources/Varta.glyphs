@@ -13,7 +13,8 @@ F,
 "/eMatra_reph_candraBindu-deva    /aiMatra_reph_candraBindu-deva",
 "/iiMatra_reph_candra-deva",
 "A/Aogonek",
-"/aiMatra_reph_candraBindu-deva"
+"/aiMatra_reph_candraBindu-deva",
+"/f_f/f_t/fi/fl"
 );
 classes = (
 {
@@ -29529,9 +29530,15 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = f_f;
-lastChange = "2019-12-12 13:39:54 +0000";
+lastChange = "2020-03-22 02:48:49 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{567.5, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -29607,6 +29614,12 @@ nodes = (
 width = 1135;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{620, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -29694,9 +29707,15 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = f_t;
-lastChange = "2019-12-12 13:39:54 +0000";
+lastChange = "2020-03-22 02:49:43 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{567.5, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -29772,6 +29791,12 @@ nodes = (
 width = 1171;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{588, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -29865,9 +29890,15 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = fi;
-lastChange = "2019-12-12 13:39:54 +0000";
+lastChange = "2020-03-22 02:49:40 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{580, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -29943,6 +29974,12 @@ nodes = (
 width = 1099;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{620, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -30050,9 +30087,15 @@ com.adobe.type.autohint = "ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw";
 },
 {
 glyphname = fl;
-lastChange = "2019-12-12 13:39:54 +0000";
+lastChange = "2020-03-22 02:49:31 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{551, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
@@ -30123,6 +30166,12 @@ nodes = (
 width = 1081;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{617, 0}";
+}
+);
 hints = (
 {
 horizontal = 1;
