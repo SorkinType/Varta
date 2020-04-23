@@ -1,5 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
-# coding: utf-8
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3
 #
 # Copyright 2017 The Google Font Tools Authors
 # Copyright 2010, Google Inc.
@@ -73,7 +72,7 @@ def main():
         ('encodingID', field.platEncID),
         ('languageID', field.langID),
         ('nameID', field.nameID),
-        ('nameString', str(field).decode(enc)),
+        ('nameString', field.toUnicode()),
       ])
 
   if args.csv:

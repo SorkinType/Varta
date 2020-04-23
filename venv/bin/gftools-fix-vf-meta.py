@@ -1,4 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3
 """
 Fontmake can only generate a single variable font. It cannot generate a
 family of variable fonts, that are related to one another.

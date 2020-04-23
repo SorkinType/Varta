@@ -1,4 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3
 # Copyright 2016 The Fontbakery Authors
 # Copyright 2017 The Google Font Tools Authors
 #
@@ -23,6 +23,7 @@ https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md#fstype
 Microsoft OpenType specification:
 https://www.microsoft.com/typography/otspec/os2.htm#fst
 """
+from __future__ import print_function
 from argparse import (ArgumentParser,
                       RawTextHelpFormatter)
 from fontTools.ttLib import TTFont
@@ -41,9 +42,9 @@ def main():
     if font['OS/2'].fsType != 0:
       font['OS/2'].fsType = 0
       font.save(font_path + '.fix')
-      print 'font saved %s.fix' % font_path
+      print('font saved %s.fix' % font_path)
     else:
-      print 'SKIPPING: %s fsType is already 0' % font_path
+      print('SKIPPING: %s fsType is already 0' % font_path)
 
 
 if __name__ == '__main__':

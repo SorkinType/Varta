@@ -1,5 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
-# -*- coding: utf-8 -*-
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3
 # Copyright 2018 Google Inc. All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -88,7 +87,7 @@ def _FileFamilyStyleWeights(fontdir):
   if not files:
     raise OSError(errno.ENOENT, 'no font files found')
 
-  result = [fonts.FileFamilyStyleWeight(f) for f in files]
+  result = [fonts.FamilyStyleWeight(f) for f in files]
   def _Cmp(r1, r2):
     return cmp(r1.weight, r2.weight) or -cmp(r1.style, r2.style)
   result = sorted(result, key=cmp_to_key(_Cmp))
@@ -171,8 +170,7 @@ def _MakeMetadata(fontdir, is_new):
         var_axes = metadata.axes.add()
         var_axes.tag = axes[0]
         var_axes.min_value = axes[1]
-        var_axes.default_value = axes[2]
-        var_axes.max_value = axes[3]
+        var_axes.max_value = axes[2]
 
   return metadata
 
@@ -192,7 +190,7 @@ def _AxisInfo(fontfile):
     else:
       fvar = font['fvar']
       axis_info = [
-          (a.axisTag, a.minValue, a.defaultValue, a.maxValue) for a in fvar.axes
+          (a.axisTag, a.minValue, a.maxValue) for a in fvar.axes
       ]
       return tuple(sorted(axis_info))
 

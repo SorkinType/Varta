@@ -1,5 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
-# -*- coding: utf-8 -*-
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3
 #
 # Copyright 2017 The Fontbakery Authors
 # Copyright 2017 The Google Font Tools Authors
@@ -21,8 +20,7 @@ from __future__ import print_function
 import argparse
 import os
 import sys
-import urllib
-import urlparse
+import requests
 import json
 from gftools.fonts_public_pb2 import FamilyProto
 from google.protobuf import text_format
@@ -43,9 +41,9 @@ parser.add_argument('--verbose',
 API_URL = 'https://www.googleapis.com/webfonts/v1/webfonts?key={}'
 def main():
     args = parser.parse_args()
-    response = urllib.urlopen(API_URL.format(args.key))
+    response = requests.get(API_URL.format(args.key))
     try:
-        webfontList = json.loads(response.read())['items']
+        webfontList = response.json()['items']
         webfontListFamilyNames = [item['family'] for item in webfontList]
     except (ValueError, KeyError):
         sys.exit("Unable to load and parse"

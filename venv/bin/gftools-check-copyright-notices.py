@@ -1,4 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3
 # Copyright 2017 The Fontbakery Authors
 # Copyright 2017 The Google Font Tools Authors
 #
