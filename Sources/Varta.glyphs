@@ -10,49 +10,15 @@ F,
 "   ",
 "A/Aogonek",
 "/f_f/f_t/fi/fl",
-"N/Eng jJ/Eng/eng n/eng"
+"N/Eng jJ/Eng/eng n/eng",
+"/nukta_rakar_uuMatra-deva",
+"/eogonek"
 );
 classes = (
 {
 automatic = 1;
-code = "k-deva kh-deva g-deva gh-deva ng-deva c-deva ch-deva j-deva jh-deva ny-deva tt-deva tth-deva dd-deva ddh-deva nn-deva t-deva th-deva d-deva dh-deva n-deva p-deva ph-deva b-deva bh-deva m-deva y-deva rr-deva l-deva ll-deva v-deva sh-deva ss-deva s-deva h-deva khh-deva z-deva f-deva l-deva.loclMAR sh-deva.loclMAR jh-deva.np";
-disabled = 1;
-name = DevaHalfforms;
-},
-{
-automatic = 1;
-code = "iMatra_reph-deva iMatra_reph-deva.0 iMatra_reph-deva.01 iMatra_reph-deva.02 iMatra_reph-deva.03 iMatra_reph-deva.05 iMatra_reph-deva.08 iMatra_reph-deva.10 iMatra_reph-deva.15 iMatra_reph-deva.20 iMatra_reph-deva.25 iMatra_reph-deva.30";
-disabled = 1;
-name = DevaIMatraRephs;
-},
-{
-automatic = 1;
-code = "iMatra_reph_anusvara-deva iMatra_reph_anusvara-deva.0 iMatra_reph_anusvara-deva.01 iMatra_reph_anusvara-deva.02 iMatra_reph_anusvara-deva.03 iMatra_reph_anusvara-deva.05 iMatra_reph_anusvara-deva.08 iMatra_reph_anusvara-deva.10 iMatra_reph_anusvara-deva.15 iMatra_reph_anusvara-deva.20 iMatra_reph_anusvara-deva.25 iMatra_reph_anusvara-deva.30";
-disabled = 1;
-name = DevaIMatraRephAnusvaras;
-},
-{
-automatic = 1;
-code = "iMatra_anusvara-deva iMatra_anusvara-deva.0 iMatra_anusvara-deva.01 iMatra_anusvara-deva.02 iMatra_anusvara-deva.03 iMatra_anusvara-deva.05 iMatra_anusvara-deva.08 iMatra_anusvara-deva.10 iMatra_anusvara-deva.15 iMatra_anusvara-deva.20 iMatra_anusvara-deva.25 iMatra_anusvara-deva.30";
-disabled = 1;
-name = DevaIMatraAnusvaras;
-},
-{
-automatic = 1;
-code = "ka-deva kha-deva ga-deva gha-deva nga-deva ca-deva cha-deva ja-deva jha-deva nya-deva tta-deva ttha-deva dda-deva ddha-deva nna-deva ta-deva tha-deva da-deva dha-deva na-deva nnna-deva pa-deva pha-deva ba-deva bha-deva ma-deva ya-deva ra-deva rra-deva la-deva lla-deva llla-deva va-deva sha-deva ssa-deva sa-deva ha-deva qa-deva khha-deva ghha-deva za-deva dddha-deva rha-deva fa-deva yya-deva zha-deva jjya-deva gga-deva jja-deva ddda-deva bba-deva ya-deva.post.1 la-deva.loclMAR sha-deva.loclMAR jha-deva.np zha-deva.np ya-deva.post va-deva.post na-deva.post2 sha-deva.ss02 ka_ra-deva k_ca-deva k_ta-deva k_t_ta-deva k_t_ya-deva k_t_ra-deva k_na-deva k_ra-deva k_la-deva k_ssa-deva k_ssa_ra-deva k_ssa_uMatra-deva k_ssa_uuMatra-deva k_ss_ma-deva k_ss_ya-deva k_ss_ra-deva k_ss_va-deva kha_ra-deva kh_kha-deva kh_na-deva kh_ma-deva kh_ya-deva kh_ra-deva kh_sha-deva ga_na-deva ga_ra-deva g_na-deva g_n_ya-deva g_ra-deva g_la-deva g_r_ya-deva gha_ra-deva gh_na-deva gh_ra-deva ng_ka-deva ng_k_t_ta-deva ng_k_ra-deva ng_k_ssa-deva ng_kha-deva ng_ga-deva ng_g_ra-deva ng_gha-deva ng_gh_ra-deva ng_ma-deva ng_ya-deva ca_ra-deva c_na-deva c_ra-deva ch_na-deva ch_va-deva ja_nya_ra-deva ja_ra-deva j_ja-deva j_j_nya-deva j_j_ya-deva j_j_va-deva j_nya-deva j_ny_ya-deva j_tta-deva j_ta-deva j_da-deva j_na-deva j_ya-deva j_ra-deva jha_ra-deva jh_na-deva jh_ra-deva nya_ra-deva ny_ca-deva ny_c_ya-deva ny_j_ya-deva ny_ra-deva tta_ra-deva tt_tta-deva tt_tt_ya-deva tt_ttha-deva tt_ddha-deva tt_na-deva tt_ya-deva tt_va-deva tt_sa-deva ttha_ra-deva tth_ttha-deva tth_tth_ya-deva tth_na-deva tth_ya-deva dda_ra-deva dd_gha-deva dd_tta-deva dd_dda-deva dd_dd_ya-deva dd_ddha-deva dd_na-deva dd_ma-deva dd_ya-deva ddha_ra-deva ddh_ddha-deva ddh_ddh_ya-deva ddh_na-deva ddh_ya-deva nna_ra-deva nn_ra-deva ta_ra-deva t_k_ssa-deva t_kha-deva t_kh_na-deva t_kh_ra-deva t_ta-deva t_t_ya-deva t_t_va-deva t_tha-deva t_na-deva t_n_ya-deva t_ya-deva t_ra-deva t_sa-deva t_s_na-deva t_s_ya-deva t_s_va-deva t_r_ya-deva tha_ra-deva th_na-deva th_ra-deva da_ra-deva d_ga-deva d_g_ra-deva d_gha-deva d_da-deva d_d_ya-deva d_dha-deva d_dh_ya-deva d_dh_r_ya-deva d_na-deva d_ba-deva d_b_ra-deva d_bha-deva d_bh_ya-deva d_ma-deva d_ya-deva d_ra-deva d_va-deva d_v_ya-deva d_v_ra-deva dha_ra-deva dh_na-deva dh_ma-deva dh_ya-deva dh_ra-deva na_ra-deva n_ca-deva n_t_ra-deva n_tha-deva n_th_ya-deva n_th_va-deva n_na-deva n_n_ya-deva n_bha-deva n_ra-deva n_sa-deva n_s_tta-deva pa_ta-deva pa_ra-deva p_tta-deva p_ta-deva p_na-deva p_ra-deva p_la-deva pha_ra-deva pha_ra_nukta-deva ph_na-deva ph_ra-deva ph_la-deva ba_ra-deva b_ja-deva b_j_ya-deva b_na-deva b_ra-deva b_la-deva b_sha-deva b_sa-deva bha_ra-deva bh_na-deva bh_ra-deva bh_r_ya-deva ma_ra-deva m_na-deva m_ra-deva m_la-deva ya_ra-deva y_na-deva y_ra-deva rr_ya-deva rr_ha-deva la_ra-deva l_ja-deva l_bha-deva l_ra-deva l_la-deva l_za-deva va_ra-deva v_na-deva v_ra-deva v_la-deva v_ha-deva sha_ra-deva sh_ca-deva sh_na-deva sh_ra-deva sh_la-deva sh_va-deva ssa_ra-deva ss_tta-deva ss_tt_ya-deva ss_tt_va-deva ss_ttha-deva ss_tth_ya-deva sa_ra-deva s_ta_ra-deva s_t_ra-deva s_na-deva s_ra-deva ha_ra-deva h_nna-deva h_na-deva h_ma-deva h_m_ya-deva h_ya-deva h_ra-deva h_la-deva h_va-deva q_ta-deva q_pha-deva q_ba-deva q_ma-deva q_ra-deva q_qa-deva q_fa-deva khh_ta-deva khh_ma-deva khh_ya-deva khh_ra-deva khh_va-deva khh_sha-deva khh_sa-deva ghh_ra-deva z_ya-deva z_ra-deva z_za-deva f_ra-deva f_za-deva yy_ra-deva ka_ra-deva.alt j_ja-deva.alt kh_la-deva.loclMAR g_la-deva.loclMAR gh_la-deva.loclMAR c_la-deva.loclMAR ch_la-deva.loclMAR b_la-deva.loclMAR bh_la-deva.loclMAR m_la-deva.loclMAR l_la-deva.loclMAR v_la-deva.loclMAR da_rVocalicMatra-deva ra_uMatra-deva ra_uuMatra-deva ha_uMatra-deva ha_uuMatra-deva ha_rVocalicMatra-deva";
-disabled = 1;
-name = DevaFullforms;
-},
-{
-automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE AEacute B Bdotaccent Bstroke C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZ DZcaron Eth Dcaron Dcroat Ddotaccent Ddotbelow Dlinebelow Dz Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F Fdotaccent G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lj Llinebelow Lslash M Mdotaccent Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Nj Nlinebelow Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oslash Otilde OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE AEacute B Bdotaccent Bstroke C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZ DZcaron Eth Dcaron Dcroat Ddotaccent Ddotbelow Dlinebelow Dz Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F Fdotaccent G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lj Llinebelow Lslash M Mdotaccent Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Eng Nj Nlinebelow Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oslash Otilde OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow";
 name = Uppercase;
-},
-{
-automatic = 1;
-code = "iMatra_candraBindu-deva iMatra_candraBindu-deva.0 iMatra_candraBindu-deva.01 iMatra_candraBindu-deva.02 iMatra_candraBindu-deva.03 iMatra_candraBindu-deva.05 iMatra_candraBindu-deva.08 iMatra_candraBindu-deva.10 iMatra_candraBindu-deva.15 iMatra_candraBindu-deva.20 iMatra_candraBindu-deva.25 iMatra_candraBindu-deva.30";
-disabled = 1;
-name = DevaIMatraCandraBindus;
 }
 );
 copyright = "Copyright 2019 The Varta Project Authors (https://github.com/SorkinType/Varta)";
@@ -130,344 +96,7 @@ familyName = Varta;
 featurePrefixes = (
 {
 automatic = 1;
-code = "@rephDeva = [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva];
-lookup removeReph {
-	lookupflag UseMarkFilteringSet @rephDeva;
-	sub ka-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ka-deva;
-	sub kha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by kha-deva;
-	sub ga-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ga-deva;
-	sub gha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by gha-deva;
-	sub nga-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by nga-deva;
-	sub ca-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ca-deva;
-	sub cha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by cha-deva;
-	sub ja-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ja-deva;
-	sub jha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by jha-deva;
-	sub nya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by nya-deva;
-	sub tta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tta-deva;
-	sub ttha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ttha-deva;
-	sub dda-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dda-deva;
-	sub ddha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ddha-deva;
-	sub nna-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by nna-deva;
-	sub ta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ta-deva;
-	sub tha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tha-deva;
-	sub da-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by da-deva;
-	sub dha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dha-deva;
-	sub na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by na-deva;
-	sub nnna-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by nnna-deva;
-	sub pa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by pa-deva;
-	sub pha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by pha-deva;
-	sub ba-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ba-deva;
-	sub bha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by bha-deva;
-	sub ma-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ma-deva;
-	sub ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ya-deva;
-	sub ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ra-deva;
-	sub rra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by rra-deva;
-	sub la-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by la-deva;
-	sub lla-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by lla-deva;
-	sub llla-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by llla-deva;
-	sub va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by va-deva;
-	sub sha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by sha-deva;
-	sub ssa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ssa-deva;
-	sub sa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by sa-deva;
-	sub ha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ha-deva;
-	sub qa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by qa-deva;
-	sub khha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by khha-deva;
-	sub ghha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ghha-deva;
-	sub za-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by za-deva;
-	sub dddha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dddha-deva;
-	sub rha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by rha-deva;
-	sub fa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by fa-deva;
-	sub yya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by yya-deva;
-	sub zha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by zha-deva;
-	sub jjya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by jjya-deva;
-	sub gga-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by gga-deva;
-	sub jja-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by jja-deva;
-	sub ddda-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ddda-deva;
-	sub bba-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by bba-deva;
-	sub ya-deva.post.1 [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ya-deva.post.1;
-	sub la-deva.loclMAR [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by la-deva.loclMAR;
-	sub sha-deva.loclMAR [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by sha-deva.loclMAR;
-	sub jha-deva.np [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by jha-deva.np;
-	sub zha-deva.np [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by zha-deva.np;
-	sub ya-deva.post [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ya-deva.post;
-	sub va-deva.post [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by va-deva.post;
-	sub na-deva.post2 [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by na-deva.post2;
-	sub sha-deva.ss02 [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by sha-deva.ss02;
-	sub ka_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ka_ra-deva;
-	sub k_ca-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_ca-deva;
-	sub k_ta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_ta-deva;
-	sub k_t_ta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_t_ta-deva;
-	sub k_t_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_t_ya-deva;
-	sub k_t_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_t_ra-deva;
-	sub k_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_na-deva;
-	sub k_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_ra-deva;
-	sub k_la-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_la-deva;
-	sub k_ssa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_ssa-deva;
-	sub k_ssa_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_ssa_ra-deva;
-	sub k_ssa_uMatra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_ssa_uMatra-deva;
-	sub k_ssa_uuMatra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_ssa_uuMatra-deva;
-	sub k_ss_ma-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_ss_ma-deva;
-	sub k_ss_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_ss_ya-deva;
-	sub k_ss_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_ss_ra-deva;
-	sub k_ss_va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by k_ss_va-deva;
-	sub kha_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by kha_ra-deva;
-	sub kh_kha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by kh_kha-deva;
-	sub kh_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by kh_na-deva;
-	sub kh_ma-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by kh_ma-deva;
-	sub kh_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by kh_ya-deva;
-	sub kh_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by kh_ra-deva;
-	sub kh_sha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by kh_sha-deva;
-	sub ga_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ga_na-deva;
-	sub ga_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ga_ra-deva;
-	sub g_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by g_na-deva;
-	sub g_n_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by g_n_ya-deva;
-	sub g_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by g_ra-deva;
-	sub g_la-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by g_la-deva;
-	sub g_r_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by g_r_ya-deva;
-	sub gha_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by gha_ra-deva;
-	sub gh_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by gh_na-deva;
-	sub gh_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by gh_ra-deva;
-	sub ng_ka-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ng_ka-deva;
-	sub ng_k_t_ta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ng_k_t_ta-deva;
-	sub ng_k_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ng_k_ra-deva;
-	sub ng_k_ssa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ng_k_ssa-deva;
-	sub ng_kha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ng_kha-deva;
-	sub ng_ga-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ng_ga-deva;
-	sub ng_g_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ng_g_ra-deva;
-	sub ng_gha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ng_gha-deva;
-	sub ng_gh_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ng_gh_ra-deva;
-	sub ng_ma-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ng_ma-deva;
-	sub ng_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ng_ya-deva;
-	sub ca_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ca_ra-deva;
-	sub c_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by c_na-deva;
-	sub c_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by c_ra-deva;
-	sub ch_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ch_na-deva;
-	sub ch_va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ch_va-deva;
-	sub ja_nya_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ja_nya_ra-deva;
-	sub ja_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ja_ra-deva;
-	sub j_ja-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_ja-deva;
-	sub j_j_nya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_j_nya-deva;
-	sub j_j_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_j_ya-deva;
-	sub j_j_va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_j_va-deva;
-	sub j_nya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_nya-deva;
-	sub j_ny_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_ny_ya-deva;
-	sub j_tta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_tta-deva;
-	sub j_ta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_ta-deva;
-	sub j_da-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_da-deva;
-	sub j_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_na-deva;
-	sub j_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_ya-deva;
-	sub j_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_ra-deva;
-	sub jha_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by jha_ra-deva;
-	sub jh_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by jh_na-deva;
-	sub jh_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by jh_ra-deva;
-	sub nya_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by nya_ra-deva;
-	sub ny_ca-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ny_ca-deva;
-	sub ny_c_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ny_c_ya-deva;
-	sub ny_j_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ny_j_ya-deva;
-	sub ny_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ny_ra-deva;
-	sub tta_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tta_ra-deva;
-	sub tt_tta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tt_tta-deva;
-	sub tt_tt_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tt_tt_ya-deva;
-	sub tt_ttha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tt_ttha-deva;
-	sub tt_ddha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tt_ddha-deva;
-	sub tt_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tt_na-deva;
-	sub tt_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tt_ya-deva;
-	sub tt_va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tt_va-deva;
-	sub tt_sa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tt_sa-deva;
-	sub ttha_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ttha_ra-deva;
-	sub tth_ttha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tth_ttha-deva;
-	sub tth_tth_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tth_tth_ya-deva;
-	sub tth_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tth_na-deva;
-	sub tth_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tth_ya-deva;
-	sub dda_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dda_ra-deva;
-	sub dd_gha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dd_gha-deva;
-	sub dd_tta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dd_tta-deva;
-	sub dd_dda-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dd_dda-deva;
-	sub dd_dd_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dd_dd_ya-deva;
-	sub dd_ddha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dd_ddha-deva;
-	sub dd_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dd_na-deva;
-	sub dd_ma-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dd_ma-deva;
-	sub dd_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dd_ya-deva;
-	sub ddha_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ddha_ra-deva;
-	sub ddh_ddha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ddh_ddha-deva;
-	sub ddh_ddh_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ddh_ddh_ya-deva;
-	sub ddh_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ddh_na-deva;
-	sub ddh_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ddh_ya-deva;
-	sub nna_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by nna_ra-deva;
-	sub nn_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by nn_ra-deva;
-	sub ta_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ta_ra-deva;
-	sub t_k_ssa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_k_ssa-deva;
-	sub t_kha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_kha-deva;
-	sub t_kh_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_kh_na-deva;
-	sub t_kh_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_kh_ra-deva;
-	sub t_ta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_ta-deva;
-	sub t_t_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_t_ya-deva;
-	sub t_t_va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_t_va-deva;
-	sub t_tha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_tha-deva;
-	sub t_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_na-deva;
-	sub t_n_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_n_ya-deva;
-	sub t_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_ya-deva;
-	sub t_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_ra-deva;
-	sub t_sa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_sa-deva;
-	sub t_s_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_s_na-deva;
-	sub t_s_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_s_ya-deva;
-	sub t_s_va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_s_va-deva;
-	sub t_r_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by t_r_ya-deva;
-	sub tha_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by tha_ra-deva;
-	sub th_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by th_na-deva;
-	sub th_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by th_ra-deva;
-	sub da_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by da_ra-deva;
-	sub d_ga-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_ga-deva;
-	sub d_g_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_g_ra-deva;
-	sub d_gha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_gha-deva;
-	sub d_da-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_da-deva;
-	sub d_d_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_d_ya-deva;
-	sub d_dha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_dha-deva;
-	sub d_dh_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_dh_ya-deva;
-	sub d_dh_r_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_dh_r_ya-deva;
-	sub d_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_na-deva;
-	sub d_ba-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_ba-deva;
-	sub d_b_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_b_ra-deva;
-	sub d_bha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_bha-deva;
-	sub d_bh_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_bh_ya-deva;
-	sub d_ma-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_ma-deva;
-	sub d_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_ya-deva;
-	sub d_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_ra-deva;
-	sub d_va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_va-deva;
-	sub d_v_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_v_ya-deva;
-	sub d_v_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by d_v_ra-deva;
-	sub dha_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dha_ra-deva;
-	sub dh_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dh_na-deva;
-	sub dh_ma-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dh_ma-deva;
-	sub dh_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dh_ya-deva;
-	sub dh_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by dh_ra-deva;
-	sub na_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by na_ra-deva;
-	sub n_ca-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by n_ca-deva;
-	sub n_t_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by n_t_ra-deva;
-	sub n_tha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by n_tha-deva;
-	sub n_th_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by n_th_ya-deva;
-	sub n_th_va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by n_th_va-deva;
-	sub n_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by n_na-deva;
-	sub n_n_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by n_n_ya-deva;
-	sub n_bha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by n_bha-deva;
-	sub n_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by n_ra-deva;
-	sub n_sa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by n_sa-deva;
-	sub n_s_tta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by n_s_tta-deva;
-	sub pa_ta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by pa_ta-deva;
-	sub pa_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by pa_ra-deva;
-	sub p_tta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by p_tta-deva;
-	sub p_ta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by p_ta-deva;
-	sub p_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by p_na-deva;
-	sub p_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by p_ra-deva;
-	sub p_la-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by p_la-deva;
-	sub pha_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by pha_ra-deva;
-	sub pha_ra_nukta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by pha_ra_nukta-deva;
-	sub ph_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ph_na-deva;
-	sub ph_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ph_ra-deva;
-	sub ph_la-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ph_la-deva;
-	sub ba_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ba_ra-deva;
-	sub b_ja-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by b_ja-deva;
-	sub b_j_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by b_j_ya-deva;
-	sub b_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by b_na-deva;
-	sub b_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by b_ra-deva;
-	sub b_la-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by b_la-deva;
-	sub b_sha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by b_sha-deva;
-	sub b_sa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by b_sa-deva;
-	sub bha_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by bha_ra-deva;
-	sub bh_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by bh_na-deva;
-	sub bh_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by bh_ra-deva;
-	sub bh_r_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by bh_r_ya-deva;
-	sub ma_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ma_ra-deva;
-	sub m_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by m_na-deva;
-	sub m_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by m_ra-deva;
-	sub m_la-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by m_la-deva;
-	sub ya_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ya_ra-deva;
-	sub y_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by y_na-deva;
-	sub y_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by y_ra-deva;
-	sub rr_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by rr_ya-deva;
-	sub rr_ha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by rr_ha-deva;
-	sub la_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by la_ra-deva;
-	sub l_ja-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by l_ja-deva;
-	sub l_bha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by l_bha-deva;
-	sub l_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by l_ra-deva;
-	sub l_la-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by l_la-deva;
-	sub l_za-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by l_za-deva;
-	sub va_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by va_ra-deva;
-	sub v_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by v_na-deva;
-	sub v_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by v_ra-deva;
-	sub v_la-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by v_la-deva;
-	sub v_ha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by v_ha-deva;
-	sub sha_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by sha_ra-deva;
-	sub sh_ca-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by sh_ca-deva;
-	sub sh_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by sh_na-deva;
-	sub sh_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by sh_ra-deva;
-	sub sh_la-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by sh_la-deva;
-	sub sh_va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by sh_va-deva;
-	sub ssa_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ssa_ra-deva;
-	sub ss_tta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ss_tta-deva;
-	sub ss_tt_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ss_tt_ya-deva;
-	sub ss_tt_va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ss_tt_va-deva;
-	sub ss_ttha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ss_ttha-deva;
-	sub ss_tth_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ss_tth_ya-deva;
-	sub sa_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by sa_ra-deva;
-	sub s_ta_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by s_ta_ra-deva;
-	sub s_t_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by s_t_ra-deva;
-	sub s_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by s_na-deva;
-	sub s_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by s_ra-deva;
-	sub ha_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ha_ra-deva;
-	sub h_nna-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by h_nna-deva;
-	sub h_na-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by h_na-deva;
-	sub h_ma-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by h_ma-deva;
-	sub h_m_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by h_m_ya-deva;
-	sub h_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by h_ya-deva;
-	sub h_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by h_ra-deva;
-	sub h_la-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by h_la-deva;
-	sub h_va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by h_va-deva;
-	sub q_ta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by q_ta-deva;
-	sub q_pha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by q_pha-deva;
-	sub q_ba-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by q_ba-deva;
-	sub q_ma-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by q_ma-deva;
-	sub q_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by q_ra-deva;
-	sub q_qa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by q_qa-deva;
-	sub q_fa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by q_fa-deva;
-	sub khh_ta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by khh_ta-deva;
-	sub khh_ma-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by khh_ma-deva;
-	sub khh_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by khh_ya-deva;
-	sub khh_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by khh_ra-deva;
-	sub khh_va-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by khh_va-deva;
-	sub khh_sha-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by khh_sha-deva;
-	sub khh_sa-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by khh_sa-deva;
-	sub ghh_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ghh_ra-deva;
-	sub z_ya-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by z_ya-deva;
-	sub z_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by z_ra-deva;
-	sub z_za-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by z_za-deva;
-	sub f_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by f_ra-deva;
-	sub f_za-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by f_za-deva;
-	sub yy_ra-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by yy_ra-deva;
-	sub ka_ra-deva.alt [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ka_ra-deva.alt;
-	sub j_ja-deva.alt [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by j_ja-deva.alt;
-	sub kh_la-deva.loclMAR [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by kh_la-deva.loclMAR;
-	sub g_la-deva.loclMAR [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by g_la-deva.loclMAR;
-	sub gh_la-deva.loclMAR [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by gh_la-deva.loclMAR;
-	sub c_la-deva.loclMAR [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by c_la-deva.loclMAR;
-	sub ch_la-deva.loclMAR [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by ch_la-deva.loclMAR;
-	sub b_la-deva.loclMAR [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by b_la-deva.loclMAR;
-	sub bh_la-deva.loclMAR [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by bh_la-deva.loclMAR;
-	sub m_la-deva.loclMAR [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by m_la-deva.loclMAR;
-	sub l_la-deva.loclMAR [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by l_la-deva.loclMAR;
-	sub v_la-deva.loclMAR [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by v_la-deva.loclMAR;
-	sub nukta-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by nukta-deva;
-	sub rakar-deva [reph-deva reph_anusvara-deva candraBindu-deva reph_candraBindu-deva anusvara-deva] by rakar-deva;
-} removeReph;
-";
-disabled = 1;
-name = DevaRemoveReph;
-},
-{
-automatic = 1;
 code = "languagesystem DFLT dflt;
-
-languagesystem dev2 dflt;
 
 languagesystem latn dflt;
 languagesystem latn AZE;
@@ -502,33 +131,51 @@ feature case;
 name = aalt;
 },
 {
-code = "script dev2;
-sub eCandraMatra-deva anusvara-deva by candraBindu-deva;
-sub e-deva eCandraMatra-deva by eCandra-deva;
-sub ii-deva i-deva by reph-deva;
-sub reph-deva anusvara-deva by reph_anusvara-deva;
-sub danda-deva danda-deva by dbldanda-deva;
-sub eCandraMatra-deva reph-deva by eCandraMatra_reph-deva;
-sub eCandraMatra-deva candraBindu-deva by eCandraMatra_candra-deva;
-sub candraBindu-deva reph-deva by candraBindu_reph-deva;
-sub eShortMatra-deva reph-deva by eShortMatra_reph-deva;
-sub eShortMatra-deva candraBindu-deva by eShortMatra_candra-deva;
-sub eShortMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
-sub eMatra-deva eCandraMatra-deva by eMatra_eCandraMatra-deva;
-sub eMatra-deva candraBindu-deva by eMatra_candra-deva;
-sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
-sub eMatra-deva reph-deva by eMatra_reph-deva;
-sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
-sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;
-sub aiMatra-deva reph-deva by aiMatra_reph-deva;
-sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
-sub aiMatra-deva candraBindu-deva by aiMatra_candra-deva;
-sub oShortMatra-deva candraBindu-deva by oShortMatra_candra-deva;
-sub iiMatra_reph-deva candraBindu-deva by iiMatra_reph_candra-deva;
-sub iMatra_reph-deva candraBindu-deva by iMatra_reph_candra-deva;
-sub reph-deva anusvara-deva by reph_anusvara-deva;
+automatic = 1;
+code = "lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaabovecomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+} ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	lookupflag 0;
+	sub circumflexcomb brevecomb by circumflexcomb_brevecomb;
+	sub circumflexcomb.cap brevecomb.cap by circumflexcomb_brevecomb.cap;
+	sub dieresiscomb acutecomb by dieresiscomb_acutecomb;
+	sub dieresiscomb.cap acutecomb.cap by dieresiscomb_acutecomb.cap;
+	sub dieresiscomb caroncomb by dieresiscomb_caroncomb;
+	sub dieresiscomb.cap caroncomb.cap by dieresiscomb_caroncomb.cap;
+	sub dieresiscomb gravecomb by dieresiscomb_gravecomb;
+	sub dieresiscomb.cap gravecomb.cap by dieresiscomb_gravecomb.cap;
+	sub dieresiscomb macroncomb by dieresiscomb_macroncomb;
+	sub dieresiscomb.cap macroncomb.cap by dieresiscomb_macroncomb.cap;
+} ccmp_Other_2;
+
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb.cap acutecomb.cap by brevecomb_acutecomb.cap;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb.cap gravecomb.cap by brevecomb_gravecomb.cap;
+	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb.cap hookabovecomb.cap by brevecomb_hookabovecomb.cap;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub brevecomb.cap tildecomb.cap by brevecomb_tildecomb.cap;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb.cap acutecomb.cap by circumflexcomb_acutecomb.cap;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb.cap gravecomb.cap by circumflexcomb_gravecomb.cap;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+	sub circumflexcomb.cap hookabovecomb.cap by circumflexcomb_hookabovecomb.cap;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+	sub circumflexcomb.cap tildecomb.cap by circumflexcomb_tildecomb.cap;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
 ";
-disabled = 1;
 name = ccmp;
 },
 {
@@ -865,20 +512,6 @@ automatic = 1;
 code = "pos @Uppercase <5 0 10 0>;
 ";
 name = cpsp;
-},
-{
-code = "sub [@DevaIMatras iiMatra-deva iiMatra-deva.02 aShort-deva eShort-deva ai-deva oShort-deva o-deva au-deva ] anusvara-deva' by anusvara-deva.001;
-sub [@DevaIMatras iiMatra-deva iiMatra-deva.02 eMatra-deva aiMatra-deva oMatra-deva aShort-deva eShort-deva ai-deva oShort-deva o-deva au-deva ] eCandraMatra-deva' by eCandraMatra-deva.001;
-sub [@DevaIMatras iiMatra-deva iiMatra-deva.02 eMatra-deva aiMatra-deva oMatra-deva aShort-deva eShort-deva ai-deva oShort-deva o-deva au-deva ] candraBindu-deva' by candraBindu-deva.imatra;
-sub [cha-deva tta-deva ttha-deva dda-deva ddha-deva] nukta-deva' halant-deva' by nukta_halant-deva;
-sub [cha-deva tta-deva ttha-deva dda-deva ddha-deva] nukta_rakar-deva' uMatra-deva' by nukta_rakar_uMatra-deva;
-sub [cha-deva tta-deva ttha-deva dda-deva ddha-deva] nukta_rakar-deva' uuMatra-deva' by nukta_rakar_uuMatra-deva;
-sub danda-deva danda-deva by dbldanda-deva;
-sub k_ssa-deva uMatra-deva by k_ssa_uMatra-deva;
-sub k_ssa-deva uuMatra-deva by k_ssa_uuMatra-deva;
-sub ii-deva anusvara-deva by ii_anusvara-deva;";
-disabled = 1;
-name = calt;
 }
 );
 fontMaster = (
@@ -14287,7 +13920,7 @@ unicode = 1E92;
 },
 {
 glyphname = a;
-lastChange = "2020-03-22 01:20:01 +0000";
+lastChange = "2020-05-06 22:19:15 +0000";
 layers = (
 {
 anchors = (
@@ -14297,7 +13930,7 @@ position = "{519, 0}";
 },
 {
 name = ogonek;
-position = "{934, 10}";
+position = "{954, 10}";
 },
 {
 name = top;
@@ -14377,7 +14010,7 @@ position = "{533, 0}";
 },
 {
 name = ogonek;
-position = "{959, 10}";
+position = "{980, 10}";
 },
 {
 name = top;
@@ -15320,7 +14953,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = aogonek;
-lastChange = "2020-03-22 01:20:01 +0000";
+lastChange = "2020-05-06 22:19:15 +0000";
 layers = (
 {
 components = (
@@ -15329,7 +14962,7 @@ name = a;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 597, 3}";
+transform = "{1, 0, 0, 1, 617, 3}";
 }
 );
 hints = (
@@ -15356,7 +14989,7 @@ name = a;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 573, 5}";
+transform = "{1, 0, 0, 1, 594, 5}";
 }
 );
 hints = (
@@ -64445,6 +64078,173 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+color = 0;
+glyphname = "nukta_rakar_uuMatra-deva";
+lastChange = "2020-05-06 22:09:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{277, 0}";
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
+position = "{256, 0}";
+}
+);
+};
+layerId = "F1FC1B3B-4EE8-4ECF-8776-11160932002C";
+paths = (
+{
+closed = 1;
+nodes = (
+"320.403 -437.542 LINE",
+"200.278 -439.464 LINE",
+"601.015 -686.441 LINE",
+"658.675 -597.068 LINE",
+"258.899 -348.169 LINE",
+"-140.877 -628.781 LINE",
+"-80.334 -713.349 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"221.42 -100.231 OFFCURVE",
+"197.395 -123.295 OFFCURVE",
+"197.395 -178.072 CURVE SMOOTH",
+"197.395 -231.888 OFFCURVE",
+"221.42 -254.952 OFFCURVE",
+"276.197 -254.952 CURVE SMOOTH",
+"330.974 -254.952 OFFCURVE",
+"354.038 -231.888 OFFCURVE",
+"354.038 -178.072 CURVE SMOOTH",
+"354.038 -123.295 OFFCURVE",
+"330.974 -100.231 OFFCURVE",
+"276.197 -100.231 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"288.66 -1201.94 OFFCURVE",
+"355.3 -1193.12 OFFCURVE",
+"425.86 -1158.82 CURVE",
+"393.52 -1063.76 LINE",
+"331.78 -1089.24 OFFCURVE",
+"280.82 -1097.08 OFFCURVE",
+"238.68 -1097.08 CURVE SMOOTH",
+"150.48 -1097.08 OFFCURVE",
+"86.78 -1065.72 OFFCURVE",
+"86.78 -955.96 CURVE SMOOTH",
+"86.78 -863.84 OFFCURVE",
+"148.52 -803.08 OFFCURVE",
+"266.12 -803.08 CURVE SMOOTH",
+"392.54 -803.08 OFFCURVE",
+"504.26 -843.26 OFFCURVE",
+"671.84 -1037.3 CURVE",
+"732.6 -976.54 LINE",
+"550.32 -747.22 OFFCURVE",
+"406.26 -695.28 OFFCURVE",
+"266.12 -695.28 CURVE SMOOTH",
+"78.94 -695.28 OFFCURVE",
+"-30.82 -806.02 OFFCURVE",
+"-30.82 -954.98 CURVE SMOOTH",
+"-30.82 -1089.24 OFFCURVE",
+"63.26 -1201.94 OFFCURVE",
+"238.68 -1201.94 CURVE SMOOTH"
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{276, 0}";
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
+position = "{256, 0}";
+}
+);
+};
+layerId = "C4389747-BECF-4D47-A11A-92B8AD605B66";
+paths = (
+{
+closed = 1;
+nodes = (
+"351.155 -630.742 LINE",
+"188.746 -615.366 LINE",
+"606.781 -872.914 LINE",
+"698.076 -730.686 LINE",
+"276.197 -468.333 LINE",
+"-141.838 -764.321 LINE",
+"-42.855 -900.783 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"189.707 -133.905 OFFCURVE",
+"155.111 -167.54 OFFCURVE",
+"155.111 -247.303 CURVE SMOOTH",
+"155.111 -326.105 OFFCURVE",
+"189.707 -359.74 OFFCURVE",
+"269.47 -359.74 CURVE SMOOTH",
+"349.233 -359.74 OFFCURVE",
+"383.829 -326.105 OFFCURVE",
+"383.829 -247.303 CURVE SMOOTH",
+"383.829 -167.54 OFFCURVE",
+"349.233 -133.905 OFFCURVE",
+"269.47 -133.905 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"316.976 -1426.042 OFFCURVE",
+"403.64 -1411.912 OFFCURVE",
+"476.174 -1375.174 CURVE",
+"424.364 -1226.338 LINE",
+"364.076 -1249.888 OFFCURVE",
+"311.324 -1264.96 OFFCURVE",
+"254.804 -1264.96 CURVE SMOOTH",
+"186.98 -1264.96 OFFCURVE",
+"150.242 -1239.526 OFFCURVE",
+"150.242 -1160.398 CURVE SMOOTH",
+"150.242 -1097.284 OFFCURVE",
+"192.632 -1055.836 OFFCURVE",
+"289.658 -1055.836 CURVE SMOOTH",
+"383.858 -1055.836 OFFCURVE",
+"492.188 -1095.4 OFFCURVE",
+"657.038 -1274.38 CURVE",
+"755.948 -1182.064 LINE",
+"568.49 -945.622 OFFCURVE",
+"419.654 -885.334 OFFCURVE",
+"287.774 -885.334 CURVE SMOOTH",
+"81.476 -885.334 OFFCURVE",
+"-29.68 -1004.026 OFFCURVE",
+"-29.68 -1161.34 CURVE SMOOTH",
+"-29.68 -1307.35 OFFCURVE",
+"67.346 -1426.042 OFFCURVE",
+"255.746 -1426.042 CURVE SMOOTH"
+);
+}
+);
+width = 600;
+}
+);
+},
+{
 glyphname = brevecomb_acutecomb;
 lastChange = "2020-03-22 01:17:21 +0000";
 layers = (
@@ -67410,15 +67210,6 @@ question = -10;
 bracketright = 20;
 parenright = 20;
 };
-"@MMK_L_b-deva" = {
-"@MMK_R_bha-deva" = -30;
-"@MMK_R_dh-deva" = -50;
-"@MMK_R_dha-deva" = -50;
-"@MMK_R_ya-deva" = 20;
-};
-"@MMK_L_bh-deva" = {
-"@MMK_R_ya-deva" = 30;
-};
 "@MMK_L_c" = {
 "@MMK_R_T" = -50;
 "@MMK_R_U" = -10;
@@ -67427,12 +67218,6 @@ parenright = 20;
 "@MMK_R_colon" = 10;
 "@MMK_R_period" = 20;
 space = -10;
-};
-"@MMK_L_c-deva" = {
-"@MMK_R_ya-deva" = 10;
-};
-"@MMK_L_ch-deva" = {
-"@MMK_R_ya-deva" = -220;
 };
 "@MMK_L_colon" = {
 "@MMK_R_A" = 20;
@@ -67444,18 +67229,6 @@ space = -10;
 "@MMK_L_curlquote" = {
 "@MMK_R_O" = -70;
 "@MMK_R_U" = -20;
-};
-"@MMK_L_da-deva" = {
-"@MMK_R_ya-deva.post" = -160;
-};
-"@MMK_L_dda-deva" = {
-"@MMK_R_ya-deva.post" = -60;
-};
-"@MMK_L_ddha-deva" = {
-"@MMK_R_ya-deva.post" = -40;
-};
-"@MMK_L_dh-deva" = {
-"@MMK_R_ya-deva" = 20;
 };
 "@MMK_L_e" = {
 "@MMK_R_T" = -50;
@@ -67476,9 +67249,6 @@ question = 20;
 "@MMK_R_T" = -70;
 "@MMK_R_Y" = -10;
 };
-"@MMK_L_g-deva" = {
-"@MMK_R_dh-deva" = -40;
-};
 "@MMK_L_i" = {
 "@MMK_R_Y" = -20;
 };
@@ -67486,42 +67256,11 @@ question = 20;
 "@MMK_R_T" = -60;
 "@MMK_R_U" = -20;
 };
-"@MMK_L_j-deva" = {
-"@MMK_R_dda-deva" = 20;
-"@MMK_R_jha-deva" = 20;
-};
-"@MMK_L_jh-deva" = {
-"@MMK_R_ya-deva" = 10;
-};
 "@MMK_L_k" = {
 "@MMK_R_T" = -110;
 "@MMK_R_U" = -70;
 "@MMK_R_W" = -50;
 "@MMK_R_Y" = -60;
-};
-"@MMK_L_k-deva" = {
-"@MMK_R_ma-deva" = -60;
-"@MMK_R_pa-deva" = -30;
-"@MMK_R_sa-deva" = 20;
-};
-"@MMK_L_kh-deva" = {
-"@MMK_R_ta-deva" = 0;
-};
-"@MMK_L_l-deva" = {
-"@MMK_R_bha-deva" = -140;
-"@MMK_R_ha-deva" = -70;
-"@MMK_R_ha_ra-deva" = -30;
-"@MMK_R_ja-deva" = 20;
-"@MMK_R_l-deva" = 10;
-"@MMK_R_ma-deva" = -40;
-"@MMK_R_pa-deva" = -40;
-};
-"@MMK_L_ll-deva" = {
-"@MMK_R_ya-deva" = -260;
-};
-"@MMK_L_m-deva" = {
-"@MMK_R_ha-deva" = -20;
-"@MMK_R_ya-deva" = 30;
 };
 "@MMK_L_n" = {
 "@MMK_R_T" = -120;
@@ -67529,22 +67268,9 @@ question = 20;
 "@MMK_R_W" = -30;
 "@MMK_R_Y" = -40;
 };
-"@MMK_L_n-deva" = {
-"@MMK_R_dh-deva" = -80;
-"@MMK_R_dha-deva" = -90;
-"@MMK_R_m-deva" = -50;
-"@MMK_R_ma-deva" = -60;
-"@MMK_R_ya-deva" = -40;
-};
-"@MMK_L_ny-deva" = {
-"@MMK_R_cha-deva" = -20;
-};
 "@MMK_L_o" = {
 "@MMK_R_T" = -10;
 "@MMK_R_U" = -10;
-};
-"@MMK_L_p-deva" = {
-"@MMK_R_pa-deva" = -10;
 };
 "@MMK_L_period" = {
 "@MMK_R_A" = 20;
@@ -67556,29 +67282,14 @@ question = 20;
 "@MMK_R_w" = -70;
 "@MMK_R_y" = -70;
 };
-"@MMK_L_ph-deva" = {
-"@MMK_R_ja-deva" = 30;
-"@MMK_R_pa-deva" = -30;
-"@MMK_R_sha-deva" = 20;
-};
 "@MMK_L_r" = {
 "@MMK_R_W" = 10;
 "@MMK_R_Y" = 10;
-};
-"@MMK_L_ra-deva" = {
-"@MMK_R_ya-deva" = 10;
 };
 "@MMK_L_s" = {
 "@MMK_R_T" = -60;
 "@MMK_R_U" = -10;
 "@MMK_R_Y" = -20;
-};
-"@MMK_L_s-deva" = {
-"@MMK_R_m-deva" = -40;
-"@MMK_R_ma-deva" = -50;
-};
-"@MMK_L_ss-deva" = {
-"@MMK_R_ya-deva" = 20;
 };
 "@MMK_L_straightquote" = {
 "@MMK_R_T" = -10;
@@ -67588,32 +67299,11 @@ question = 20;
 "@MMK_L_t" = {
 "@MMK_R_T" = -40;
 };
-"@MMK_L_t-deva" = {
-"@MMK_R_ka-deva" = -10;
-"@MMK_R_m-deva" = -30;
-"@MMK_R_ma-deva" = -30;
-};
-"@MMK_L_t_r-deva" = {
-"@MMK_R_ya-deva" = 40;
-};
-"@MMK_L_tta-deva" = {
-"@MMK_R_ya-deva.post" = -110;
-};
-"@MMK_L_ttha-deva" = {
-"@MMK_R_ya-deva.post" = -40;
-};
 "@MMK_L_u" = {
 "@MMK_R_T" = -20;
 "@MMK_R_U" = -10;
 "@MMK_R_W" = -10;
 "@MMK_R_Y" = -10;
-};
-"@MMK_L_v-deva" = {
-"@MMK_R_bha-deva" = -20;
-"@MMK_R_dda-deva" = -10;
-"@MMK_R_ha-deva" = -10;
-"@MMK_R_pa-deva" = -40;
-"@MMK_R_ya-deva" = 10;
 };
 "@MMK_L_w" = {
 "@MMK_R_T" = -80;
@@ -67789,11 +67479,6 @@ question = -10;
 bracketright = 20;
 parenright = 20;
 };
-"@MMK_L_b-deva" = {
-"@MMK_R_bha-deva" = -10;
-"@MMK_R_l-deva" = 30;
-"@MMK_R_va-deva" = 20;
-};
 "@MMK_L_c" = {
 "@MMK_R_T" = -50;
 "@MMK_R_U" = -10;
@@ -67802,9 +67487,6 @@ parenright = 20;
 "@MMK_R_colon" = 10;
 "@MMK_R_period" = 20;
 space = -10;
-};
-"@MMK_L_ch-deva" = {
-"@MMK_R_ya-deva" = -290;
 };
 "@MMK_L_colon" = {
 "@MMK_R_A" = 20;
@@ -67816,12 +67498,6 @@ space = -10;
 "@MMK_L_curlquote" = {
 "@MMK_R_O" = -70;
 "@MMK_R_U" = -20;
-};
-"@MMK_L_da-deva" = {
-"@MMK_R_ya-deva.post" = -240;
-};
-"@MMK_L_dda-deva" = {
-"@MMK_R_ya-deva.post" = -20;
 };
 "@MMK_L_e" = {
 "@MMK_R_T" = -50;
@@ -67849,49 +67525,17 @@ question = 20;
 "@MMK_R_T" = -60;
 "@MMK_R_U" = -20;
 };
-"@MMK_L_j-deva" = {
-"@MMK_R_ya-deva" = -40;
-};
 "@MMK_L_k" = {
 "@MMK_R_T" = -110;
 "@MMK_R_U" = -70;
 "@MMK_R_W" = -50;
 "@MMK_R_Y" = -60;
 };
-"@MMK_L_k-deva" = {
-"@MMK_R_pa-deva" = -10;
-};
-"@MMK_L_kh-deva" = {
-"@MMK_R_ta-deva" = -40;
-};
-"@MMK_L_l-deva" = {
-"@MMK_R_bha-deva" = -50;
-"@MMK_R_ha-deva" = -50;
-"@MMK_R_ha_ra-deva" = -50;
-"@MMK_R_ja-deva" = 20;
-"@MMK_R_l-deva" = 10;
-"@MMK_R_pa-deva" = -10;
-};
-"@MMK_L_ll-deva" = {
-"@MMK_R_ya-deva" = -300;
-};
-"@MMK_L_m-deva" = {
-"@MMK_R_ha-deva" = -10;
-};
 "@MMK_L_n" = {
 "@MMK_R_T" = -120;
 "@MMK_R_U" = -70;
 "@MMK_R_W" = -30;
 "@MMK_R_Y" = -40;
-};
-"@MMK_L_n-deva" = {
-"@MMK_R_dh-deva" = -60;
-"@MMK_R_dha-deva" = -60;
-"@MMK_R_ya-deva" = -10;
-};
-"@MMK_L_ny-deva" = {
-"@MMK_R_cha-deva" = -40;
-"@MMK_R_sha-deva" = -10;
 };
 "@MMK_L_o" = {
 "@MMK_R_T" = -10;
@@ -67906,10 +67550,6 @@ question = 20;
 "@MMK_R_Y" = -150;
 "@MMK_R_w" = -70;
 "@MMK_R_y" = -70;
-};
-"@MMK_L_ph-deva" = {
-"@MMK_R_ja-deva" = 30;
-"@MMK_R_sha-deva" = 0;
 };
 "@MMK_L_r" = {
 "@MMK_R_W" = 10;
@@ -67928,28 +67568,11 @@ question = 20;
 "@MMK_L_t" = {
 "@MMK_R_T" = -40;
 };
-"@MMK_L_t-deva" = {
-"@MMK_R_k_ssa-deva" = -50;
-"@MMK_R_ka-deva" = -20;
-"@MMK_R_m-deva" = -20;
-"@MMK_R_ma-deva" = -20;
-};
-"@MMK_L_tta-deva" = {
-"@MMK_R_ya-deva.post" = -130;
-};
-"@MMK_L_ttha-deva" = {
-"@MMK_R_ya-deva.post" = -40;
-};
 "@MMK_L_u" = {
 "@MMK_R_T" = -20;
 "@MMK_R_U" = -10;
 "@MMK_R_W" = -10;
 "@MMK_R_Y" = -10;
-};
-"@MMK_L_v-deva" = {
-"@MMK_R_bha-deva" = -20;
-"@MMK_R_ha-deva" = -10;
-"@MMK_R_pa-deva" = -40;
 };
 "@MMK_L_w" = {
 "@MMK_R_T" = -80;
