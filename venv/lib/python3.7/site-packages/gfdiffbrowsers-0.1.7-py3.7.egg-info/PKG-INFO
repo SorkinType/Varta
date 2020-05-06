@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: gfdiffbrowsers
+Version: 0.1.7
+Summary: Diff two sets of fonts in different browsers
+Home-page: https://github.com/googlefonts/diffbrowsers
+Author: Marc Foley
+Author-email: marc@mfoley.uk
+License: Apache Software License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Environment :: Other Environment
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Multimedia :: Graphics
+Classifier: Topic :: Multimedia :: Graphics :: Graphics Conversion
+Classifier: Topic :: Multimedia :: Graphics :: Editors :: Vector-Based

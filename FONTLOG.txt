@@ -25,16 +25,16 @@ SemiBold
 Bold
 
 Varta is a Unicode typeface family that supports 
-languages that use the Devanagari and Latin scripts and 
+languages that use the Latin script and 
 could be expanded to support other scripts.
 
-More specifically, this release supports the following codepages: Devanagari,
-Latin-1, Latin-2, Turkish, Windows Baltic, Windows Vietnamese, Macintosh
+More specifically, this release supports the following codepages: Latin-1, 
+Latin-2, Turkish, Windows Baltic, Windows Vietnamese, Macintosh
 Character Set
 
 The following Unicode ranges are supported: Basic Latin, Latin-1 Supplement,
 Latin Extended-A, Latin Extended-B, IPA Exetnsions, Spacing Modifier letters,
-Combining Diacritical Marks, Greek, Devanagari, Latin Extended Additional,
+Combining Diacritical Marks, Greek, Latin Extended Additional,
 General Puctuation, Superscripts and Subscripts, Currency Symbols, Letterlike
 Symbols, Number Forms, Arrows, Mathematical Operators, Geometric Shapes,
 Miscelanious Symbols, Dingbats, Alphabetic presentation forms
@@ -45,7 +45,7 @@ ChangeLog
 
 See https://github.com/EbenSorkin/Varta/commits/master
 
-Release v1.03
+Release v1.04
 
 Acknowledgements
 

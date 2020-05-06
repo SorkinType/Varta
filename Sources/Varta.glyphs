@@ -89,7 +89,7 @@ wght = {
 };
 }
 );
-date = "2019-12-21 06:33:26 +0000";
+date = "2020-05-06 23:18:36 +0000";
 designer = "Joana Correia, Viktoriya Grabowska, Eben Sorkin";
 disablesNiceNames = 1;
 familyName = Varta;
@@ -67610,5 +67610,5 @@ manufacturer = "Sorkin Type Co.";
 manufacturerURL = www.sorkintype.com;
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
