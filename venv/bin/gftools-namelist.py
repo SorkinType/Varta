@@ -1,4 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3.7
 # Copyright 2015, Google Inc.
 # Author: Dave Crossland (dave@understandinglimited.com)
 #
@@ -41,8 +41,9 @@ from fontTools.ttLib import TTFont
 from fontTools.unicode import Unicode
 import codecs
 from gftools.util import google_fonts
-from gftools.util  import filter_lists
-
+from gftools.util import filter_lists
+if sys.version[0] == '3':
+    unichr = chr
 
 def _get_basechar_unicode(name):
     codepoint = filter_lists.get_unicode_by_name(name)
@@ -182,7 +183,7 @@ def _format_codepoint(codepoint):
         item_description = 'CR'
         char = ' '
     else:
-        item_description = Unicode[codepoint].decode('utf-8')
+        item_description = Unicode[codepoint]
         char = unichr(codepoint)
     return ('0x{0:04X}'.format(codepoint)
           , char
@@ -207,7 +208,9 @@ def namelist_from_font(file_name, out=None):
     for charcode in charcodes:
         hexchar, char, item_description = _format_codepoint(charcode)
         if item_description not in excluded_chars:
-            print(hexchar, char, item_description, file=out)
+            string = "{} {} {}".format(hexchar, char, item_description)
+            print(string, file=out)
+    return
     font.close()
 
 
@@ -221,5 +224,4 @@ def main(*args):
 
 
 if __name__ == '__main__':
-    sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
     main(*sys.argv[1:])

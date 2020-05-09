@@ -5,15 +5,17 @@
 
     Implements the bridge to Jinja2.
 
-    :copyright: © 2010 by the Pallets team.
-    :license: BSD, see LICENSE for more details.
+    :copyright: 2010 Pallets
+    :license: BSD-3-Clause
 """
+from jinja2 import BaseLoader
+from jinja2 import Environment as BaseEnvironment
+from jinja2 import TemplateNotFound
 
-from jinja2 import BaseLoader, Environment as BaseEnvironment, \
-     TemplateNotFound
-
-from .globals import _request_ctx_stack, _app_ctx_stack
-from .signals import template_rendered, before_render_template
+from .globals import _app_ctx_stack
+from .globals import _request_ctx_stack
+from .signals import before_render_template
+from .signals import template_rendered
 
 
 def _default_template_ctx_processor():
@@ -24,10 +26,10 @@ def _default_template_ctx_processor():
     appctx = _app_ctx_stack.top
     rv = {}
     if appctx is not None:
-        rv['g'] = appctx.g
+        rv["g"] = appctx.g
     if reqctx is not None:
-        rv['request'] = reqctx.request
-        rv['session'] = reqctx.session
+        rv["request"] = reqctx.request
+        rv["session"] = reqctx.session
     return rv
 
 
@@ -38,8 +40,8 @@ class Environment(BaseEnvironment):
     """
 
     def __init__(self, app, **options):
-        if 'loader' not in options:
-            options['loader'] = app.create_global_jinja_loader()
+        if "loader" not in options:
+            options["loader"] = app.create_global_jinja_loader()
         BaseEnvironment.__init__(self, **options)
         self.app = app
 
@@ -53,7 +55,7 @@ class DispatchingJinjaLoader(BaseLoader):
         self.app = app
 
     def get_source(self, environment, template):
-        if self.app.config['EXPLAIN_TEMPLATE_LOADING']:
+        if self.app.config["EXPLAIN_TEMPLATE_LOADING"]:
             return self._get_source_explained(environment, template)
         return self._get_source_fast(environment, template)
 
@@ -71,6 +73,7 @@ class DispatchingJinjaLoader(BaseLoader):
             attempts.append((loader, srcobj, rv))
 
         from .debughelpers import explain_template_loading_attempts
+
         explain_template_loading_attempts(self.app, template, attempts)
 
         if trv is not None:
@@ -78,7 +81,7 @@ class DispatchingJinjaLoader(BaseLoader):
         raise TemplateNotFound(template)
 
     def _get_source_fast(self, environment, template):
-        for srcobj, loader in self._iter_loaders(template):
+        for _srcobj, loader in self._iter_loaders(template):
             try:
                 return loader.get_source(environment, template)
             except TemplateNotFound:
@@ -131,8 +134,11 @@ def render_template(template_name_or_list, **context):
     """
     ctx = _app_ctx_stack.top
     ctx.app.update_template_context(context)
-    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
-                   context, ctx.app)
+    return _render(
+        ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+        context,
+        ctx.app,
+    )
 
 
 def render_template_string(source, **context):
@@ -146,5 +152,4 @@ def render_template_string(source, **context):
     """
     ctx = _app_ctx_stack.top
     ctx.app.update_template_context(context)
-    return _render(ctx.app.jinja_env.from_string(source),
-                   context, ctx.app)
+    return _render(ctx.app.jinja_env.from_string(source), context, ctx.app)

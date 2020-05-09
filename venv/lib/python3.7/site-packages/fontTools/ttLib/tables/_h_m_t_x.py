@@ -1,4 +1,3 @@
-from __future__ import print_function, division, absolute_import
 from fontTools.misc.py23 import *
 from fontTools.misc.fixedTools import otRound
 from fontTools import ttLib
@@ -109,7 +108,7 @@ class table__h_m_t_x(DefaultTable.DefaultTable):
 				raise
 		additionalMetrics = array.array("h", additionalMetrics)
 		if sys.byteorder != "big": additionalMetrics.byteswap()
-		data = data + additionalMetrics.tostring()
+		data = data + additionalMetrics.tobytes()
 		return data
 
 	def toXML(self, writer, ttFont):

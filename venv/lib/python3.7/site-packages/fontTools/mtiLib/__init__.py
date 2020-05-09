@@ -6,8 +6,6 @@
 # http://monotype.github.io/OpenType_Table_Source/otl_source.html
 # https://github.com/Monotype/OpenType_Table_Source/
 
-from __future__ import print_function, division, absolute_import
-from __future__ import unicode_literals
 from fontTools.misc.py23 import *
 from fontTools import ttLib
 from fontTools.ttLib.tables._c_m_a_p import cmap_classes
@@ -856,7 +854,7 @@ def parseLookup(lines, tableTag, font, lookupMap=None):
 
 	lookup.SubTable = subtables
 	lookup.SubTableCount = len(lookup.SubTable)
-	if lookup.SubTableCount is 0:
+	if lookup.SubTableCount == 0:
 		# Remove this return when following is fixed:
 		# https://github.com/fonttools/fonttools/issues/789
 		return None

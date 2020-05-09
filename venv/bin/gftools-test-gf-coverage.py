@@ -1,4 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3.7
 # Copyright 2016 The Fontbakery Authors
 # Copyright 2017 The Google Fonts Tools Authors
 #
@@ -14,20 +14,19 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+from __future__ import print_function
 import os
 import sys
 from gftools.util.google_fonts import (CodepointsInFont,
-                                       codepointsInNamelist)
+                                       CodepointsInNamelist)
+from pkg_resources import resource_filename
 
-NAM_DIR = os.path.join("encodings", "GF Glyph Sets")
-NAM_FILES = [
-  "GF-latin-core_unique-glyphs.nam",
-  "GF-latin-expert_unique-glyphs.nam",
-  "GF-latin-plus_optional-glyphs.nam",
-  "GF-latin-plus_unique-glyphs.nam",
-  "GF-latin-pro_optional-glyphs.nam",
-  "GF-latin-pro_unique-glyphs.nam"
-]
+
+NAM_DIR = os.path.join(
+    resource_filename("gftools", "encodings"), "GF Glyph Sets"
+)
+NAM_FILES = [os.path.join(NAM_DIR, f) for f in os.listdir(NAM_DIR)]
+
 
 def main():
   if len(sys.argv) != 2 or sys.argv[1][-4:] != ".ttf":
@@ -36,18 +35,18 @@ def main():
   expected = set()
   for nam_file in NAM_FILES:
     nam_filepath = os.path.join(NAM_DIR, nam_file)
-    expected.update(codepointsInNamelist(nam_filepath))
+    expected.update(CodepointsInNamelist(nam_filepath))
 
   filename = sys.argv[1]
   diff = expected - CodepointsInFont(filename)
 
-  print filename,
+  print(filename),
   if bool(diff):
-    print 'missing',
+    print('missing'),
     for c in sorted(diff):
-      print '0x%04X' % (c),
+      print('0x%04X' % (c)),
   else:
-    print 'OK'
+    print('OK')
 
 
 if __name__ == '__main__':

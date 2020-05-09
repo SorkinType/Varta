@@ -43,6 +43,8 @@ def main():
                             required=True)
     parent_parser.add_argument('-pt', '--type-point-size',
                             help="In some views, users can control type sample size")
+    parent_parser.add_argument('-s', '--filter-styles', nargs="+",
+                        help="Only show included styles")
     parent_parser.add_argument('-b', '--browsers',
                         choices=list(test_browsers.keys()),
                         default='all_browsers',
@@ -82,7 +84,12 @@ def main():
     elif args.command == 'load':
         diffbrowsers.load_session(args.url)
 
-    diffbrowsers.diff_view(args.view, args.type_point_size, args.output_gifs)
+    diffbrowsers.diff_view(
+        args.view,
+        args.type_point_size,
+        args.filter_styles,
+        args.output_gifs
+    )
 
     report_path = os.path.join(args.output_dir, 'report.txt')
     with open(report_path, 'w') as doc:

@@ -1,7 +1,7 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3.7
 
 # Copyright 2013,2016 The Font Bakery Authors.
-# Copyright 2017 The Google Font Tools Authors
+# Copyright 2017,2020 The Google Font Tools Authors
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -35,6 +35,7 @@ gftools-fix-isfixedpitch --fonts [font1.ttf font2.ttf ...]
 """
 
 from fontTools.ttLib import TTFont
+from fontTools.misc.fixedTools import otRound
 import argparse
 
 
@@ -51,8 +52,49 @@ def fix_isFixedPitch(ttfont):
         else:
             print("Font is monospace. Updating isFixedPitch to 0")
             ttfont['post'].isFixedPitch = 1
+
+        familyType = ttfont['OS/2'].panose.bFamilyType
+        if familyType == 2:
+            expected = 9
+        elif familyType == 3 or familyType == 5:
+            expected = 3
+        elif familyType == 0:
+            print("Font is monospace but panose fields seems to be not set."
+                  " Setting values to defaults (FamilyType = 2, Proportion = 9).")
+            ttfont['OS/2'].panose.bFamilyType = 2
+            ttfont['OS/2'].panose.bProportion = 9
+        else:
+            expected = None
+
+        if expected:
+            if ttfont['OS/2'].panose.bProportion == expected:
+                print("Skipping OS/2.panose.bProportion is set correctly")
+            else:
+                print(("Font is monospace."
+                       " Since OS/2.panose.bFamilyType is {}"
+                       " we're updating OS/2.panose.bProportion"
+                       " to {}").format(familyType, expected))
+                ttfont['OS/2'].panose.bProportion = expected
+
+        widths = [m[0] for m in ttfont['hmtx'].metrics.values() if m[0] > 0]
+        width_max = max(widths)
+        if ttfont['hhea'].advanceWidthMax == width_max:
+            print("Skipping hhea.advanceWidthMax is set correctly")
+        else:
+            print("Font is monospace. Updating hhea.advanceWidthMax to %i" %
+                  width_max)
+            ttfont['hhea'].advanceWidthMax = width_max
+
+        avg_width = otRound(sum(widths) / len(widths))
+        if avg_width == ttfont['OS/2'].xAvgCharWidth:
+            print("Skipping OS/2.xAvgCharWidth is set correctly")
+        else:
+            print("Font is monospace. Updating OS/2.xAvgCharWidth to %i" %
+                  avg_width)
+            ttfont['OS/2'].xAvgCharWidth = avg_width
     else:
         ttfont['post'].isFixedPitch = 0
+        ttfont['OS/2'].panose.bProportion = 0
 
 
 def main():

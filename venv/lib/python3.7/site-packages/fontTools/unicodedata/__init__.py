@@ -1,5 +1,3 @@
-from __future__ import (
-    print_function, division, absolute_import, unicode_literals)
 from fontTools.misc.py23 import *
 
 import re
@@ -75,7 +73,7 @@ def script_extension(char):
 
     >>> script_extension("a") == {'Latn'}
     True
-    >>> script_extension(unichr(0x060C)) == {'Arab', 'Rohg', 'Syrc', 'Thaa'}
+    >>> script_extension(unichr(0x060C)) == {'Rohg', 'Syrc', 'Yezi', 'Arab', 'Thaa'}
     True
     >>> script_extension(unichr(0x10FFFF)) == {'Zzzz'}
     True
@@ -192,6 +190,14 @@ RTL_SCRIPTS = {
 
     # Unicode-9.0 additions
     'Adlm',  # Adlam
+
+    # Unicode-11.0 additions
+    'Rohg',  # Hanifi Rohingya
+    'Sogo',  # Old Sogdian
+    'Sogd',  # Sogdian
+
+    # Unicode-12.0 additions
+    'Elym',  # Elymaic
 }
 
 def script_horizontal_direction(script_code, default=KeyError):

@@ -11,7 +11,6 @@ steps through all the points in a call from glyph.drawPoints().
 This allows the caller to provide more data for each point.
 For instance, whether or not a point is smooth, and its name.
 """
-from __future__ import absolute_import, unicode_literals
 from fontTools.pens.basePen import AbstractPen
 import math
 
@@ -181,18 +180,36 @@ class PointToSegmentPen(BasePointToSegmentPen):
 			pen.moveTo(movePt)
 		outputImpliedClosingLine = self.outputImpliedClosingLine
 		nSegments = len(segments)
+		lastPt = movePt
 		for i in range(nSegments):
 			segmentType, points = segments[i]
 			points = [pt for pt, smooth, name, kwargs in points]
 			if segmentType == "line":
 				assert len(points) == 1, "illegal line segment point count: %d" % len(points)
 				pt = points[0]
-				if i + 1 != nSegments or outputImpliedClosingLine or not closed:
+				# For closed contours, a 'lineTo' is always implied from the last oncurve
+				# point to the starting point, thus we can omit it when the last and
+				# starting point don't overlap.
+				# However, when the last oncurve point is a "line" segment and has same
+				# coordinates as the starting point of a closed contour, we need to output
+				# the closing 'lineTo' explicitly (regardless of the value of the
+				# 'outputImpliedClosingLine' option) in order to disambiguate this case from
+				# the implied closing 'lineTo', otherwise the duplicate point would be lost.
+				# See https://github.com/googlefonts/fontmake/issues/572.
+				if (
+					i + 1 != nSegments
+					or outputImpliedClosingLine
+					or not closed
+					or pt == lastPt
+				):
 					pen.lineTo(pt)
+					lastPt = pt
 			elif segmentType == "curve":
 				pen.curveTo(*points)
+				lastPt = points[-1]
 			elif segmentType == "qcurve":
 				pen.qCurveTo(*points)
+				lastPt = points[-1]
 			else:
 				assert 0, "illegal segmentType: %s" % segmentType
 		if closed:
@@ -230,9 +247,11 @@ class SegmentToPointPen(AbstractPen):
 		self.contour.append((pt, "move"))
 
 	def lineTo(self, pt):
+		assert self.contour is not None, "contour missing required initial moveTo"
 		self.contour.append((pt, "line"))
 
 	def curveTo(self, *pts):
+		assert self.contour is not None, "contour missing required initial moveTo"
 		for pt in pts[:-1]:
 			self.contour.append((pt, None))
 		self.contour.append((pts[-1], "curve"))
@@ -240,12 +259,15 @@ class SegmentToPointPen(AbstractPen):
 	def qCurveTo(self, *pts):
 		if pts[-1] is None:
 			self.contour = []
+		else:
+			assert self.contour is not None, "contour missing required initial moveTo"
 		for pt in pts[:-1]:
 			self.contour.append((pt, None))
 		if pts[-1] is not None:
 			self.contour.append((pts[-1], "qcurve"))
 
 	def closePath(self):
+		assert self.contour is not None, "contour missing required initial moveTo"
 		if len(self.contour) > 1 and self.contour[0][0] == self.contour[-1][0]:
 			self.contour[0] = self.contour[-1]
 			del self.contour[-1]
@@ -259,6 +281,7 @@ class SegmentToPointPen(AbstractPen):
 		self.contour = None
 
 	def endPath(self):
+		assert self.contour is not None, "contour missing required initial moveTo"
 		self._flushContour()
 		self.contour = None
 

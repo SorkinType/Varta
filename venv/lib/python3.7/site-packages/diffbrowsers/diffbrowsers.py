@@ -61,7 +61,7 @@ class DiffBrowsers(object):
         self.gf_regression.load_session(url)
         self.stats['fonts'] = self.gf_regression.info['fonts']
 
-    def diff_view(self, screenshot_view, pt=None, gen_gifs=True):
+    def diff_view(self, screenshot_view, pt=None, styles=None, gen_gifs=True):
         """Return before and after images from a GF Regression view.
 
         Use PIL to calculate the amount of different pixels and save
@@ -73,14 +73,17 @@ class DiffBrowsers(object):
         view_path = os.path.join(self.dst_dir, view_dir)
         self._mkdir(view_path, overwrite=True)
 
+        if styles:
+            self.stats['fonts'] = [f for f in self.stats['fonts'] if f in styles]
+
         logger.info('Generating {} before images'.format(screenshot_view))
-        before_url = self.gf_regression.url(screenshot_view, 'before', pt)
+        before_url = self.gf_regression.url(screenshot_view, 'before', pt, styles)
         before_path = os.path.join(view_path, 'before')
         self._mkdir(before_path, overwrite=True)
         self.screenshot.take(before_url, before_path)
 
         logger.info('Generating {} after images'.format(screenshot_view))
-        after_url = self.gf_regression.url(screenshot_view, 'after', pt)
+        after_url = self.gf_regression.url(screenshot_view, 'after', pt, styles)
         after_path = os.path.join(view_path, 'after')
         self._mkdir(after_path, overwrite=True)
         self.screenshot.take(after_url, after_path)

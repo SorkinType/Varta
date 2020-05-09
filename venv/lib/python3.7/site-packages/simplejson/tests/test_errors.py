@@ -2,12 +2,29 @@ import sys, pickle
 from unittest import TestCase
 
 import simplejson as json
-from simplejson.compat import u, b
+from simplejson.compat import text_type, b
 
 class TestErrors(TestCase):
     def test_string_keys_error(self):
         data = [{'a': 'A', 'b': (2, 4), 'c': 3.0, ('d',): 'D tuple'}]
-        self.assertRaises(TypeError, json.dumps, data)
+        try:
+            json.dumps(data)
+        except TypeError:
+            err = sys.exc_info()[1]
+        else:
+            self.fail('Expected TypeError')
+        self.assertEqual(str(err),
+                'keys must be str, int, float, bool or None, not tuple')
+
+    def test_not_serializable(self):
+        try:
+            json.dumps(json)
+        except TypeError:
+            err = sys.exc_info()[1]
+        else:
+            self.fail('Expected TypeError')
+        self.assertEqual(str(err),
+                'Object of type module is not JSON serializable')
 
     def test_decode_error(self):
         err = None
@@ -24,7 +41,7 @@ class TestErrors(TestCase):
 
     def test_scan_error(self):
         err = None
-        for t in (u, b):
+        for t in (text_type, b):
             try:
                 json.loads(t('{"asdf": "'))
             except json.JSONDecodeError:

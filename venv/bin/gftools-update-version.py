@@ -1,4 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3.7
 #
 # Copyright 2017 The Font Bakery Authors.
 # Copyright 2017 The Google Font Tools Authors
@@ -24,6 +24,7 @@ Update a collection of fonts version number to a new version number.
 e.g:
 gftools update-version [fonts] 2.300 2.301
 """
+from __future__ import print_function
 from argparse import (ArgumentParser,
                       RawTextHelpFormatter)
 from fontTools.ttLib import TTFont
@@ -48,8 +49,7 @@ def main():
 
     v_updated = False
     for field in font['name'].names:
-      enc = field.getEncoding()
-      field_text = str(field).decode(enc)
+      field_text = field.toUnicode()
       if args.old_version in field_text:
         updated_text = field_text.replace(
           args.old_version,
@@ -65,18 +65,18 @@ def main():
         v_updated = True
     if v_updated:
       font['head'].fontRevision = float(args.new_version)
-      print '%s version updated from %s to %s' % (
+      print('%s version updated from %s to %s' % (
         font_path,
         args.old_version,
         args.new_version
-      )
+      ))
       font.save(font_path + '.fix')
-      print 'font saved %s.fix' % font_path
+      print('font saved %s.fix' % font_path)
     else:
-      print '%s skipping. Could not find old version number %s' % (
+      print ('%s skipping. Could not find old version number %s' % (
         font_path,
         args.old_version
-      )
+      ))
 
 
 if __name__ == '__main__':

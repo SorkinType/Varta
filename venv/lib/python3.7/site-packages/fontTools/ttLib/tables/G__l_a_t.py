@@ -1,6 +1,6 @@
-from __future__ import print_function, division, absolute_import
 from fontTools.misc.py23 import *
 from fontTools.misc import sstruct
+from fontTools.misc.fixedTools import floatToFixedToStr
 from fontTools.misc.textTools import safeEval
 from itertools import *
 from functools import partial
@@ -69,6 +69,7 @@ class table_G__l_a_t(DefaultTable.DefaultTable):
 
     def decompile(self, data, ttFont):
         sstruct.unpack2(Glat_format_0, data, self)
+        self.version = float(floatToFixedToStr(self.version, precisionBits=16))
         if self.version <= 1.9:
             decoder = partial(self.decompileAttributes12,fmt=Glat_format_1_entry)
         elif self.version <= 2.9:   

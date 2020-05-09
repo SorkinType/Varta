@@ -1,5 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
-# coding: utf-8
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3.7
 # Copyright 2017 The Font Bakery Authors.
 # Copyright 2017 The Google Font Tools Authors
 #
@@ -15,7 +14,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-import subprocess
+from __future__ import print_function
+import ots
 import sys
 import os
 
@@ -25,20 +25,22 @@ def main(gf_path):
         for f in files:
             if f.endswith('.ttf'):
                 try:
-                    result = subprocess.check_output(["ots-sanitize", os.path.join(p,f)])
-                    results.append('%s\t%s' % (f, result))
-                except subprocess.CalledProcessError as e:
-                    result = '%s\t%s' % (f, e.output)
-                    results.append(result)
+                    font = os.path.join(p, f)
+                    process = ots.sanitize(font, check=True, capture_output=True)
+                    result = '%s\t%s' % (font, process.stdout)
+                except ots.CalledProcessError as e:
+                    result = '%s\t%s' % (font, e.output)
 
-                print '%s\t%s' % (f, result)
+                results.append(result)
+                print('%s\t%s' % (f, result))
+
     with open('ots_gf_results.txt', 'w') as doc:
         doc.write(''.join(results))
-    print 'done!'
+    print('done!')
 
 
 if __name__ == '__main__':
     if len(sys.argv) != 2:
-        print 'ERROR: Include path to OFL dir'
+        print('ERROR: Include path to OFL dir')
     else:
         main(sys.argv[-1])

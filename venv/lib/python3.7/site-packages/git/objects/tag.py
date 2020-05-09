@@ -50,17 +50,18 @@ class TagObject(base.Object):
         """Cache all our attributes at once"""
         if attr in TagObject.__slots__:
             ostream = self.repo.odb.stream(self.binsha)
-            lines = ostream.read().decode(defenc).splitlines()
+            lines = ostream.read().decode(defenc, 'replace').splitlines()
 
-            obj, hexsha = lines[0].split(" ")       # object <hexsha> @UnusedVariable
-            type_token, type_name = lines[1].split(" ")  # type <type_name> @UnusedVariable
+            _obj, hexsha = lines[0].split(" ")
+            _type_token, type_name = lines[1].split(" ")
             self.object = \
                 get_object_type_by_name(type_name.encode('ascii'))(self.repo, hex_to_bin(hexsha))
 
             self.tag = lines[2][4:]  # tag <tag name>
 
-            tagger_info = lines[3]  # tagger <actor> <date>
-            self.tagger, self.tagged_date, self.tagger_tz_offset = parse_actor_and_date(tagger_info)
+            if len(lines) > 3:
+                tagger_info = lines[3]  # tagger <actor> <date>
+                self.tagger, self.tagged_date, self.tagger_tz_offset = parse_actor_and_date(tagger_info)
 
             # line 4 empty - it could mark the beginning of the next header
             # in case there really is no message, it would not exist. Otherwise

@@ -1,8 +1,6 @@
 """
 Interpolate OpenType Layout tables (GDEF / GPOS / GSUB).
 """
-from __future__ import print_function, division, absolute_import
-from fontTools.misc.py23 import *
 from fontTools.ttLib import TTFont
 from fontTools.varLib import models, VarLibError, load_designspace, load_masters
 from fontTools.varLib.merger import InstancerMerger

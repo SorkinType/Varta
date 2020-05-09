@@ -15,7 +15,6 @@ write(path, data, kind='OTHER', dohex=False)
 	part should be written as hexadecimal or binary, but only if kind
 	is 'OTHER'.
 """
-from __future__ import print_function, division, absolute_import
 from fontTools.misc.py23 import *
 from fontTools.misc import eexec
 from fontTools.misc.macCreatorType import getMacCreatorAndType
@@ -273,7 +272,9 @@ def writeOther(path, data, dohex=False):
 # decryption tools
 
 EEXECBEGIN = b"currentfile eexec"
-EEXECEND = b'0' * 64
+# The spec allows for 512 ASCII zeros interrupted by arbitrary whitespace to
+# follow eexec
+EEXECEND = re.compile(b'(0[ \t\r\n]*){512}', flags=re.M)
 EEXECINTERNALEND = b"currentfile closefile"
 EEXECBEGINMARKER = b"%-- eexec start\r"
 EEXECENDMARKER = b"%-- eexec end\r"
@@ -312,9 +313,10 @@ def findEncryptedChunks(data):
 		if eBegin < 0:
 			break
 		eBegin = eBegin + len(EEXECBEGIN) + 1
-		eEnd = data.find(EEXECEND, eBegin)
-		if eEnd < 0:
+		endMatch = EEXECEND.search(data, eBegin)
+		if endMatch is None:
 			raise T1Error("can't find end of eexec part")
+		eEnd = endMatch.start()
 		cypherText = data[eBegin:eEnd + 2]
 		if isHex(cypherText[:4]):
 			cypherText = deHexString(cypherText)

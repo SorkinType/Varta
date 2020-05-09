@@ -1,4 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3.7
 #
 # Copyright 2017 Google Inc. All Rights Reserved.
 #
@@ -67,9 +67,8 @@ import os
 import sys
 
 from fontTools.ttLib import sfnt
-import gflags as flags
+from absl import flags, app
 from gftools.util import google_fonts as fonts
-from google.apputils import app
 
 
 FLAGS = flags.FLAGS
@@ -122,8 +121,8 @@ def DiffTables(font_filename1, font_filename2):
   """
   result = ['    Table    Changes  Delta-Bytes(from=>to)  % Change']
   result.append('    -------------------------------------------------')
-  sfnt1 = sfnt.SFNTReader(open(font_filename1))
-  sfnt2 = sfnt.SFNTReader(open(font_filename2))
+  sfnt1 = sfnt.SFNTReader(open(font_filename1, 'rb'))
+  sfnt2 = sfnt.SFNTReader(open(font_filename2, 'rb'))
 
   font_sz1 = os.stat(font_filename1).st_size
 
@@ -224,4 +223,4 @@ def main(_):
 
 
 if __name__ == '__main__':
-  app.run()
+  app.run(main)

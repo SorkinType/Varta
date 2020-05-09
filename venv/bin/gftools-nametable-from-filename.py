@@ -1,4 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3.7
 # Copyright 2013,2016 The Font Bakery Authors.
 # Copyright 2017 The Google Font Tools Authors
 #
@@ -22,6 +22,7 @@ the Google Fonts naming spec from just the filename.
 The fsSelection, fsType and macStyle also get updated
 to reflect the new names.
 """
+from __future__ import print_function
 import re
 import ntpath
 from argparse import (ArgumentParser,
@@ -183,7 +184,7 @@ def nametable_from_filename(filepath):
   family_name = _split_camelcase(family_name)
 
   font_version = font['name'].getName(5, 3, 1, 1033)
-  font_version = str(font_version).decode('utf_16_be')
+  font_version = font_version.toUnicode()
   vendor_id = font['OS/2'].achVendID
 
   # SET MAC NAME FIELDS
@@ -257,8 +258,7 @@ def nametable_from_filename(filepath):
       text = old_table.getName(field[0], 3, 1, 1033).string.decode('mac_roman')
 
     if text:
-      enc = 'utf_16_be' if field[0] == 3 else 'mac_roman'
-      new_table.setName(text.encode(enc), *field)
+      new_table.setName(text, *field)
   return new_table
 
 
@@ -283,7 +283,7 @@ def main():
     font['head'].macStyle = set_macStyle(win_style)
 
     font.save(font_path + '.fix')
-    print 'font saved %s.fix' % font_path
+    print('font saved %s.fix' % font_path)
 
 
 if __name__ == '__main__':

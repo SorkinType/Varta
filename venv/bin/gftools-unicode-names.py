@@ -1,4 +1,4 @@
-#!/Users/ebensorkin/Documents/GitHub/Merriweather-ST/Merriweather/venv/bin/python3.7
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3.7
 #
 # Copyright 2017 Google Inc. All Rights Reserved.
 #
@@ -14,17 +14,17 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-# -*- coding: utf-8 -*-
 """Utility to print unicode character names from a nam file.
 
 Input file should have one codepoint per line in hex (0xXXXX).
 
 """
-
+from __future__ import print_function
 import unicodedata
-
-import gflags as flags
-from google.apputils import app
+import sys
+if sys.version[0] == '3':
+    unichr = chr
+from absl import flags, app
 
 FLAGS = flags.FLAGS
 
@@ -34,7 +34,7 @@ flags.DEFINE_string('nam_file', None, 'Location of nam file')
 def main(_):
   with open(FLAGS.nam_file, 'r') as f:
     for line in f:
-      print _ReformatLine(line)
+      print(_ReformatLine(line))
 
 
 def _ReformatLine(line):
@@ -47,4 +47,4 @@ def _ReformatLine(line):
 
 if __name__ == '__main__':
   flags.mark_flag_as_required('nam_file')
-  app.run()
+  app.run(main)

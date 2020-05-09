@@ -1,4 +1,3 @@
-from __future__ import print_function, division, absolute_import
 from fontTools.misc.py23 import *
 from fontTools import ttLib
 from fontTools.misc import sstruct
@@ -107,8 +106,15 @@ class table__g_v_a_r(DefaultTable.DefaultTable):
 			glyph = ttFont["glyf"][glyphName]
 			numPointsInGlyph = self.getNumPoints_(glyph)
 			gvarData = data[offsetToData + offsets[i] : offsetToData + offsets[i + 1]]
-			self.variations[glyphName] = decompileGlyph_(
-				numPointsInGlyph, sharedCoords, axisTags, gvarData)
+			try:
+				self.variations[glyphName] = decompileGlyph_(
+					numPointsInGlyph, sharedCoords, axisTags, gvarData)
+			except Exception:
+				log.error(
+					"Failed to decompile deltas for glyph '%s' (%d points)",
+					glyphName, numPointsInGlyph,
+				)
+				raise
 
 	@staticmethod
 	def decompileOffsets_(data, tableFormat, glyphCount):
@@ -120,7 +126,7 @@ class table__g_v_a_r(DefaultTable.DefaultTable):
 			# Long format: array of UInt32
 			offsets = array.array("I")
 			offsetsSize = (glyphCount + 1) * 4
-		offsets.fromstring(data[0 : offsetsSize])
+		offsets.frombytes(data[0 : offsetsSize])
 		if sys.byteorder != "big": offsets.byteswap()
 
 		# In the short format, offsets need to be multiplied by 2.
@@ -152,7 +158,7 @@ class table__g_v_a_r(DefaultTable.DefaultTable):
 			packed = array.array("I", offsets)
 			tableFormat = 1
 		if sys.byteorder != "big": packed.byteswap()
-		return (packed.tostring(), tableFormat)
+		return (packed.tobytes(), tableFormat)
 
 	def toXML(self, writer, ttFont):
 		writer.simpletag("version", value=self.version)
@@ -210,8 +216,9 @@ def compileGlyph_(variations, pointCount, axisTags, sharedCoordIndices):
 		variations, pointCount, axisTags, sharedCoordIndices)
 	if tupleVariationCount == 0:
 		return b""
-	result = (struct.pack(">HH", tupleVariationCount, 4 + len(tuples)) +
-	          tuples + data)
+	result = (
+		struct.pack(">HH", tupleVariationCount, 4 + len(tuples)) + tuples + data
+	)
 	if len(result) % 2 != 0:
 		result = result + b"\0"  # padding
 	return result
@@ -222,6 +229,8 @@ def decompileGlyph_(pointCount, sharedTuples, axisTags, data):
 		return []
 	tupleVariationCount, offsetToData = struct.unpack(">HH", data[:4])
 	dataPos = offsetToData
-	return tv.decompileTupleVariationStore("gvar", axisTags,
-                                           tupleVariationCount, pointCount,
-                                           sharedTuples, data, 4, offsetToData)
+	return tv.decompileTupleVariationStore(
+		"gvar", axisTags,
+		tupleVariationCount, pointCount,
+		sharedTuples, data, 4, offsetToData
+	)

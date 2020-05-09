@@ -1,4 +1,3 @@
-from __future__ import print_function, division, absolute_import
 from fontTools.misc.py23 import *
 from fontTools.misc import sstruct
 from fontTools.misc.textTools import safeEval, num2binary, binary2num
@@ -43,7 +42,7 @@ OS2_format_0 = """
 	xAvgCharWidth:          h       # average character width
 	usWeightClass:          H       # degree of thickness of strokes
 	usWidthClass:           H       # aspect ratio
-	fsType:                 h       # type flags
+	fsType:                 H       # type flags
 	ySubscriptXSize:        h       # subscript horizontal font size
 	ySubscriptYSize:        h       # subscript vertical font size
 	ySubscriptXOffset:      h       # subscript x offset

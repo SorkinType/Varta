@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: fontdiffenator
+Version: 0.9.1
+Summary: Font regression tester for Google Fonts
+Home-page: https://github.com/googlefonts/diffenator
+Author: Google Fonts Project Authors
+Author-email: UNKNOWN
+License: Apache Software License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN

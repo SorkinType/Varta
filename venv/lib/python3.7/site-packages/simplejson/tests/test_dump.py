@@ -1,11 +1,26 @@
 from unittest import TestCase
-from simplejson.compat import StringIO, long_type, b, binary_type, PY3
+from simplejson.compat import StringIO, long_type, b, binary_type, text_type, PY3
 import simplejson as json
 
+class MisbehavingTextSubtype(text_type):
+    def __str__(self):
+        return "FAIL!"
+
+class MisbehavingBytesSubtype(binary_type):
+    def decode(self, encoding=None):
+        return "bad decode"
+    def __str__(self):
+        return "bad __str__"
+    def __bytes__(self):
+        return b("bad __bytes__")
+
 def as_text_type(s):
-    if PY3 and isinstance(s, binary_type):
+    if PY3 and isinstance(s, bytes):
         return s.decode('ascii')
     return s
+
+def decode_iso_8859_15(b):
+    return b.decode('iso-8859-15')
 
 class TestDump(TestCase):
     def test_dump(self):
@@ -128,3 +143,107 @@ class TestDump(TestCase):
             json.dump(p, sio, sort_keys=True)
             self.assertEqual(sio.getvalue(), json.dumps(p, sort_keys=True))
             self.assertEqual(json.loads(sio.getvalue()), p)
+
+    def test_misbehaving_text_subtype(self):
+        # https://github.com/simplejson/simplejson/issues/185
+        text = "this is some text"
+        self.assertEqual(
+            json.dumps(MisbehavingTextSubtype(text)),
+            json.dumps(text)
+        )
+        self.assertEqual(
+            json.dumps([MisbehavingTextSubtype(text)]),
+            json.dumps([text])
+        )
+        self.assertEqual(
+            json.dumps({MisbehavingTextSubtype(text): 42}),
+            json.dumps({text: 42})
+        )
+
+    def test_misbehaving_bytes_subtype(self):
+        data = b("this is some data \xe2\x82\xac")
+        self.assertEqual(
+            json.dumps(MisbehavingBytesSubtype(data)),
+            json.dumps(data)
+        )
+        self.assertEqual(
+            json.dumps([MisbehavingBytesSubtype(data)]),
+            json.dumps([data])
+        )
+        self.assertEqual(
+            json.dumps({MisbehavingBytesSubtype(data): 42}),
+            json.dumps({data: 42})
+        )
+
+    def test_bytes_toplevel(self):
+        self.assertEqual(json.dumps(b('\xe2\x82\xac')), r'"\u20ac"')
+        self.assertRaises(UnicodeDecodeError, json.dumps, b('\xa4'))
+        self.assertEqual(json.dumps(b('\xa4'), encoding='iso-8859-1'),
+                         r'"\u00a4"')
+        self.assertEqual(json.dumps(b('\xa4'), encoding='iso-8859-15'),
+                         r'"\u20ac"')
+        if PY3:
+            self.assertRaises(TypeError, json.dumps, b('\xe2\x82\xac'),
+                              encoding=None)
+            self.assertRaises(TypeError, json.dumps, b('\xa4'),
+                              encoding=None)
+            self.assertEqual(json.dumps(b('\xa4'), encoding=None,
+                                        default=decode_iso_8859_15),
+                            r'"\u20ac"')
+        else:
+            self.assertEqual(json.dumps(b('\xe2\x82\xac'), encoding=None),
+                             r'"\u20ac"')
+            self.assertRaises(UnicodeDecodeError, json.dumps, b('\xa4'),
+                              encoding=None)
+            self.assertRaises(UnicodeDecodeError, json.dumps, b('\xa4'),
+                              encoding=None, default=decode_iso_8859_15)
+
+    def test_bytes_nested(self):
+        self.assertEqual(json.dumps([b('\xe2\x82\xac')]), r'["\u20ac"]')
+        self.assertRaises(UnicodeDecodeError, json.dumps, [b('\xa4')])
+        self.assertEqual(json.dumps([b('\xa4')], encoding='iso-8859-1'),
+                         r'["\u00a4"]')
+        self.assertEqual(json.dumps([b('\xa4')], encoding='iso-8859-15'),
+                         r'["\u20ac"]')
+        if PY3:
+            self.assertRaises(TypeError, json.dumps, [b('\xe2\x82\xac')],
+                              encoding=None)
+            self.assertRaises(TypeError, json.dumps, [b('\xa4')],
+                              encoding=None)
+            self.assertEqual(json.dumps([b('\xa4')], encoding=None,
+                                        default=decode_iso_8859_15),
+                             r'["\u20ac"]')
+        else:
+            self.assertEqual(json.dumps([b('\xe2\x82\xac')], encoding=None),
+                             r'["\u20ac"]')
+            self.assertRaises(UnicodeDecodeError, json.dumps, [b('\xa4')],
+                              encoding=None)
+            self.assertRaises(UnicodeDecodeError, json.dumps, [b('\xa4')],
+                              encoding=None, default=decode_iso_8859_15)
+
+    def test_bytes_key(self):
+        self.assertEqual(json.dumps({b('\xe2\x82\xac'): 42}), r'{"\u20ac": 42}')
+        self.assertRaises(UnicodeDecodeError, json.dumps, {b('\xa4'): 42})
+        self.assertEqual(json.dumps({b('\xa4'): 42}, encoding='iso-8859-1'),
+                         r'{"\u00a4": 42}')
+        self.assertEqual(json.dumps({b('\xa4'): 42}, encoding='iso-8859-15'),
+                         r'{"\u20ac": 42}')
+        if PY3:
+            self.assertRaises(TypeError, json.dumps, {b('\xe2\x82\xac'): 42},
+                              encoding=None)
+            self.assertRaises(TypeError, json.dumps, {b('\xa4'): 42},
+                              encoding=None)
+            self.assertRaises(TypeError, json.dumps, {b('\xa4'): 42},
+                              encoding=None, default=decode_iso_8859_15)
+            self.assertEqual(json.dumps({b('\xa4'): 42}, encoding=None,
+                                        skipkeys=True),
+                             r'{}')
+        else:
+            self.assertEqual(json.dumps({b('\xe2\x82\xac'): 42}, encoding=None),
+                             r'{"\u20ac": 42}')
+            self.assertRaises(UnicodeDecodeError, json.dumps, {b('\xa4'): 42},
+                              encoding=None)
+            self.assertRaises(UnicodeDecodeError, json.dumps, {b('\xa4'): 42},
+                              encoding=None, default=decode_iso_8859_15)
+            self.assertRaises(UnicodeDecodeError, json.dumps, {b('\xa4'): 42},
+                              encoding=None, skipkeys=True)

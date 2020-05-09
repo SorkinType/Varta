@@ -1,12 +1,8 @@
-from __future__ import print_function, division, absolute_import
 from fontTools.misc.py23 import *
 from fontTools.misc import eexec
 from .psOperators import *
 import re
-try:
-	from collections.abc import Callable
-except ImportError:  # python < 3.3
-	from collections import Callable
+from collections.abc import Callable
 from string import whitespace
 import logging
 

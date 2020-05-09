@@ -1,3 +1,4 @@
+#!/Users/Viviana/Documents/06_GOOGLE/GF_Fonts/Varta/venv/bin/python3.7
 """
 Generate a html overlay doc which compares a family of static fonts against
 a family of vf font instances.
@@ -12,6 +13,7 @@ variable fonts.
 TODO (M Foley) this script is a quickie. The functionality of this script
 should be built into GF regression.
 """
+from __future__ import print_function
 import argparse
 import os
 
@@ -194,7 +196,7 @@ def populate_html_template(html_template, static_fonts, vf_fonts):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--variable_fonts', '-vf', nargs='+')
+    parser.add_argument('--variable-fonts', '-vf', nargs='+')
     parser.add_argument('--static-fonts', '-sf', nargs='+')
     parser.add_argument('--out', '-o', help='html output filepath', required=True)
     args = parser.parse_args()
@@ -209,7 +211,7 @@ def main():
     )
     with open(args.out, 'w') as html_doc:
         html_doc.write(html)
-        print 'html written to {}'.format(args.out)
+        print('html written to {}'.format(args.out))
 
 
 if __name__ == '__main__':
