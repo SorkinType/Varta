@@ -562,15 +562,6 @@ value = 1450;
 {
 name = shoulderHeight;
 value = "1247";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-}
-);
 }
 );
 descender = -987;
@@ -640,15 +631,6 @@ value = 1450;
 {
 name = shoulderHeight;
 value = "1287";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
 }
 );
 descender = -1068;
