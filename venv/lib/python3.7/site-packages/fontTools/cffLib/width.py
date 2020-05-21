@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 
-"""T2CharString glyph width optimizer."""
+"""T2CharString glyph width optimizer.
+
+CFF glyphs whose width equals the CFF Private dictionary's ``defaultWidthX``
+value do not need to specify their width in their charstring, saving bytes.
+This module determines the optimum ``defaultWidthX`` and ``nominalWidthX``
+values for a font, when provided with a list of glyph widths."""
 
 from fontTools.misc.py23 import *
 from fontTools.ttLib import TTFont, getTableClass
@@ -146,17 +151,34 @@ def optimizeWidths(widths):
 
 	return default, nominal
 
+def main(args=None):
+	"""Calculate optimum defaultWidthX/nominalWidthX values"""
+
+	import argparse
+	parser = argparse.ArgumentParser(
+		"fonttools cffLib.width",
+		description=main.__doc__,
+	)
+	parser.add_argument('inputs', metavar='FILE', type=str, nargs='+',
+		help="Input TTF files")
+	parser.add_argument('-b', '--brute-force', dest="brute", action="store_true",
+		help="Use brute-force approach (VERY slow)")
+
+	args = parser.parse_args(args)
+
+	for fontfile in args.inputs:
+		font = TTFont(fontfile)
+		hmtx = font['hmtx']
+		widths = [m[0] for m in hmtx.metrics.values()]
+		if args.brute:
+			default, nominal = optimizeWidthsBruteforce(widths)
+		else:
+			default, nominal = optimizeWidths(widths)
+		print("glyphs=%d default=%d nominal=%d byteCost=%d" % (len(widths), default, nominal, byteCost(widths, default, nominal)))
 
 if __name__ == '__main__':
 	import sys
 	if len(sys.argv) == 1:
 		import doctest
 		sys.exit(doctest.testmod().failed)
-	for fontfile in sys.argv[1:]:
-		font = TTFont(fontfile)
-		hmtx = font['hmtx']
-		widths = [m[0] for m in hmtx.metrics.values()]
-		default, nominal = optimizeWidths(widths)
-		print("glyphs=%d default=%d nominal=%d byteCost=%d" % (len(widths), default, nominal, byteCost(widths, default, nominal)))
-		#default, nominal = optimizeWidthsBruteforce(widths)
-		#print("glyphs=%d default=%d nominal=%d byteCost=%d" % (len(widths), default, nominal, byteCost(widths, default, nominal)))
+	main()

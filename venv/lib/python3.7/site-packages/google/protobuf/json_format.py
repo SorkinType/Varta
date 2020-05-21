@@ -60,6 +60,7 @@ import sys
 
 import six
 
+from google.protobuf.internal import type_checkers
 from google.protobuf import descriptor
 from google.protobuf import symbol_database
 
@@ -265,7 +266,7 @@ class _Printer(object):
           else:
             name = field.json_name
           if name in js:
-            # Skip the field which has been serailized already.
+            # Skip the field which has been serialized already.
             continue
           if _IsMapEntry(field):
             js[name] = {}
@@ -313,9 +314,12 @@ class _Printer(object):
           return _INFINITY
       if math.isnan(value):
         return _NAN
-      if (self.float_format and
-          field.cpp_type == descriptor.FieldDescriptor.CPPTYPE_FLOAT):
-        return float(format(value, self.float_format))
+      if field.cpp_type == descriptor.FieldDescriptor.CPPTYPE_FLOAT:
+        if self.float_format:
+          return float(format(value, self.float_format))
+        else:
+          return type_checkers.ToShortestFloat(value)
+
     return value
 
   def _AnyMessageToJsonObject(self, message):

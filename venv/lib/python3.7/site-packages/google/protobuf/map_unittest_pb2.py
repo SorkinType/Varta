@@ -21,6 +21,7 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   package='protobuf_unittest',
   syntax='proto3',
   serialized_options=b'\370\001\001',
+  create_key=_descriptor._internal_create_key,
   serialized_pb=b'\n\"google/protobuf/map_unittest.proto\x12\x11protobuf_unittest\x1a\x1egoogle/protobuf/unittest.proto\x1a\'google/protobuf/unittest_no_arena.proto\"\xff\x14\n\x07TestMap\x12\x46\n\x0fmap_int32_int32\x18\x01 \x03(\x0b\x32-.protobuf_unittest.TestMap.MapInt32Int32Entry\x12\x46\n\x0fmap_int64_int64\x18\x02 \x03(\x0b\x32-.protobuf_unittest.TestMap.MapInt64Int64Entry\x12J\n\x11map_uint32_uint32\x18\x03 \x03(\x0b\x32/.protobuf_unittest.TestMap.MapUint32Uint32Entry\x12J\n\x11map_uint64_uint64\x18\x04 \x03(\x0b\x32/.protobuf_unittest.TestMap.MapUint64Uint64Entry\x12J\n\x11map_sint32_sint32\x18\x05 \x03(\x0b\x32/.protobuf_unittest.TestMap.MapSint32Sint32Entry\x12J\n\x11map_sint64_sint64\x18\x06 \x03(\x0b\x32/.protobuf_unittest.TestMap.MapSint64Sint64Entry\x12N\n\x13map_fixed32_fixed32\x18\x07 \x03(\x0b\x32\x31.protobuf_unittest.TestMap.MapFixed32Fixed32Entry\x12N\n\x13map_fixed64_fixed64\x18\x08 \x03(\x0b\x32\x31.protobuf_unittest.TestMap.MapFixed64Fixed64Entry\x12R\n\x15map_sfixed32_sfixed32\x18\t \x03(\x0b\x32\x33.protobuf_unittest.TestMap.MapSfixed32Sfixed32Entry\x12R\n\x15map_sfixed64_sfixed64\x18\n \x03(\x0b\x32\x33.protobuf_unittest.TestMap.MapSfixed64Sfixed64Entry\x12\x46\n\x0fmap_int32_float\x18\x0b \x03(\x0b\x32-.protobuf_unittest.TestMap.MapInt32FloatEntry\x12H\n\x10map_int32_double\x18\x0c \x03(\x0b\x32..protobuf_unittest.TestMap.MapInt32DoubleEntry\x12\x42\n\rmap_bool_bool\x18\r \x03(\x0b\x32+.protobuf_unittest.TestMap.MapBoolBoolEntry\x12J\n\x11map_string_string\x18\x0e \x03(\x0b\x32/.protobuf_unittest.TestMap.MapStringStringEntry\x12\x46\n\x0fmap_int32_bytes\x18\x0f \x03(\x0b\x32-.protobuf_unittest.TestMap.MapInt32BytesEntry\x12\x44\n\x0emap_int32_enum\x18\x10 \x03(\x0b\x32,.protobuf_unittest.TestMap.MapInt32EnumEntry\x12Y\n\x19map_int32_foreign_message\x18\x11 \x03(\x0b\x32\x36.protobuf_unittest.TestMap.MapInt32ForeignMessageEntry\x12[\n\x1amap_string_foreign_message\x18\x12 \x03(\x0b\x32\x37.protobuf_unittest.TestMap.MapStringForeignMessageEntry\x12M\n\x13map_int32_all_types\x18\x13 \x03(\x0b\x32\x30.protobuf_unittest.TestMap.MapInt32AllTypesEntry\x1a\x34\n\x12MapInt32Int32Entry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x05:\x02\x38\x01\x1a\x34\n\x12MapInt64Int64Entry\x12\x0b\n\x03key\x18\x01 \x01(\x03\x12\r\n\x05value\x18\x02 \x01(\x03:\x02\x38\x01\x1a\x36\n\x14MapUint32Uint32Entry\x12\x0b\n\x03key\x18\x01 \x01(\r\x12\r\n\x05value\x18\x02 \x01(\r:\x02\x38\x01\x1a\x36\n\x14MapUint64Uint64Entry\x12\x0b\n\x03key\x18\x01 \x01(\x04\x12\r\n\x05value\x18\x02 \x01(\x04:\x02\x38\x01\x1a\x36\n\x14MapSint32Sint32Entry\x12\x0b\n\x03key\x18\x01 \x01(\x11\x12\r\n\x05value\x18\x02 \x01(\x11:\x02\x38\x01\x1a\x36\n\x14MapSint64Sint64Entry\x12\x0b\n\x03key\x18\x01 \x01(\x12\x12\r\n\x05value\x18\x02 \x01(\x12:\x02\x38\x01\x1a\x38\n\x16MapFixed32Fixed32Entry\x12\x0b\n\x03key\x18\x01 \x01(\x07\x12\r\n\x05value\x18\x02 \x01(\x07:\x02\x38\x01\x1a\x38\n\x16MapFixed64Fixed64Entry\x12\x0b\n\x03key\x18\x01 \x01(\x06\x12\r\n\x05value\x18\x02 \x01(\x06:\x02\x38\x01\x1a:\n\x18MapSfixed32Sfixed32Entry\x12\x0b\n\x03key\x18\x01 \x01(\x0f\x12\r\n\x05value\x18\x02 \x01(\x0f:\x02\x38\x01\x1a:\n\x18MapSfixed64Sfixed64Entry\x12\x0b\n\x03key\x18\x01 \x01(\x10\x12\r\n\x05value\x18\x02 \x01(\x10:\x02\x38\x01\x1a\x34\n\x12MapInt32FloatEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x02:\x02\x38\x01\x1a\x35\n\x13MapInt32DoubleEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x01:\x02\x38\x01\x1a\x32\n\x10MapBoolBoolEntry\x12\x0b\n\x03key\x18\x01 \x01(\x08\x12\r\n\x05value\x18\x02 \x01(\x08:\x02\x38\x01\x1a\x36\n\x14MapStringStringEntry\x12\x0b\n\x03key\x18\x01 \x01(\t\x12\r\n\x05value\x18\x02 \x01(\t:\x02\x38\x01\x1a\x34\n\x12MapInt32BytesEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x0c:\x02\x38\x01\x1aO\n\x11MapInt32EnumEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12)\n\x05value\x18\x02 \x01(\x0e\x32\x1a.protobuf_unittest.MapEnum:\x02\x38\x01\x1a`\n\x1bMapInt32ForeignMessageEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\x30\n\x05value\x18\x02 \x01(\x0b\x32!.protobuf_unittest.ForeignMessage:\x02\x38\x01\x1a\x61\n\x1cMapStringForeignMessageEntry\x12\x0b\n\x03key\x18\x01 \x01(\t\x12\x30\n\x05value\x18\x02 \x01(\x0b\x32!.protobuf_unittest.ForeignMessage:\x02\x38\x01\x1aX\n\x15MapInt32AllTypesEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12.\n\x05value\x18\x02 \x01(\x0b\x32\x1f.protobuf_unittest.TestAllTypes:\x02\x38\x01\"A\n\x11TestMapSubmessage\x12,\n\x08test_map\x18\x01 \x01(\x0b\x32\x1a.protobuf_unittest.TestMap\"\xbc\x01\n\x0eTestMessageMap\x12Q\n\x11map_int32_message\x18\x01 \x03(\x0b\x32\x36.protobuf_unittest.TestMessageMap.MapInt32MessageEntry\x1aW\n\x14MapInt32MessageEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12.\n\x05value\x18\x02 \x01(\x0b\x32\x1f.protobuf_unittest.TestAllTypes:\x02\x38\x01\"\xe3\x01\n\x0fTestSameTypeMap\x12:\n\x04map1\x18\x01 \x03(\x0b\x32,.protobuf_unittest.TestSameTypeMap.Map1Entry\x12:\n\x04map2\x18\x02 \x03(\x0b\x32,.protobuf_unittest.TestSameTypeMap.Map2Entry\x1a+\n\tMap1Entry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x05:\x02\x38\x01\x1a+\n\tMap2Entry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x05:\x02\x38\x01\"\xb6\x01\n\x16TestRequiredMessageMap\x12J\n\tmap_field\x18\x01 \x03(\x0b\x32\x37.protobuf_unittest.TestRequiredMessageMap.MapFieldEntry\x1aP\n\rMapFieldEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12.\n\x05value\x18\x02 \x01(\x0b\x32\x1f.protobuf_unittest.TestRequired:\x02\x38\x01\"\xd2\x14\n\x0cTestArenaMap\x12K\n\x0fmap_int32_int32\x18\x01 \x03(\x0b\x32\x32.protobuf_unittest.TestArenaMap.MapInt32Int32Entry\x12K\n\x0fmap_int64_int64\x18\x02 \x03(\x0b\x32\x32.protobuf_unittest.TestArenaMap.MapInt64Int64Entry\x12O\n\x11map_uint32_uint32\x18\x03 \x03(\x0b\x32\x34.protobuf_unittest.TestArenaMap.MapUint32Uint32Entry\x12O\n\x11map_uint64_uint64\x18\x04 \x03(\x0b\x32\x34.protobuf_unittest.TestArenaMap.MapUint64Uint64Entry\x12O\n\x11map_sint32_sint32\x18\x05 \x03(\x0b\x32\x34.protobuf_unittest.TestArenaMap.MapSint32Sint32Entry\x12O\n\x11map_sint64_sint64\x18\x06 \x03(\x0b\x32\x34.protobuf_unittest.TestArenaMap.MapSint64Sint64Entry\x12S\n\x13map_fixed32_fixed32\x18\x07 \x03(\x0b\x32\x36.protobuf_unittest.TestArenaMap.MapFixed32Fixed32Entry\x12S\n\x13map_fixed64_fixed64\x18\x08 \x03(\x0b\x32\x36.protobuf_unittest.TestArenaMap.MapFixed64Fixed64Entry\x12W\n\x15map_sfixed32_sfixed32\x18\t \x03(\x0b\x32\x38.protobuf_unittest.TestArenaMap.MapSfixed32Sfixed32Entry\x12W\n\x15map_sfixed64_sfixed64\x18\n \x03(\x0b\x32\x38.protobuf_unittest.TestArenaMap.MapSfixed64Sfixed64Entry\x12K\n\x0fmap_int32_float\x18\x0b \x03(\x0b\x32\x32.protobuf_unittest.TestArenaMap.MapInt32FloatEntry\x12M\n\x10map_int32_double\x18\x0c \x03(\x0b\x32\x33.protobuf_unittest.TestArenaMap.MapInt32DoubleEntry\x12G\n\rmap_bool_bool\x18\r \x03(\x0b\x32\x30.protobuf_unittest.TestArenaMap.MapBoolBoolEntry\x12O\n\x11map_string_string\x18\x0e \x03(\x0b\x32\x34.protobuf_unittest.TestArenaMap.MapStringStringEntry\x12K\n\x0fmap_int32_bytes\x18\x0f \x03(\x0b\x32\x32.protobuf_unittest.TestArenaMap.MapInt32BytesEntry\x12I\n\x0emap_int32_enum\x18\x10 \x03(\x0b\x32\x31.protobuf_unittest.TestArenaMap.MapInt32EnumEntry\x12^\n\x19map_int32_foreign_message\x18\x11 \x03(\x0b\x32;.protobuf_unittest.TestArenaMap.MapInt32ForeignMessageEntry\x12n\n\"map_int32_foreign_message_no_arena\x18\x12 \x03(\x0b\x32\x42.protobuf_unittest.TestArenaMap.MapInt32ForeignMessageNoArenaEntry\x1a\x34\n\x12MapInt32Int32Entry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x05:\x02\x38\x01\x1a\x34\n\x12MapInt64Int64Entry\x12\x0b\n\x03key\x18\x01 \x01(\x03\x12\r\n\x05value\x18\x02 \x01(\x03:\x02\x38\x01\x1a\x36\n\x14MapUint32Uint32Entry\x12\x0b\n\x03key\x18\x01 \x01(\r\x12\r\n\x05value\x18\x02 \x01(\r:\x02\x38\x01\x1a\x36\n\x14MapUint64Uint64Entry\x12\x0b\n\x03key\x18\x01 \x01(\x04\x12\r\n\x05value\x18\x02 \x01(\x04:\x02\x38\x01\x1a\x36\n\x14MapSint32Sint32Entry\x12\x0b\n\x03key\x18\x01 \x01(\x11\x12\r\n\x05value\x18\x02 \x01(\x11:\x02\x38\x01\x1a\x36\n\x14MapSint64Sint64Entry\x12\x0b\n\x03key\x18\x01 \x01(\x12\x12\r\n\x05value\x18\x02 \x01(\x12:\x02\x38\x01\x1a\x38\n\x16MapFixed32Fixed32Entry\x12\x0b\n\x03key\x18\x01 \x01(\x07\x12\r\n\x05value\x18\x02 \x01(\x07:\x02\x38\x01\x1a\x38\n\x16MapFixed64Fixed64Entry\x12\x0b\n\x03key\x18\x01 \x01(\x06\x12\r\n\x05value\x18\x02 \x01(\x06:\x02\x38\x01\x1a:\n\x18MapSfixed32Sfixed32Entry\x12\x0b\n\x03key\x18\x01 \x01(\x0f\x12\r\n\x05value\x18\x02 \x01(\x0f:\x02\x38\x01\x1a:\n\x18MapSfixed64Sfixed64Entry\x12\x0b\n\x03key\x18\x01 \x01(\x10\x12\r\n\x05value\x18\x02 \x01(\x10:\x02\x38\x01\x1a\x34\n\x12MapInt32FloatEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x02:\x02\x38\x01\x1a\x35\n\x13MapInt32DoubleEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x01:\x02\x38\x01\x1a\x32\n\x10MapBoolBoolEntry\x12\x0b\n\x03key\x18\x01 \x01(\x08\x12\r\n\x05value\x18\x02 \x01(\x08:\x02\x38\x01\x1a\x36\n\x14MapStringStringEntry\x12\x0b\n\x03key\x18\x01 \x01(\t\x12\r\n\x05value\x18\x02 \x01(\t:\x02\x38\x01\x1a\x34\n\x12MapInt32BytesEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x0c:\x02\x38\x01\x1aO\n\x11MapInt32EnumEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12)\n\x05value\x18\x02 \x01(\x0e\x32\x1a.protobuf_unittest.MapEnum:\x02\x38\x01\x1a`\n\x1bMapInt32ForeignMessageEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\x30\n\x05value\x18\x02 \x01(\x0b\x32!.protobuf_unittest.ForeignMessage:\x02\x38\x01\x1ap\n\"MapInt32ForeignMessageNoArenaEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\x39\n\x05value\x18\x02 \x01(\x0b\x32*.protobuf_unittest_no_arena.ForeignMessage:\x02\x38\x01\"\xe4\x01\n\x1fMessageContainingEnumCalledType\x12J\n\x04type\x18\x01 \x03(\x0b\x32<.protobuf_unittest.MessageContainingEnumCalledType.TypeEntry\x1a_\n\tTypeEntry\x12\x0b\n\x03key\x18\x01 \x01(\t\x12\x41\n\x05value\x18\x02 \x01(\x0b\x32\x32.protobuf_unittest.MessageContainingEnumCalledType:\x02\x38\x01\"\x14\n\x04Type\x12\x0c\n\x08TYPE_FOO\x10\x00\"\x9d\x01\n\x1fMessageContainingMapCalledEntry\x12L\n\x05\x65ntry\x18\x01 \x03(\x0b\x32=.protobuf_unittest.MessageContainingMapCalledEntry.EntryEntry\x1a,\n\nEntryEntry\x12\x0b\n\x03key\x18\x01 \x01(\x05\x12\r\n\x05value\x18\x02 \x01(\x05:\x02\x38\x01\"\xad\x01\n\x17TestRecursiveMapMessage\x12<\n\x01\x61\x18\x01 \x03(\x0b\x32\x31.protobuf_unittest.TestRecursiveMapMessage.AEntry\x1aT\n\x06\x41\x45ntry\x12\x0b\n\x03key\x18\x01 \x01(\t\x12\x39\n\x05value\x18\x02 \x01(\x0b\x32*.protobuf_unittest.TestRecursiveMapMessage:\x02\x38\x01*?\n\x07MapEnum\x12\x10\n\x0cMAP_ENUM_FOO\x10\x00\x12\x10\n\x0cMAP_ENUM_BAR\x10\x01\x12\x10\n\x0cMAP_ENUM_BAZ\x10\x02\x42\x03\xf8\x01\x01\x62\x06proto3'
   ,
   dependencies=[google_dot_protobuf_dot_unittest__pb2.DESCRIPTOR,google_dot_protobuf_dot_unittest__no__arena__pb2.DESCRIPTOR,])
@@ -30,19 +31,23 @@ _MAPENUM = _descriptor.EnumDescriptor(
   full_name='protobuf_unittest.MapEnum',
   filename=None,
   file=DESCRIPTOR,
+  create_key=_descriptor._internal_create_key,
   values=[
     _descriptor.EnumValueDescriptor(
       name='MAP_ENUM_FOO', index=0, number=0,
       serialized_options=None,
-      type=None),
+      type=None,
+      create_key=_descriptor._internal_create_key),
     _descriptor.EnumValueDescriptor(
       name='MAP_ENUM_BAR', index=1, number=1,
       serialized_options=None,
-      type=None),
+      type=None,
+      create_key=_descriptor._internal_create_key),
     _descriptor.EnumValueDescriptor(
       name='MAP_ENUM_BAZ', index=2, number=2,
       serialized_options=None,
-      type=None),
+      type=None,
+      create_key=_descriptor._internal_create_key),
   ],
   containing_type=None,
   serialized_options=None,
@@ -62,11 +67,13 @@ _MESSAGECONTAININGENUMCALLEDTYPE_TYPE = _descriptor.EnumDescriptor(
   full_name='protobuf_unittest.MessageContainingEnumCalledType.Type',
   filename=None,
   file=DESCRIPTOR,
+  create_key=_descriptor._internal_create_key,
   values=[
     _descriptor.EnumValueDescriptor(
       name='TYPE_FOO', index=0, number=0,
       serialized_options=None,
-      type=None),
+      type=None,
+      create_key=_descriptor._internal_create_key),
   ],
   containing_type=None,
   serialized_options=None,
@@ -82,6 +89,7 @@ _TESTMAP_MAPINT32INT32ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapInt32Int32Entry.key', index=0,
@@ -89,14 +97,14 @@ _TESTMAP_MAPINT32INT32ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapInt32Int32Entry.value', index=1,
       number=2, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -119,6 +127,7 @@ _TESTMAP_MAPINT64INT64ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapInt64Int64Entry.key', index=0,
@@ -126,14 +135,14 @@ _TESTMAP_MAPINT64INT64ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapInt64Int64Entry.value', index=1,
       number=2, type=3, cpp_type=2, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -156,6 +165,7 @@ _TESTMAP_MAPUINT32UINT32ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapUint32Uint32Entry.key', index=0,
@@ -163,14 +173,14 @@ _TESTMAP_MAPUINT32UINT32ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapUint32Uint32Entry.value', index=1,
       number=2, type=13, cpp_type=3, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -193,6 +203,7 @@ _TESTMAP_MAPUINT64UINT64ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapUint64Uint64Entry.key', index=0,
@@ -200,14 +211,14 @@ _TESTMAP_MAPUINT64UINT64ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapUint64Uint64Entry.value', index=1,
       number=2, type=4, cpp_type=4, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -230,6 +241,7 @@ _TESTMAP_MAPSINT32SINT32ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapSint32Sint32Entry.key', index=0,
@@ -237,14 +249,14 @@ _TESTMAP_MAPSINT32SINT32ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapSint32Sint32Entry.value', index=1,
       number=2, type=17, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -267,6 +279,7 @@ _TESTMAP_MAPSINT64SINT64ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapSint64Sint64Entry.key', index=0,
@@ -274,14 +287,14 @@ _TESTMAP_MAPSINT64SINT64ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapSint64Sint64Entry.value', index=1,
       number=2, type=18, cpp_type=2, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -304,6 +317,7 @@ _TESTMAP_MAPFIXED32FIXED32ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapFixed32Fixed32Entry.key', index=0,
@@ -311,14 +325,14 @@ _TESTMAP_MAPFIXED32FIXED32ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapFixed32Fixed32Entry.value', index=1,
       number=2, type=7, cpp_type=3, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -341,6 +355,7 @@ _TESTMAP_MAPFIXED64FIXED64ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapFixed64Fixed64Entry.key', index=0,
@@ -348,14 +363,14 @@ _TESTMAP_MAPFIXED64FIXED64ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapFixed64Fixed64Entry.value', index=1,
       number=2, type=6, cpp_type=4, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -378,6 +393,7 @@ _TESTMAP_MAPSFIXED32SFIXED32ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapSfixed32Sfixed32Entry.key', index=0,
@@ -385,14 +401,14 @@ _TESTMAP_MAPSFIXED32SFIXED32ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapSfixed32Sfixed32Entry.value', index=1,
       number=2, type=15, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -415,6 +431,7 @@ _TESTMAP_MAPSFIXED64SFIXED64ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapSfixed64Sfixed64Entry.key', index=0,
@@ -422,14 +439,14 @@ _TESTMAP_MAPSFIXED64SFIXED64ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapSfixed64Sfixed64Entry.value', index=1,
       number=2, type=16, cpp_type=2, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -452,6 +469,7 @@ _TESTMAP_MAPINT32FLOATENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapInt32FloatEntry.key', index=0,
@@ -459,14 +477,14 @@ _TESTMAP_MAPINT32FLOATENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapInt32FloatEntry.value', index=1,
       number=2, type=2, cpp_type=6, label=1,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -489,6 +507,7 @@ _TESTMAP_MAPINT32DOUBLEENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapInt32DoubleEntry.key', index=0,
@@ -496,14 +515,14 @@ _TESTMAP_MAPINT32DOUBLEENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapInt32DoubleEntry.value', index=1,
       number=2, type=1, cpp_type=5, label=1,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -526,6 +545,7 @@ _TESTMAP_MAPBOOLBOOLENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapBoolBoolEntry.key', index=0,
@@ -533,14 +553,14 @@ _TESTMAP_MAPBOOLBOOLENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=False,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapBoolBoolEntry.value', index=1,
       number=2, type=8, cpp_type=7, label=1,
       has_default_value=False, default_value=False,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -563,6 +583,7 @@ _TESTMAP_MAPSTRINGSTRINGENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapStringStringEntry.key', index=0,
@@ -570,14 +591,14 @@ _TESTMAP_MAPSTRINGSTRINGENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=b"".decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapStringStringEntry.value', index=1,
       number=2, type=9, cpp_type=9, label=1,
       has_default_value=False, default_value=b"".decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -600,6 +621,7 @@ _TESTMAP_MAPINT32BYTESENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapInt32BytesEntry.key', index=0,
@@ -607,14 +629,14 @@ _TESTMAP_MAPINT32BYTESENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapInt32BytesEntry.value', index=1,
       number=2, type=12, cpp_type=9, label=1,
       has_default_value=False, default_value=b"",
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -637,6 +659,7 @@ _TESTMAP_MAPINT32ENUMENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapInt32EnumEntry.key', index=0,
@@ -644,14 +667,14 @@ _TESTMAP_MAPINT32ENUMENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapInt32EnumEntry.value', index=1,
       number=2, type=14, cpp_type=8, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -674,6 +697,7 @@ _TESTMAP_MAPINT32FOREIGNMESSAGEENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapInt32ForeignMessageEntry.key', index=0,
@@ -681,14 +705,14 @@ _TESTMAP_MAPINT32FOREIGNMESSAGEENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapInt32ForeignMessageEntry.value', index=1,
       number=2, type=11, cpp_type=10, label=1,
       has_default_value=False, default_value=None,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -711,6 +735,7 @@ _TESTMAP_MAPSTRINGFOREIGNMESSAGEENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapStringForeignMessageEntry.key', index=0,
@@ -718,14 +743,14 @@ _TESTMAP_MAPSTRINGFOREIGNMESSAGEENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=b"".decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapStringForeignMessageEntry.value', index=1,
       number=2, type=11, cpp_type=10, label=1,
       has_default_value=False, default_value=None,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -748,6 +773,7 @@ _TESTMAP_MAPINT32ALLTYPESENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMap.MapInt32AllTypesEntry.key', index=0,
@@ -755,14 +781,14 @@ _TESTMAP_MAPINT32ALLTYPESENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMap.MapInt32AllTypesEntry.value', index=1,
       number=2, type=11, cpp_type=10, label=1,
       has_default_value=False, default_value=None,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -785,6 +811,7 @@ _TESTMAP = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='map_int32_int32', full_name='protobuf_unittest.TestMap.map_int32_int32', index=0,
@@ -792,133 +819,133 @@ _TESTMAP = _descriptor.Descriptor(
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int64_int64', full_name='protobuf_unittest.TestMap.map_int64_int64', index=1,
       number=2, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_uint32_uint32', full_name='protobuf_unittest.TestMap.map_uint32_uint32', index=2,
       number=3, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_uint64_uint64', full_name='protobuf_unittest.TestMap.map_uint64_uint64', index=3,
       number=4, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_sint32_sint32', full_name='protobuf_unittest.TestMap.map_sint32_sint32', index=4,
       number=5, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_sint64_sint64', full_name='protobuf_unittest.TestMap.map_sint64_sint64', index=5,
       number=6, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_fixed32_fixed32', full_name='protobuf_unittest.TestMap.map_fixed32_fixed32', index=6,
       number=7, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_fixed64_fixed64', full_name='protobuf_unittest.TestMap.map_fixed64_fixed64', index=7,
       number=8, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_sfixed32_sfixed32', full_name='protobuf_unittest.TestMap.map_sfixed32_sfixed32', index=8,
       number=9, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_sfixed64_sfixed64', full_name='protobuf_unittest.TestMap.map_sfixed64_sfixed64', index=9,
       number=10, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int32_float', full_name='protobuf_unittest.TestMap.map_int32_float', index=10,
       number=11, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int32_double', full_name='protobuf_unittest.TestMap.map_int32_double', index=11,
       number=12, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_bool_bool', full_name='protobuf_unittest.TestMap.map_bool_bool', index=12,
       number=13, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_string_string', full_name='protobuf_unittest.TestMap.map_string_string', index=13,
       number=14, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int32_bytes', full_name='protobuf_unittest.TestMap.map_int32_bytes', index=14,
       number=15, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int32_enum', full_name='protobuf_unittest.TestMap.map_int32_enum', index=15,
       number=16, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int32_foreign_message', full_name='protobuf_unittest.TestMap.map_int32_foreign_message', index=16,
       number=17, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_string_foreign_message', full_name='protobuf_unittest.TestMap.map_string_foreign_message', index=17,
       number=18, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int32_all_types', full_name='protobuf_unittest.TestMap.map_int32_all_types', index=18,
       number=19, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -942,6 +969,7 @@ _TESTMAPSUBMESSAGE = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='test_map', full_name='protobuf_unittest.TestMapSubmessage.test_map', index=0,
@@ -949,7 +977,7 @@ _TESTMAPSUBMESSAGE = _descriptor.Descriptor(
       has_default_value=False, default_value=None,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -973,6 +1001,7 @@ _TESTMESSAGEMAP_MAPINT32MESSAGEENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestMessageMap.MapInt32MessageEntry.key', index=0,
@@ -980,14 +1009,14 @@ _TESTMESSAGEMAP_MAPINT32MESSAGEENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestMessageMap.MapInt32MessageEntry.value', index=1,
       number=2, type=11, cpp_type=10, label=1,
       has_default_value=False, default_value=None,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1010,6 +1039,7 @@ _TESTMESSAGEMAP = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='map_int32_message', full_name='protobuf_unittest.TestMessageMap.map_int32_message', index=0,
@@ -1017,7 +1047,7 @@ _TESTMESSAGEMAP = _descriptor.Descriptor(
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1041,6 +1071,7 @@ _TESTSAMETYPEMAP_MAP1ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestSameTypeMap.Map1Entry.key', index=0,
@@ -1048,14 +1079,14 @@ _TESTSAMETYPEMAP_MAP1ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestSameTypeMap.Map1Entry.value', index=1,
       number=2, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1078,6 +1109,7 @@ _TESTSAMETYPEMAP_MAP2ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestSameTypeMap.Map2Entry.key', index=0,
@@ -1085,14 +1117,14 @@ _TESTSAMETYPEMAP_MAP2ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestSameTypeMap.Map2Entry.value', index=1,
       number=2, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1115,6 +1147,7 @@ _TESTSAMETYPEMAP = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='map1', full_name='protobuf_unittest.TestSameTypeMap.map1', index=0,
@@ -1122,14 +1155,14 @@ _TESTSAMETYPEMAP = _descriptor.Descriptor(
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map2', full_name='protobuf_unittest.TestSameTypeMap.map2', index=1,
       number=2, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1153,6 +1186,7 @@ _TESTREQUIREDMESSAGEMAP_MAPFIELDENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestRequiredMessageMap.MapFieldEntry.key', index=0,
@@ -1160,14 +1194,14 @@ _TESTREQUIREDMESSAGEMAP_MAPFIELDENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestRequiredMessageMap.MapFieldEntry.value', index=1,
       number=2, type=11, cpp_type=10, label=1,
       has_default_value=False, default_value=None,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1190,6 +1224,7 @@ _TESTREQUIREDMESSAGEMAP = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='map_field', full_name='protobuf_unittest.TestRequiredMessageMap.map_field', index=0,
@@ -1197,7 +1232,7 @@ _TESTREQUIREDMESSAGEMAP = _descriptor.Descriptor(
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1221,6 +1256,7 @@ _TESTARENAMAP_MAPINT32INT32ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapInt32Int32Entry.key', index=0,
@@ -1228,14 +1264,14 @@ _TESTARENAMAP_MAPINT32INT32ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapInt32Int32Entry.value', index=1,
       number=2, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1258,6 +1294,7 @@ _TESTARENAMAP_MAPINT64INT64ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapInt64Int64Entry.key', index=0,
@@ -1265,14 +1302,14 @@ _TESTARENAMAP_MAPINT64INT64ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapInt64Int64Entry.value', index=1,
       number=2, type=3, cpp_type=2, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1295,6 +1332,7 @@ _TESTARENAMAP_MAPUINT32UINT32ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapUint32Uint32Entry.key', index=0,
@@ -1302,14 +1340,14 @@ _TESTARENAMAP_MAPUINT32UINT32ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapUint32Uint32Entry.value', index=1,
       number=2, type=13, cpp_type=3, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1332,6 +1370,7 @@ _TESTARENAMAP_MAPUINT64UINT64ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapUint64Uint64Entry.key', index=0,
@@ -1339,14 +1378,14 @@ _TESTARENAMAP_MAPUINT64UINT64ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapUint64Uint64Entry.value', index=1,
       number=2, type=4, cpp_type=4, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1369,6 +1408,7 @@ _TESTARENAMAP_MAPSINT32SINT32ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapSint32Sint32Entry.key', index=0,
@@ -1376,14 +1416,14 @@ _TESTARENAMAP_MAPSINT32SINT32ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapSint32Sint32Entry.value', index=1,
       number=2, type=17, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1406,6 +1446,7 @@ _TESTARENAMAP_MAPSINT64SINT64ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapSint64Sint64Entry.key', index=0,
@@ -1413,14 +1454,14 @@ _TESTARENAMAP_MAPSINT64SINT64ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapSint64Sint64Entry.value', index=1,
       number=2, type=18, cpp_type=2, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1443,6 +1484,7 @@ _TESTARENAMAP_MAPFIXED32FIXED32ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapFixed32Fixed32Entry.key', index=0,
@@ -1450,14 +1492,14 @@ _TESTARENAMAP_MAPFIXED32FIXED32ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapFixed32Fixed32Entry.value', index=1,
       number=2, type=7, cpp_type=3, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1480,6 +1522,7 @@ _TESTARENAMAP_MAPFIXED64FIXED64ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapFixed64Fixed64Entry.key', index=0,
@@ -1487,14 +1530,14 @@ _TESTARENAMAP_MAPFIXED64FIXED64ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapFixed64Fixed64Entry.value', index=1,
       number=2, type=6, cpp_type=4, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1517,6 +1560,7 @@ _TESTARENAMAP_MAPSFIXED32SFIXED32ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapSfixed32Sfixed32Entry.key', index=0,
@@ -1524,14 +1568,14 @@ _TESTARENAMAP_MAPSFIXED32SFIXED32ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapSfixed32Sfixed32Entry.value', index=1,
       number=2, type=15, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1554,6 +1598,7 @@ _TESTARENAMAP_MAPSFIXED64SFIXED64ENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapSfixed64Sfixed64Entry.key', index=0,
@@ -1561,14 +1606,14 @@ _TESTARENAMAP_MAPSFIXED64SFIXED64ENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapSfixed64Sfixed64Entry.value', index=1,
       number=2, type=16, cpp_type=2, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1591,6 +1636,7 @@ _TESTARENAMAP_MAPINT32FLOATENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapInt32FloatEntry.key', index=0,
@@ -1598,14 +1644,14 @@ _TESTARENAMAP_MAPINT32FLOATENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapInt32FloatEntry.value', index=1,
       number=2, type=2, cpp_type=6, label=1,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1628,6 +1674,7 @@ _TESTARENAMAP_MAPINT32DOUBLEENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapInt32DoubleEntry.key', index=0,
@@ -1635,14 +1682,14 @@ _TESTARENAMAP_MAPINT32DOUBLEENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapInt32DoubleEntry.value', index=1,
       number=2, type=1, cpp_type=5, label=1,
       has_default_value=False, default_value=float(0),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1665,6 +1712,7 @@ _TESTARENAMAP_MAPBOOLBOOLENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapBoolBoolEntry.key', index=0,
@@ -1672,14 +1720,14 @@ _TESTARENAMAP_MAPBOOLBOOLENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=False,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapBoolBoolEntry.value', index=1,
       number=2, type=8, cpp_type=7, label=1,
       has_default_value=False, default_value=False,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1702,6 +1750,7 @@ _TESTARENAMAP_MAPSTRINGSTRINGENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapStringStringEntry.key', index=0,
@@ -1709,14 +1758,14 @@ _TESTARENAMAP_MAPSTRINGSTRINGENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=b"".decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapStringStringEntry.value', index=1,
       number=2, type=9, cpp_type=9, label=1,
       has_default_value=False, default_value=b"".decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1739,6 +1788,7 @@ _TESTARENAMAP_MAPINT32BYTESENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapInt32BytesEntry.key', index=0,
@@ -1746,14 +1796,14 @@ _TESTARENAMAP_MAPINT32BYTESENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapInt32BytesEntry.value', index=1,
       number=2, type=12, cpp_type=9, label=1,
       has_default_value=False, default_value=b"",
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1776,6 +1826,7 @@ _TESTARENAMAP_MAPINT32ENUMENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapInt32EnumEntry.key', index=0,
@@ -1783,14 +1834,14 @@ _TESTARENAMAP_MAPINT32ENUMENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapInt32EnumEntry.value', index=1,
       number=2, type=14, cpp_type=8, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1813,6 +1864,7 @@ _TESTARENAMAP_MAPINT32FOREIGNMESSAGEENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapInt32ForeignMessageEntry.key', index=0,
@@ -1820,14 +1872,14 @@ _TESTARENAMAP_MAPINT32FOREIGNMESSAGEENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapInt32ForeignMessageEntry.value', index=1,
       number=2, type=11, cpp_type=10, label=1,
       has_default_value=False, default_value=None,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1850,6 +1902,7 @@ _TESTARENAMAP_MAPINT32FOREIGNMESSAGENOARENAENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestArenaMap.MapInt32ForeignMessageNoArenaEntry.key', index=0,
@@ -1857,14 +1910,14 @@ _TESTARENAMAP_MAPINT32FOREIGNMESSAGENOARENAENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestArenaMap.MapInt32ForeignMessageNoArenaEntry.value', index=1,
       number=2, type=11, cpp_type=10, label=1,
       has_default_value=False, default_value=None,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -1887,6 +1940,7 @@ _TESTARENAMAP = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='map_int32_int32', full_name='protobuf_unittest.TestArenaMap.map_int32_int32', index=0,
@@ -1894,126 +1948,126 @@ _TESTARENAMAP = _descriptor.Descriptor(
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int64_int64', full_name='protobuf_unittest.TestArenaMap.map_int64_int64', index=1,
       number=2, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_uint32_uint32', full_name='protobuf_unittest.TestArenaMap.map_uint32_uint32', index=2,
       number=3, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_uint64_uint64', full_name='protobuf_unittest.TestArenaMap.map_uint64_uint64', index=3,
       number=4, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_sint32_sint32', full_name='protobuf_unittest.TestArenaMap.map_sint32_sint32', index=4,
       number=5, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_sint64_sint64', full_name='protobuf_unittest.TestArenaMap.map_sint64_sint64', index=5,
       number=6, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_fixed32_fixed32', full_name='protobuf_unittest.TestArenaMap.map_fixed32_fixed32', index=6,
       number=7, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_fixed64_fixed64', full_name='protobuf_unittest.TestArenaMap.map_fixed64_fixed64', index=7,
       number=8, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_sfixed32_sfixed32', full_name='protobuf_unittest.TestArenaMap.map_sfixed32_sfixed32', index=8,
       number=9, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_sfixed64_sfixed64', full_name='protobuf_unittest.TestArenaMap.map_sfixed64_sfixed64', index=9,
       number=10, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int32_float', full_name='protobuf_unittest.TestArenaMap.map_int32_float', index=10,
       number=11, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int32_double', full_name='protobuf_unittest.TestArenaMap.map_int32_double', index=11,
       number=12, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_bool_bool', full_name='protobuf_unittest.TestArenaMap.map_bool_bool', index=12,
       number=13, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_string_string', full_name='protobuf_unittest.TestArenaMap.map_string_string', index=13,
       number=14, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int32_bytes', full_name='protobuf_unittest.TestArenaMap.map_int32_bytes', index=14,
       number=15, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int32_enum', full_name='protobuf_unittest.TestArenaMap.map_int32_enum', index=15,
       number=16, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int32_foreign_message', full_name='protobuf_unittest.TestArenaMap.map_int32_foreign_message', index=16,
       number=17, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='map_int32_foreign_message_no_arena', full_name='protobuf_unittest.TestArenaMap.map_int32_foreign_message_no_arena', index=17,
       number=18, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -2037,6 +2091,7 @@ _MESSAGECONTAININGENUMCALLEDTYPE_TYPEENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.MessageContainingEnumCalledType.TypeEntry.key', index=0,
@@ -2044,14 +2099,14 @@ _MESSAGECONTAININGENUMCALLEDTYPE_TYPEENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=b"".decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.MessageContainingEnumCalledType.TypeEntry.value', index=1,
       number=2, type=11, cpp_type=10, label=1,
       has_default_value=False, default_value=None,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -2074,6 +2129,7 @@ _MESSAGECONTAININGENUMCALLEDTYPE = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='type', full_name='protobuf_unittest.MessageContainingEnumCalledType.type', index=0,
@@ -2081,7 +2137,7 @@ _MESSAGECONTAININGENUMCALLEDTYPE = _descriptor.Descriptor(
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -2106,6 +2162,7 @@ _MESSAGECONTAININGMAPCALLEDENTRY_ENTRYENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.MessageContainingMapCalledEntry.EntryEntry.key', index=0,
@@ -2113,14 +2170,14 @@ _MESSAGECONTAININGMAPCALLEDENTRY_ENTRYENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.MessageContainingMapCalledEntry.EntryEntry.value', index=1,
       number=2, type=5, cpp_type=1, label=1,
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -2143,6 +2200,7 @@ _MESSAGECONTAININGMAPCALLEDENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='entry', full_name='protobuf_unittest.MessageContainingMapCalledEntry.entry', index=0,
@@ -2150,7 +2208,7 @@ _MESSAGECONTAININGMAPCALLEDENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -2174,6 +2232,7 @@ _TESTRECURSIVEMAPMESSAGE_AENTRY = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='key', full_name='protobuf_unittest.TestRecursiveMapMessage.AEntry.key', index=0,
@@ -2181,14 +2240,14 @@ _TESTRECURSIVEMAPMESSAGE_AENTRY = _descriptor.Descriptor(
       has_default_value=False, default_value=b"".decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='value', full_name='protobuf_unittest.TestRecursiveMapMessage.AEntry.value', index=1,
       number=2, type=11, cpp_type=10, label=1,
       has_default_value=False, default_value=None,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -2211,6 +2270,7 @@ _TESTRECURSIVEMAPMESSAGE = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='a', full_name='protobuf_unittest.TestRecursiveMapMessage.a', index=0,
@@ -2218,7 +2278,7 @@ _TESTRECURSIVEMAPMESSAGE = _descriptor.Descriptor(
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],

@@ -17,8 +17,9 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='google/protobuf/unittest_no_arena_import.proto',
   package='proto2_arena_unittest',
   syntax='proto2',
-  serialized_options=None,
-  serialized_pb=b'\n.google/protobuf/unittest_no_arena_import.proto\x12\x15proto2_arena_unittest\"\'\n\x1aImportNoArenaNestedMessage\x12\t\n\x01\x64\x18\x01 \x01(\x05'
+  serialized_options=b'\370\001\000',
+  create_key=_descriptor._internal_create_key,
+  serialized_pb=b'\n.google/protobuf/unittest_no_arena_import.proto\x12\x15proto2_arena_unittest\"\'\n\x1aImportNoArenaNestedMessage\x12\t\n\x01\x64\x18\x01 \x01(\x05\x42\x03\xf8\x01\x00'
 )
 
 
@@ -30,6 +31,7 @@ _IMPORTNOARENANESTEDMESSAGE = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='d', full_name='proto2_arena_unittest.ImportNoArenaNestedMessage.d', index=0,
@@ -37,7 +39,7 @@ _IMPORTNOARENANESTEDMESSAGE = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -65,4 +67,5 @@ ImportNoArenaNestedMessage = _reflection.GeneratedProtocolMessageType('ImportNoA
 _sym_db.RegisterMessage(ImportNoArenaNestedMessage)
 
 
+DESCRIPTOR._options = None
 # @@protoc_insertion_point(module_scope)

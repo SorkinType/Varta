@@ -19,6 +19,7 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   package='proto2_arena_unittest',
   syntax='proto2',
   serialized_options=b'\370\001\001',
+  create_key=_descriptor._internal_create_key,
   serialized_pb=b'\n$google/protobuf/unittest_arena.proto\x12\x15proto2_arena_unittest\x1a.google/protobuf/unittest_no_arena_import.proto\"\x1a\n\rNestedMessage\x12\t\n\x01\x64\x18\x01 \x01(\x05\"\xb2\x01\n\x0c\x41renaMessage\x12\x45\n\x17repeated_nested_message\x18\x01 \x03(\x0b\x32$.proto2_arena_unittest.NestedMessage\x12[\n repeated_import_no_arena_message\x18\x02 \x03(\x0b\x32\x31.proto2_arena_unittest.ImportNoArenaNestedMessageB\x03\xf8\x01\x01'
   ,
   dependencies=[google_dot_protobuf_dot_unittest__no__arena__import__pb2.DESCRIPTOR,])
@@ -32,6 +33,7 @@ _NESTEDMESSAGE = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='d', full_name='proto2_arena_unittest.NestedMessage.d', index=0,
@@ -39,7 +41,7 @@ _NESTEDMESSAGE = _descriptor.Descriptor(
       has_default_value=False, default_value=0,
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],
@@ -63,6 +65,7 @@ _ARENAMESSAGE = _descriptor.Descriptor(
   filename=None,
   file=DESCRIPTOR,
   containing_type=None,
+  create_key=_descriptor._internal_create_key,
   fields=[
     _descriptor.FieldDescriptor(
       name='repeated_nested_message', full_name='proto2_arena_unittest.ArenaMessage.repeated_nested_message', index=0,
@@ -70,14 +73,14 @@ _ARENAMESSAGE = _descriptor.Descriptor(
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
     _descriptor.FieldDescriptor(
       name='repeated_import_no_arena_message', full_name='proto2_arena_unittest.ArenaMessage.repeated_import_no_arena_message', index=1,
       number=2, type=11, cpp_type=10, label=3,
       has_default_value=False, default_value=[],
       message_type=None, enum_type=None, containing_type=None,
       is_extension=False, extension_scope=None,
-      serialized_options=None, file=DESCRIPTOR),
+      serialized_options=None, file=DESCRIPTOR,  create_key=_descriptor._internal_create_key),
   ],
   extensions=[
   ],

@@ -1,7 +1,7 @@
 # source venv/bin/activate
 
 mkdir -p ../fonts ../fonts/ttfs ../fonts/otf ../fonts/variable
-VF_FILE=../fonts/variable/Varta\[wght]\.ttf
+# VF_FILE=../fonts/variable/Varta\[wght]\.ttf
 
 # Generating TTFs
 fontmake -g Varta.glyphs -i -o ttf --output-dir ../fonts/ttfs/
@@ -19,15 +19,15 @@ do
     gftools fix-dsig -f $ttf;
 done
 
-# Generating OTFs
-fontmake -g Varta.glyphs -i -o otf --output-dir ../fonts/otf/
+# # Generating OTFs
+# fontmake -g Varta.glyphs -i -o otf --output-dir ../fonts/otf/
 
-# Post processing OTFs
-otfs=$(ls ../fonts/otf/*.otf)
-for otf in $otfs
-do
-    gftools fix-dsig -f $otf;
-done
+# # Post processing OTFs
+# otfs=$(ls ../fonts/otf/*.otf)
+# for otf in $otfs
+# do
+#     gftools fix-dsig -f $otf;
+# done
 
 # Generating VFs
 VF_FILE=../fonts/variable/Varta\[wght]\.ttf
