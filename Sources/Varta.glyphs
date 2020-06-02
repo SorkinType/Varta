@@ -66993,6 +66993,10 @@ customParameters = (
 {
 name = weightClass;
 value = 600;
+},
+{
+name = "Style Name as STAT entry";
+value = wght;
 }
 );
 interpolationWeight = 600;
@@ -67008,6 +67012,10 @@ customParameters = (
 {
 name = weightClass;
 value = 700;
+},
+{
+name = "Style Name as STAT entry";
+value = wght;
 }
 );
 interpolationWeight = 700;
