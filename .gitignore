@@ -1,2 +1,4 @@
-.DS_Store
 venv
+.DS_Store
+fonts/.DS_Store
+.vscode/
