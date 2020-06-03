@@ -36,14 +36,11 @@ VR_UPRIGHT = f"{VARIABLE_DIR}/Varta[wght].ttf"
 
 
 def main():
-    upright_paths = (VR_UPRIGHT)
-
-    # process upright files
-    for filepath in upright_paths:
-        tt = TTFont(filepath)
-        buildStatTable(tt, UPRIGHT_AXES)
-        tt.save(filepath)
-        print(f"[STAT TABLE] Added STAT table to {filepath}")
+    filepath = VR_UPRIGHT
+    tt = TTFont(filepath)
+    buildStatTable(tt, UPRIGHT_AXES)
+    tt.save(filepath)
+    print(f"[STAT TABLE] Added STAT table to {filepath}")
 
 
 if __name__ == "__main__":
