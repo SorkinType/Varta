@@ -562,15 +562,6 @@ value = 1450;
 {
 name = shoulderHeight;
 value = "1247";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-}
-);
 }
 );
 descender = -987;
@@ -640,15 +631,6 @@ value = 1450;
 {
 name = shoulderHeight;
 value = "1287";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
 }
 );
 descender = -1068;
@@ -66973,17 +66955,12 @@ instances = (
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-}
-);
-},
-{
 name = weightClass;
 value = 300;
+},
+{
+name = "Style Name as STAT entry";
+value = wght;
 }
 );
 interpolationWeight = 300;
@@ -66996,17 +66973,12 @@ weightClass = Light;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
-},
-{
 name = weightClass;
 value = 400;
+},
+{
+name = "Elidable STAT Axis Value Name";
+value = wght;
 }
 );
 interpolationWeight = 400;
@@ -67019,17 +66991,12 @@ name = Regular;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 600;
-}
-);
-},
-{
 name = weightClass;
 value = 600;
+},
+{
+name = "Style Name as STAT entry";
+value = wght;
 }
 );
 interpolationWeight = 600;
@@ -67043,17 +67010,12 @@ weightClass = SemiBold;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
-},
-{
 name = weightClass;
 value = 700;
+},
+{
+name = "Style Name as STAT entry";
+value = wght;
 }
 );
 interpolationWeight = 700;
