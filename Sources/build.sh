@@ -59,5 +59,3 @@ gftools fix-dsig -f $VF_FILE
 gftools fix-unwanted-tables $VF_FILE -t MVAR
 
 python3 varta-stat-table.py $VF_FILE
-
-# python3 varta-stat-table2.py $VF_FILE
