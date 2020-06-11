@@ -39,6 +39,7 @@ otfs=$(ls ../fonts/otf/*.otf)
 for otf in $otfs
 do
     gftools fix-dsig -f $otf;
+    psautohint $otf;
 done
 
 echo "GENERATING VFs"
@@ -48,10 +49,10 @@ fontmake -g Varta.glyphs -o variable --output-path $VF_FILE
 rm -rf master_ufo/ instance_ufo/
 
 echo "POST PROCESSING VFs"
-ttfautohint $VF_FILE $VF_FILE.fix
-mv $VF_FILE.fix $VF_FILE
+# ttfautohint $VF_FILE $VF_FILE.fix
+# mv $VF_FILE.fix $VF_FILE
 
-gftools fix-hinting $VF_FILE
+gftools fix-nonhinting $VF_FILE $VF_FILE.fix
 mv $VF_FILE.fix $VF_FILE
 
 gftools fix-dsig -f $VF_FILE
